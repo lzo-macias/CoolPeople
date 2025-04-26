@@ -70,6 +70,8 @@ async function geoLookup(address = '123 W 125th St, New York, NY') {
         'Ocp-Apim-Subscription-Key': GEOCLIENT_SUBSCRIPTION_KEY,
       }
     });
+    console.log("🌍 GeoClient full response:", geoClientRes.data);
+
 
     const cityCouncilDistrict = geoClientRes.data?.address?.cityCouncilDistrict || null;
 

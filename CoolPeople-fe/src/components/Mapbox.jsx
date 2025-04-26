@@ -2,6 +2,8 @@ import React, { useEffect, useRef, useState } from "react";
 import mapboxgl from "mapbox-gl";
 import axios from "axios";
 import "mapbox-gl/dist/mapbox-gl.css";
+import MapboxGeocoder from "@mapbox/mapbox-gl-geocoder";
+import "@mapbox/mapbox-gl-geocoder/dist/mapbox-gl-geocoder.css";
 
 mapboxgl.accessToken = import.meta.env.VITE_MAPBOX_ACCESS_TOKEN;
 
@@ -16,21 +18,41 @@ function Mapbox() {
   const [inputAddress, setInputAddress] = useState("");
 
   useEffect(() => {
-    if (map.current) return; // initialize map only once
-
+    if (map.current) return;
+  
     map.current = new mapboxgl.Map({
       container: mapContainer.current,
       style: "mapbox://styles/mapbox/streets-v11",
       center: [lng, lat],
       zoom: zoom,
     });
-
+  
     marker.current = new mapboxgl.Marker({ draggable: true })
       .setLngLat([lng, lat])
       .addTo(map.current);
-
+  
     marker.current.on("dragend", onDragEnd);
+  
+    const geocoder = new MapboxGeocoder({
+      accessToken: mapboxgl.accessToken,
+      mapboxgl: mapboxgl,
+      placeholder: "Search for your address",
+      marker: false,
+    });
+  
+    map.current.addControl(geocoder);
+  
+    geocoder.on('result', (e) => {
+      const { center } = e.result;
+      const [lng, lat] = center;
+  
+      marker.current.setLngLat([lng, lat]);
+      map.current.flyTo({ center: [lng, lat], zoom: 14 });
+  
+      fetchDistrictByCoords(lat, lng);
+    });
   }, []);
+  
 
   const onDragEnd = async () => {
     const lngLat = marker.current.getLngLat();
@@ -42,7 +64,7 @@ function Mapbox() {
   const handleAddressSubmit = async (e) => {
     e.preventDefault();
     try {
-      const res = await axios.post("/api/lookup", { address: inputAddress }); // You make an endpoint in your backend
+      const res = await axios.post(`${import.meta.env.VITE_API_BASE_URL}/lookup`, { address: inputAddress }); 
       if (res.data && res.data.lat && res.data.lng) {
         marker.current.setLngLat([res.data.lng, res.data.lat]);
         map.current.flyTo({ center: [res.data.lng, res.data.lat], zoom: 14 });
@@ -52,10 +74,11 @@ function Mapbox() {
       console.error("Address lookup error:", err);
     }
   };
+  
 
   const fetchDistrictByCoords = async (lat, lng) => {
     try {
-      const res = await axios.post("/api/lookup-coords", { lat, lng });
+      const res = await axios.post(`${import.meta.env.VITE_API_BASE_URL}/lookup`, { address: `${lat},${lng}` });
       setDistrictInfo(res.data);
     } catch (err) {
       console.error("Coordinate lookup error:", err);
@@ -64,17 +87,6 @@ function Mapbox() {
 
   return (
     <div>
-      <form onSubmit={handleAddressSubmit} style={{ marginBottom: "1rem" }}>
-        <input
-          type="text"
-          value={inputAddress}
-          onChange={(e) => setInputAddress(e.target.value)}
-          placeholder="Enter your address"
-          style={{ width: "300px", padding: "8px" }}
-        />
-        <button type="submit" style={{ padding: "8px" }}>Lookup</button>
-      </form>
-
       <div ref={mapContainer} style={{ height: "500px", width: "100%" }} />
 
       {districtInfo && (
