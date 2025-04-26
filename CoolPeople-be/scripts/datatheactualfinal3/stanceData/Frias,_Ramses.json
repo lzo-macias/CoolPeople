@@ -1,0 +1,101 @@
+{
+  "candidate": "Frias, Ramses",
+  "aggregateIdeology": {
+    "score": 8,
+    "reasoning": "Frias, Ramses focuses on issues such as LGBTQ+ Rights, Economic Development, Affordable Housing. The emphasis on instilling pride, glory, and respect in the LGBTQ+ community suggests a strong support for LGBTQ+ rights and recognition. This language aligns with progressive values that advocate for equality and celebration of diversity."
+  },
+  "issues": {
+    "Affordable Housing": {
+      "importanceScore": 0,
+      "stanceScore": null,
+      "stanceExplanation": "Not enough context.",
+      "highlights": []
+    },
+    "Policing & Public Safety": {
+      "importanceScore": 0,
+      "stanceScore": null,
+      "stanceExplanation": "Not enough context.",
+      "highlights": []
+    },
+    "Education": {
+      "importanceScore": 0,
+      "stanceScore": null,
+      "stanceExplanation": "Not enough context.",
+      "highlights": []
+    },
+    "Public Transit": {
+      "importanceScore": 0,
+      "stanceScore": null,
+      "stanceExplanation": "Not enough context.",
+      "highlights": []
+    },
+    "Climate & Environment": {
+      "importanceScore": 0,
+      "stanceScore": null,
+      "stanceExplanation": "Not enough context.",
+      "highlights": []
+    },
+    "Immigration": {
+      "importanceScore": 0,
+      "stanceScore": null,
+      "stanceExplanation": "Not enough context.",
+      "highlights": []
+    },
+    "LGBTQ+ Rights": {
+      "importanceScore": 3,
+      "stanceScore": 9,
+      "stanceExplanation": "The emphasis on instilling pride, glory, and respect in the LGBTQ+ community suggests a strong support for LGBTQ+ rights and recognition. This language aligns with progressive values that advocate for equality and celebration of diversity. The repetition of the statement reinforces a commitment to uplifting and affirming the community, which is characteristic of a progressive stance.",
+      "highlights": [
+        "Instill pride, glory, and respect in the community.",
+        "Instill pride, glory, and respect in the community.",
+        "Instill pride, glory, and respect in the community."
+      ]
+    },
+    "Economic Development": {
+      "importanceScore": 3,
+      "stanceScore": 6,
+      "stanceExplanation": "The emphasis on small business engagement suggests a focus on grassroots economic development, which aligns with progressive values of community involvement and support for local enterprises. However, the repetition of the statement indicates a somewhat conservative approach that prioritizes existing business structures over broader systemic changes. Overall, it leans towards a moderate progressive stance, advocating for community-driven economic growth.",
+      "highlights": [
+        "Drive small business engagement with community to boost economic growth.",
+        "Drive small business engagement with community to boost economic growth.",
+        "Drive small business engagement with community to boost economic growth."
+      ]
+    },
+    "Homelessness": {
+      "importanceScore": 0,
+      "stanceScore": null,
+      "stanceExplanation": "Not enough context.",
+      "highlights": []
+    },
+    "Health Care Access": {
+      "importanceScore": 0,
+      "stanceScore": null,
+      "stanceExplanation": "Not enough context.",
+      "highlights": []
+    },
+    "Veterans & Military": {
+      "importanceScore": 0,
+      "stanceScore": null,
+      "stanceExplanation": "Not enough context.",
+      "highlights": []
+    },
+    "Government & Ethics": {
+      "importanceScore": 0,
+      "stanceScore": null,
+      "stanceExplanation": "Not enough context.",
+      "highlights": []
+    },
+    "Elections & Democracy": {
+      "importanceScore": 0,
+      "stanceScore": null,
+      "stanceExplanation": "Not enough context.",
+      "highlights": []
+    },
+    "Civil Rights & Memory": {
+      "importanceScore": 0,
+      "stanceScore": null,
+      "stanceExplanation": "Not enough context.",
+      "highlights": []
+    }
+  }
+}

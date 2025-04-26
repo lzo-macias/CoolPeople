@@ -1,0 +1,103 @@
+{
+  "candidate": "Adams, Eric L",
+  "aggregateIdeology": {
+    "score": 7,
+    "reasoning": "Adams, Eric L focuses on issues such as Policing & Public Safety, Economic Development, Public Transit. Mayor Eric Adams emphasizes improving public safety and reducing inequality, which aligns with progressive goals. However, his background as an NYPD officer and focus on law enforcement suggest a more centrist or moderate approach to policing."
+  },
+  "issues": {
+    "Affordable Housing": {
+      "importanceScore": 0,
+      "stanceScore": null,
+      "stanceExplanation": "Not enough context.",
+      "highlights": []
+    },
+    "Policing & Public Safety": {
+      "importanceScore": 4,
+      "stanceScore": 6,
+      "stanceExplanation": "Mayor Eric Adams emphasizes improving public safety and reducing inequality, which aligns with progressive goals. However, his background as an NYPD officer and focus on law enforcement suggest a more centrist or moderate approach to policing. Overall, the statements reflect a balance between progressive social policies and a commitment to traditional public safety measures.",
+      "highlights": [
+        "Adams 110th Mayor of New York City Mayor Eric Adams has served the people of New York City as an NYPD officer, State Senator, Brooklyn Borough President, and now as the 110th Mayor of the City of New York.",
+        "Mayor Eric Adams has served the people of New York City as an NYPD officer, State Senator, Brooklyn Borough President, and now as the 110th Mayor of the City of New York.",
+        "He gave voice to a diverse coalition of working families in all five boroughs and is leading the fight to bring back New York City’s economy, reduce inequality, improve public safety, and build a stronger, healthier city that delivers for all New Yorkers."
+      ]
+    },
+    "Education": {
+      "importanceScore": 0,
+      "stanceScore": null,
+      "stanceExplanation": "Not enough context.",
+      "highlights": []
+    },
+    "Public Transit": {
+      "importanceScore": 1,
+      "stanceScore": null,
+      "stanceExplanation": "Not enough context.",
+      "highlights": [
+        "gov Accessibility Commitment."
+      ]
+    },
+    "Climate & Environment": {
+      "importanceScore": 0,
+      "stanceScore": null,
+      "stanceExplanation": "Not enough context.",
+      "highlights": []
+    },
+    "Immigration": {
+      "importanceScore": 0,
+      "stanceScore": null,
+      "stanceExplanation": "Not enough context.",
+      "highlights": []
+    },
+    "LGBTQ+ Rights": {
+      "importanceScore": 0,
+      "stanceScore": null,
+      "stanceExplanation": "Not enough context.",
+      "highlights": []
+    },
+    "Economic Development": {
+      "importanceScore": 3,
+      "stanceScore": 8,
+      "stanceExplanation": "The emphasis on reducing inequality and improving public safety suggests a progressive approach to economic development. The focus on a diverse coalition of working families indicates a commitment to inclusive policies that support marginalized communities. Overall, the language used reflects a strong alignment with progressive values aimed at fostering equitable economic growth.",
+      "highlights": [
+        "page ---\nMenu   Text Size   Search Search  Primary Navigation The official website of NYC Home NYC Resources NYC311 Office of the Mayor Events Connect Jobs Secondary Navigation Eric L.",
+        "He gave voice to a diverse coalition of working families in all five boroughs and is leading the fight to bring back New York City’s economy, reduce inequality, improve public safety, and build a stronger, healthier city that delivers for all New Yorkers.",
+        "He gave voice to a diverse coalition of working families in all five boroughs and is leading the fight to bring back New York City’s economy, reduce inequality, improve public safety, and build a stronger, healthier city that delivers for all New Yorkers."
+      ]
+    },
+    "Homelessness": {
+      "importanceScore": 0,
+      "stanceScore": null,
+      "stanceExplanation": "Not enough context.",
+      "highlights": []
+    },
+    "Health Care Access": {
+      "importanceScore": 0,
+      "stanceScore": null,
+      "stanceExplanation": "Not enough context.",
+      "highlights": []
+    },
+    "Veterans & Military": {
+      "importanceScore": 0,
+      "stanceScore": null,
+      "stanceExplanation": "Not enough context.",
+      "highlights": []
+    },
+    "Government & Ethics": {
+      "importanceScore": 0,
+      "stanceScore": null,
+      "stanceExplanation": "Not enough context.",
+      "highlights": []
+    },
+    "Elections & Democracy": {
+      "importanceScore": 0,
+      "stanceScore": null,
+      "stanceExplanation": "Not enough context.",
+      "highlights": []
+    },
+    "Civil Rights & Memory": {
+      "importanceScore": 0,
+      "stanceScore": null,
+      "stanceExplanation": "Not enough context.",
+      "highlights": []
+    }
+  }
+}

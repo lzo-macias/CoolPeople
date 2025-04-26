@@ -1,0 +1,110 @@
+{
+  "candidate": "Hitlall, Romeo",
+  "aggregateIdeology": {
+    "score": 6,
+    "reasoning": "Hitlall, Romeo focuses on issues such as Policing & Public Safety, Veterans & Military, Public Transit. The statements highlight a strong commitment to community engagement and collaboration with law enforcement, suggesting a moderate stance. Romeo's involvement in community service and advocacy for public safety indicates a progressive approach to policing that values community input."
+  },
+  "issues": {
+    "Affordable Housing": {
+      "importanceScore": 0,
+      "stanceScore": null,
+      "stanceExplanation": "Not enough context.",
+      "highlights": []
+    },
+    "Policing & Public Safety": {
+      "importanceScore": 6,
+      "stanceScore": 6,
+      "stanceExplanation": "The statements highlight a strong commitment to community engagement and collaboration with law enforcement, suggesting a moderate stance. Romeo's involvement in community service and advocacy for public safety indicates a progressive approach to policing that values community input. However, his long-standing ties to the NYPD and traditional community roles suggest a more conservative leaning within the broader context of public safety.",
+      "highlights": [
+        "Romeo also serves in the NYPD’s Community Partners Program and as a member of Queens Community Board 10 for 17 years.",
+        "Romeo also serves in the NYPD’s Community Partners Program and as a member of Queens Community Board 10 for 17 years.",
+        "He’s been active in his community for over 25 years, as a business owner in South Ozone Park, a community service leader for the Brooklyn & Queens Lions Club, and a fierce advocate for the people of Queens and New York City."
+      ]
+    },
+    "Education": {
+      "importanceScore": 2,
+      "stanceScore": 5,
+      "stanceExplanation": "The statements emphasize community engagement and support, which can be seen as a moderate approach to education and social welfare. They highlight initiatives that provide resources for families and children, reflecting a balanced perspective on community responsibility. However, there is no explicit mention of progressive educational reforms or policies, keeping the stance neutral.",
+      "highlights": [
+        "Under Romeo’s leadership, the Lions Club engages in community-building events like the annual Christmas tree lighting event in Richmond Hill and yearly back-to-school giveaways and crucial community service efforts including feeding families in need during disasters like Hurricane Sandy and the COVID-19 pandemic.",
+        "Under Romeo’s leadership, the Lions Club engages in community-building events like the annual Christmas tree lighting event in Richmond Hill and yearly back-to-school giveaways and crucial community service efforts including feeding families in need during disasters like Hurricane Sandy and the COVID-19 pandemic."
+      ]
+    },
+    "Public Transit": {
+      "importanceScore": 4,
+      "stanceScore": 6,
+      "stanceExplanation": "The emphasis on collaboration with community advocates and elected officials suggests a progressive approach to public transit and urban development. The focus on cleaner streets and green spaces indicates a concern for environmental sustainability, which aligns with progressive values. Additionally, the effort to install cultural signage at a transit station reflects an inclusive and community-oriented mindset.",
+      "highlights": [
+        "He’s worked with elected officials and community advocates for cleaner streets and more green space; he’s been honored by local law enforcement for his work against violence; and he helped lead the effort to install a “Little Guyana” sign at the Ozone Park-Lefferts Blvd Station train station.",
+        "He’s worked with elected officials and community advocates for cleaner streets and more green space; he’s been honored by local law enforcement for his work against violence; and he helped lead the effort to install a “Little Guyana” sign at the Ozone Park-Lefferts Blvd Station train station."
+      ]
+    },
+    "Climate & Environment": {
+      "importanceScore": 2,
+      "stanceScore": 6,
+      "stanceExplanation": "The emphasis on working with community advocates for cleaner streets and more green space indicates a progressive approach to environmental issues. The involvement in local initiatives suggests a commitment to improving urban environments, which aligns with progressive values. However, the statements lack a direct focus on broader climate change policies, keeping the score moderate.",
+      "highlights": [
+        "He’s worked with elected officials and community advocates for cleaner streets and more green space; he’s been honored by local law enforcement for his work against violence; and he helped lead the effort to install a “Little Guyana” sign at the Ozone Park-Lefferts Blvd Station train station.",
+        "He’s worked with elected officials and community advocates for cleaner streets and more green space; he’s been honored by local law enforcement for his work against violence; and he helped lead the effort to install a “Little Guyana” sign at the Ozone Park-Lefferts Blvd Station train station."
+      ]
+    },
+    "Immigration": {
+      "importanceScore": 0,
+      "stanceScore": null,
+      "stanceExplanation": "Not enough context.",
+      "highlights": []
+    },
+    "LGBTQ+ Rights": {
+      "importanceScore": 0,
+      "stanceScore": null,
+      "stanceExplanation": "Not enough context.",
+      "highlights": []
+    },
+    "Economic Development": {
+      "importanceScore": 0,
+      "stanceScore": null,
+      "stanceExplanation": "Not enough context.",
+      "highlights": []
+    },
+    "Homelessness": {
+      "importanceScore": 0,
+      "stanceScore": null,
+      "stanceExplanation": "Not enough context.",
+      "highlights": []
+    },
+    "Health Care Access": {
+      "importanceScore": 0,
+      "stanceScore": null,
+      "stanceExplanation": "Not enough context.",
+      "highlights": []
+    },
+    "Veterans & Military": {
+      "importanceScore": 6,
+      "stanceScore": 5,
+      "stanceExplanation": "The statements highlight community service and leadership, which are values that can resonate across the political spectrum. However, there is no explicit mention of veterans or military issues, making it difficult to assign a more definitive stance. The focus on community engagement suggests a moderate approach to social issues, placing it in the center of the political scale.",
+      "highlights": [
+        "He’s been active in his community for over 25 years, as a business owner in South Ozone Park, a community service leader for the Brooklyn & Queens Lions Club, and a fierce advocate for the people of Queens and New York City.",
+        "Romeo serves as District Governor for the Brooklyn & Queens Lions Club, a Queens-based branch of an international service organization dedicated to improving health, well-being, and community ties in a branch’s local community.",
+        "Under Romeo’s leadership, the Lions Club engages in community-building events like the annual Christmas tree lighting event in Richmond Hill and yearly back-to-school giveaways and crucial community service efforts including feeding families in need during disasters like Hurricane Sandy and the COVID-19 pandemic."
+      ]
+    },
+    "Government & Ethics": {
+      "importanceScore": 0,
+      "stanceScore": null,
+      "stanceExplanation": "Not enough context.",
+      "highlights": []
+    },
+    "Elections & Democracy": {
+      "importanceScore": 0,
+      "stanceScore": null,
+      "stanceExplanation": "Not enough context.",
+      "highlights": []
+    },
+    "Civil Rights & Memory": {
+      "importanceScore": 0,
+      "stanceScore": null,
+      "stanceExplanation": "Not enough context.",
+      "highlights": []
+    }
+  }
+}

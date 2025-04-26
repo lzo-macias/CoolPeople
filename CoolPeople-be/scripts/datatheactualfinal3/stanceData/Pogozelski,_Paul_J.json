@@ -1,0 +1,100 @@
+{
+  "candidate": "Pogozelski, Paul J",
+  "aggregateIdeology": {
+    "score": 6,
+    "reasoning": "Pogozelski, Paul J focuses on issues such as Economic Development, Policing & Public Safety, Elections & Democracy. The emphasis on community engagement and initiatives like block clean-ups and support for small businesses suggests a moderate progressive stance."
+  },
+  "issues": {
+    "Affordable Housing": {
+      "importanceScore": 0,
+      "stanceScore": null,
+      "stanceExplanation": "Not enough context.",
+      "highlights": []
+    },
+    "Policing & Public Safety": {
+      "importanceScore": 1,
+      "stanceScore": 7,
+      "stanceExplanation": "This statement emphasizes community engagement and grassroots initiatives, which align with progressive values of collective action and local empowerment. The focus on public safety through community involvement suggests a proactive approach rather than a purely punitive one. Additionally, promoting small business initiatives reflects a progressive stance on economic development within the community.",
+      "highlights": [
+        "The neighborhood association, with a new group of participants, gave Paul a space to further reach out to long-time and newer residents to inspire block clean-ups, small business initiatives, and public safety info sessions."
+      ]
+    },
+    "Education": {
+      "importanceScore": 0,
+      "stanceScore": null,
+      "stanceExplanation": "Not enough context.",
+      "highlights": []
+    },
+    "Public Transit": {
+      "importanceScore": 0,
+      "stanceScore": null,
+      "stanceExplanation": "Not enough context.",
+      "highlights": []
+    },
+    "Climate & Environment": {
+      "importanceScore": 0,
+      "stanceScore": null,
+      "stanceExplanation": "Not enough context.",
+      "highlights": []
+    },
+    "Immigration": {
+      "importanceScore": 0,
+      "stanceScore": null,
+      "stanceExplanation": "Not enough context.",
+      "highlights": []
+    },
+    "LGBTQ+ Rights": {
+      "importanceScore": 0,
+      "stanceScore": null,
+      "stanceExplanation": "Not enough context.",
+      "highlights": []
+    },
+    "Economic Development": {
+      "importanceScore": 2,
+      "stanceScore": 6,
+      "stanceExplanation": "The emphasis on community engagement and initiatives like block clean-ups and support for small businesses suggests a moderate progressive stance. While it promotes local development and community involvement, it does not explicitly advocate for broader systemic changes typically associated with more progressive economic policies. Overall, the focus is on grassroots efforts rather than large-scale economic reforms.",
+      "highlights": [
+        "org/ ---\nVote for a better neighborhood better neighborhood Paul Pogozelski Donate Meet Paul Pogozelski Paul Pogozelski As a family man, a small business owner, and a local community leader, Paul Pogozelski knows what it means to turn words into action.",
+        "The neighborhood association, with a new group of participants, gave Paul a space to further reach out to long-time and newer residents to inspire block clean-ups, small business initiatives, and public safety info sessions."
+      ]
+    },
+    "Homelessness": {
+      "importanceScore": 0,
+      "stanceScore": null,
+      "stanceExplanation": "Not enough context.",
+      "highlights": []
+    },
+    "Health Care Access": {
+      "importanceScore": 0,
+      "stanceScore": null,
+      "stanceExplanation": "Not enough context.",
+      "highlights": []
+    },
+    "Veterans & Military": {
+      "importanceScore": 0,
+      "stanceScore": null,
+      "stanceExplanation": "Not enough context.",
+      "highlights": []
+    },
+    "Government & Ethics": {
+      "importanceScore": 0,
+      "stanceScore": null,
+      "stanceExplanation": "Not enough context.",
+      "highlights": []
+    },
+    "Elections & Democracy": {
+      "importanceScore": 1,
+      "stanceScore": 5,
+      "stanceExplanation": "The statement emphasizes local community engagement and leadership, which can be seen as a moderate stance that values both conservative principles of community and family, as well as progressive ideals of active civic participation. However, it does not explicitly advocate for any progressive policies or reforms related to elections or democracy. Thus, it reflects a centrist viewpoint focused on local action rather than broader ideological commitments.",
+      "highlights": [
+        "org/ ---\nVote for a better neighborhood better neighborhood Paul Pogozelski Donate Meet Paul Pogozelski Paul Pogozelski As a family man, a small business owner, and a local community leader, Paul Pogozelski knows what it means to turn words into action."
+      ]
+    },
+    "Civil Rights & Memory": {
+      "importanceScore": 0,
+      "stanceScore": null,
+      "stanceExplanation": "Not enough context.",
+      "highlights": []
+    }
+  }
+}

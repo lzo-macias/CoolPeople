@@ -1,0 +1,145 @@
+{
+  "candidate": "Coleman, Jess K",
+  "aggregateIdeology": {
+    "score": 9,
+    "reasoning": "Coleman, Jess K focuses on issues such as Public Transit, Elections & Democracy, Affordable Housing. The emphasis on fully funding public transit and expanding service indicates a strong commitment to improving public transportation, which aligns with progressive values."
+  },
+  "issues": {
+    "Affordable Housing": {
+      "importanceScore": 57,
+      "stanceScore": 9,
+      "stanceExplanation": "The repeated emphasis on \"affordable housing\" and the vision of creating inclusive neighborhoods indicates a strong progressive stance. The focus on community well-being, safety, and accessibility aligns with progressive values that prioritize social equity and public investment. Overall, the statements advocate for systemic change to ensure housing is a right for all, which is a hallmark of progressive policy.",
+      "highlights": [
+        "Jess Coleman has spent his life here, fighting for safer streets, affordable housing, and stronger public spaces.",
+        "Jess Coleman has spent his life here, fighting for safer streets, affordable housing, and stronger public spaces.",
+        "Jess Coleman has spent his life here, fighting for safer streets, affordable housing, and stronger public spaces."
+      ]
+    },
+    "Policing & Public Safety": {
+      "importanceScore": 54,
+      "stanceScore": 9,
+      "stanceExplanation": "The statements emphasize addressing the underlying causes of crime, such as homelessness and mental health issues, which aligns with progressive approaches to public safety. The focus on diversion programs and supportive housing indicates a preference for rehabilitation over punitive measures. Overall, these ideas reflect a strong commitment to social justice and community-based solutions.",
+      "highlights": [
+        "It’s time to tackle public safety at its roots.",
+        "It’s time to tackle public safety at its roots.",
+        "It’s time to tackle public safety at its roots."
+      ]
+    },
+    "Education": {
+      "importanceScore": 30,
+      "stanceScore": 9,
+      "stanceExplanation": "The emphasis on funding universal after-school programs and guaranteeing summer jobs for at-risk youth reflects a strong commitment to social equity and support for marginalized communities. These initiatives are typically associated with progressive policies aimed at closing opportunity gaps and providing resources for all children. The repeated focus on universal access indicates a desire for systemic change rather than conservative approaches that may prioritize individual responsibility over collective support.",
+      "highlights": [
+        "Keep kids on the right path by funding universal after-school programs and guaranteeing summer jobs for at-risk youth.",
+        "Expand after-school programs and universal summer jobs to close the opportunity gap.",
+        "Keep kids on the right path by funding universal after-school programs and guaranteeing summer jobs for at-risk youth."
+      ]
+    },
+    "Public Transit": {
+      "importanceScore": 84,
+      "stanceScore": 9,
+      "stanceExplanation": "The emphasis on fully funding public transit and expanding service indicates a strong commitment to improving public transportation, which aligns with progressive values. The focus on making transit the best option reflects a desire to promote sustainable transportation solutions in the fight against climate change. Additionally, prioritizing safety in public spaces further underscores a progressive stance on social equity and community well-being.",
+      "highlights": [
+        "Fix Public Transit, Fight Climate Change Fully fund the MTA’s capital plan to expand service and make transit the best option, not the last resort.",
+        "Fix Public Transit, Fight Climate Change Fully fund the MTA’s capital plan to expand service and make transit the best option, not the last resort.",
+        "Fix Public Transit, Fight Climate Change Fully fund the MTA’s capital plan to expand service and make transit the best option, not the last resort."
+      ]
+    },
+    "Climate & Environment": {
+      "importanceScore": 46,
+      "stanceScore": 9,
+      "stanceExplanation": "The statements emphasize proactive measures to address climate change and promote sustainable urban development, indicating a strong commitment to environmental issues. The focus on walkable streets and public transit suggests a progressive approach to reducing carbon footprints and enhancing community resilience. Overall, these initiatives align closely with progressive climate policies aimed at combating climate change effectively.",
+      "highlights": [
+        "He’ll push for safer, more walkable streets and real action on climate change.",
+        "He’ll push for safer, more walkable streets and real action on climate change.",
+        "A Community That Can Survive the Next Storm Lower Manhattan is on the frontlines of climate change."
+      ]
+    },
+    "Immigration": {
+      "importanceScore": 0,
+      "stanceScore": null,
+      "stanceExplanation": "Not enough context.",
+      "highlights": []
+    },
+    "LGBTQ+ Rights": {
+      "importanceScore": 26,
+      "stanceScore": 9,
+      "stanceExplanation": "The statements advocate for substantial support and resources for LGBTQ youth, emphasizing the importance of safe housing and mental health services. This focus on combating homelessness and addressing mental health issues reflects a progressive stance on LGBTQ+ rights. Overall, the commitment to creating affirming spaces for marginalized youth indicates a strong alignment with progressive values.",
+      "highlights": [
+        "Support LGBTQ Youth Fund and partner with nonprofits specializing in LGBTQ youth housing to combat homelessness and create safe, affirming spaces.",
+        "Expand mental health services targeted to LGBTQ youth to address bullying, isolation, and suicide prevention.",
+        "Support LGBTQ Youth Fund and partner with nonprofits specializing in LGBTQ youth housing to combat homelessness and create safe, affirming spaces."
+      ]
+    },
+    "Economic Development": {
+      "importanceScore": 19,
+      "stanceScore": 9,
+      "stanceExplanation": "The statements emphasize progressive approaches to crime prevention and economic development, focusing on rehabilitation and job creation rather than punitive measures. They advocate for universal access to after-school programs and summer jobs, which aligns with progressive values of equity and opportunity. Additionally, the support for job stability through legislation like the Secure Jobs Act reflects a commitment to workers' rights and economic security.",
+      "highlights": [
+        "Real Crime Prevention Crack down on repeat offenses by expanding diversion programs that connect low-level offenders to jobs and treatment instead of prison.",
+        "Keep kids on the right path by funding universal after-school programs and guaranteeing summer jobs for at-risk youth.",
+        "Expand after-school programs and universal summer jobs to close the opportunity gap."
+      ]
+    },
+    "Homelessness": {
+      "importanceScore": 26,
+      "stanceScore": 9,
+      "stanceExplanation": "The statements advocate for a progressive approach to homelessness by emphasizing the need for mental health services and supportive housing rather than punitive measures. They highlight the importance of addressing systemic issues like mental health crises and the specific needs of vulnerable populations, such as LGBTQ youth. Overall, the focus is on compassionate, long-term solutions that align with progressive values.",
+      "highlights": [
+        "Our current approach isn’t working—mental health crises go untreated while fear and disorder grow.",
+        "Invest in long-term supportive housing with on-site mental health services and streamline the application process.",
+        "End the cycle of crime and homelessness by building thousands of supportive housing units with mental health and addiction services."
+      ]
+    },
+    "Health Care Access": {
+      "importanceScore": 55,
+      "stanceScore": 9,
+      "stanceExplanation": "The statements advocate for expanding access to gender-affirming healthcare and emphasize the importance of non-discrimination in healthcare for LGBTQ seniors. This focus on inclusivity and increased funding for specific healthcare needs reflects a progressive stance on health care access. Additionally, the establishment of a commission to support LGBTQ seniors further underscores a commitment to addressing systemic inequalities in healthcare.",
+      "highlights": [
+        "Expand access to gender-affirming healthcare by increasing funding for clinics and prohibiting insurance discrimination.",
+        "Support LGBTQ Seniors Establish a Commission within NYC Aging to advocate for LGBTQ seniors, ensuring access to housing, healthcare, and community support without fear of discrimination.",
+        "Expand access to gender-affirming healthcare by increasing funding for clinics and prohibiting insurance discrimination."
+      ]
+    },
+    "Veterans & Military": {
+      "importanceScore": 5,
+      "stanceScore": null,
+      "stanceExplanation": "Rating: N/A  \nReason: The statements provided do not address the issue of \"Veterans & Military\" and instead focus on public transit and climate change. Therefore, it is not possible to assign a stance score related to veterans or military issues based on this content. Additional relevant statements would be needed to evaluate the stance accurately.",
+      "highlights": [
+        "Fix Public Transit, Fight Climate Change Fully fund the MTA’s capital plan to expand service and make transit the best option, not the last resort.",
+        "Fix Public Transit, Fight Climate Change Fully fund the MTA’s capital plan to expand service and make transit the best option, not the last resort.",
+        "Fix Public Transit, Fight Climate Change Fully fund the MTA’s capital plan to expand service and make transit the best option, not the last resort."
+      ]
+    },
+    "Government & Ethics": {
+      "importanceScore": 31,
+      "stanceScore": 6,
+      "stanceExplanation": "The emphasis on cracking down on illegal placard parking suggests a focus on accountability and enforcement, which aligns with a more conservative approach to governance. However, the commitment to investing in schools and raising teacher pay indicates a progressive stance on education and social equity. Overall, the combination of these statements leans towards a moderate progressive viewpoint.",
+      "highlights": [
+        "Crack down on illegal placard parking by revoking placards and enforcing real accountability.",
+        "Crack down on illegal placard parking by revoking placards and enforcing real accountability.",
+        "Crack down on illegal placard parking by revoking placards and enforcing real accountability."
+      ]
+    },
+    "Elections & Democracy": {
+      "importanceScore": 80,
+      "stanceScore": 7,
+      "stanceExplanation": "The emphasis on reviving progressive politics indicates a desire for reform and a push against right-wing ideologies, which aligns with more progressive values. The focus on voter registration and ensuring accurate polling locations also reflects a commitment to enhancing democratic participation, a key progressive principle. Overall, the statements suggest a proactive approach to fostering democracy and inclusivity in the electoral process.",
+      "highlights": [
+        "After Trump’s election, he also wrote for national publications about reviving progressive politics and fighting back against the right-wing legal movement.",
+        "After Trump’s election, he also wrote for national publications about reviving progressive politics and fighting back against the right-wing legal movement.",
+        "com/voter-resources ---\n0 0  English  Open Menu Close Menu  English  Open Menu Close Menu  English   Back Voter Resources ELECTION DATES Democratic Primary for City Council District 1 Early Voting: June 14–22, 2025 Election Day: June 24, 2025 Voter Registration Making sure your voter registration is current and accurate is essential."
+      ]
+    },
+    "Civil Rights & Memory": {
+      "importanceScore": 23,
+      "stanceScore": 9,
+      "stanceExplanation": "The statements advocate for significant reforms to address systemic issues related to segregation and housing, which aligns with progressive values. Additionally, the emphasis on LGBTQ rights highlights a commitment to social justice and equality for marginalized communities. Overall, the focus on dismantling discriminatory practices and promoting inclusivity indicates a strong progressive stance.",
+      "highlights": [
+        "Fix the Rigged Market Slash restrictive zoning laws that foster segregation and drive up rents.",
+        "Fix the Rigged Market Slash restrictive zoning laws that foster segregation and drive up rents.",
+        "Fix the Rigged Market Slash restrictive zoning laws that foster segregation and drive up rents."
+      ]
+    }
+  }
+}

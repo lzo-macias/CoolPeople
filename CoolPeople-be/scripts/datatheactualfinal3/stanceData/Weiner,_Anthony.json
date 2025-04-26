@@ -1,0 +1,149 @@
+{
+  "candidate": "Weiner, Anthony",
+  "aggregateIdeology": {
+    "score": 5,
+    "reasoning": "Weiner, Anthony focuses on issues such as Policing & Public Safety, Health Care Access, Government & Ethics. The statements reflect a focus on community engagement and public safety initiatives, which aligns with progressive values of reform and community involvement."
+  },
+  "issues": {
+    "Affordable Housing": {
+      "importanceScore": 350,
+      "stanceScore": 8,
+      "stanceExplanation": "The statements emphasize advocacy for safe, fair, and affordable housing, which aligns with progressive values focused on social equity and support for vulnerable populations. The repetition of the commitment to these principles indicates a strong emphasis on government responsibility in ensuring housing access. The lack of conservative rhetoric or market-based solutions further supports a progressive stance on affordable housing.",
+      "highlights": [
+        "HUD will continue to advocate for the hundreds of thousands of children, women, and men in New York City whose lives and livelihoods depend on having safe, fair, and affordable housing.",
+        "HUD will continue to advocate for the hundreds of thousands of children, women, and men in New York City whose lives and livelihoods depend on having safe, fair, and affordable housing.",
+        "We do not sell, rent, exchange, or otherwise disclose our list subscribers to persons or organizations outside the Department."
+      ]
+    },
+    "Policing & Public Safety": {
+      "importanceScore": 1821,
+      "stanceScore": 6,
+      "stanceExplanation": "The statements reflect a focus on community engagement and public safety initiatives, which aligns with progressive values of reform and community involvement. However, the mention of gang prosecutions and violent crime suggests a more traditional law enforcement approach, indicating a moderate stance. Overall, the emphasis on community outreach and addressing public safety issues points towards a progressive inclination, but not strongly so.",
+      "highlights": [
+        "The Committee has organized events for the Office’s leadership, line assistants, and employees, to engage with a wide range of groups in every corner of the SDNY, including high school students in the Bronx, Manhattan, and White Plains through the Justice for All Initiative; community members at NYPD National Night Out Against Crime events; middle school students involved in the Law Enforcement Explorers program; leaders of financial regulatory agencies, institutions, and companies; and individuals from across the nation who tragically lost family members to the fentanyl epidemic.",
+        "The Committee has organized events for the Office’s leadership, line assistants, and employees, to engage with a wide range of groups in every corner of the SDNY, including high school students in the Bronx, Manhattan, and White Plains through the Justice for All Initiative; community members at NYPD National Night Out Against Crime events; middle school students involved in the Law Enforcement Explorers program; leaders of financial regulatory agencies, institutions, and companies; and individuals from across the nation who tragically lost family members to the fentanyl epidemic.",
+        "officials in the name of radical Islamic jihad and used a machete-style knife to attack three NYPD officers working in coordination with the FBI to protect the New Year’s Eve celebration."
+      ]
+    },
+    "Education": {
+      "importanceScore": 585,
+      "stanceScore": 1,
+      "stanceExplanation": "The repeated mention of a \"Minor Victim\" in a high school context suggests a focus on conservative values surrounding the protection of minors. The emphasis on the victimization of a student indicates a stance that prioritizes traditional views on education and safeguarding youth. Overall, the language used reflects a conservative approach to issues related to education and child welfare.",
+      "highlights": [
+        "Early in the exchange, the Minor Victim revealed to WEINER that she was in high school.",
+        "Early in the exchange, the Minor Victim revealed to WEINER that she was in high school.",
+        "Early in the exchange, the Minor Victim revealed to WEINER that she was in high school."
+      ]
+    },
+    "Public Transit": {
+      "importanceScore": 493,
+      "stanceScore": 9,
+      "stanceExplanation": "This ruling emphasizes the importance of accessibility in public transit, aligning with progressive values that prioritize inclusivity and equal access for all individuals, including those with disabilities. By mandating the installation of elevators during renovations, it reflects a commitment to improving public infrastructure for marginalized communities. The focus on accessibility without regard to cost further underscores a progressive stance on social equity in public services.",
+      "highlights": [
+        "District Court Rules That MTA’ Renovation Of Subway Station Triggered MTA’s Obligation Under ADA To Install Elevators Unless Technically Infeasible : The Office obtained a major ruling against the Metropolitan Transit Authority (“MTA”) and New York City Transit Authority to increase the accessibility of the New York City subway system.",
+        "The ruling effectively requires MTA to install elevators when conducting certain station renovations, without regard to cost, unless it is technically infeasible to do so.",
+        "In the wake of the ruling, MTA has worked to dramatically increase the number of accessible stations throughout the City."
+      ]
+    },
+    "Climate & Environment": {
+      "importanceScore": 244,
+      "stanceScore": 1,
+      "stanceExplanation": "The statements provided do not address climate or environmental issues at all. They focus on criminal cases related to drug trafficking, immigration fraud, and prison misconduct. Therefore, they reflect a very conservative stance as they do not engage with progressive environmental policies or concerns.",
+      "highlights": [
+        "Williams Sentenced To 10 Years In Prison : On or about September 5, 2021, in connection with a larger drug trafficking organization’s drug sales, Irvin Cartagena, a/k/a “Green Eyes,” sold Michael K.",
+        "Williams Sentenced To 10 Years In Prison : On or about September 5, 2021, in connection with a larger drug trafficking organization’s drug sales, Irvin Cartagena, a/k/a “Green Eyes,” sold Michael K.",
+        "April 24, 2025 New York Man Charged with Immigration Fraud for Concealing Role as Perpetrator of Rwandan Genocide A federal grand jury in Central Islip, New York, returned an indictment April 22 and unsealed today charging a New York man with lying on his applications for a green card and United States citizenship by concealing his past role as a leader and perpetrator of the genocide in Rwanda in 1994."
+      ]
+    },
+    "Immigration": {
+      "importanceScore": 96,
+      "stanceScore": null,
+      "stanceExplanation": "Not enough context.",
+      "highlights": [
+        "Appellate Section Criminal Section Disability Rights Section Educational Opportunities Section Employment Litigation Section Housing & Civil Enforcement Section Immigrant and Employee Rights Section Special Litigation Section Voting Section 10 Criminal Division The Criminal Division offers permanent trial attorney positions and time limited fellowship positions in Washington, D.",
+        "Appellate Section Criminal Section Disability Rights Section Educational Opportunities Section Employment Litigation Section Housing & Civil Enforcement Section Immigrant and Employee Rights Section Special Litigation Section Voting Section Civil Rights Division The Civil Rights Division offers permanent positions in Washington, D.",
+        "Appellate Section Criminal Section Disability Rights Section Educational Opportunities Section Employment Litigation Section Housing & Civil Enforcement Section Immigrant and Employee Rights Section Special Litigation Section Voting Section 10  10 Criminal Division The Criminal Division offers permanent trial attorney positions and time limited fellowship positions in Washington, D."
+      ]
+    },
+    "LGBTQ+ Rights": {
+      "importanceScore": 69,
+      "stanceScore": null,
+      "stanceExplanation": "Not enough context.",
+      "highlights": [
+        "The excitement and pride inherent in being an Assistant United States Attorney resonate throughout the Office and are echoed every day by former Assistants who say it was the best job they have ever had.",
+        "The excitement and pride inherent in being an Assistant United States Attorney resonate throughout the Office and are echoed every day by former Assistants who say it was the best job they have ever had.",
+        "The Unit also investigates and prosecutes human trafficking and sexual abuse offenses, as well as acts of violence or threats of violence that are motivated by a victim’s actual or perceived race, color, religion, national origin, gender, sexual orientation, gender identity, or disability."
+      ]
+    },
+    "Economic Development": {
+      "importanceScore": 50,
+      "stanceScore": null,
+      "stanceExplanation": "Not enough context.",
+      "highlights": [
+        "):  In this case the States of New York, New Jersey, Connecticut, and Maryland challenged the constitutionality of a provision in the Tax Cuts and Jobs Act of 2017 that limited the Internal Revenue Code’s state and local tax deduction for individuals to $10,000.",
+        "):  In this case the States of New York, New Jersey, Connecticut, and Maryland challenged the constitutionality of a provision in the Tax Cuts and Jobs Act of 2017 that limited the Internal Revenue Code’s state and local tax deduction for individuals to $10,000.",
+        "JOBS@usdoj."
+      ]
+    },
+    "Homelessness": {
+      "importanceScore": 42,
+      "stanceScore": null,
+      "stanceExplanation": "Not enough context.",
+      "highlights": [
+        "The goal is to reduce barriers to public and subsidized housing, and advance promising models that improve outcomes for people who repeatedly use corrections and homeless services.",
+        "The goal is to reduce barriers to public and subsidized housing, and advance promising models that improve outcomes for people who repeatedly use corrections and homeless services.",
+        "Civil Division AUSAs also handle a variety of complex civil tax cases, including filing affirmative cases to collect millions of dollars of unpaid income and employment taxes and penalties (including FBAR penalties for failures to report foreign accounts), litigating tax shelter cases in which sophisticated corporate entities engage in transactions that lack economic substance to shield their income from taxation, and seeking injunctions to prevent abusive tax preparers and tax shelter promoters from operating."
+      ]
+    },
+    "Health Care Access": {
+      "importanceScore": 1000,
+      "stanceScore": null,
+      "stanceExplanation": "Not enough context.",
+      "highlights": [
+        "Attorneys Southern District of New York Southern District of New York Priorities Priorities Civil Division Priorities Civil Division Priorities Civil Division Priorities Share Facebook X LinkedIn Email Civil Frauds Healthcare Fraud – Anti-Kickback Statute Litigation $6.",
+        "$678 Million Anti-Kickback Statute Settlement with Novartis Pharmaceuticals for Operating Sham Speaker Programs :  In 2020, the Office reached a $678 million settlement of its healthcare fraud lawsuit against Novartis Pharmaceuticals Corporation (“Novartis”), resolving claims that Novartis violated the False Claims Act and Anti-Kickback Statute by providing doctors with cash payments, recreational outings, lavish meals, and expensive alcohol to induce them to prescribe Novartis’s cardiovascular and diabetes drugs, which were then reimbursed by federal healthcare programs.",
+        "When those doctors then prescribed Novartis’s drugs, federal healthcare programs paid hundreds of millions of dollars in reimbursements for these tainted prescriptions."
+      ]
+    },
+    "Veterans & Military": {
+      "importanceScore": 446,
+      "stanceScore": null,
+      "stanceExplanation": "Not enough context.",
+      "highlights": [
+        "gov Careers Careers Why Justice Why Justice MENU Careers Home What We Stand For Who We Are Components Hiring Resources Disability Hiring Veteran Recruitment Students, Interns, Recent Graduates and Fellows Applicant Resources Benefits of Service Training and Professional Development Search Opportunities Why Justice Share Facebook X LinkedIn Email The Department of Justice (DOJ) leads the nation in ensuring the protection of all Americans while preserving their constitutional freedoms.",
+        "Learn More About Disability Hiring Veteran Recruitment The DOJ Veterans Employment Program Office supports the President's Veteran hiring initiative by participating in job fairs (many of which are military specific events), hiring events, special conferences / seminars and supporting employment workshops and employer panels nationwide.",
+        "Learn More About Veteran Recruitment Updated January 27, 2025 MENU Careers Home MENU Careers Home What We Stand For What We Stand For Who We Are Components Who We Are Who We Are  Components Components Hiring Resources Disability Hiring Veteran Recruitment Students, Interns, Recent Graduates and Fellows Applicant Resources Hiring Resources Hiring Resources  Disability Hiring Disability Hiring Veteran Recruitment Veteran Recruitment Students, Interns, Recent Graduates and Fellows Students, Interns, Recent Graduates and Fellows Applicant Resources Applicant Resources Benefits of Service Benefits of Service Training and Professional Development Training and Professional Development Search Opportunities Search Opportunities Why Justice Why Justice Share  Facebook X LinkedIn Email The Department of Justice (DOJ) leads the nation in ensuring the protection of all Americans while preserving their constitutional freedoms."
+      ]
+    },
+    "Government & Ethics": {
+      "importanceScore": 952,
+      "stanceScore": null,
+      "stanceExplanation": "Not enough context.",
+      "highlights": [
+        "The Office has been uniformly successful in these matters, which result in the landlords providing compensation to the resident, changing their reasonable accommodation policies, and permitting the resident to live with an assistance animal.",
+        "The settlement also required the Town to implement comprehensive policy changes and provide significant compensation to the victim, resulting in one of the largest payments by a local government in an employment discrimination case brought by the United States on behalf of a single individual.",
+        "The Office has been uniformly successful in these matters, which result in the landlords providing compensation to the resident, changing their reasonable accommodation policies, and permitting the resident to live with an assistance animal."
+      ]
+    },
+    "Elections & Democracy": {
+      "importanceScore": 259,
+      "stanceScore": null,
+      "stanceExplanation": "Not enough context.",
+      "highlights": [
+        "Petition of the Commonwealth of Puerto Rico pursuant to Title III of PROMESA Rulings of Special Interest OpenAI Cases  USA v Junard Parrot  USA v Eric Adams  Media Contact Edward Friedland United States District Court Southern District of New York 212-805-0513 Notice to the Bar History of the Court Recently Amended Practices Law Clerk and Intern Hiring Information Settlement Procedures Individual Rules of Practice in Criminal Cases Individual Rules of Practice in Civil Cases Law Clerk Hiring Information Privacy Policy Court Directory Accessibility Your Employee Rights and How to Report Wrongful Conduct Contact Us Sitemap Daniel Patrick Moynihan United States Courthouse 500 Pearl Street New York, NY 10007 - 1312 Daniel Patrick Moynihan United States Courthouse Hon.",
+        "Presidential election process Learn about the timeline in a presidential election cycle.",
+        "Presidential election process Learn about the timeline in a presidential election cycle."
+      ]
+    },
+    "Civil Rights & Memory": {
+      "importanceScore": 554,
+      "stanceScore": null,
+      "stanceExplanation": "Not enough context.",
+      "highlights": [
+        "Attorney Files And Simultaneously Settles Lawsuit Against Jujamcyn Theaters LLC To Improve Accessibility At Five Of Broadway’s Most Historic Theaters : The Civil Rights Unit has a long history of ensuring that the most iconic New York City sites are accessible to people with disabilities.",
+        "Attorney Files And Simultaneously Settles Lawsuit Against Jujamcyn Theaters LLC To Improve Accessibility At Five Of Broadway’s Most Historic Theaters : The Civil Rights Unit has a long history of ensuring that the most iconic New York City sites are accessible to people with disabilities.",
+        "Throughout its history, this Office has distinguished itself as one of the nation's premier legal institutions, successfully prosecuting groundbreaking and historic cases."
+      ]
+    }
+  }
+}

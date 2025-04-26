@@ -1,0 +1,145 @@
+{
+  "candidate": "Levine, Mark",
+  "aggregateIdeology": {
+    "score": 8,
+    "reasoning": "Levine, Mark focuses on issues such as Public Transit, Affordable Housing, Climate & Environment. The focus on increasing accessibility to public restrooms in subway stations indicates a progressive approach to public transit, emphasizing the importance of user experience and basic amenities for all riders."
+  },
+  "issues": {
+    "Affordable Housing": {
+      "importanceScore": 199,
+      "stanceScore": 9,
+      "stanceExplanation": "The statements emphasize the urgent need to increase the supply of affordable housing, indicating a strong progressive stance on housing policy. They highlight the barriers to creating affordable housing, suggesting a desire for reform to facilitate development. Overall, the focus on future generations and community needs aligns with progressive values advocating for social equity and accessibility in housing.",
+      "highlights": [
+        "We must dramatically increase the pace at which we create new housing, especially affordable housing, so that future generations can afford to live in the neighborhoods they grew up.",
+        "We must dramatically increase the pace at which we create new housing, especially affordable housing, so that future generations can afford to live in the neighborhoods they grew up.",
+        "For small and midsize affordable residential buildings, SEQR requirements add yet one more hurdle to the creation of desperately needed affordable housing."
+      ]
+    },
+    "Policing & Public Safety": {
+      "importanceScore": 29,
+      "stanceScore": 7,
+      "stanceExplanation": "The emphasis on community engagement and partnership with police suggests a progressive approach to public safety. By addressing a wide range of quality-of-life concerns, the statements indicate a holistic view of community well-being rather than a purely punitive focus. This aligns with progressive values that prioritize social services and community solutions over traditional law enforcement methods.",
+      "highlights": [
+        "Visit the CEC Website Community Precinct Councils Councils facilitate communication between community members and police officers in order to solve local problems and foster community partnership.",
+        "Community Precinct Councils Councils facilitate communication between community members and police officers in order to solve local problems and foster community partnership.",
+        "We can assist you with issues like housing, public benefits, health care, education, immigration, public safety, sanitation, economic development, and other quality-of-life concerns."
+      ]
+    },
+    "Education": {
+      "importanceScore": 120,
+      "stanceScore": 8,
+      "stanceExplanation": "Borough President Levine's background as a public school teacher and community organizer suggests a strong commitment to public education and community involvement. His experience in diverse educational settings indicates a progressive approach to addressing educational equity and access. Additionally, his advanced education in public policy implies a focus on systemic improvements in the education sector.",
+      "highlights": [
+        "Borough President Levine leans heavily on his past experiences as a public school teacher, community organizer, and two-term member of the New York City Council.",
+        "At the start of his career, Mark taught bilingual math and science at Junior High School 149 in District 7 in the South Bronx.",
+        "in physics from Haverford College and a master’s in public policy from Harvard University’s Kennedy School of Government."
+      ]
+    },
+    "Public Transit": {
+      "importanceScore": 289,
+      "stanceScore": 7,
+      "stanceExplanation": "The focus on increasing accessibility to public restrooms in subway stations indicates a progressive approach to public transit, emphasizing the importance of user experience and basic amenities for all riders. The initiative to raise awareness and improve facilities aligns with a broader progressive agenda of enhancing public services and infrastructure. Additionally, the use of technology, such as a Google Maps layer for locating restrooms, reflects a modern, inclusive strategy that prioritizes the needs of the community.",
+      "highlights": [
+        "Read More In AMNY: Breaking the Mental Health Crisis Cycle In ABC 7: New York City officials urge MTA to raise awareness about bathrooms in subway system The Manhattan borough president is asking the president of the MTA to make sure customers know about bathrooms .",
+        "Read More In ABC 7: New York City officials urge MTA to raise awareness about bathrooms in subway system Stay connected with our office!",
+        "And the City just introduced a new Google Maps layer that New Yorkers can activate on their phones to easily find the locations of every public restroom operated by the City’s public libraries, NYC Parks, DOT, MTA, and civic institutions citywide."
+      ]
+    },
+    "Climate & Environment": {
+      "importanceScore": 176,
+      "stanceScore": 9,
+      "stanceExplanation": "The statements emphasize a strong commitment to addressing climate change and improving environmental sustainability, indicating a progressive stance. They highlight the urgency of climate issues as immediate concerns rather than future problems, which aligns with progressive environmental policies. Additionally, the focus on equitable housing and public health further supports a holistic approach to climate action, characteristic of progressive agendas.",
+      "highlights": [
+        "From working to address climate change and create more housing that New Yorkers can afford, to improving transportation and fighting to protect tenants facing unfair eviction, we are committed to a New York where all can thrive.",
+        "From working to address climate change and create more housing that New Yorkers can afford, to improving transportation and fighting to protect tenants facing unfair eviction, we are committed to a New York where all can thrive.",
+        "Closing the 0-2 Gap Composting: Fighting Climate Change Ghost Car Governance Learn More Making NYC Healthier The Covid-19 pandemic put a spotlight on the importance of public health policy in dense urban environments."
+      ]
+    },
+    "Immigration": {
+      "importanceScore": 0,
+      "stanceScore": null,
+      "stanceExplanation": "Not enough context.",
+      "highlights": []
+    },
+    "LGBTQ+ Rights": {
+      "importanceScore": 18,
+      "stanceScore": 9,
+      "stanceExplanation": "The statements emphasize the importance of LGBTQIA+ rights and the supportive environment in Manhattan for queer individuals. They highlight the presence of community organizations and advocacy groups, indicating a strong commitment to promoting and protecting these rights. Overall, the language used reflects a progressive stance on LGBTQ+ issues.",
+      "highlights": [
+        "A Message from the Borough President The home of pride and the fight for LGBTQIA+ rights, Manhattan is rich in opportunities and supports for queer people.",
+        "The countless community organizations, advocacy groups, and robust services that fall under the queer umbrella are why generations of LGBTQIA+ people have flocked to New York and continue to call our city home.",
+        "A Message from the Borough President The home of pride and the fight for LGBTQIA+ rights, Manhattan is rich in opportunities and supports for queer people."
+      ]
+    },
+    "Economic Development": {
+      "importanceScore": 60,
+      "stanceScore": 8,
+      "stanceExplanation": "The statements emphasize a strong commitment to community needs, education, and preparing future generations for the economy, which aligns with progressive values. They advocate for responsive policies that prioritize public benefits and social services, indicating a focus on equity and inclusivity. Additionally, the mention of artificial intelligence suggests a forward-thinking approach to economic development, further supporting a progressive stance.",
+      "highlights": [
+        "From improving indoor air and getting school nurses and social  workers into every single school, to ensuring that school curricula are properly preparing young people for the jobs of the future, our children deserve the best.",
+        "From improving indoor air and getting school nurses and social  workers into every single school, to ensuring that school curricula are properly preparing young people for the jobs of the future, our children deserve the best.",
+        "We are committed to ensuring that development, improvement projects, and land use policies are responsive to community concerns while also providing the housing, jobs, and public benefits that our city needs."
+      ]
+    },
+    "Homelessness": {
+      "importanceScore": 63,
+      "stanceScore": 8,
+      "stanceExplanation": "The statements emphasize the need for supportive housing and patient-centered care for individuals with mental illness, reflecting a progressive approach to addressing homelessness. They advocate for systemic solutions and increased resources to support vulnerable populations, aligning with progressive values. Additionally, the recognition of mental health as a critical factor in homelessness indicates a compassionate and holistic perspective on the issue.",
+      "highlights": [
+        "Individuals with untreated psychiatric conditions such as schizophrenia and bipolar disorder too often wind up homeless on our streets.",
+        "The Transition to Home Units (THU) at the Manhattan Psychiatric Center (MPC), a secure facility on Randall’s Island, is designed for recently or chronically homeless patients experiencing serious mental illness who would benefit from patient-centered care to prepare for independent living .",
+        "for recently or chronically homeless patients experiencing serious mental illness who would benefit from patient-centered care to prepare for independent living The THU program in New York City currently consists of only 50 beds."
+      ]
+    },
+    "Health Care Access": {
+      "importanceScore": 104,
+      "stanceScore": 9,
+      "stanceExplanation": "The statements emphasize a commitment to science-based health policy and address racial inequities in healthcare, which aligns with progressive values. Additionally, the focus on improving mental health services and public health infrastructure reflects a strong advocacy for comprehensive health care access. The repeated mention of initiatives to enhance public health safety and accessibility further supports a progressive stance.",
+      "highlights": [
+        "He has fought for health policy based on science and has consistently taken on the racial inequity of both the pandemic and healthcare more broadly.",
+        "He has fought for health policy based on science and has consistently taken on the racial inequity of both the pandemic and healthcare more broadly.",
+        "The Manhattan BP is pushing to create new indoor air quality regulations to keep New Yorkers safe inside, create new, clean, accessible public bathrooms, improve mental health and behavioral healthcare in New York City, and more."
+      ]
+    },
+    "Veterans & Military": {
+      "importanceScore": 60,
+      "stanceScore": 7,
+      "stanceExplanation": "The statements emphasize inclusivity and diversity in the workforce, which aligns with progressive values. The commitment to protecting various characteristics, including veteran status, suggests a focus on social equity and support for marginalized groups. Overall, the language and priorities reflect a more progressive stance on veterans and military issues.",
+      "highlights": [
+        "gov The City of New York and the Manhattan Borough President’s Office is an inclusive equal opportunity employer committed to recruiting and retaining a diverse workforce and providing a work environment that is free from discrimination and harassment based upon any legally protected status or protected characteristic, including but not limited to an individual’s sex, race, color, ethnicity, national origin, age, religion, disability, sexual orientation, veteran status, gender identity, or pregnancy.",
+        "gov The City of New York and the Manhattan Borough President’s Office is an inclusive equal opportunity employer committed to recruiting and retaining a diverse workforce and providing a work environment that is free from discrimination and harassment based upon any legally protected status or protected characteristic, including but not limited to an individual’s sex, race, color, ethnicity, national origin, age, religion, disability, sexual orientation, veteran status, gender identity, or pregnancy.",
+        "gov/about-mbpo/bp-mark-levine/ ---\nAbout BP Mark Levine State of the Borough 2025 BP Mark Levine State of the Borough 2025 Our Priorities Resources Events Submit an Event Community Boards Community Leadership Training Series Budget & Funding Capital Funding Manhattan Cultural Tourism Grant Manhattan Community Award Program Land Use & Planning ULURP Recommendations Address Status Locator Manhattan Borough Board Senior Resource Guide Early Childhood Resource Guide LGBTQIA+ Resource Guide Get Involved in NYC Government Events Submit an Event Submit an Event Community Boards Community Leadership Training Series Budget & Funding Capital Funding Manhattan Cultural Tourism Grant Manhattan Community Award Program Capital Funding Manhattan Cultural Tourism Grant Manhattan Community Award Program Land Use & Planning ULURP Recommendations Address Status Locator ULURP Recommendations Address Status Locator Manhattan Borough Board Senior Resource Guide Early Childhood Resource Guide LGBTQIA+ Resource Guide Get Involved in NYC Government Briefing Room News Press Releases Newsletter Archive Press Kit News Press Releases Newsletter Archive Press Kit Connect Our Team Internships Volunteer Corps Manhattan Future Leaders Fellowship Procurement Our Team Internships Volunteer Corps Manhattan Future Leaders Fellowship Procurement Facebook Facebook Twitter Twitter Instagram Instagram Threads Threads  Follow Follow Follow Follow Follow Follow Follow Follow Meet Manhattan Borough President Mark Levine As Manhattan’s 28th Borough President, Mark Levine is informed by decades of experience in public service and is driven by a deep care for Manhattan and its people."
+      ]
+    },
+    "Government & Ethics": {
+      "importanceScore": 149,
+      "stanceScore": 7,
+      "stanceExplanation": "The statements emphasize the importance of good governance principles such as honesty and accountability, which align with progressive values. The focus on community board members serving without compensation suggests a commitment to civic duty over financial gain, reflecting a more equitable approach to public service. However, the mention of reimbursement for expenses indicates a recognition of practical needs, which balances the progressive stance with some conservative elements.",
+      "highlights": [
+        "Members of community boards serve without compensation but may be reimbursed for actual, necessary out-of-pocket expenses in connection with their responsibilities.",
+        "Members of community boards serve without compensation but may be reimbursed for actual, necessary out-of-pocket expenses in connection with their responsibilities.",
+        "Downloads Manhattan Borough President Mark Levine’s Testimony Before the New York State Legislature (PDF) (Feb."
+      ]
+    },
+    "Elections & Democracy": {
+      "importanceScore": 11,
+      "stanceScore": 7,
+      "stanceExplanation": "The statement emphasizes the importance of participation in elections, which aligns with progressive values that advocate for civic engagement and empowerment. Encouraging individuals to shape their community reflects a belief in democratic principles and inclusivity. However, the focus on property owners and mediation suggests a more conservative approach to property rights, slightly tempering the overall progressive stance.",
+      "highlights": [
+        "Allow property owners to petition for access to neighboring properties when necessary The State should allow for mediated negotiation between property owners when access to neighboring properties is required, rather than court intervention.",
+        "Read More In NY1: Manhattan borough president on possible regulations of artificial intelligence In Gothamist: Election misinfo, AI-proof jobs and ChatGPT in schools: How AI could reshape NYC Artificial intelligence has the potential to grow New York City’s economy, but it also poses a threat “with the .",
+        "Read More In Gothamist: Election misinfo, AI-proof jobs and ChatGPT in schools: How AI could reshape NYC In Gothamist: Does AI in NYC need restrictions?"
+      ]
+    },
+    "Civil Rights & Memory": {
+      "importanceScore": 46,
+      "stanceScore": 8,
+      "stanceExplanation": "The legislation guaranteeing a right to counsel for tenants facing eviction reflects a progressive stance on civil rights, emphasizing the importance of legal representation for vulnerable populations. The call for bold policies to address a historic crisis further indicates a commitment to social justice and equity. Overall, these statements advocate for systemic change to protect and empower marginalized communities.",
+      "highlights": [
+        "In a historic first for the nation, Mark passed legislation guaranteeing a right to counsel for tenants facing eviction in New York City’s housing courts.",
+        "In a historic first for the nation, Mark passed legislation guaranteeing a right to counsel for tenants facing eviction in New York City’s housing courts.",
+        "Now is the time to fight for bold policies to alleviate this historic crisis."
+      ]
+    }
+  }
+}

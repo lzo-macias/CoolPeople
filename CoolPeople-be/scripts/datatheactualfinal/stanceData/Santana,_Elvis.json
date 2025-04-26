@@ -1,0 +1,124 @@
+{
+  "candidate": "Santana, Elvis",
+  "aggregateIdeology": {
+    "score": 7,
+    "reasoning": "Santana, Elvis focuses on issues such as Education, Policing & Public Safety, Economic Development. The emphasis on fair school funding and the inclusion of practical subjects like financial literacy indicates a progressive approach to education."
+  },
+  "issues": {
+    "Affordable Housing": {
+      "importanceScore": 12,
+      "stanceScore": 9,
+      "stanceExplanation": "The statements emphasize a strong commitment to social justice and equitable housing solutions, which are key progressive values. The focus on holding landlords accountable and prioritizing affordable housing indicates a desire to address systemic inequalities in housing. Additionally, the concern for lifelong residents being priced out of their communities further underscores a progressive stance on housing issues.",
+      "highlights": [
+        "His efforts pushed for policies to hold landlords accountable and prioritize affordable housing for all, demonstrating his commitment to social justice and equitable housing solutions.",
+        "His efforts pushed for policies to hold landlords accountable and prioritize affordable housing for all, demonstrating his commitment to social justice and equitable housing solutions.",
+        "His efforts pushed for policies to hold landlords accountable and prioritize affordable housing for all, demonstrating his commitment to social justice and equitable housing solutions."
+      ]
+    },
+    "Policing & Public Safety": {
+      "importanceScore": 22,
+      "stanceScore": 8,
+      "stanceExplanation": "The statements emphasize community engagement, awareness, and support for vulnerable populations, which align with progressive values. Strengthening community-police relationships and promoting preventive measures reflect a focus on social equity and holistic approaches to public safety. Additionally, the commitment to better resources and training for law enforcement suggests a reformist stance rather than a punitive one, further supporting a progressive rating.",
+      "highlights": [
+        "By strengthening community-police relationships, promoting awareness of consent and healthy relationships, and help create permanent housing, Elvis ensures that all residents have access to the protection and resources needed for a safer, healthier South Bronx.",
+        "By strengthening community-police relationships, promoting awareness of consent and healthy relationships, and help create permanent housing, Elvis ensures that all residents have access to the protection and resources needed for a safer, healthier South Bronx.",
+        "By strengthening community-police relationships, promoting awareness of consent and healthy relationships, and help create permanent housing, Elvis ensures that all residents have access to the protection and resources needed for a safer, healthier South Bronx."
+      ]
+    },
+    "Education": {
+      "importanceScore": 26,
+      "stanceScore": 8,
+      "stanceExplanation": "The emphasis on fair school funding and the inclusion of practical subjects like financial literacy indicates a progressive approach to education. Advocating for career pathway training programs also reflects a commitment to preparing students for the modern workforce, which aligns with progressive educational reforms. Overall, these initiatives suggest a focus on equity and relevance in education, characteristic of a more progressive stance.",
+      "highlights": [
+        "Born at Lincoln Hospital and a proud graduate of Fannie Lou Hamer Freedom High School, Elvis has dedicated his life to serving the South Bronx community.",
+        "Born at Lincoln Hospital and a proud graduate of Fannie Lou Hamer Freedom High School, Elvis has dedicated his life to serving the South Bronx community.",
+        "He will advocate for fair school funding to ensure all students have the resources they need, implement career pathway training programs within schools to prepare students for the workforce, and improve curricula to include practical subjects like financial literacy that reflect the day-to-day lives of New Yorkers."
+      ]
+    },
+    "Public Transit": {
+      "importanceScore": 4,
+      "stanceScore": 3,
+      "stanceExplanation": "The statements focus on law enforcement and public safety infrastructure, which typically align with more conservative values. There is an emphasis on supporting law enforcement rather than expanding public transit or addressing its accessibility. The lack of mention of public transit improvements or investments suggests a conservative stance on the issue.",
+      "highlights": [
+        "Elvis is committed to addressing these issues by supporting law enforcement with better resources and training, investing in preventive measures like educational programs and improved public safety infrastructure, and securing increased funding for survivor services.",
+        "Elvis is committed to addressing these issues by supporting law enforcement with better resources and training, investing in preventive measures like educational programs and improved public safety infrastructure, and securing increased funding for survivor services.",
+        "Elvis is committed to addressing these issues by supporting law enforcement with better resources and training, investing in preventive measures like educational programs and improved public safety infrastructure, and securing increased funding for survivor services."
+      ]
+    },
+    "Climate & Environment": {
+      "importanceScore": 4,
+      "stanceScore": 9,
+      "stanceExplanation": "The statements emphasize a strong commitment to environmental legislation aimed at improving public health and reducing pollution. The focus on creating a \"cleaner and healthier environment\" indicates a progressive stance on climate and environmental issues. Additionally, the mention of severe pollution and its impact on residents highlights the urgency of addressing environmental justice, which is a key progressive concern.",
+      "highlights": [
+        "Elvis advocated passionately for this legislation to create a cleaner and healthier environment for a borough that deserves better.",
+        "Elvis advocated passionately for this legislation to create a cleaner and healthier environment for a borough that deserves better.",
+        "At that time, nearly 1,000 garbage trucks drove through the South Bronx daily, contributing to severe pollution and alarmingly high asthma rates among residents."
+      ]
+    },
+    "Immigration": {
+      "importanceScore": 0,
+      "stanceScore": null,
+      "stanceExplanation": "Not enough context.",
+      "highlights": []
+    },
+    "LGBTQ+ Rights": {
+      "importanceScore": 0,
+      "stanceScore": null,
+      "stanceExplanation": "Not enough context.",
+      "highlights": []
+    },
+    "Economic Development": {
+      "importanceScore": 17,
+      "stanceScore": 8,
+      "stanceExplanation": "The emphasis on providing job opportunities specifically for local residents indicates a progressive stance focused on community empowerment and economic equity. Supporting small businesses and entrepreneurs highlights a commitment to fostering local economic growth, which aligns with progressive economic development strategies. Overall, the statements advocate for inclusive economic development that prioritizes the needs of the community.",
+      "highlights": [
+        "Jobs for Us Jobs for Us Jobs for Us Isn't it time the South Bronx received the opportunities it deserves?",
+        "Elvis believes jobs should go to local people.",
+        "Elvis believes jobs should go to local people."
+      ]
+    },
+    "Homelessness": {
+      "importanceScore": 6,
+      "stanceScore": 9,
+      "stanceExplanation": "The advocacy for the \"Housing Not Warehousing Act\" indicates a strong commitment to addressing homelessness through proactive housing solutions rather than punitive measures. By focusing on the availability of housing units for the homeless, the stance aligns with progressive values that prioritize social welfare and human rights. This approach emphasizes the need for systemic change to alleviate homelessness, reflecting a progressive agenda.",
+      "highlights": [
+        "A Proven Track Record A Proven Track Record A Proven Track Record A Proven Track Record Advocating for Housing \"Not Warehousing Act\" Advocating for Housing \"Not Warehousing Act\" Advocating for Housing \"Not Warehousing Act\" Advocating for Housing \"Not Warehousing Act\" Later in 2016, Elvis advocated for the Housing Not Warehousing Act (article) to address the crisis of over 60,000 homeless New Yorkers while thousands of housing units remained vacant.",
+        "Later in 2016, Elvis advocated for the Housing Not Warehousing Act (article) to address the crisis of over 60,000 homeless New Yorkers while thousands of housing units remained vacant.",
+        "Later in 2016, Elvis advocated for the Housing Not Warehousing Act (article) to address the crisis of over 60,000 homeless New Yorkers while thousands of housing units remained vacant."
+      ]
+    },
+    "Health Care Access": {
+      "importanceScore": 0,
+      "stanceScore": null,
+      "stanceExplanation": "Not enough context.",
+      "highlights": []
+    },
+    "Veterans & Military": {
+      "importanceScore": 2,
+      "stanceScore": 5,
+      "stanceExplanation": "The statements emphasize civic engagement and community support, which can be seen as moderate values that appeal to both conservative and progressive perspectives. They do not explicitly address veterans or military issues, making it difficult to assign a clear ideological stance. Overall, the focus on public service suggests a balanced approach rather than a strong leaning toward either end of the political spectrum.",
+      "highlights": [
+        "In this role, he continued to educate his community by promoting civic engagement and initiating community support programs, further solidifying his dedication to public service.",
+        "In this role, he continued to educate his community by promoting civic engagement and initiating community support programs, further solidifying his dedication to public service."
+      ]
+    },
+    "Government & Ethics": {
+      "importanceScore": 0,
+      "stanceScore": null,
+      "stanceExplanation": "Not enough context.",
+      "highlights": []
+    },
+    "Elections & Democracy": {
+      "importanceScore": 0,
+      "stanceScore": null,
+      "stanceExplanation": "Not enough context.",
+      "highlights": []
+    },
+    "Civil Rights & Memory": {
+      "importanceScore": 0,
+      "stanceScore": null,
+      "stanceExplanation": "Not enough context.",
+      "highlights": []
+    }
+  }
+}

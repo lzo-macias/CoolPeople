@@ -1,0 +1,125 @@
+{
+  "candidate": "Fisher, Corinne",
+  "aggregateIdeology": {
+    "score": 8,
+    "reasoning": "Fisher, Corinne focuses on issues such as Education, Homelessness, Health Care Access. The focus on increasing salaries for public school teachers indicates a progressive stance aimed at improving education quality and attracting talent. Additionally, the commitment to ensuring that every school meets the learning needs of its students reflects an inclusive and equitable approach to education."
+  },
+  "issues": {
+    "Affordable Housing": {
+      "importanceScore": 9,
+      "stanceScore": 9,
+      "stanceExplanation": "The emphasis on increasing rent-stabilized apartments indicates a strong progressive stance aimed at protecting tenants and ensuring affordable housing. Capping rent for small businesses further reflects a commitment to economic equity and support for local enterprises. Overall, these statements prioritize accessibility and affordability, aligning closely with progressive housing policies.",
+      "highlights": [
+        "More rent-stabilized apartments.",
+        "Capped rent for small businesses.",
+        "More rent-stabilized apartments."
+      ]
+    },
+    "Policing & Public Safety": {
+      "importanceScore": 9,
+      "stanceScore": 8,
+      "stanceExplanation": "The emphasis on higher standards for the NYPD, including mental health checks and a zero tolerance policy on racism, reflects a progressive approach to policing and public safety. Critiquing the size of the police department suggests a desire for reform rather than expansion, aligning with progressive values. Overall, these statements advocate for accountability and reform in law enforcement practices.",
+      "highlights": [
+        "MY SOLUTION THE ISSUE Safety The NYPD will be held to higher standards including mandatory periodic mental health checks and an enforced zero tolerance policy on racism.",
+        "MY SIGNATURE PROGRAM MY SOLUTION THE ISSUE Safety The NYPD will be held to higher standards including mandatory periodic mental health checks and an enforced zero tolerance policy on racism.",
+        "The NYPD will be held to higher standards including mandatory periodic mental health checks and an enforced zero tolerance policy on racism."
+      ]
+    },
+    "Education": {
+      "importanceScore": 24,
+      "stanceScore": 8,
+      "stanceExplanation": "The focus on increasing salaries for public school teachers indicates a progressive stance aimed at improving education quality and attracting talent. Additionally, the commitment to ensuring that every school meets the learning needs of its students reflects an inclusive and equitable approach to education. Overall, these solutions align with progressive values that prioritize investment in public education and support for educators.",
+      "highlights": [
+        "MY SOLUTION THE ISSUE Struggling Public Schools Increased salary for NYC public school teachers.",
+        "Ensuring that every school in the NYC public school system meets the learning needs of its students.",
+        "MY SOLUTION THE ISSUE Struggling Public Schools Increased salary for NYC public school teachers."
+      ]
+    },
+    "Public Transit": {
+      "importanceScore": 0,
+      "stanceScore": null,
+      "stanceExplanation": "Not enough context.",
+      "highlights": []
+    },
+    "Climate & Environment": {
+      "importanceScore": 0,
+      "stanceScore": null,
+      "stanceExplanation": "Not enough context.",
+      "highlights": []
+    },
+    "Immigration": {
+      "importanceScore": 0,
+      "stanceScore": null,
+      "stanceExplanation": "Not enough context.",
+      "highlights": []
+    },
+    "LGBTQ+ Rights": {
+      "importanceScore": 0,
+      "stanceScore": null,
+      "stanceExplanation": "Not enough context.",
+      "highlights": []
+    },
+    "Economic Development": {
+      "importanceScore": 6,
+      "stanceScore": 6,
+      "stanceExplanation": "The statements emphasize the importance of small businesses and their role in the economy, indicating a recognition of entrepreneurial challenges. The mention of significant economic contributions to NYC suggests a focus on broader economic development and support for public services. Overall, the perspective leans towards a moderate progressive stance that values both small business and community investment.",
+      "highlights": [
+        "And, after my Dad died, I even took over my family’s brick and mortar baseball card store for several years so I understand firsthand how challenging it is to run a small business.",
+        "And, after my Dad died, I even took over my family’s brick and mortar baseball card store for several years so I understand firsthand how challenging it is to run a small business.",
+        "And, after my Dad died, I even took over my family’s brick and mortar baseball card store for several years so I understand firsthand how challenging it is to run a small business."
+      ]
+    },
+    "Homelessness": {
+      "importanceScore": 12,
+      "stanceScore": 8,
+      "stanceExplanation": "The statements reflect a strong commitment to social activism and support for marginalized communities, particularly LGBTQ+ homeless youth. The emphasis on mental health and the call for accountability in law enforcement indicate a progressive approach to addressing systemic issues related to homelessness. Overall, the focus on advocacy and community support aligns with progressive values.",
+      "highlights": [
+        "I’m so grateful for my experiences in volunteering and activism with nonprofits including New Alternatives for LGBTQ+ homeless youth, Big Brothers Big Sisters of America, Marriage Equality, Girl Scouts of the USA, PupStarz, Funny For Fido, and the Reproductive Health Access Project.",
+        "I’m so grateful for my experiences in volunteering and activism with nonprofits including New Alternatives for LGBTQ+ homeless youth, Big Brothers Big Sisters of America, Marriage Equality, Girl Scouts of the USA, PupStarz, Funny For Fido, and the Reproductive Health Access Project.",
+        "I’m so grateful for my experiences in volunteering and activism with nonprofits including New Alternatives for LGBTQ+ homeless youth, Big Brothers Big Sisters of America, Marriage Equality, Girl Scouts of the USA, PupStarz, Funny For Fido, and the Reproductive Health Access Project."
+      ]
+    },
+    "Health Care Access": {
+      "importanceScore": 12,
+      "stanceScore": 8,
+      "stanceExplanation": "The emphasis on mental health and addressing homelessness indicates a progressive approach to health care access. The proposal to provide social workers for those in mental health crises reflects a commitment to compassionate and comprehensive care. Overall, the focus on improving the well-being of marginalized populations aligns with progressive values in health care.",
+      "highlights": [
+        "Since that day, I co-created a groundbreaking podcast focusing on women’s issues, relationships, and mental health as well as creating and hosting a political podcast focused on critical thinking making me a top name in the industry, written a book published by HarperCollins, became an internationally recognized standup comedian, given a Tedx Talk, and led a fanbase of millions of listeners to seek a better life for themselves.",
+        "MY SOLUTION THE ISSUE Safety The NYPD will be held to higher standards including mandatory periodic mental health checks and an enforced zero tolerance policy on racism.",
+        "I will tackle the homelessness epidemic affecting over 100,000 New Yorkers head-on by helping them, NOT hiding them and giving residents being affected by a mental health crisis the ability to call an experienced social worker to the scene in any borough 24/7."
+      ]
+    },
+    "Veterans & Military": {
+      "importanceScore": 0,
+      "stanceScore": null,
+      "stanceExplanation": "Not enough context.",
+      "highlights": []
+    },
+    "Government & Ethics": {
+      "importanceScore": 6,
+      "stanceScore": 8,
+      "stanceExplanation": "The proposals to increase salaries for public school teachers and establish a minimum wage of $20/hour reflect a progressive stance focused on enhancing worker rights and addressing income inequality. These solutions prioritize investment in public education and fair compensation, which are typically associated with progressive policies. Overall, the emphasis on improving conditions for workers and educators aligns with a more progressive agenda.",
+      "highlights": [
+        "MY SOLUTION THE ISSUE Struggling Public Schools Increased salary for NYC public school teachers.",
+        "MY SOLUTION THE ISSUE Struggling Public Schools Increased salary for NYC public school teachers.",
+        "Increased salary for NYC public school teachers."
+      ]
+    },
+    "Elections & Democracy": {
+      "importanceScore": 10,
+      "stanceScore": 8,
+      "stanceExplanation": "The emphasis on petitioning and collecting signatures indicates a strong commitment to grassroots democracy and civic engagement, which aligns with progressive values. The call to action suggests a desire for greater participation in the electoral process, promoting inclusivity and representation. Overall, the focus on mobilizing citizens reflects a progressive stance on enhancing democratic practices.",
+      "highlights": [
+        "com/Petition If this is your first time signing up, welcome!",
+        "🗓 MONDAY, MARCH 31 🌳 Washington Square Afternoon Petitioning 🕐 12pm - 7pm 📍 Meeting Point: Elmer Holmes Bobst Library (Corner of Washington Square South & East) 🗓 TUESDAY, APRIL 1 🛝 Petitioning in the Park @ Prospect 🕐 12pm - 7pm 📍 Meeting Point: Brooklyn Central Library (10 Grand Army Plz, Brooklyn) 🌳 Washington Square Afternoon Petitioning 🕐 12pm - 7pm 📍 Meeting Point: Elmer Holmes Bobst Library (Corner of Washington Square South & East) 🗓 WEDNESDAY, APRIL 2 ☀️ Cadman Plaza Petition Blitz 🕐 12pm - 7pm 📍 Meeting Point: Cadman Plaza @ Corner of Clark St.",
+        "com/Petition If this is your first time signing up, welcome!"
+      ]
+    },
+    "Civil Rights & Memory": {
+      "importanceScore": 0,
+      "stanceScore": null,
+      "stanceExplanation": "Not enough context.",
+      "highlights": []
+    }
+  }
+}

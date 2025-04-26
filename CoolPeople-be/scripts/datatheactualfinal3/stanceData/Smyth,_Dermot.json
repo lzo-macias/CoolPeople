@@ -1,0 +1,115 @@
+{
+  "candidate": "Smyth, Dermot",
+  "aggregateIdeology": {
+    "score": 7,
+    "reasoning": "Smyth, Dermot focuses on issues such as Education, Policing & Public Safety, Economic Development. Dermot Smyth's focus on improving public schools and expanding programs indicates a progressive stance on education. His commitment to ensuring local access to middle schools and enhancing gifted and talented programs reflects an emphasis on equity and opportunity for all students."
+  },
+  "issues": {
+    "Affordable Housing": {
+      "importanceScore": 0,
+      "stanceScore": null,
+      "stanceExplanation": "Not enough context.",
+      "highlights": []
+    },
+    "Policing & Public Safety": {
+      "importanceScore": 17,
+      "stanceScore": 4,
+      "stanceExplanation": "The emphasis on public safety and the need for real consequences for criminals suggests a more conservative approach to policing. While the statements acknowledge the importance of safety for all residents, they lean towards a punitive perspective rather than focusing on rehabilitation or systemic reform. Overall, the language used indicates a prioritization of law enforcement and order over progressive reforms in policing.",
+      "highlights": [
+        "Public Safety Everyone in New York is entitled to safety on the streets, subways, parks, in their place of work, and other public spaces.",
+        "Public safety is paramount and criminals should face real consequences for their actions.",
+        "MEDIA Democratic primary voters in District 30 need to read and see on the go that Dermot Smyth is a champion for public education, affordability, public safety, and the quality of life of Queens residents."
+      ]
+    },
+    "Education": {
+      "importanceScore": 37,
+      "stanceScore": 7,
+      "stanceExplanation": "Dermot Smyth's focus on improving public schools and expanding programs indicates a progressive stance on education. His commitment to ensuring local access to middle schools and enhancing gifted and talented programs reflects an emphasis on equity and opportunity for all students. Additionally, advocating for smaller classrooms and after-school programs aligns with progressive educational policies aimed at supporting families and enhancing student learning.",
+      "highlights": [
+        "com/ ---\n0 0 Former NYC public school teacher Dermot Smyth is running for City Council in Queens’ 30th District.",
+        "When he first moved back to the US, Dermot worked on construction sites, and in several jobs as a school custodial worker - eventually working his way up to becoming a teacher in District 24.",
+        "He will fight to ensure New York City’s public schools are best in the country, by fighting for local access to middle school, expanding gifted and talented programs so students can thrive, keeping classrooms small, and expanding after school programs for students and parents alike."
+      ]
+    },
+    "Public Transit": {
+      "importanceScore": 0,
+      "stanceScore": null,
+      "stanceExplanation": "Not enough context.",
+      "highlights": []
+    },
+    "Climate & Environment": {
+      "importanceScore": 2,
+      "stanceScore": 8,
+      "stanceExplanation": "The emphasis on building additional solar panels on schools indicates a strong commitment to renewable energy and sustainability, which aligns with progressive environmental policies. Additionally, reallocating funds to improve public schools reflects a broader social equity perspective, often associated with progressive agendas. Overall, the focus on environmental improvements within educational institutions suggests a forward-thinking approach to climate issues.",
+      "highlights": [
+        "He will work to reallocate City funds to improve our public schools across the city, including increasing funding to CUNY campuses, building additional solar panels on schools, and addressing staff shortages.",
+        "He will work to reallocate City funds to improve our public schools across the city, including increasing funding to CUNY campuses, building additional solar panels on schools, and addressing staff shortages."
+      ]
+    },
+    "Immigration": {
+      "importanceScore": 0,
+      "stanceScore": null,
+      "stanceExplanation": "Not enough context.",
+      "highlights": []
+    },
+    "LGBTQ+ Rights": {
+      "importanceScore": 0,
+      "stanceScore": null,
+      "stanceExplanation": "Not enough context.",
+      "highlights": []
+    },
+    "Economic Development": {
+      "importanceScore": 7,
+      "stanceScore": 7,
+      "stanceExplanation": "The emphasis on high-paying jobs and the use of union labor indicates a progressive stance on economic development, focusing on workers' rights and fair wages. Supporting union labor aligns with progressive values that advocate for collective bargaining and worker protections. Additionally, the narrative of personal advancement through hard work highlights a belief in equitable opportunities, which is a progressive ideal.",
+      "highlights": [
+        "When he first moved back to the US, Dermot worked on construction sites, and in several jobs as a school custodial worker - eventually working his way up to becoming a teacher in District 24.",
+        "We need to make sure city contractors and projects are bringing in high-paying jobs, and making sure where city dollars are being used to finance projects, union labor is being used to build.",
+        "When he first moved back to the US, Dermot worked on construction sites, and in several jobs as a school custodial worker - eventually working his way up to becoming a teacher in District 24."
+      ]
+    },
+    "Homelessness": {
+      "importanceScore": 0,
+      "stanceScore": null,
+      "stanceExplanation": "Not enough context.",
+      "highlights": []
+    },
+    "Health Care Access": {
+      "importanceScore": 6,
+      "stanceScore": 8,
+      "stanceExplanation": "The statements emphasize expanding access to affordable healthcare and childcare, indicating a strong commitment to progressive social policies. The endorsements from various labor unions further suggest a focus on workers' rights and equitable access to essential services. Overall, the emphasis on reducing costs for families aligns with a progressive agenda aimed at improving health care access.",
+      "highlights": [
+        "Dermot will lead to expand access to affordable childcare and healthcare to NYC families, and work with leaders across this city to make sure basic daily cost of living issues are addressed to reduce everyday costs for New Yorkers.",
+        "ENDORSEMENTS RETAIL, WHOLESALE AND DEPARTMENT STORE UNION UNITED FEDERATION OF TEACHERS UNIFORMED SANITATIONMEN’S ASSOCIATION, LOCAL 831 1199SEIU UNITED HEALTHCARE WORKERS EAST UNIFORMED FIRE OFFICERS ASSOCIATION MACHINISTS UNION (IAMAW) NEW YORK CITY CENTRAL LABOR COUNCIL NEW YORK CITY DISTRICT COUNCIL OF CARPENTERS REP.",
+        "Dermot will lead to expand access to affordable childcare and healthcare to NYC families, and work with leaders across this city to make sure basic daily cost of living issues are addressed to reduce everyday costs for New Yorkers."
+      ]
+    },
+    "Veterans & Military": {
+      "importanceScore": 0,
+      "stanceScore": null,
+      "stanceExplanation": "Not enough context.",
+      "highlights": []
+    },
+    "Government & Ethics": {
+      "importanceScore": 2,
+      "stanceScore": 7,
+      "stanceExplanation": "The emphasis on fair treatment and fair compensation for workers aligns with progressive values that advocate for workers' rights and equitable labor practices. Prioritizing responsible spending of taxpayer dollars suggests a focus on accountability and ethical governance, which is also a progressive stance. Overall, the statements reflect a commitment to social justice and ethical standards in government contracting.",
+      "highlights": [
+        "City contracts should go to reliable, legitimate contractors who will prioritize fair treatment and fair compensation to workers, and to ensure that work is done in a timely manner so taxpayer dollars are spent responsibly.",
+        "City contracts should go to reliable, legitimate contractors who will prioritize fair treatment and fair compensation to workers, and to ensure that work is done in a timely manner so taxpayer dollars are spent responsibly."
+      ]
+    },
+    "Elections & Democracy": {
+      "importanceScore": 0,
+      "stanceScore": null,
+      "stanceExplanation": "Not enough context.",
+      "highlights": []
+    },
+    "Civil Rights & Memory": {
+      "importanceScore": 0,
+      "stanceScore": null,
+      "stanceExplanation": "Not enough context.",
+      "highlights": []
+    }
+  }
+}

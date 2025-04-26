@@ -1,0 +1,100 @@
+{
+  "candidate": "Sarantopoulos, George",
+  "aggregateIdeology": {
+    "score": 6,
+    "reasoning": "Sarantopoulos, George focuses on issues such as Veterans & Military, Economic Development, Affordable Housing. The statement does not provide specific policies or positions related to veterans and military issues, making it difficult to assign a clear ideological stance."
+  },
+  "issues": {
+    "Affordable Housing": {
+      "importanceScore": 0,
+      "stanceScore": null,
+      "stanceExplanation": "Not enough context.",
+      "highlights": []
+    },
+    "Policing & Public Safety": {
+      "importanceScore": 0,
+      "stanceScore": null,
+      "stanceExplanation": "Not enough context.",
+      "highlights": []
+    },
+    "Education": {
+      "importanceScore": 0,
+      "stanceScore": null,
+      "stanceExplanation": "Not enough context.",
+      "highlights": []
+    },
+    "Public Transit": {
+      "importanceScore": 0,
+      "stanceScore": null,
+      "stanceExplanation": "Not enough context.",
+      "highlights": []
+    },
+    "Climate & Environment": {
+      "importanceScore": 0,
+      "stanceScore": null,
+      "stanceExplanation": "Not enough context.",
+      "highlights": []
+    },
+    "Immigration": {
+      "importanceScore": 0,
+      "stanceScore": null,
+      "stanceExplanation": "Not enough context.",
+      "highlights": []
+    },
+    "LGBTQ+ Rights": {
+      "importanceScore": 0,
+      "stanceScore": null,
+      "stanceExplanation": "Not enough context.",
+      "highlights": []
+    },
+    "Economic Development": {
+      "importanceScore": 2,
+      "stanceScore": 6,
+      "stanceExplanation": "George's background as a small business owner suggests a strong support for entrepreneurship and economic development, which aligns with moderate progressive values. His role in a national trade association indicates a commitment to advocating for small businesses, reflecting a belief in the importance of supporting local economies. However, the focus on business interests may also resonate with more conservative economic principles, preventing a higher progressive rating.",
+      "highlights": [
+        "Starting out as a small business owner and restaurateur, George went on to found Access One Solutions, an ATM and credit card processing company now serving customers in 36 states.",
+        "He also served as Chairman Emeritus of a national trade association, giving voice to thousands of small business owners across the country."
+      ]
+    },
+    "Homelessness": {
+      "importanceScore": 0,
+      "stanceScore": null,
+      "stanceExplanation": "Not enough context.",
+      "highlights": []
+    },
+    "Health Care Access": {
+      "importanceScore": 0,
+      "stanceScore": null,
+      "stanceExplanation": "Not enough context.",
+      "highlights": []
+    },
+    "Veterans & Military": {
+      "importanceScore": 3,
+      "stanceScore": 5,
+      "stanceExplanation": "The statement does not provide specific policies or positions related to veterans and military issues, making it difficult to assign a clear ideological stance. However, the emphasis on \"service, opportunity, and community\" suggests a balanced approach that could appeal to both conservative and progressive values. Overall, it reflects a moderate stance that prioritizes community engagement without leaning strongly in either direction.",
+      "highlights": [
+        "com/meet-george-sarantopoulos/ ---\nHome Meet George Sarantopoulos Policies News Contact Us Home Meet George Sarantopoulos Policies News Contact Us Home Meet George Sarantopoulos Policies News Contact Us Home Meet George Sarantopoulos Policies News Contact Us Donate Now  Donate Now Meet George Sarantopoulos About Me A lifelong New Yorker and proud Bay Ridge resident, George Sarantopoulos is a proven leader with over 20 years of experience in business, public service, and community advocacy.",
+        "In public service, George worked as Communications Director for a New York State Assemblyman and has played key roles in numerous local and state campaigns.",
+        "At the heart of everything George does is a commitment to service, opportunity, and community."
+      ]
+    },
+    "Government & Ethics": {
+      "importanceScore": 0,
+      "stanceScore": null,
+      "stanceExplanation": "Not enough context.",
+      "highlights": []
+    },
+    "Elections & Democracy": {
+      "importanceScore": 0,
+      "stanceScore": null,
+      "stanceExplanation": "Not enough context.",
+      "highlights": []
+    },
+    "Civil Rights & Memory": {
+      "importanceScore": 0,
+      "stanceScore": null,
+      "stanceExplanation": "Not enough context.",
+      "highlights": []
+    }
+  }
+}

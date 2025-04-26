@@ -1,0 +1,141 @@
+{
+  "candidate": "Blas, Sarah",
+  "aggregateIdeology": {
+    "score": 7,
+    "reasoning": "Blas, Sarah focuses on issues such as Climate & Environment, Education, Health Care Access. The emphasis on preserving wetlands and green spaces indicates a strong commitment to environmental protection and sustainability, which aligns with progressive values."
+  },
+  "issues": {
+    "Affordable Housing": {
+      "importanceScore": 4,
+      "stanceScore": 3,
+      "stanceExplanation": "The statements emphasize a conservative perspective by attributing the housing crisis primarily to high taxes and the actions of developers. This suggests a focus on reducing taxes and regulating developers rather than advocating for broader systemic changes or government intervention. The language used indicates a concern for individual property rights and the financial burdens on seniors, aligning more with conservative values.",
+      "highlights": [
+        "We need to focus on the root causes of our housing crisis: We need to focus on the root causes of our housing crisis: Sky-high taxes that push our seniors out of their homes.",
+        "Developers who profit from the housing crisis while communities bear the consequences.",
+        "Developers who profit from the housing crisis while communities bear the consequences."
+      ]
+    },
+    "Policing & Public Safety": {
+      "importanceScore": 15,
+      "stanceScore": 6,
+      "stanceExplanation": "The statements emphasize the importance of both supporting law enforcement and engaging with community stakeholders, indicating a balanced approach. The focus on mental health and anti-violence initiatives suggests a progressive stance on public safety. However, the repeated emphasis on the dignity and respect for NYPD officers leans towards a more conservative viewpoint.",
+      "highlights": [
+        "Protection Protection Fight for the dignity and respect of every NYPD officer, their families, as well as those they swear to protect and serve.",
+        "Regularly meet with relevant stakeholders from the NYPD and community groups to address current inadequacies and identify gaps in resources.",
+        "Fight for the dignity and respect of every NYPD officer, their families, as well as those they swear to protect and serve."
+      ]
+    },
+    "Education": {
+      "importanceScore": 25,
+      "stanceScore": 9,
+      "stanceExplanation": "The emphasis on fully funding public schools from early intervention to college readiness programs indicates a strong commitment to expanding access and resources in education, which aligns with progressive values. The mention of education reform and a focus on comprehensive solutions further supports a progressive stance on improving educational outcomes. Overall, these statements reflect a desire for systemic change and investment in public education.",
+      "highlights": [
+        "Expansion Expansion Expand public school services by fully funding public schools from early intervention to college readiness programs.",
+        "Expand public school services by fully funding public schools from early intervention to college readiness programs.",
+        "Graduate of the Campaign School at Yale University, 2018."
+      ]
+    },
+    "Public Transit": {
+      "importanceScore": 4,
+      "stanceScore": 9,
+      "stanceExplanation": "The emphasis on expanding door-to-door transportation for children with disabled parents highlights a commitment to inclusivity and support for vulnerable populations, which aligns with progressive values. Additionally, ensuring waterfront accessibility for all individuals, regardless of their socioeconomic status, reflects a strong belief in equitable access to public resources. These statements advocate for systemic changes that prioritize social equity, characteristic of a progressive stance.",
+      "highlights": [
+        "Expand door-to-door transportation for children with disabled parents and caregivers.",
+        "Expand door-to-door transportation for children with disabled parents and caregivers.",
+        "First, waterfront accessibility for every individual, regardless of their zip code."
+      ]
+    },
+    "Climate & Environment": {
+      "importanceScore": 26,
+      "stanceScore": 9,
+      "stanceExplanation": "The emphasis on preserving wetlands and green spaces indicates a strong commitment to environmental protection and sustainability, which aligns with progressive values. Collaborating with environmental justice groups and state legislators to fund sustainability projects further demonstrates a proactive approach to addressing climate issues. Overall, these actions reflect a deep commitment to climate and environmental justice, characteristic of a progressive stance.",
+      "highlights": [
+        "Parks & Open Spaces Representative of Climate Strong Communities with the Mayor’s Office of Climate & Environmental Justice, 2023.",
+        "Representative of Climate Strong Communities with the Mayor’s Office of Climate & Environmental Justice, 2023.",
+        "Preserving wetlands and green spaces as natural storm buffers."
+      ]
+    },
+    "Immigration": {
+      "importanceScore": 0,
+      "stanceScore": null,
+      "stanceExplanation": "Not enough context.",
+      "highlights": []
+    },
+    "LGBTQ+ Rights": {
+      "importanceScore": 0,
+      "stanceScore": null,
+      "stanceExplanation": "Not enough context.",
+      "highlights": []
+    },
+    "Economic Development": {
+      "importanceScore": 17,
+      "stanceScore": 7,
+      "stanceExplanation": "The emphasis on supporting small businesses and providing opportunities for them indicates a progressive approach to economic development. The focus on addressing food security and expanding small business incubators shows a commitment to inclusivity and community support. However, the statements do not strongly advocate for broader systemic changes, which keeps the score from reaching the highest progressive level.",
+      "highlights": [
+        "Small Business Ending Corruption Children & Youth  Sarah Blas is the co-founder of The Afro-Caribbean Market , providing opportunities for small businesses to showcase artisan products and ethnic food & spices, addressing food security.",
+        "Small Business Small businesses are the heart of any thriving economy.",
+        "My candidacy will add a much-needed connection between small business owners, BID’s, and Chambers of Commerce."
+      ]
+    },
+    "Homelessness": {
+      "importanceScore": 6,
+      "stanceScore": 6,
+      "stanceExplanation": "The focus on mental health initiatives and comprehensive facilities indicates a progressive approach to addressing homelessness, emphasizing care and support rather than punitive measures. The involvement with anti-violence initiatives suggests a holistic view of community safety, which aligns with progressive values. However, the repeated emphasis on public safety may indicate a balancing act between progressive ideals and more conservative concerns about community safety.",
+      "highlights": [
+        "Public Safety Waterfront Recovery  Sarah has worked extensively with MAP (the Mayor's Action Plan), and anti-violence initiatives, and mental health experts to address safety in her community.",
+        "Sarah has worked extensively with MAP (the Mayor's Action Plan), and anti-violence initiatives, and mental health experts to address safety in her community.",
+        "Lead the fight for Staten Island’s first comprehensive long-term residential facility for children with severe mental health diagnoses and substance use disorders."
+      ]
+    },
+    "Health Care Access": {
+      "importanceScore": 19,
+      "stanceScore": 8,
+      "stanceExplanation": "The emphasis on establishing a comprehensive long-term residential facility for children with severe mental health diagnoses indicates a strong commitment to improving access to mental health care, which aligns with progressive values. Additionally, the collaboration with mental health experts and initiatives aimed at public safety suggests a holistic approach to health care access that prioritizes vulnerable populations. Overall, these actions reflect a significant focus on expanding health care services and addressing systemic issues, characteristic of a progressive stance.",
+      "highlights": [
+        "Lead the fight for Staten Island’s first comprehensive long-term residential facility for children with severe mental health diagnoses and substance use disorders.",
+        "Lead the fight for Staten Island’s first comprehensive long-term residential facility for children with severe mental health diagnoses and substance use disorders.",
+        "Public Safety Waterfront Recovery  Sarah has worked extensively with MAP (the Mayor's Action Plan), and anti-violence initiatives, and mental health experts to address safety in her community."
+      ]
+    },
+    "Veterans & Military": {
+      "importanceScore": 16,
+      "stanceScore": 5,
+      "stanceExplanation": "The statements focus on public service and funding for city agencies, which can be seen as a moderate approach to governance. There is no explicit mention of veterans or military issues, indicating a neutral stance on the specific topic. The emphasis on additional funding suggests a desire for improved services, which can appeal to both conservative and progressive viewpoints.",
+      "highlights": [
+        "Public Service Waterfront Recovery Waterfront Recovery  Sarah Blas received the prestigious 2020 Staten Island Women of Achievement for her response during the pandemic.",
+        "Attach Files Attachments (0) This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.",
+        "Creation Creation Fight for additional funding and staff to service call centers for city agencies including the Human Resources Administration (HRA) and Department of Buildings (DOB)."
+      ]
+    },
+    "Government & Ethics": {
+      "importanceScore": 6,
+      "stanceScore": 8,
+      "stanceExplanation": "The emphasis on government accountability and transparency indicates a progressive stance that prioritizes ethical governance and public access to information. The repeated call for open source data platforms suggests a desire for reform and innovation in how government operates. This aligns with progressive values that advocate for citizen engagement and oversight in governmental processes.",
+      "highlights": [
+        "My results have been recognized and awarded by the City Council, the Mayor’s Office, the New York State Legislature, and many more.",
+        "My results have been recognized and awarded by the City Council, the Mayor’s Office, the New York State Legislature, and many more.",
+        "Demand government accountability and transparency through annual reports and open source data platforms accessible on the City Council Website."
+      ]
+    },
+    "Elections & Democracy": {
+      "importanceScore": 4,
+      "stanceScore": 8,
+      "stanceExplanation": "The statement advocates for the expansion of democratic participation through the Participatory Budgeting Program, which empowers residents to have a direct say in local projects. This approach aligns with progressive values that emphasize inclusivity and community engagement in governance. By promoting direct involvement in decision-making, it reflects a commitment to enhancing democracy.",
+      "highlights": [
+        "Cancel  Follow Sarah Blas Follow Sarah Blas Election Day - June 24th 0 0 Days Days Days Days 0 0 Hrs Hours Hrs Hours 0 0 Mins Minutes Mins Minutes 0 0 Secs Seconds Secs Seconds Copyright © 2025 Sarah Blas for Staten island Copyright © 2025 Sarah Blas for Staten island Paid for by Sarah Blas for Staten Island Paid for by Sarah Blas for Staten Island Home Bio Platform Contact This website uses cookies.",
+        "Cancel  Follow Sarah Blas Follow Sarah Blas Election Day - June 24th 0 0 Days Days Days Days 0 0 Hrs Hours Hrs Hours 0 0 Mins Minutes Mins Minutes 0 0 Secs Seconds Secs Seconds Copyright © 2025 Sarah Blas for Staten island Copyright © 2025 Sarah Blas for Staten island Paid for by Sarah Blas for Staten Island Paid for by Sarah Blas for Staten Island Home Bio Platform Contact This website uses cookies.",
+        "In order to do this, we must: In order to do this, we must:   Expansion Expansion Bring back the Participatory Budgeting Program so that residents can vote for projects they value most."
+      ]
+    },
+    "Civil Rights & Memory": {
+      "importanceScore": 8,
+      "stanceScore": 6,
+      "stanceExplanation": "The involvement in the Voorspuy Memorial Scholarship suggests a commitment to education and community values, which can align with progressive ideals. The focus on equity and inclusion indicates a progressive stance on civil rights issues. However, the emphasis on protecting long-standing businesses may reflect a more conservative approach to economic change, balancing the progressive elements with a concern for traditional commercial interests.",
+      "highlights": [
+        "Vice President for the Voorspuy Memorial Scholarship, Present.",
+        "Vice President for the Voorspuy Memorial Scholarship, Present.",
+        "Protection Protection Safeguard long-standing businesses against disruptive real estate trends that threaten Staten Island’s commercial heritage."
+      ]
+    }
+  }
+}

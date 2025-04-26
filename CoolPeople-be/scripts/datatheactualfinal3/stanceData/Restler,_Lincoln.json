@@ -1,0 +1,143 @@
+{
+  "candidate": "Restler, Lincoln",
+  "aggregateIdeology": {
+    "score": 8,
+    "reasoning": "Restler, Lincoln focuses on issues such as Climate & Environment, Policing & Public Safety, Homelessness. The statement emphasizes the urgency of the climate crisis, indicating a progressive stance on environmental issues. It highlights proactive measures, such as the Climate Action Roadmap and the importance of urban greenery, which are aligned with progressive environmental policies."
+  },
+  "issues": {
+    "Affordable Housing": {
+      "importanceScore": 25,
+      "stanceScore": 9,
+      "stanceExplanation": "The statements emphasize a strong commitment to affordable housing and advocate for supportive housing solutions for the unhoused, indicating a progressive stance. The focus on community involvement and tenant protection further aligns with progressive values aimed at addressing systemic issues in housing. Additionally, prioritizing these issues alongside climate change and public services reflects a holistic, progressive approach to urban challenges.",
+      "highlights": [
+        "I have served as a board member of Community Board 2, the Brooklyn Public Library, IMPACCT (an affordable housing and tenant organizing group), and more.",
+        "I have served as a board member of Community Board 2, the Brooklyn Public Library, IMPACCT (an affordable housing and tenant organizing group), and more.",
+        "EXPAND ACCESS TO HOUSING People experiencing homelessness need homes, not jail, but New York City incarcerates roughly 2,600 unhoused people whose behavioral needs should qualify them for supportive housing - permanent affordable housing with wrap-around services."
+      ]
+    },
+    "Policing & Public Safety": {
+      "importanceScore": 73,
+      "stanceScore": 8,
+      "stanceExplanation": "The statements emphasize the need for systemic change in policing and public safety, particularly focusing on reducing jail populations and addressing mass incarceration, which aligns with progressive values. They also highlight the importance of public safety in relation to community needs, such as pedestrian and cyclist safety. Overall, the focus on reform and accountability indicates a strong progressive stance.",
+      "highlights": [
+        "This is not just an abuse of power, it’s a public safety risk and nuisance — cars illegally obstruct pedestrian space, endanger cyclists, and take away public parking.",
+        "It is essential that our city have a comprehensive plan to safely and permanently reduce the jail population and end mass incarceration, while building a resilient system able to withstand potential future shocks that might drive up crime.",
+        "This keeps them and crime victims waiting for answers and accountability."
+      ]
+    },
+    "Education": {
+      "importanceScore": 1,
+      "stanceScore": 8,
+      "stanceExplanation": "The statement emphasizes involvement in community-oriented activities, particularly focusing on early childhood education for public housing residents, which aligns with progressive values of accessibility and equity in education. Additionally, the mention of volunteering with marginalized groups highlights a commitment to social justice and support for vulnerable populations. Overall, these actions reflect a progressive stance on education and community service.",
+      "highlights": [
+        "A normal evening included tagging along with mom to a board meeting of the Brooklyn Kindergarten Society, which provides early childhood education for public housing residents, or having an early dinner with dad before he spent the evening volunteering with New Yorkers experiencing homelessness at our neighborhood synagogue on Remsen Street."
+      ]
+    },
+    "Public Transit": {
+      "importanceScore": 11,
+      "stanceScore": 6,
+      "stanceExplanation": "The statements emphasize personal responsibility and community actions to promote cleaner commuting options, which aligns with progressive values of environmental sustainability. However, they do not advocate for systemic changes or increased public investment in transit infrastructure, which would be more characteristic of a progressive stance. The mention of dog infrastructure, while slightly off-topic, suggests a broader concern for community well-being, further supporting a moderately progressive rating.",
+      "highlights": [
+        "Some easy actions include choosing a cleaner commute by taking the subway or carpooling, complying with the City’s car idling law, and reducing your energy usage at home or work by lowering your AC and electricity usage.",
+        "Some easy actions include choosing a cleaner commute by taking the subway or carpooling, complying with the City’s car idling law, and reducing your energy usage at home or work by lowering your AC and electricity usage.",
+        "Some easy actions include choosing a cleaner commute by taking the subway or carpooling, complying with the City’s car idling law, and reducing your energy usage at home or work by lowering your AC and electricity usage."
+      ]
+    },
+    "Climate & Environment": {
+      "importanceScore": 123,
+      "stanceScore": 8,
+      "stanceExplanation": "The statement emphasizes the urgency of the climate crisis, indicating a progressive stance on environmental issues. It highlights proactive measures, such as the Climate Action Roadmap and the importance of urban greenery, which are aligned with progressive environmental policies. The focus on community safety and immediate action against climate change further supports a high score on the progressive scale.",
+      "highlights": [
+        "nyc/initiatives ---\n0 0 Open Menu Close Menu Open Menu Close Menu District 33 Initiatives Climate Action Roadmap The climate crisis is not a far-off threat—it’s happening now.",
+        "Today, we released a Climate Action Roadmap for the 33rd District.",
+        "When I talk to experts about fighting back against climate change - a solution I hear most often is surprisingly simple: trees."
+      ]
+    },
+    "Immigration": {
+      "importanceScore": 1,
+      "stanceScore": null,
+      "stanceExplanation": "Not enough context.",
+      "highlights": [
+        "government issued photo identification for many of our city’s 600,000 undocumented residents."
+      ]
+    },
+    "LGBTQ+ Rights": {
+      "importanceScore": 6,
+      "stanceScore": 8,
+      "stanceExplanation": "The statements emphasize the importance of protecting workers from discrimination and harassment, which aligns with progressive values. By advocating for a ban on employer restrictions regarding workplace claims, the focus is on ensuring equitable treatment for all, including LGBTQ+ individuals. This proactive stance indicates a strong commitment to advancing LGBTQ+ rights within the workplace.",
+      "highlights": [
+        "District 33 Updates ⚖️🎉 In April, we passed our bill to protect New York City workers by banning employers from restricting workplace discrimination or harassment claims.",
+        "Every worker in New York City deserves to seek damages if they’ve experienced discrimination or harassment.",
+        "Sign Up  District 33 Updates ⚖️🎉 In April, we passed our bill to protect New York City workers by banning employers from restricting workplace discrimination or harassment claims."
+      ]
+    },
+    "Economic Development": {
+      "importanceScore": 5,
+      "stanceScore": 8,
+      "stanceExplanation": "The statements emphasize community engagement and support for local residents, particularly through job training and placement programs. The focus on addressing food deserts and empowering tenants indicates a progressive approach to economic development. Additionally, the commitment to ensuring local public housing residents benefit from new job opportunities reflects a strong social equity perspective.",
+      "highlights": [
+        "com/news-updates/ ---\nNews & Updates October 17, 2023 There are 24,000 empty jobs slowing the City down There are 24,000 empty jobs slowing the City down October 17, 2023 More Trees Grow in Brooklyn, as Council Member Pushes to Fill Every Empty Pit More Trees Grow in Brooklyn, as Council Member Pushes to Fill Every Empty Pit October 17, 2023 How to Prep NYC for the Next Smoke Apocalypse?",
+        "As District Leader, working with the community, I helped open a new supermarket in a food desert - and got 90% of the jobs to go to local public housing residents.",
+        "Nicks Alliance, a 45-year-old community based organization in Williamsburg, where we run job training and placement programs, provide early childhood and afterschool programs, offer quality senior services, and organize and empower tenants."
+      ]
+    },
+    "Homelessness": {
+      "importanceScore": 39,
+      "stanceScore": 8,
+      "stanceExplanation": "The statements advocate for a progressive approach to homelessness by recognizing the challenges faced by individuals who are incarcerated and previously homeless. By proposing to amend eligibility criteria to include time spent in jail as part of being homeless, it emphasizes the need for inclusive policies that address systemic issues. This perspective aligns with a more compassionate and rehabilitative view of homelessness rather than a punitive one.",
+      "highlights": [
+        "Pass legislation or take executive action to amend the homeless eligibility requirement for the NYC 15/15 supportive housing program to include time in jail as time considered homeless .",
+        "If a person enters jail or prison homeless, their time incarcerated should count towards being homeless.",
+        "Currently incarceration does not count towards homeless eligibility criteria and much like shelters, jails and prisons are not meant for permanent or ongoing habitation."
+      ]
+    },
+    "Health Care Access": {
+      "importanceScore": 17,
+      "stanceScore": 9,
+      "stanceExplanation": "The statements advocate for increased funding and support for mental health care and substance use resources, particularly for vulnerable populations such as those involved in the justice system. This approach emphasizes the importance of healthcare access as a means to improve public safety and stability, aligning with progressive values. The focus on comprehensive support rather than punitive measures indicates a strong commitment to social welfare and rehabilitation.",
+      "highlights": [
+        "Beyond the humanitarian crisis Rikers represents, this treatment of people in jail decreases stability and pushes safety further away for New York City as a whole.",
+        "Beyond the humanitarian crisis Rikers represents, this treatment of people in jail decreases stability and pushes safety further away for New York City as a whole.",
+        "Increase Supervised Release program funding by $28 million (to a total of $100 million) and work with relevant stakeholders, including District Attorneys, Defenders, and the Office of Court Administration, to establish and build support for a more intensive supervised release model that connects people to mental health care, substance use, and other resources."
+      ]
+    },
+    "Veterans & Military": {
+      "importanceScore": 10,
+      "stanceScore": 5,
+      "stanceExplanation": "The statements provided do not directly address any specific policies or positions related to veterans and military issues. They focus more on constituent services and public service hours, suggesting a neutral stance rather than a strong ideological position. Therefore, a middle score reflects a balanced approach without clear conservative or progressive leanings.",
+      "highlights": [
+        "gov ( 718) 875-5200 410 Atlantic Ave Brooklyn NY 11217 ( 718) 875-5200 Constituent Service Walk-In Hours: Monday - Friday, 9AM to 5PM.",
+        "Learning from my parents, my grandparents, and my big sister, led me to public service.",
+        "gov ( 718) 875-5200 410 Atlantic Ave Brooklyn NY 11217 ( 718) 875-5200 Constituent Service Walk-In Hours: Monday - Friday, 9AM to 5PM."
+      ]
+    },
+    "Government & Ethics": {
+      "importanceScore": 11,
+      "stanceScore": 7,
+      "stanceExplanation": "The statements emphasize a commitment to transparency, accountability, and integrity in politics, which aligns with progressive values. The focus on advocating for solutions and addressing systemic issues suggests a challenge to traditional power structures. Overall, the language reflects a desire for reform and social justice, typical of a more progressive stance.",
+      "highlights": [
+        "The position didn’t come with a salary, but it afforded a platform to advocate and solve problems.",
+        "Ever since 2008, we have been a thorn in the side of the machine bosses and the status quo, working to bring transparency, accountability, and integrity to Brooklyn politics.",
+        "I am a neighborhood kid Since 2008, we have been a thorn in the side of the machine bosses and the status quo, working to bring transparency, accountability and integrity to Brooklyn politics."
+      ]
+    },
+    "Elections & Democracy": {
+      "importanceScore": 1,
+      "stanceScore": 7,
+      "stanceExplanation": "The statement reflects a narrative of overcoming systemic challenges and party establishment, which aligns with progressive values of grassroots activism and reform. The emphasis on an \"insurgent campaign\" suggests a push against traditional political norms, often associated with progressive movements. Winning against the odds indicates a commitment to democratic principles and representation, further supporting a more progressive stance.",
+      "highlights": [
+        "Against all odds and the full power of the party machine, we ran an insurgent campaign and I won a tight election in 2010 to become the District Leader in Greenpoint and Williamsburg."
+      ]
+    },
+    "Civil Rights & Memory": {
+      "importanceScore": 6,
+      "stanceScore": 9,
+      "stanceExplanation": "The statements emphasize the importance of protecting workers' rights against discrimination and harassment, which aligns with progressive values advocating for social justice and equality. The focus on enabling workers to seek damages reflects a commitment to holding employers accountable, a key aspect of civil rights. Overall, the initiative demonstrates a strong stance in favor of enhancing protections for marginalized groups in the workplace.",
+      "highlights": [
+        "District 33 Updates ⚖️🎉 In April, we passed our bill to protect New York City workers by banning employers from restricting workplace discrimination or harassment claims.",
+        "Every worker in New York City deserves to seek damages if they’ve experienced discrimination or harassment.",
+        "Sign Up  District 33 Updates ⚖️🎉 In April, we passed our bill to protect New York City workers by banning employers from restricting workplace discrimination or harassment claims."
+      ]
+    }
+  }
+}

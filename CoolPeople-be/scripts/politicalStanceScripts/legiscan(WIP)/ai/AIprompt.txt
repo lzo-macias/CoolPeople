@@ -1,0 +1,8 @@
+You are a political analyst. Evaluate the ideological stance of the following legislative bill. On a scale from 1 (very conservative) to 10 (very progressive), how would you rate this bill based on its language, policy goals, and typical partisan alignment?
+
+Bill Number: [Number]
+Bill Description: [DESCRIPTION]
+
+Return your rating and 1-sentence reasoning like this:
+Rating: X
+Reason: [short explanation]

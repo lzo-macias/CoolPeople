@@ -1,0 +1,127 @@
+{
+  "candidate": "Usmanov, Fedir",
+  "aggregateIdeology": {
+    "score": 6,
+    "reasoning": "Usmanov, Fedir focuses on issues such as Elections & Democracy, Education, Government & Ethics. The statement emphasizes a commitment to accountability and reform, which aligns with progressive values seeking to challenge the status quo. The focus on inefficiency and broken promises suggests a desire for systemic change rather than merely maintaining existing structures."
+  },
+  "issues": {
+    "Affordable Housing": {
+      "importanceScore": 0,
+      "stanceScore": null,
+      "stanceExplanation": "Not enough context.",
+      "highlights": []
+    },
+    "Policing & Public Safety": {
+      "importanceScore": 6,
+      "stanceScore": 6,
+      "stanceExplanation": "The emphasis on \"neighborhood-based policing\" and \"stronger crime prevention programs\" suggests a balanced approach to public safety that values community involvement. The focus on accountability and smarter budgeting indicates a progressive inclination towards effective governance rather than solely punitive measures. However, the language used does not strongly advocate for systemic reform, placing it more towards the center of the political spectrum.",
+      "highlights": [
+        "Supporting education, public safety, transportation, sanitation, and small businesses isn’t up for debate—that’s a must.",
+        "Supporting education, public safety, transportation, sanitation, and small businesses isn’t up for debate—that’s a must.",
+        "I am running for NYC Council to bring real accountability, smarter budgeting, and policies that make every dollar work for the people—whether in education, public safety, transportation, or small business growth."
+      ]
+    },
+    "Education": {
+      "importanceScore": 14,
+      "stanceScore": 7,
+      "stanceExplanation": "The emphasis on mentorship and teaching financial literacy suggests a progressive approach to education that seeks to empower students with practical skills. The call for more funding for teachers and career pathways indicates a recognition of systemic issues within the education system, aligning with progressive values. Overall, the statements advocate for comprehensive support and improvement in education, which leans towards a more progressive stance.",
+      "highlights": [
+        "I have also worked to empower the next generation, regularly hosting mentorship meetings with high school and college students, teaching financial literacy, leadership, and problem-solving skills that schools often overlook.",
+        "I have also worked to empower the next generation, regularly hosting mentorship meetings with high school and college students, teaching financial literacy, leadership, and problem-solving skills that schools often overlook.",
+        "Better Education & Youth Opportunities Better Education & Youth Opportunities More funding for teachers, real career pathways for students, and mentorship programs that prepare young people for success."
+      ]
+    },
+    "Public Transit": {
+      "importanceScore": 8,
+      "stanceScore": 7,
+      "stanceExplanation": "The emphasis on expanding transportation services indicates a progressive approach to public transit, prioritizing accessibility and efficiency. Supporting essential services like transportation aligns with a broader progressive agenda that values community investment and infrastructure development. The repetition of these statements underscores a commitment to improving public transit, which is often championed by more progressive political platforms.",
+      "highlights": [
+        "Fixing Public Transit Fixing Public Transit Faster commutes with expanded transportation service.",
+        "Fixing Public Transit Fixing Public Transit Faster commutes with expanded transportation service.",
+        "Faster commutes with expanded transportation service."
+      ]
+    },
+    "Climate & Environment": {
+      "importanceScore": 0,
+      "stanceScore": null,
+      "stanceExplanation": "Not enough context.",
+      "highlights": []
+    },
+    "Immigration": {
+      "importanceScore": 2,
+      "stanceScore": 8,
+      "stanceExplanation": "The statement emphasizes empathy and personal experience with the challenges faced by immigrants, which aligns with a more progressive stance on immigration. Highlighting the struggles of working-class families suggests a focus on social justice and support for marginalized communities. This perspective typically advocates for more inclusive and supportive immigration policies.",
+      "highlights": [
+        "As a first-generation immigrant from a working class family, I understand firsthand the challenges many New Yorkers face.",
+        "As a first-generation immigrant from a working class family, I understand firsthand the challenges many New Yorkers face."
+      ]
+    },
+    "LGBTQ+ Rights": {
+      "importanceScore": 0,
+      "stanceScore": null,
+      "stanceExplanation": "Not enough context.",
+      "highlights": []
+    },
+    "Economic Development": {
+      "importanceScore": 4,
+      "stanceScore": 6,
+      "stanceExplanation": "The emphasis on small business growth and cutting red tape suggests a moderate approach that values economic development while still supporting entrepreneurial initiatives. The focus on accountability and smarter budgeting indicates a pragmatic stance rather than a purely progressive one. Overall, the statements reflect a balanced perspective that leans slightly towards progressive ideals, particularly in fostering community-focused economic policies.",
+      "highlights": [
+        "Small Business Growth Small Business Growth Cutting red tape, providing grants, and making it easier for businesses to open and thrive.",
+        "I am running for NYC Council to bring real accountability, smarter budgeting, and policies that make every dollar work for the people—whether in education, public safety, transportation, or small business growth.",
+        "I am running for NYC Council to bring real accountability, smarter budgeting, and policies that make every dollar work for the people—whether in education, public safety, transportation, or small business growth."
+      ]
+    },
+    "Homelessness": {
+      "importanceScore": 0,
+      "stanceScore": null,
+      "stanceExplanation": "Not enough context.",
+      "highlights": []
+    },
+    "Health Care Access": {
+      "importanceScore": 0,
+      "stanceScore": null,
+      "stanceExplanation": "Not enough context.",
+      "highlights": []
+    },
+    "Veterans & Military": {
+      "importanceScore": 6,
+      "stanceScore": 5,
+      "stanceExplanation": "The statements provided do not directly address veterans or military issues, focusing instead on public transit and community service. The mention of perseverance and service suggests a moderate stance that values community engagement, which can appeal to both conservative and progressive viewpoints. Without specific references to veterans' benefits or military policy, it's difficult to assign a more definitive ideological score.",
+      "highlights": [
+        "Fixing Public Transit Fixing Public Transit Faster commutes with expanded transportation service.",
+        "Faster commutes with expanded transportation service.",
+        "com/about-fedir ---\nFedir Usmanov for City Council Fedir Usmanov  Fedir Usmanov for City Council Fedir Usmanov Home Home Platform Platform About Fedir About Fedir Gallery Gallery News & Updates News & Updates Contact Contact About Me My journey has been one of perseverance, innovation, and service to the community."
+      ]
+    },
+    "Government & Ethics": {
+      "importanceScore": 9,
+      "stanceScore": 4,
+      "stanceExplanation": "The emphasis on \"real accountability\" and \"smart budgeting\" suggests a focus on fiscal responsibility, which aligns more with conservative principles. However, the call for a \"fresh approach\" and prioritizing \"people over politics\" indicates a willingness to challenge the status quo, hinting at some progressive elements. Overall, the statements lean towards a moderate conservative stance, advocating for efficiency and accountability in government.",
+      "highlights": [
+        "\" Fedir’s Platform – A New Generation of Leadership Smart Budgeting & Accountability Smart Budgeting & Accountability  Every dollar must directly improve people’s lives; no more wasteful spending or unaccountable programs.",
+        "\"I am running to bring a fresh approach, real accountability, and bold solutions to a system that has failed us for too long.",
+        "I am running because our city needs a fresh approach, real accountability, and leaders who put people over politics."
+      ]
+    },
+    "Elections & Democracy": {
+      "importanceScore": 23,
+      "stanceScore": 6,
+      "stanceExplanation": "The statement emphasizes a commitment to accountability and reform, which aligns with progressive values seeking to challenge the status quo. The focus on inefficiency and broken promises suggests a desire for systemic change rather than merely maintaining existing structures. However, the language is somewhat general and does not explicitly advocate for specific progressive policies, keeping it from a higher score.",
+      "highlights": [
+        "My mission is not just about winning an election; it is about making it clear to those in power that we will no longer accept inefficiency, and broken promises.",
+        "My mission is not just about winning an election; it is about making it clear to those in power that we will no longer accept inefficiency, and broken promises.",
+        "\" - Fedir Usmanov, Candidate for New York City Council District 47 Why Am I Running for Office?"
+      ]
+    },
+    "Civil Rights & Memory": {
+      "importanceScore": 2,
+      "stanceScore": 8,
+      "stanceExplanation": "The involvement in a nonprofit focused on providing opportunities for low-income youth indicates a commitment to social equity and empowerment, which aligns with progressive values. The emphasis on art and cultural diversity suggests an appreciation for inclusivity and the importance of representation in society. Overall, these activities reflect a proactive stance towards civil rights and the promotion of underrepresented communities.",
+      "highlights": [
+        "Since the age of 16, I have been deeply involved in my family’s nonprofit, which provides opportunities for low-income youth to explore art and cultural diversity.",
+        "Since the age of 16, I have been deeply involved in my family’s nonprofit, which provides opportunities for low-income youth to explore art and cultural diversity."
+      ]
+    }
+  }
+}

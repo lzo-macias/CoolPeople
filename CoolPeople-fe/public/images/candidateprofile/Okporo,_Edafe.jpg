@@ -1,0 +1,82 @@
+<html>
+<head>
+<title>Temporarily Unavailable</title>
+<link href="https://fonts.googleapis.com/css?family=Roboto:300,400,900" rel="stylesheet"> 
+<style type="text/css">
+
+	body {
+			background-image: url('https://www.inmotionhosting.com/_img/body_bg.gif');
+			background-repeat: repeat-x;
+	        font-family: Verdana, Arial, Helvetica, sans-serif;
+			font-weight: 700;
+		}
+	img {	border-width:0px; }
+
+	h1 {
+		font-family: "Roboto";
+		font-weight: 900;
+		font-size: 48px;
+		text-shadow: 1px 1px rgba(32, 32, 32, 0.2);
+	}
+
+	h2 {
+		font-family: "Roboto";
+		font-weight: 400;
+		font-size: 24px;
+	}
+
+	h4 {
+		font-family: "Roboto";
+		font-weight: 900;
+		font-size: 24px;
+		color: rgba(40, 40, 40, 0.7);
+	}
+
+	#reason {
+		width: 50%;
+		margin-top: -20px;
+		font-family: "Roboto";
+		font-weight: 300;
+		font-size: 18px;
+		color: rgba(40, 40, 40, 0.7);
+	}
+
+	#bottext {
+		width: 50%;
+		margin-top: 100px;
+		font-family: "Roboto";
+		font-weight: 300;
+		font-size: 14px;
+		color: rgba(0, 0, 0, 0.9);
+	}
+	
+	.header { background-image: url('https://www.inmotionhosting.com/_img/head_logo.gif'); }
+
+</style>
+</head>
+
+<body>
+<br /><br />
+<div>
+<center>
+
+<h1>Temporarily Unavailable</h1>
+<h2>We apologize for the inconvenience, but this page is currently unavailable. Please check back again later.</h2>
+<br/>
+
+<div id="reason">
+	If you are the website owner, please contact us at your earliest convenience. Our customer support team is available 24/7 via live chats and tickets.<br/>
+	<ul><b>Email:</b> <u>support@inmotionhosting.com</u></ul>
+	<ul><b>Phone:</b> <u>+1 757-416-6575</u> / <a href="https://www.inmotionhosting.com/skype">Skype</a></ul>
+	<ul><b>Chat:</b> <a href="https://www.inmotionhosting.com/support/launch-chat/">Launch Chat</a></ul>
+</div>
+
+<center>
+<div id="bottext">
+	We cannot disclose any information regarding this account if you are not its owner or authorized party. For the security and privacy of our customers, all account requests are verified prior to the disclosure of account information.
+</div>
+
+</body>
+</html>
+
+

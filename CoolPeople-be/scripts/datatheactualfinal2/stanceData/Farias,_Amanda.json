@@ -1,0 +1,124 @@
+{
+  "candidate": "Farias, Amanda",
+  "aggregateIdeology": {
+    "score": 8,
+    "reasoning": "Farias, Amanda focuses on issues such as Economic Development, Education, Public Transit. The statements emphasize proactive measures to protect and grow local jobs, indicating a focus on community and economic sustainability. The mention of comprehensive legislation to support industrial and manufacturing sectors suggests a progressive approach to economic development."
+  },
+  "issues": {
+    "Affordable Housing": {
+      "importanceScore": 6,
+      "stanceScore": 9,
+      "stanceExplanation": "The statements emphasize significant investments in affordable housing and community services, which align with progressive values. The focus on prioritizing vulnerable populations such as seniors, working families, and the formerly homeless indicates a strong commitment to social equity. Overall, the initiatives reflect a proactive approach to addressing housing affordability, characteristic of progressive policies.",
+      "highlights": [
+        "5 million in funding to transform District 18, delivering infrastructure upgrades, affordable housing, and vital services to uplift the community.",
+        "3,600+ Homes Built: Housing That Works With Amanda’s leadership, over 3,600 affordable housing units have been developed, prioritizing seniors, working families, and the formerly homeless.",
+        "5 million in funding to transform District 18, delivering infrastructure upgrades, affordable housing, and vital services to uplift the community."
+      ]
+    },
+    "Policing & Public Safety": {
+      "importanceScore": 0,
+      "stanceScore": null,
+      "stanceExplanation": "Not enough context.",
+      "highlights": []
+    },
+    "Education": {
+      "importanceScore": 17,
+      "stanceScore": 8,
+      "stanceExplanation": "The investment of over $10M in schools and STEAM initiatives indicates a strong commitment to enhancing educational resources, which aligns with progressive values of equitable access to quality education. Additionally, organizing family-friendly events demonstrates a focus on community engagement and support for families, further emphasizing a progressive approach to education. Overall, these actions reflect a prioritization of student empowerment and community involvement, characteristic of more progressive educational policies.",
+      "highlights": [
+        "$10M+ Invested: Empowering Our Students Amanda has invested over $10M in schools, after-school programs, and STEAM initiatives, ensuring students in District 18 have the resources they need to succeed.",
+        "Family-Friendly Fun Amanda has organized events like annual family skate parties, silent discos, and School’s Out Family Day, creating free, engaging experiences for families across the district.",
+        "$10M+ Invested: Empowering Our Students Amanda has invested over $10M in schools, after-school programs, and STEAM initiatives, ensuring students in District 18 have the resources they need to succeed."
+      ]
+    },
+    "Public Transit": {
+      "importanceScore": 14,
+      "stanceScore": 8,
+      "stanceExplanation": "The statements reflect a strong commitment to making public transit accessible and affordable, particularly for vulnerable populations like seniors, students, and low-income residents. The emphasis on infrastructure upgrades and affordable housing indicates a progressive approach to community development. Overall, these initiatives align with progressive values of equity and social justice in public transportation.",
+      "highlights": [
+        "Making Transit Accessible Amanda spearheaded legislation to provide discounted ferry fares for seniors, students, and low-income residents, ensuring that transportation remains affordable for those who need it most.",
+        "Making Transit Accessible Amanda spearheaded legislation to provide discounted ferry fares for seniors, students, and low-income residents, ensuring that transportation remains affordable for those who need it most.",
+        "5 million in funding to transform District 18, delivering infrastructure upgrades, affordable housing, and vital services to uplift the community."
+      ]
+    },
+    "Climate & Environment": {
+      "importanceScore": 2,
+      "stanceScore": 5,
+      "stanceExplanation": "The statements emphasize economic benefits and job creation, which are often associated with more conservative viewpoints. However, the focus on sustainability suggests a recognition of environmental concerns, indicating a moderate stance. Overall, the balance between economic and environmental priorities places this position in the center of the political spectrum.",
+      "highlights": [
+        "▶ Impact: Supports thousands of local jobs, strengthens the industrial sector in District 18, and ensures long-term economic sustainability.",
+        "▶ Impact: Supports thousands of local jobs, strengthens the industrial sector in District 18, and ensures long-term economic sustainability."
+      ]
+    },
+    "Immigration": {
+      "importanceScore": 0,
+      "stanceScore": null,
+      "stanceExplanation": "Not enough context.",
+      "highlights": []
+    },
+    "LGBTQ+ Rights": {
+      "importanceScore": 0,
+      "stanceScore": null,
+      "stanceExplanation": "Not enough context.",
+      "highlights": []
+    },
+    "Economic Development": {
+      "importanceScore": 19,
+      "stanceScore": 7,
+      "stanceExplanation": "The statements emphasize proactive measures to protect and grow local jobs, indicating a focus on community and economic sustainability. The mention of comprehensive legislation to support industrial and manufacturing sectors suggests a progressive approach to economic development. However, the emphasis on traditional job sectors may limit the score from reaching the highest progressive levels.",
+      "highlights": [
+        "Jobs Protected: Growing the Bronx Economy Amanda championed transformative projects like the Metro North expansion and protections for industrial zones, preserving thousands of jobs and creating new opportunities.",
+        "Championing Local Jobs Amanda passed the Industrial Business Strategic Action Plan , the first comprehensive legislation since 1961 to protect and grow industrial and manufacturing zones.",
+        "▶ Impact: Supports thousands of local jobs, strengthens the industrial sector in District 18, and ensures long-term economic sustainability."
+      ]
+    },
+    "Homelessness": {
+      "importanceScore": 3,
+      "stanceScore": 9,
+      "stanceExplanation": "The focus on developing over 3,600 affordable housing units indicates a strong commitment to addressing homelessness and providing housing for vulnerable populations. Prioritizing seniors, working families, and the formerly homeless reflects a progressive approach to social welfare and housing equity. This emphasis on affordable housing solutions aligns with progressive values aimed at reducing homelessness and supporting marginalized communities.",
+      "highlights": [
+        "3,600+ Homes Built: Housing That Works With Amanda’s leadership, over 3,600 affordable housing units have been developed, prioritizing seniors, working families, and the formerly homeless.",
+        "3,600+ Homes Built: Housing That Works With Amanda’s leadership, over 3,600 affordable housing units have been developed, prioritizing seniors, working families, and the formerly homeless.",
+        "3,600+ Homes Built: Housing That Works 3,600+ Homes Built: Housing That Works With Amanda’s leadership, over 3,600 affordable housing units have been developed, prioritizing seniors, working families, and the formerly homeless."
+      ]
+    },
+    "Health Care Access": {
+      "importanceScore": 0,
+      "stanceScore": null,
+      "stanceExplanation": "Not enough context.",
+      "highlights": []
+    },
+    "Veterans & Military": {
+      "importanceScore": 0,
+      "stanceScore": null,
+      "stanceExplanation": "Not enough context.",
+      "highlights": []
+    },
+    "Government & Ethics": {
+      "importanceScore": 6,
+      "stanceScore": 7,
+      "stanceExplanation": "The focus on securing funding for local business improvement and promoting salary transparency indicates a progressive approach to economic development and worker rights. The emphasis on new revenue streams for workers suggests a commitment to enhancing economic equity. Overall, these actions align more closely with progressive values that prioritize community support and fair labor practices.",
+      "highlights": [
+        "Small Business Boosted: Supporting Local Success Amanda secured over $200,000 for District 18’s Business Improvement Districts and enacted legislation to promote salary transparency and new revenue streams for workers.",
+        "Small Business Boosted: Supporting Local Success Amanda secured over $200,000 for District 18’s Business Improvement Districts and enacted legislation to promote salary transparency and new revenue streams for workers.",
+        "Small Business Boosted: Supporting Local Success Small Business Boosted: Supporting Local Success Amanda secured over $200,000 for District 18’s Business Improvement Districts and enacted legislation to promote salary transparency and new revenue streams for workers."
+      ]
+    },
+    "Elections & Democracy": {
+      "importanceScore": 0,
+      "stanceScore": null,
+      "stanceExplanation": "Not enough context.",
+      "highlights": []
+    },
+    "Civil Rights & Memory": {
+      "importanceScore": 6,
+      "stanceScore": 9,
+      "stanceExplanation": "The statements emphasize bold legislative actions aimed at ensuring equity and access, which aligns with progressive values. Additionally, the focus on community engagement and celebrating diversity reflects a commitment to inclusivity and social justice. Overall, these actions suggest a strong progressive stance on civil rights and community empowerment.",
+      "highlights": [
+        "Equity in Action Delivering Legislative Wins for a Fairer Bronx Amanda Farías has taken bold legislative steps to ensure equity and access for all Bronx residents.",
+        "Equity in Action Delivering Legislative Wins for a Fairer Bronx Amanda Farías has taken bold legislative steps to ensure equity and access for all Bronx residents.",
+        "Celebrating Community Bringing People Together, Building a Stronger Bronx Amanda Farías has made community engagement a cornerstone of her work, creating vibrant, inclusive events that celebrate the culture, diversity, and spirit of District 18."
+      ]
+    }
+  }
+}

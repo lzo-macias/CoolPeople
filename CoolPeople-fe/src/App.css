@@ -1,0 +1,113 @@
+.main-container {
+    /* position: absolute; */
+    width: 100%;
+}
+#root {
+  width: 100vw;
+  min-height: 100vh;
+  padding: 0;
+  margin: 0;
+  overflow-x: hidden; /* optional but helps prevent weird horizontal scrollbars */
+}
+.home-container {
+  width: 100%;
+  padding: 0; /* optional, to reset any default browser padding */
+  margin: 0;  /* optional, to reset margin */
+}
+
+.header img {
+    width: 200px;
+}
+
+.header-container {
+    border-bottom: .5px solid gray;
+    width: 100%;
+}
+
+.header {
+    /* position: fixed; */
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 40px;
+    margin-right: 60px;
+    max-height: 10vh;
+}
+
+.header a {
+    color: black;              /* light gray text */
+    text-decoration: none;    /* removes underline */
+    font-size: 15px;
+    margin: 0 12px;
+    font-weight: 500;
+  }
+  
+  /* .header a:hover {
+    color: #000;              
+  } */
+
+.loginandregister-links {
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+    font-size: 20px; /* ← set your desired size here */
+}
+
+.login-link {
+    background-color: #f0f0f0; 
+    color: #000;           
+    padding: 8px 16px;
+    border-radius: 10px;
+    cursor: pointer;
+    font-weight: 500;
+  }
+  
+  .register-link {
+    background-color: #000; 
+    color: #fff;           
+    padding: 8px 16px;
+    border-radius: 10px;
+    cursor: pointer;
+    font-weight: 500;
+  }
+
+.login-link:hover,
+.register-link:hover {
+  opacity: 0.85;
+}
+
+.HomeCarousel {
+  /* position: fixed; */
+  background-color: red;
+  /* margin-left: 20px; */
+  overflow-x: auto;
+  white-space: nowrap;
+  padding: 1rem; 
+  padding-left: 1.6rem;       
+  display: flex;
+  flex-wrap: nowrap;
+  gap: 4rem;
+  scroll-behavior: smooth;
+  scroll-padding-left: 1rem;
+  border-radius: 25px;
+}
+
+.HomeCarousel img {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 2px solid black;
+}
+
+.candidate-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center; /* (optional) vertically center if you want */
+  width: 150px;
+  flex-shrink: 0;
+  gap: 0.5rem; /* space between name, image, and position */
+}
+

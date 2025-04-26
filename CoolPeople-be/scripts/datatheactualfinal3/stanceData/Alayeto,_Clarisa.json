@@ -1,0 +1,111 @@
+{
+  "candidate": "Alayeto, Clarisa",
+  "aggregateIdeology": {
+    "score": 9,
+    "reasoning": "Alayeto, Clarisa focuses on issues such as Affordable Housing, Health Care Access, Civil Rights & Memory. Clarisa's background in public housing and public schools indicates a strong personal connection to the struggles of working families. Her lifelong commitment to advocacy suggests a progressive stance focused on addressing systemic issues related to affordable housing."
+  },
+  "issues": {
+    "Affordable Housing": {
+      "importanceScore": 4,
+      "stanceScore": 9,
+      "stanceExplanation": "Clarisa's background in public housing and public schools indicates a strong personal connection to the struggles of working families. Her lifelong commitment to advocacy suggests a progressive stance focused on addressing systemic issues related to affordable housing. This perspective aligns with progressive values that prioritize social equity and support for marginalized communities.",
+      "highlights": [
+        "Growing up in NYCHA public housing and attending public schools, Clarisa understands firsthand the challenges that working families face—challenges that shaped her lifelong commitment to advocacy.",
+        "Growing up in NYCHA public housing and attending public schools, Clarisa understands firsthand the challenges that working families face—challenges that shaped her lifelong commitment to advocacy.",
+        "Growing up in NYCHA public housing and attending public schools, Clarisa understands firsthand the challenges that working families face—challenges that shaped her lifelong commitment to advocacy."
+      ]
+    },
+    "Policing & Public Safety": {
+      "importanceScore": 2,
+      "stanceScore": 8,
+      "stanceExplanation": "The statements emphasize community organizing and public health initiatives, which are typically associated with progressive values. The focus on uplifting neighbors through education and addressing gun violence suggests a proactive approach to social issues rather than a punitive one. Overall, these actions align more closely with progressive policies aimed at improving public safety through community engagement and support.",
+      "highlights": [
+        "From organizing against gun violence in Patterson Houses, to championing public health initiatives, to expanding access to quality education, she has spent decades doing the work needed to uplift her neighbors.",
+        "From organizing against gun violence in Patterson Houses, to championing public health initiatives, to expanding access to quality education, she has spent decades doing the work needed to uplift her neighbors."
+      ]
+    },
+    "Education": {
+      "importanceScore": 2,
+      "stanceScore": 8,
+      "stanceExplanation": "The emphasis on expanding access to quality education indicates a progressive stance, as it aligns with the belief in education as a fundamental right and a means for social upliftment. The mention of public health initiatives further supports a progressive agenda focused on community well-being. Overall, the commitment to uplifting neighbors through these initiatives suggests a strong alignment with progressive values.",
+      "highlights": [
+        "From organizing against gun violence in Patterson Houses, to championing public health initiatives, to expanding access to quality education, she has spent decades doing the work needed to uplift her neighbors.",
+        "From organizing against gun violence in Patterson Houses, to championing public health initiatives, to expanding access to quality education, she has spent decades doing the work needed to uplift her neighbors."
+      ]
+    },
+    "Public Transit": {
+      "importanceScore": 0,
+      "stanceScore": null,
+      "stanceExplanation": "Not enough context.",
+      "highlights": []
+    },
+    "Climate & Environment": {
+      "importanceScore": 0,
+      "stanceScore": null,
+      "stanceExplanation": "Not enough context.",
+      "highlights": []
+    },
+    "Immigration": {
+      "importanceScore": 0,
+      "stanceScore": null,
+      "stanceExplanation": "Not enough context.",
+      "highlights": []
+    },
+    "LGBTQ+ Rights": {
+      "importanceScore": 0,
+      "stanceScore": null,
+      "stanceExplanation": "Not enough context.",
+      "highlights": []
+    },
+    "Economic Development": {
+      "importanceScore": 0,
+      "stanceScore": null,
+      "stanceExplanation": "Not enough context.",
+      "highlights": []
+    },
+    "Homelessness": {
+      "importanceScore": 0,
+      "stanceScore": null,
+      "stanceExplanation": "Not enough context.",
+      "highlights": []
+    },
+    "Health Care Access": {
+      "importanceScore": 4,
+      "stanceScore": 9,
+      "stanceExplanation": "The statements emphasize a strong commitment to public health initiatives and community upliftment, which aligns with progressive values. The focus on expanding access to quality education and health care suggests a belief in equitable access for all, a hallmark of progressive ideology. Additionally, the grassroots organizing background indicates a dedication to addressing systemic issues affecting marginalized communities.",
+      "highlights": [
+        "From organizing against gun violence in Patterson Houses, to championing public health initiatives, to expanding access to quality education, she has spent decades doing the work needed to uplift her neighbors.",
+        "A seasoned grassroots organizer and community leader, Clarisa serves as the Chairperson of Bronx Community Board 1 and Co-Chair of the NYC Public Health Advisory Council.",
+        "From organizing against gun violence in Patterson Houses, to championing public health initiatives, to expanding access to quality education, she has spent decades doing the work needed to uplift her neighbors."
+      ]
+    },
+    "Veterans & Military": {
+      "importanceScore": 0,
+      "stanceScore": null,
+      "stanceExplanation": "Not enough context.",
+      "highlights": []
+    },
+    "Government & Ethics": {
+      "importanceScore": 0,
+      "stanceScore": null,
+      "stanceExplanation": "Not enough context.",
+      "highlights": []
+    },
+    "Elections & Democracy": {
+      "importanceScore": 0,
+      "stanceScore": null,
+      "stanceExplanation": "Not enough context.",
+      "highlights": []
+    },
+    "Civil Rights & Memory": {
+      "importanceScore": 3,
+      "stanceScore": 9,
+      "stanceExplanation": "The statements emphasize a strong commitment to equity, opportunity, and justice, which are key progressive values. The focus on identity as an Afro-Latina highlights the importance of representation and social justice issues. Overall, the dedication to fighting for marginalized communities aligns closely with progressive ideals.",
+      "highlights": [
+        "As a proud Afro-Latina , she has dedicated her life to fighting for equity, opportunity, and justice in the community that raised her.",
+        "As a proud Afro-Latina , she has dedicated her life to fighting for equity, opportunity, and justice in the community that raised her.",
+        "Clarisa Alayeto has deep roots in both sides of District 8 Afro-Latina dedicated her life to fighting for equity, opportunity, and justice in the community that raised her."
+      ]
+    }
+  }
+}
