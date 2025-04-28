@@ -5,6 +5,7 @@ import "./App.css";
 
 import Header from "./components/Header";
 import Home from "./pages/Home";
+import MyBallots from "./pages/myballots";
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
     </div>
       <Routes>
         <Route path="/" element={<Home />} />
+        <Route path = "/myballots" element={<MyBallots/>}/>
       </Routes>
     </>
   );

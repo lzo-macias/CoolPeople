@@ -2,12 +2,12 @@ const { createCandidate } = require("./db/candidates.js");
 const { createTables } = require("./db/db.js");
 const path = require("path");
 const fs = require("fs");
-const candidatefundingsummary = require("../data/financialData/candidateFundingSummary.js"); // ✅ CommonJS require
+const combinedCandidates = require("../data/combinedCandidates.js");
 
 const seedCandidates = async () => {
      await createTables();
   try {
-    for (const candidate of candidatefundingsummary) {
+    for (const candidate of combinedCandidates) {
       const name = candidate.name;
       const position = candidate.office;
 
