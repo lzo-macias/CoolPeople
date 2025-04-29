@@ -19,6 +19,8 @@ const createUser = async ({
   email,
   password,
   full_name,
+  borough,
+  cityCouncilDistrict,
   address,
   zip_code,
   dob
@@ -33,18 +35,20 @@ const createUser = async ({
     const hashedPassword = await bcrypt.hash(password, 10);
 
     const SQL = `
-      INSERT INTO users(id, email, password, full_name, address, zip_code, dob, created_at)
-      VALUES(uuid_generate_v4(), $1, $2, $3, $4, $5, $6, CURRENT_TIMESTAMP)
-      RETURNING id, email, full_name, address, zip_code, dob, created_at;
+      INSERT INTO users(id, email, password, full_name, borough, cityCouncilDistrict, address, zip_code, dob, created_at)
+      VALUES(uuid_generate_v4(), $1, $2, $3, $4, $5, $6, $7, $8, CURRENT_TIMESTAMP)
+      RETURNING id, email, full_name, borough, cityCouncilDistrict, address, zip_code, dob, created_at;
     `;
 
     const result = await pool.query(SQL, [
       email,
       hashedPassword,
       full_name,
+      borough,
+      cityCouncilDistrict,
       address,
       zip_code,
-      dob,
+      dob
     ]);
 
     return result.rows[0];
@@ -53,6 +57,7 @@ const createUser = async ({
     throw err;
   }
 };
+
 
 // Find user by email
 const findUserByEmail = async (email) => {

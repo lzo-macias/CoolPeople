@@ -14,13 +14,22 @@ const router = express.Router();
 // POST /api/users/register
 router.post("/register", async (req, res, next) => {
   try {
-    const { email, password, full_name, address, zip_code, dob } = req.body;
-
-    if (!email || !password || !dob) {
+    const { email, password, full_name, borough, cityCouncilDistrict, address, zip_code, dob } = req.body;
+    
+    if (!email || !password || !dob || !address) {
       return res.status(400).json({ error: "Missing required fields." });
     }
 
-    const newUser = await createUser({ email, password, full_name, address, zip_code, dob });
+    const newUser = await createUser({ 
+      email, 
+      password, 
+      full_name, 
+      borough, 
+      cityCouncilDistrict, 
+      address, 
+      zip_code, 
+      dob 
+    });
 
     // Generate JWT token
     const token = jwt.sign(

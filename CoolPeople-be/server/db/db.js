@@ -18,6 +18,8 @@ CREATE EXTENSION IF NOT EXISTS "uuid-ossp";
     email VARCHAR(256) UNIQUE NOT NULL,
     password VARCHAR(256) NOT NULL,
     full_name VARCHAR(128),
+    borough VARCHAR(128),
+    cityCouncilDistrict VARCHAR(64),
     address TEXT,
     zip_code VARCHAR(10),
     dob DATE,
