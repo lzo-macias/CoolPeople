@@ -1,4 +1,6 @@
 import React from "react";
+import { Link } from "react-router-dom";
+
 
 function CandidateCarousel({ title, candidates }) {
   if (!candidates || candidates.length === 0) return null;
@@ -7,26 +9,55 @@ function CandidateCarousel({ title, candidates }) {
     <div className="candidate-section" style={{ marginBottom: '2rem' }}>
       <h3>{title}</h3>
 
-      {/* 👇 SAME CLASSNAME as HomeCarousel */}
       <div className="HomeCarousel">
-        {candidates.map((candidate) => (
-          <div key={candidate.name} className="candidate-card">
-            <div style={{ marginTop: "0.5rem", fontSize: "0.9rem" }}>{candidate.name}</div>
+        {candidates.map((candidate) => {
+          const score = candidate.stances?.averageScore ?? null;
+          const borderClass =
+            score == null
+              ? "border-black"
+              : score > 5
+              ? "border-blue"
+              : "border-red";
 
-            {candidate.photo_url && (
-              <img
-                src={candidate.photo_url}
-                alt={`${candidate.name}`}
-                // ❌ remove custom inline size, let CSS handle it!
-              />
-            )}
+          const bubbleClass =
+            score == null
+              ? "bubble-black"
+              : score > 5
+              ? "bubble-blue"
+              : "bubble-red";
 
-            {candidate.position && (
-              <div style={{ marginTop: "0.5rem", fontSize: "0.9rem" }}>{candidate.position}</div>
-            )}
-          </div>
-        ))}
+          const lineClass =
+            score == null
+              ? "line-black"
+              : score > 5
+              ? "line-blue"
+              : "line-red";
+
+          return (
+            <Link to={`/candidates/${candidate.id}`} key={candidate.id} className="candidate-card-link">
+            <div key={candidate.id} className="candidate-card">
+              <div className="image-wrapper2">
+                <img
+                  src={candidate.photo_url}
+                  alt={candidate.name}
+                  className={`${borderClass}`}
+                />
+                <div className={`score-line ${lineClass}`}>
+                  <div className={`score-bubble ${bubbleClass}`}>
+                    {score !== null ? Math.round(score) : "null"}
+                  </div>
+                </div>
+              </div>
+              <div className="candidate-name">{candidate.name}</div>
+              {candidate.position && (
+                <div className="candidate-position">{candidate.position}</div>
+              )}
+            </div>
+            </Link>
+          );
+        })}
       </div>
+
     </div>
   );
 }

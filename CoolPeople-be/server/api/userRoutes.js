@@ -45,6 +45,8 @@ router.post("/register", async (req, res, next) => {
 });
 
 // POST /api/users/login
+// userRoutes.js
+
 router.post("/login", async (req, res, next) => {
   try {
     const { email, password } = req.body;
@@ -63,11 +65,19 @@ router.post("/login", async (req, res, next) => {
       { expiresIn: "7d" }
     );
 
-    res.status(200).json({ id: user.id, email: user.email, full_name: user.full_name, token });
+    res.status(200).json({ 
+      id: user.id,
+      email: user.email,
+      full_name: user.full_name,
+      borough: user.borough,                     // ✅ Add this
+      cityCouncilDistrict: user.citycouncildistrict, // ✅ Add this
+      token
+    });
   } catch (err) {
     next(err);
   }
 });
+
 
 // GET /api/users
 router.get("/", async (req, res, next) => {

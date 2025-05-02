@@ -7,9 +7,18 @@ function MyBallots() {
   const [allCandidates, setAllCandidates] = useState([]);
 
   useEffect(() => {
-    const storedInfo = localStorage.getItem('districtInfo');
-    if (storedInfo) {
-      setDistrictInfo(JSON.parse(storedInfo));
+    const userinfo = localStorage.getItem('user');
+    const tempinfo = localStorage.getItem('districtInfo');
+    
+    if (userinfo) {
+      const parsedUser = JSON.parse(userinfo);
+      const district = {
+        borough: parsedUser.borough,
+        cityCouncilDistrict: parsedUser.cityCouncilDistrict,
+      };
+      setDistrictInfo(district);
+    } else if (tempinfo) {
+      setDistrictInfo(JSON.parse(tempinfo));
     }
 
     const fetchCandidates = async () => {

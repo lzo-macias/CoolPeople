@@ -7,6 +7,8 @@ import Header from "./components/Header";
 import Home from "./pages/Home";
 import MyBallots from "./pages/myballots";
 import Register from "./pages/Register";
+import Login from "./pages/Login";
+import SingleCandidate from "./pages/SingleCandidate";
 
 function App() {
   return (
@@ -16,8 +18,10 @@ function App() {
     </div>
       <Routes>
         <Route path="/" element={<Home />} />
-        <Route path = "/myballots" element={<MyBallots/>}/>
+        <Route path = "/Myballots" element={<MyBallots/>}/>
         <Route path = "/Register" element={<Register/>}/>
+        <Route path = "/Login" element ={<Login/>}/>
+        <Route path = "/candidates/:id" element = {<SingleCandidate/>}/>
       </Routes>
     </>
   );

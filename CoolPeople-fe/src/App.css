@@ -78,19 +78,17 @@
 }
 
 .HomeCarousel {
-  /* position: fixed; */
-  background-color: red;
-  /* margin-left: 20px; */
   overflow-x: auto;
   white-space: nowrap;
   padding: 1rem; 
-  padding-left: 1.6rem;       
+  padding-left: 3.5rem;       
   display: flex;
   flex-wrap: nowrap;
-  gap: 4rem;
+  gap: 8rem;
   scroll-behavior: smooth;
   scroll-padding-left: 1rem;
   border-radius: 25px;
+
 }
 
 .HomeCarousel img {
@@ -98,7 +96,7 @@
   height: 200px;
   border-radius: 50%;
   object-fit: cover;
-  border: 2px solid black;
+  /* border: 2px solid black; */
 }
 
 .candidate-card {
@@ -111,6 +109,226 @@
   gap: 0.5rem; /* space between name, image, and position */
 }
 
+/* .eneteraddress {
+  position: relative;
+  left: 100px;
+} */
+.clock-container {
+  text-align: left;
+  display: flex;
+  flex-direction: column;
+  max-width: 60vw;
+  align-items: flex-start; /* push content to the left */
+  justify-content: flex-start;
+  padding-left:  2rem; /* optional: add spacing from the edge */
+  padding-top: 4rem;
+}
+
+.clock-header {
+  /* background: #7d669e; */
+  /* position: fixed; */
+  min-width: 700px;
+  max-width: 700px;
+  color: black;
+  font-size: 3rem;
+  font-weight: bold;
+  padding: 1rem 2rem;
+  margin-bottom: 3rem;
+}
+
+.clock-timer {
+  /* position: fixed;
+  top: 290px; */
+  /* right:20px; */
+  display: flex;
+  gap: 2rem;
+  font-size: 4rem;
+  font-weight: 600;
+}
+
+.clock-unit {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.clock-value {
+  color: black;
+  font-size: clamp(3rem, 7vw, 6rem); /* responsive sizing */
+  font-weight: 800;
+  padding: 0.5rem 0.75rem;
+}
+
+.clock-label {
+  font-size: 1rem;
+  color: black;
+  margin-top: 0.5rem;
+}
+
+.clock-value {
+  color: black;
+  font-size: 7rem; /* bigger number */
+  font-weight: 800;
+}
+
+.colon {
+  font-size: 4rem; /* smaller semicolon */
+  margin-left: 0.3rem;
+}
+
+/* .clock-containerblurb {
+  padding: 2rem 2rem;
+  font-size: 1.5rem;
+  align-items: center;
+} */
+.clock-containerblurb {
+  /* top: 500px;
+  left: 20px; */
+  /* position: fixed; */
+  padding: 2rem 1rem;
+  padding-right: 200px;
+  font-size: 1.5rem;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: black;
+  max-width: 750px;
+  min-width:750px;
+  margin: 0 auto;
+  line-height: 1.6;
+}
+
+/* candidate grid */
+
+.candidate-grid {
+  background-color: #ccc;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(120px, 1fr)); /* adjust size */
+  gap: 1rem;
+  padding: 1rem;
+  justify-items: center;
+  margin: 100px 20px;
+  border-radius: 20px; /* ⬅️ Curved edges */
+}
+
+.candidate-grid img {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  object-fit: cover;
+  /* border: 2px solid black; */
+}
+
+.candidate-card {
+  text-align: center;
+  max-width: 120px;
+}
+
+/* .candidate-image {
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  border-radius: 8px;
+} */
+
+.candidate-name,
+.candidate-position {
+  font-size: 0.85rem;
+  margin-top: 0.3rem;
+}
+.border-blue {
+  border: 2px solid #007bff; /* Bootstrap primary blue */
+}
+
+.border-red {
+  border: 2px solid #dc3545; /* Bootstrap danger red */
+}
+
+.border-black {
+  border: 2px solid black; /* Bootstrap danger red */
+}
+.image-wrapper {
+  position: relative;
+  width: 120px;
+  height: 120px;
+}
+
+.image-wrapper2{
+  position: relative;
+  width: 200px;
+  height: 200px;
+}
+.image-wrapper3{
+  position: relative;
+  width: 225px;
+  height: 225px;
+  margin-left: 20px;
+}
+
+.candidate-image {
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+  object-fit: cover;
+}
+.candidate-card-link {
+  text-decoration: none;
+  color: inherit;
+}
+
+/* .score-line {
+  position: absolute;
+  bottom: 90%;
+  left: 0;
+  width: 100%;
+  height: 2px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.line-blue {
+  background-color: #007bff;
+}
+
+.line-red {
+  background-color: #dc3545;
+}
+
+.line-black {
+  background-color: black;
+} */
+
+.score-bubble {
+  position: absolute;
+  top: -10px; /* Places it above the image */
+  left: 50%;
+  transform: translateX(-50%);
+  color: white;
+  font-size: 0.65rem;
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+  z-index: 2;
+}
+
+.bubble-blue {
+  background-color: #007bff; /* Bootstrap primary blue */
+}
+
+.bubble-red {
+  background-color: #dc3545; /* Bootstrap danger red */
+}
+
+.bubble-black {
+  background-color: #000000;
+}
 
 /* signup */
 .signup_main_container,
@@ -163,4 +381,50 @@
   border: 1px solid #ccc;
   border-radius: 6px;
   height: 40px;
+}
+
+/* SINGLE CANDIDATE */
+.CandidateProfile {
+  margin: 20px 20px;
+  display: flex;
+  gap: 50px;
+  display: center-align;
+  
+}
+
+.single-candidate-page hr {
+  margin: 20px 40px;
+}
+
+.stance-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 20px;
+  margin: 30px;
+}
+
+.stance-card {
+  background-color: white;
+  padding: 1rem;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); /* 👈 soft shadow */
+  transition: box-shadow 0.2s ease;
+}
+.stance-card:hover {
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15); /* deeper on hover */
+}
+
+
+.score-bubbleinline {
+  position: absolute;
+  transform: translateX(-50%);
+  /* transform: none; */
+  width: 24px;
+  height: 24px;
+  /* border-radius: 12px; */
+  margin-inline-start: 20px;
+  border-radius: 50%;
+  display: inline-flex; /* ← KEY FIX */
+  align-items: center;
+  justify-content: center;
 }

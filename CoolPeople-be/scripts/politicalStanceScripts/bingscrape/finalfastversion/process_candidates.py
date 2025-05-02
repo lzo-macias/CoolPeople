@@ -40,9 +40,9 @@ import random
 
 # Paths
 script_dir = os.path.dirname(os.path.abspath(__file__))
-candidates_file = os.path.join(script_dir, 'candidates.txt')
+candidates_file = os.path.join(script_dir, 'oneatatime.txt')
 pythonscraper_path = os.path.join(script_dir, 'pythonscraper.py')
-scoring_path = os.path.join(script_dir, 'scoring.js')
+scoring_path = os.path.join(script_dir, 'scoring.mjs')
 
 # Read candidates
 with open(candidates_file, 'r') as file:

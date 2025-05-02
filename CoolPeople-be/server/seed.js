@@ -2,25 +2,67 @@ const { createCandidate } = require("./db/candidates.js");
 const { createTables } = require("./db/db.js");
 const path = require("path");
 const fs = require("fs");
-const combinedCandidates = require("../data/combinedCandidates.js");
+const stringSimilarity = require("string-similarity");
+
+const listOfCandidates = require("../data/listofcandidates.js");
+const candidateAnalyses = require("../data/candidateAnalyses.js");
+const candidateTotals = require("../data/financialData/candidateTotals.js");
+
+// Normalize helper
+const normalize = (str) => str.replace(/[^a-zA-Z0-9]/g, "").toLowerCase();
+
+// Create normalized maps for fast lookup
+const stanceMap = {};
+for (const analysis of candidateAnalyses) {
+  stanceMap[normalize(analysis.name)] = analysis.scores;
+}
+
+const financeMap = {};
+for (const entry of candidateTotals) {
+  financeMap[normalize(entry.name)] = entry.totalRaised;
+}
 
 const seedCandidates = async () => {
-     await createTables();
+  await createTables();
+
   try {
-    for (const candidate of combinedCandidates) {
+    const candidatePhotosDir = path.join(__dirname, "../public/images/candidateprofile");
+    const files = fs.readdirSync(candidatePhotosDir).filter(f =>
+      f.endsWith(".jpg") || f.endsWith(".png")
+    );
+
+    const normalizedPhotoMap = files.map(file => ({
+      file,
+      base: normalize(file.split(".")[0])
+    }));
+
+    console.log("🔍 Available normalized image basenames:", normalizedPhotoMap.map(f => f.base));
+
+    for (const candidate of listOfCandidates) {
       const name = candidate.name;
       const position = candidate.office;
+      const normalizedName = normalize(name);
 
-      // Match photo if it exists
-      const formattedName = name.replace(/ /g, "_");
-      const candidatePhotosDir = path.join(__dirname, "../public/images/candidateprofile");
-      const files = fs.readdirSync(candidatePhotosDir);
-      const matchingPhoto = files.find(file => file.startsWith(formattedName));
-
+      // Fuzzy match image file
+      const { bestMatch } = stringSimilarity.findBestMatch(
+        normalizedName,
+        normalizedPhotoMap.map(p => p.base)
+      );
+      
       let photo_url = null;
-      if (matchingPhoto) {
-        photo_url = `/images/candidateprofile/${matchingPhoto}`;  // ✅ Only URL path here
+      if (bestMatch.rating > 0.75) {  // ⬅️ relaxed threshold
+        const matchedFile = normalizedPhotoMap.find(p => p.base === bestMatch.target);
+        if (matchedFile) {
+          photo_url = `/images/candidateprofile/${matchedFile.file}`;
+          console.log(`📸 Matched photo for ${name} → ${matchedFile.file} (score: ${bestMatch.rating.toFixed(2)})`);
+        }
+      } else {
+        console.warn(`⚠️ No strong photo match for: ${name} → normalized: ${normalizedName} (score: ${bestMatch.rating.toFixed(2)})`);
       }
+      
+      const fullStanceData = candidateAnalyses.find(c => normalize(c.name) === normalizedName);
+      const stances = fullStanceData ? JSON.stringify(fullStanceData) : null;
+      const finances = financeMap[normalizedName] != null ? Math.round(financeMap[normalizedName]) : null;
 
       const newCandidate = await createCandidate({
         name,
@@ -30,7 +72,10 @@ const seedCandidates = async () => {
         photo_url,
         position,
         office_id: null,
+        stances,
         election_id: null,
+        incumbency: null,
+        finances
       });
 
       console.log(`✅ Seeded candidate: ${newCandidate.name}`);

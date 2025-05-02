@@ -3,22 +3,62 @@ const pool = require("./index").pool;
 // Fetch all candidates
 const fetchCandidates = async () => {
   const SQL = `
-    SELECT id, name, bio, party, website, photo_url, position, office_id, election_id, created_at
+    SELECT 
+      id, 
+      name, 
+      bio, 
+      party, 
+      website, 
+      photo_url, 
+      position, 
+      office_id, 
+      election_id, 
+      incumbency, 
+      stances, 
+      finances, 
+      created_at
     FROM candidates;
   `;
   const { rows } = await pool.query(SQL);
-  return rows;
+
+  const parsedRows = rows.map((candidate) => ({
+    ...candidate,
+    stances: candidate.stances ? JSON.parse(candidate.stances) : null,
+  }));
+
+  return parsedRows;
 };
+
 
 // Fetch single candidate by ID
 const fetchCandidateById = async (id) => {
   const SQL = `
-    SELECT id, name, bio, party, website, photo_url, position, office_id, election_id, created_at
-    FROM candidates
+ SELECT 
+      id, 
+      name, 
+      bio, 
+      party, 
+      website, 
+      photo_url, 
+      position, 
+      office_id, 
+      election_id, 
+      incumbency, 
+      stances, 
+      finances, 
+      created_at    FROM candidates
     WHERE id = $1;
   `;
   const { rows } = await pool.query(SQL, [id]);
-  return rows[0];
+
+  const parsedRows = rows.map((candidate) => ({
+    ...candidate,
+    stances: candidate.stances ? JSON.parse(candidate.stances) : null,
+  }));
+
+  // return parsedRows;
+
+  return parsedRows[0];
 };
 
 // Create a new candidate
@@ -30,11 +70,18 @@ const createCandidate = async ({
   photo_url,
   position,
   office_id,
-  election_id
+  incumbency,
+  stances,
+  election_id,
+  finances,
 }) => {
   const SQL = `
-    INSERT INTO candidates (id, name, bio, party, website, photo_url, position, office_id, election_id, created_at)
-    VALUES (uuid_generate_v4(), $1, $2, $3, $4, $5, $6, $7, $8, CURRENT_TIMESTAMP)
+    INSERT INTO candidates (
+      id, name, bio, party, website, photo_url, position, office_id, election_id, incumbency, stances, finances
+    )
+    VALUES (
+      uuid_generate_v4(), $1, $2, $3, $4, $5, $6, $7, $8, $9, $10, $11
+    )
     RETURNING *;
   `;
 
@@ -46,7 +93,10 @@ const createCandidate = async ({
     photo_url,
     position,
     office_id,
-    election_id
+    election_id,
+    incumbency,
+    stances,
+    finances,
   ]);
 
   return rows[0];

@@ -52,17 +52,20 @@ CREATE EXTENSION IF NOT EXISTS "uuid-ossp";
 
   -- Candidates Table
   CREATE TABLE IF NOT EXISTS candidates (
-    id UUID PRIMARY KEY DEFAULT uuid_generate_v4(),
-    name VARCHAR(128) NOT NULL,
-    bio TEXT,
-    party VARCHAR(64),
-    website TEXT,
-    photo_url TEXT,
-    position VARCHAR(128), -- can still use this OR use office_id below
-    office_id UUID REFERENCES offices(id),
-    election_id UUID REFERENCES elections(id) ON DELETE CASCADE,
-    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
-  );
+  id UUID PRIMARY KEY DEFAULT uuid_generate_v4(),
+  name VARCHAR(128) NOT NULL,
+  bio TEXT,
+  party VARCHAR(64),
+  website TEXT,
+  photo_url TEXT,
+  position VARCHAR(128),
+  office_id UUID REFERENCES offices(id),
+  election_id UUID REFERENCES elections(id) ON DELETE CASCADE,
+  incumbency BOOLEAN,
+  stances TEXT,
+  finances BIGINT,
+  created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
 
   -- Ballot Measures Table
   CREATE TABLE IF NOT EXISTS ballot_measures (
