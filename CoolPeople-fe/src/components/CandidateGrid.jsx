@@ -23,8 +23,7 @@ function CandidateGrid({ title }) {
 
   return (
     <div className="candidate-section" style={{ marginBottom: "2rem" }}>
-      <h3>{title}</h3>
-
+      <h3>Track All Your Politicians</h3>
       <div className="candidate-grid">
         {allCandidates.map((candidate) => (
           <Link to={`/candidates/${candidate.id}`} key={candidate.id} className="candidate-card-link">
@@ -69,6 +68,10 @@ function CandidateGrid({ title }) {
           </Link>
         ))}
       </div>
+      <h3 className="bottomheader">Haha just kidding</h3>
+      <h3 className="bottomheader">Join the CoolPeople App and Vote When You Need Too</h3>
+      <button className="bottombutton">CoolPeople</button>
+
     </div>
   );
 }

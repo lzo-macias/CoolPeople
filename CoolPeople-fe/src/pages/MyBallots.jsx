@@ -1,6 +1,8 @@
 import React, { useEffect, useState } from 'react';
 import axios from 'axios';
 import CandidateCarousel from '../components/CandidateCarousel';
+import SmallCountdownClock from '../components/LetteredClockSmall';
+import BouncingBalls from '../components/BouncingBallot';
 
 function MyBallots() {
   const [districtInfo, setDistrictInfo] = useState(null);
@@ -76,13 +78,15 @@ function MyBallots() {
 
   return (
     <>
-      <h2>Your 2025 NYC Ballots</h2>
 
       <CandidateCarousel title="Mayor" candidates={mayorCandidates} />
       <CandidateCarousel title="Public Advocate" candidates={publicAdvocateCandidates} />
       <CandidateCarousel title="Comptroller" candidates={comptrollerCandidates} />
       <CandidateCarousel title={`Borough President (${districtInfo.borough})`} candidates={boroughPresidentCandidates} />
       <CandidateCarousel title={`City Council (District ${districtInfo.cityCouncilDistrict})`} candidates={cityCouncilCandidates} />
+    {/* <SmallCountdownClock/> */}
+    {/* <span role="img" aria-label="trophy">🏆</span> */}
+    {/* <BouncingBalls/> */}
     </>
   );
 }

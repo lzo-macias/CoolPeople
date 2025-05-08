@@ -1,3 +1,19 @@
+body {
+  /* font-family: 'Open Sans', sans-serif; */
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+  color: #111;
+  background-color: #fff;
+}
+
+/* Override heading styles */
+h1, h2, h3, h4, h5, h6 {
+  /* font-family: 'Montserrat', sans-serif; */
+  font-weight: 700;
+  margin-top: 0;
+}
+
 .main-container {
     /* position: absolute; */
     width: 100%;
@@ -47,6 +63,107 @@
     color: #000;              
   } */
 
+/* INTRO */
+
+.intro-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  gap: 40px;
+  padding: 40px;
+  max-width: 1200px;
+  margin: 100px auto 0 auto;
+  box-sizing: border-box;
+
+  /* 🔥 Shadow + border effect */
+  border-radius: 20px;
+  background: white;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+}
+.intro-container {
+  position: relative; /* 🔑 enables absolute positioning inside */
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  gap: 40px;
+  padding: 40px;
+  max-width: 1200px;
+  margin: 100px auto 0 auto;
+  box-sizing: border-box;
+  border-radius: 20px;
+  background: white;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+}
+
+.sticker-wrapper {
+  position: absolute;
+  top: -50px;
+  left: 40px;
+  z-index: 10;
+}
+
+.vote-sticker {
+  width: 150px;
+  height: auto;
+}
+
+.intro-container h2 {
+  font-size: 40px;
+}
+.intro-text {
+  max-width: 50%;
+  /* margin-top: 35px; */
+}
+
+.intro-imgs img {
+  max-width: 200px;
+}
+
+.intro-imgs {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  align-items: center;
+}
+
+.stacked-images {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.intro-imgs img {
+  max-width: 150px;
+  border-radius: 12px;
+  object-fit: contain;
+}
+
+.news-img {
+  max-height: 320px; /* adjust as needed to align with stacked height */
+}
+
+.lookup-form {
+  display: flex;
+  flex-direction: row;
+  gap: 20px
+}
+
+.addysearch {
+  display: flex;
+  flex-direction: column; 
+} 
+
+.zippy {
+  display: flex;
+  flex-direction: column;
+}
+
+.zippy input {
+  margin-top: 2.5px;
+}
+
 .loginandregister-links {
     display: flex;
     flex-direction: row;
@@ -64,12 +181,13 @@
   }
   
   .register-link {
-    background-color: #000; 
+    background-color: red; 
     color: #fff;           
     padding: 8px 16px;
     border-radius: 10px;
     cursor: pointer;
-    font-weight: 500;
+    font-weight: 700;
+    font-style: bold;
   }
 
 .login-link:hover,
@@ -105,8 +223,18 @@
   align-items: center;
   justify-content: center; /* (optional) vertically center if you want */
   width: 150px;
+  height:300px;
   flex-shrink: 0;
   gap: 0.5rem; /* space between name, image, and position */
+  position: relative;
+ }
+
+.trophies {
+  max-height: 30px;
+  max-width: 30px; 
+  position:absolute;
+  left: 140px;
+  bottom: 250px;
 }
 
 /* .eneteraddress {
@@ -175,6 +303,69 @@
   font-size: 4rem; /* smaller semicolon */
   margin-left: 0.3rem;
 }
+.clock-container2 {
+  text-align: left;
+  display: flex;
+  flex-direction: column;
+  max-width: 60vw;
+  align-items: flex-start; /* push content to the left */
+  justify-content: flex-start;
+  padding-left:  2rem; /* optional: add spacing from the edge */
+  padding-top: 4rem;
+}
+
+.clock-header2 {
+  /* background: #7d669e; */
+  /* position: fixed; */
+  min-width: 700px;
+  max-width: 700px;
+  color: black;
+  font-size: 1rem;
+  font-weight: bold;
+  padding: 1rem 2rem;
+  margin-bottom: 3rem;
+}
+
+.clock-timer2 {
+  /* position: fixed;
+  top: 290px; */
+  /* right:20px; */
+  display: flex;
+  gap: 0rem;
+  font-size: 4rem;
+  font-weight: 600;
+}
+
+.clock-unit2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.clock-value2 {
+  color: black;
+  font-size: clamp(3rem, 7vw, 6rem); /* responsive sizing */
+  font-weight: 800;
+  padding: 0.5rem 0.75rem;
+}
+
+.clock-label2 {
+  font-size: .5rem;
+  color: black;
+  margin-top: 0.5rem;
+}
+
+.clock-value2 {
+  color: black;
+  font-size: 1rem; /* bigger number */
+  font-weight: 800;
+}
+
+.colon2 {
+  font-size: 1rem; /* smaller semicolon */
+  margin-left: 0.3rem;
+}
+
 
 /* .clock-containerblurb {
   padding: 2rem 2rem;
@@ -201,16 +392,31 @@
 }
 
 /* candidate grid */
+.candidate-section {
+  margin-top: 40px;
+  max-width: 1200px;
+  margin: 0 auto;           /* centers the section */
+  text-align: center;       /* centers heading and text inside */
+  padding: 2rem 1rem;
+}
+
+.candidate-section h3 {
+  margin-top: 40px;
+
+  font-size: 25px;
+}
 
 .candidate-grid {
-  background-color: #ccc;
+  background-color: white;
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(120px, 1fr)); /* adjust size */
+  grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
   gap: 1rem;
   padding: 1rem;
   justify-items: center;
-  margin: 100px 20px;
-  border-radius: 20px; /* ⬅️ Curved edges */
+  margin: 20px;
+  border: 1px solid #ddd;
+  border-radius: 20px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.08);
 }
 
 .candidate-grid img {
@@ -226,6 +432,16 @@
   max-width: 120px;
 }
 
+.bottomheader {
+  margin: 0px;
+  padding: 0px;;
+}
+.bottombutton {
+  background-color: red;
+  color: white;
+  border: none;
+  margin-top: 40px;
+}
 /* .candidate-image {
   width: 100%;
   aspect-ratio: 1 / 1;
@@ -255,6 +471,11 @@
   height: 120px;
 }
 
+.image-wrapper2 img {
+  max-width: 200px;
+  max-height: 200px;
+}
+
 .image-wrapper2{
   position: relative;
   width: 200px;
@@ -276,6 +497,14 @@
 .candidate-card-link {
   text-decoration: none;
   color: inherit;
+}
+
+.lookup-form button {
+  /* background-color: red; */
+  color: black;
+  border: 1px solid #ddd;         
+  border-radius: 16px;  
+  background-color: #f9f9f9;
 }
 
 /* .score-line {
@@ -303,18 +532,19 @@
 
 .score-bubble {
   position: absolute;
-  top: -10px; /* Places it above the image */
+  top: -12px; /* Places it above the image */
   left: 50%;
   transform: translateX(-50%);
   color: white;
   font-size: 0.65rem;
-  width: 24px;
-  height: 24px;
+  width: 30px;
+  height: 30px;
   border-radius: 50%;
   display: flex;
   align-items: center;
   justify-content: center;
   font-weight: bold;
+  font-size: 12px;
   z-index: 2;
 }
 
@@ -428,3 +658,36 @@
   align-items: center;
   justify-content: center;
 }
+
+
+/* BOUNCING BALLS */
+.ball-container {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  background: black;
+}
+
+.ball {
+  position: absolute;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  text-align: center;
+  line-height: 60px;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+}
+.ball:hover {
+  transform: scale(1.1);
+}
+
+/* Optional: distinct colors or styling */
+.ball1 { background: #FF6B6B; }
+.ball2 { background: #6BCB77; }
+.ball3 { background: #4D96FF; }
+.ball4 { background: #FFC75F; }
+.ball5 { background: #A66DD4; }
+.ball6 { background: #FF9671; }

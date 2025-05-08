@@ -89,7 +89,7 @@ function Register() {
   
 
   return (
-    <div className="signup_main_container card">
+    <div className="signup_main_container">
       <h2>Register</h2>
       <form onSubmit={handleSubmit}>
         <label>Full Name:</label>
@@ -124,7 +124,7 @@ function Register() {
       <div>
         <input
           {...getInputProps({
-            placeholder: 'Search your address',
+            placeholder: '',
             className: 'location-search-input',
           })}
           required

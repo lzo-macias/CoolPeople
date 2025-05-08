@@ -11,8 +11,12 @@ function Header() {
                 <Link>how it works</Link>
                 <Link>contact us</Link>
             <div className='loginandregister-links'>
-                <p className='login-link'>Login</p>
-                <p className='register-link'>Register</p>
+              <Link to="/login">
+                  <p className="login-link">Login</p>
+              </Link>               
+              <Link to="https://e-register.vote.nyc/">
+                   <p className='register-link'>Register</p>
+              </Link>  
             </div>
         </div>
     </div>
