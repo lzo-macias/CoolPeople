@@ -48,8 +48,10 @@ For each of the following 15 issue areas:
     - Cite specific bills by number (e.g., Intro 1867, Local Law 97), programs (e.g., NYC Care, NYCHA Blueprint), or initiatives.
     - Explain briefly what the bills or programs do.
 
-- Include 2–3 official sources (council.nyc.gov, nyc.gov, nytimes.com, cityandstateny.com).
-
+  
+  - **Include 2–3 specific citations with full URLs** (e.g., "https://council.nyc.gov/legislation/int-1867/").
+  - Do **not** just say "nytimes.com" or "cityandstateny.com" — link to the **exact page** the information comes from.
+  
 -some candidates are not in government or incumbents but have a personal website or a history of public service you can also mention that in a category 
 
 - If no real information is available for a category, use:
@@ -86,7 +88,7 @@ Output JSON format:
   },
   "averageScore": X.Y
 }
-`;;
+`;
 }
 
 async function analyzeCandidate(name, office) {
@@ -110,9 +112,9 @@ async function analyzeCandidate(name, office) {
 
 async function runRerunScript() {
     const excludedNames = new Set([
-      "Actille, Treasure J*",
-      "Alayeto, Clarisa",
-      "Rajkumar, Jenifer"
+      // "Actille, Treasure J*",
+      // "Alayeto, Clarisa",
+      // "Rajkumar, Jenifer"
     ]);
   
     const failedNames = new Set(
