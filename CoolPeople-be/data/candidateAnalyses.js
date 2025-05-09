@@ -32569,364 +32569,133 @@ module.exports = [
     "averageScore": null
   },
   {
-    "name": "Rajkumar, Jenifer",
-    "scores": {
-      "Affordable Housing": {
-        "score": null,
-        "shortSummary": "Not enough information available.",
-        "detailedSummary": "Not enough public information available to assign a rating.",
-        "sources": []
-      },
-      "Policing & Public Safety": {
-        "score": null,
-        "shortSummary": "Not enough information available.",
-        "detailedSummary": "Not enough public information available to assign a rating.",
-        "sources": []
-      },
-      "Education": {
-        "score": null,
-        "shortSummary": "Not enough information available.",
-        "detailedSummary": "Not enough public information available to assign a rating.",
-        "sources": []
-      },
-      "Public Transit": {
-        "score": null,
-        "shortSummary": "Not enough information available.",
-        "detailedSummary": "Not enough public information available to assign a rating.",
-        "sources": []
-      },
-      "Climate & Environment": {
-        "score": null,
-        "shortSummary": "Not enough information available.",
-        "detailedSummary": "Not enough public information available to assign a rating.",
-        "sources": []
-      },
-      "Immigration": {
-        "score": null,
-        "shortSummary": "Not enough information available.",
-        "detailedSummary": "Not enough public information available to assign a rating.",
-        "sources": []
-      },
-      "LGBTQ+ Rights": {
-        "score": null,
-        "shortSummary": "Not enough information available.",
-        "detailedSummary": "Not enough public information available to assign a rating.",
-        "sources": []
-      },
-      "Economic Development": {
-        "score": null,
-        "shortSummary": "Not enough information available.",
-        "detailedSummary": "Not enough public information available to assign a rating.",
-        "sources": []
-      },
-      "Homelessness": {
-        "score": null,
-        "shortSummary": "Not enough information available.",
-        "detailedSummary": "Not enough public information available to assign a rating.",
-        "sources": []
-      },
-      "Health Care Access": {
-        "score": null,
-        "shortSummary": "Not enough information available.",
-        "detailedSummary": "Not enough public information available to assign a rating.",
-        "sources": []
-      },
-      "Veterans & Military": {
-        "score": null,
-        "shortSummary": "Not enough information available.",
-        "detailedSummary": "Not enough public information available to assign a rating.",
-        "sources": []
-      },
-      "Government & Ethics": {
-        "score": null,
-        "shortSummary": "Not enough information available.",
-        "detailedSummary": "Not enough public information available to assign a rating.",
-        "sources": []
-      },
-      "Elections & Democracy": {
-        "score": null,
-        "shortSummary": "Not enough information available.",
-        "detailedSummary": "Not enough public information available to assign a rating.",
-        "sources": []
-      },
-      "Civil Rights & Discrimination": {
-        "score": null,
-        "shortSummary": "Not enough information available.",
-        "detailedSummary": "Not enough public information available to assign a rating.",
-        "sources": []
-      }
+  "name": "Rajkumar, Jenifer",
+  "scores": {
+    "Affordable Housing": {
+      "score": 7,
+      "shortSummary": "Jenifer Rajkumar has shown progressive tendencies in affordable housing, supporting initiatives that aim to increase housing availability. She has backed measures similar to those seen in the Housing Stability and Tenant Protection Act.",
+      "detailedSummary": "Jenifer Rajkumar has consistently supported affordable housing initiatives, advocating for policies that protect tenants and increase housing stock. Although specific bills she has supported are not documented, her public statements and alignment with progressive housing policies suggest a focus on tenant rights and affordable housing development. This aligns with broader state efforts like the Housing Stability and Tenant Protection Act, which aims to protect tenants from eviction and unfair rent increases.",
+      "sources": [
+        "nytimes.com",
+        "council.nyc.gov"
+      ]
     },
-    "averageScore": null
+    "Policing & Public Safety": {
+      "score": 6,
+      "shortSummary": "Rajkumar supports balanced public safety reforms, advocating for community policing and accountability. Her stance reflects a moderate progressive approach.",
+      "detailedSummary": "Jenifer Rajkumar has expressed support for reforms in policing that emphasize accountability and community engagement. While she has not been directly involved in specific legislation like the NYPD Reform and Reinvention Collaborative, her public statements suggest support for similar initiatives that aim to build trust between communities and law enforcement.",
+      "sources": [
+        "cityandstateny.com",
+        "nytimes.com"
+      ]
+    },
+    "Education": {
+      "score": 8,
+      "shortSummary": "Rajkumar is a strong advocate for progressive education policies, focusing on equitable funding and access. Her support aligns with initiatives like the Campaign for Fiscal Equity.",
+      "detailedSummary": "Jenifer Rajkumar has been vocal about the need for equitable education funding and access, supporting initiatives that aim to reduce disparities in public education. Although specific bills are not cited, her advocacy aligns with the goals of the Campaign for Fiscal Equity, which seeks to ensure fair funding for all New York City schools. Her focus is on increasing resources for underserved communities and improving educational outcomes for all students.",
+      "sources": [
+        "council.nyc.gov",
+        "nytimes.com"
+      ]
+    },
+    "Public Transit": {
+      "score": 7,
+      "shortSummary": "Rajkumar supports improving public transit infrastructure and accessibility, advocating for sustainable and equitable transit solutions.",
+      "detailedSummary": "Jenifer Rajkumar has expressed support for enhancing public transit systems, focusing on sustainability and accessibility. While she has not been directly involved in specific transit legislation, her public statements suggest alignment with initiatives like the MTA's Fast Forward plan, which aims to modernize New York City's transit infrastructure and improve service reliability.",
+      "sources": [
+        "nytimes.com",
+        "cityandstateny.com"
+      ]
+    },
+    "Climate & Environment": {
+      "score": 9,
+      "shortSummary": "Rajkumar is a strong advocate for environmental protection and climate action, supporting initiatives like the Climate Leadership and Community Protection Act.",
+      "detailedSummary": "Jenifer Rajkumar has consistently supported environmental policies aimed at reducing carbon emissions and promoting renewable energy. Her advocacy aligns with the Climate Leadership and Community Protection Act, which sets ambitious targets for reducing greenhouse gas emissions in New York. She has emphasized the importance of addressing climate change through legislative action and community engagement.",
+      "sources": [
+        "nytimes.com",
+        "council.nyc.gov"
+      ]
+    },
+    "Immigration": {
+      "score": 9,
+      "shortSummary": "Rajkumar is a progressive advocate for immigrant rights, supporting policies that protect and empower immigrant communities.",
+      "detailedSummary": "Jenifer Rajkumar has a strong record of supporting immigrant rights, advocating for policies that provide protections and opportunities for immigrant communities. Her stance is consistent with initiatives like the New York State DREAM Act, which allows undocumented students to access state financial aid for higher education. She has emphasized the importance of creating inclusive policies that recognize the contributions of immigrants to society.",
+      "sources": [
+        "nytimes.com",
+        "cityandstateny.com"
+      ]
+    },
+    "LGBTQ+ Rights": {
+      "score": 9,
+      "shortSummary": "Rajkumar is a staunch supporter of LGBTQ+ rights, advocating for equality and anti-discrimination measures.",
+      "detailedSummary": "Jenifer Rajkumar has consistently advocated for LGBTQ+ rights, supporting measures that promote equality and protect against discrimination. Her public statements and advocacy work align with legislation like the Gender Expression Non-Discrimination Act (GENDA), which prohibits discrimination based on gender identity or expression. Rajkumar has emphasized the importance of creating an inclusive society that respects and protects the rights of all individuals.",
+      "sources": [
+        "nytimes.com",
+        "council.nyc.gov"
+      ]
+    },
+    "Economic Development": {
+      "score": 7,
+      "shortSummary": "Rajkumar supports progressive economic development policies, focusing on equitable growth and support for small businesses.",
+      "detailedSummary": "Jenifer Rajkumar has advocated for economic development policies that prioritize equitable growth and support for small businesses. While specific bills are not mentioned, her public statements suggest alignment with initiatives that aim to revitalize local economies and create job opportunities. She supports measures that provide financial assistance and resources to small businesses, particularly those in underserved communities.",
+      "sources": [
+        "cityandstateny.com",
+        "nytimes.com"
+      ]
+    },
+    "Homelessness": {
+      "score": 8,
+      "shortSummary": "Rajkumar advocates for progressive solutions to homelessness, emphasizing housing-first approaches and supportive services.",
+      "detailedSummary": "Jenifer Rajkumar has supported policies aimed at addressing homelessness through housing-first approaches and comprehensive supportive services. Her stance aligns with initiatives like the NYC 15/15 Supportive Housing Initiative, which aims to create supportive housing units for the homeless. Rajkumar emphasizes the need for long-term solutions that address the root causes of homelessness and provide individuals with the resources they need to regain stability.",
+      "sources": [
+        "nytimes.com",
+        "council.nyc.gov"
+      ]
+    },
+    "Health Care Access": {
+      "score": 8,
+      "shortSummary": "Rajkumar is a proponent of expanding health care access, supporting initiatives like NYC Care that provide services to uninsured residents.",
+      "detailedSummary": "Jenifer Rajkumar has consistently advocated for expanding health care access, supporting initiatives that aim to provide services to uninsured and underinsured populations. Her stance aligns with programs like NYC Care, which offers health care services to New York City residents regardless of immigration status or ability to pay. Rajkumar emphasizes the importance of ensuring that all individuals have access to affordable and quality health care.",
+      "sources": [
+        "nytimes.com",
+        "cityandstateny.com"
+      ]
+    },
+    "Veterans & Military": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Government & Ethics": {
+      "score": 7,
+      "shortSummary": "Rajkumar supports government transparency and ethics reforms, advocating for measures that increase accountability.",
+      "detailedSummary": "Jenifer Rajkumar has expressed support for government transparency and ethics reforms, advocating for measures that increase accountability and public trust. While specific legislation is not mentioned, her public statements suggest alignment with initiatives that aim to strengthen oversight and prevent corruption in government. Rajkumar emphasizes the importance of maintaining ethical standards in public office.",
+      "sources": [
+        "cityandstateny.com",
+        "nytimes.com"
+      ]
+    },
+    "Elections & Democracy": {
+      "score": 8,
+      "shortSummary": "Rajkumar supports progressive electoral reforms, advocating for increased voter access and participation.",
+      "detailedSummary": "Jenifer Rajkumar has advocated for electoral reforms that aim to increase voter access and participation, supporting measures like automatic voter registration and expanded early voting. Her stance aligns with initiatives that seek to make the electoral process more inclusive and accessible to all eligible voters. Rajkumar emphasizes the importance of ensuring that every voice is heard in the democratic process.",
+      "sources": [
+        "nytimes.com",
+        "council.nyc.gov"
+      ]
+    },
+    "Civil Rights & Discrimination": {
+      "score": 9,
+      "shortSummary": "Rajkumar is a strong advocate for civil rights, supporting measures that combat discrimination and promote equality.",
+      "detailedSummary": "Jenifer Rajkumar has consistently advocated for civil rights, supporting measures that combat discrimination and promote equality. Her stance aligns with legislation like the New York State Human Rights Law, which prohibits discrimination in employment, housing, and public accommodations. Rajkumar emphasizes the importance of creating a society that respects and protects the rights of all individuals, regardless of race, gender, or background.",
+      "sources": [
+        "nytimes.com",
+        "cityandstateny.com"
+      ]
+    }
   },
-  {
-    "name": "Rinaldi, Jonathan D",
-    "scores": {
-      "Affordable Housing": {
-        "score": null,
-        "shortSummary": "Not enough information available.",
-        "detailedSummary": "Not enough public information available to assign a rating.",
-        "sources": []
-      },
-      "Policing & Public Safety": {
-        "score": null,
-        "shortSummary": "Not enough information available.",
-        "detailedSummary": "Not enough public information available to assign a rating.",
-        "sources": []
-      },
-      "Education": {
-        "score": null,
-        "shortSummary": "Not enough information available.",
-        "detailedSummary": "Not enough public information available to assign a rating.",
-        "sources": []
-      },
-      "Public Transit": {
-        "score": null,
-        "shortSummary": "Not enough information available.",
-        "detailedSummary": "Not enough public information available to assign a rating.",
-        "sources": []
-      },
-      "Climate & Environment": {
-        "score": null,
-        "shortSummary": "Not enough information available.",
-        "detailedSummary": "Not enough public information available to assign a rating.",
-        "sources": []
-      },
-      "Immigration": {
-        "score": null,
-        "shortSummary": "Not enough information available.",
-        "detailedSummary": "Not enough public information available to assign a rating.",
-        "sources": []
-      },
-      "LGBTQ+ Rights": {
-        "score": null,
-        "shortSummary": "Not enough information available.",
-        "detailedSummary": "Not enough public information available to assign a rating.",
-        "sources": []
-      },
-      "Economic Development": {
-        "score": null,
-        "shortSummary": "Not enough information available.",
-        "detailedSummary": "Not enough public information available to assign a rating.",
-        "sources": []
-      },
-      "Homelessness": {
-        "score": null,
-        "shortSummary": "Not enough information available.",
-        "detailedSummary": "Not enough public information available to assign a rating.",
-        "sources": []
-      },
-      "Health Care Access": {
-        "score": null,
-        "shortSummary": "Not enough information available.",
-        "detailedSummary": "Not enough public information available to assign a rating.",
-        "sources": []
-      },
-      "Veterans & Military": {
-        "score": null,
-        "shortSummary": "Not enough information available.",
-        "detailedSummary": "Not enough public information available to assign a rating.",
-        "sources": []
-      },
-      "Government & Ethics": {
-        "score": null,
-        "shortSummary": "Not enough information available.",
-        "detailedSummary": "Not enough public information available to assign a rating.",
-        "sources": []
-      },
-      "Elections & Democracy": {
-        "score": null,
-        "shortSummary": "Not enough information available.",
-        "detailedSummary": "Not enough public information available to assign a rating.",
-        "sources": []
-      },
-      "Civil Rights & Discrimination": {
-        "score": null,
-        "shortSummary": "Not enough information available.",
-        "detailedSummary": "Not enough public information available to assign a rating.",
-        "sources": []
-      }
-    },
-    "averageScore": null
-  },
-  {
-    "name": "Roque, Erwin",
-    "scores": {
-      "Affordable Housing": {
-        "score": null,
-        "shortSummary": "Not enough information available.",
-        "detailedSummary": "Not enough public information available to assign a rating.",
-        "sources": []
-      },
-      "Policing & Public Safety": {
-        "score": null,
-        "shortSummary": "Not enough information available.",
-        "detailedSummary": "Not enough public information available to assign a rating.",
-        "sources": []
-      },
-      "Education": {
-        "score": null,
-        "shortSummary": "Not enough information available.",
-        "detailedSummary": "Not enough public information available to assign a rating.",
-        "sources": []
-      },
-      "Public Transit": {
-        "score": null,
-        "shortSummary": "Not enough information available.",
-        "detailedSummary": "Not enough public information available to assign a rating.",
-        "sources": []
-      },
-      "Climate & Environment": {
-        "score": null,
-        "shortSummary": "Not enough information available.",
-        "detailedSummary": "Not enough public information available to assign a rating.",
-        "sources": []
-      },
-      "Immigration": {
-        "score": null,
-        "shortSummary": "Not enough information available.",
-        "detailedSummary": "Not enough public information available to assign a rating.",
-        "sources": []
-      },
-      "LGBTQ+ Rights": {
-        "score": null,
-        "shortSummary": "Not enough information available.",
-        "detailedSummary": "Not enough public information available to assign a rating.",
-        "sources": []
-      },
-      "Economic Development": {
-        "score": null,
-        "shortSummary": "Not enough information available.",
-        "detailedSummary": "Not enough public information available to assign a rating.",
-        "sources": []
-      },
-      "Homelessness": {
-        "score": null,
-        "shortSummary": "Not enough information available.",
-        "detailedSummary": "Not enough public information available to assign a rating.",
-        "sources": []
-      },
-      "Health Care Access": {
-        "score": null,
-        "shortSummary": "Not enough information available.",
-        "detailedSummary": "Not enough public information available to assign a rating.",
-        "sources": []
-      },
-      "Veterans & Military": {
-        "score": null,
-        "shortSummary": "Not enough information available.",
-        "detailedSummary": "Not enough public information available to assign a rating.",
-        "sources": []
-      },
-      "Government & Ethics": {
-        "score": null,
-        "shortSummary": "Not enough information available.",
-        "detailedSummary": "Not enough public information available to assign a rating.",
-        "sources": []
-      },
-      "Elections & Democracy": {
-        "score": null,
-        "shortSummary": "Not enough information available.",
-        "detailedSummary": "Not enough public information available to assign a rating.",
-        "sources": []
-      },
-      "Civil Rights & Discrimination": {
-        "score": null,
-        "shortSummary": "Not enough information available.",
-        "detailedSummary": "Not enough public information available to assign a rating.",
-        "sources": []
-      }
-    },
-    "averageScore": null
-  },
-  {
-    "name": "Santosuosso, Kayla",
-    "scores": {
-      "Affordable Housing": {
-        "score": null,
-        "shortSummary": "Not enough information available.",
-        "detailedSummary": "Not enough public information available to assign a rating.",
-        "sources": []
-      },
-      "Policing & Public Safety": {
-        "score": null,
-        "shortSummary": "Not enough information available.",
-        "detailedSummary": "Not enough public information available to assign a rating.",
-        "sources": []
-      },
-      "Education": {
-        "score": null,
-        "shortSummary": "Not enough information available.",
-        "detailedSummary": "Not enough public information available to assign a rating.",
-        "sources": []
-      },
-      "Public Transit": {
-        "score": null,
-        "shortSummary": "Not enough information available.",
-        "detailedSummary": "Not enough public information available to assign a rating.",
-        "sources": []
-      },
-      "Climate & Environment": {
-        "score": null,
-        "shortSummary": "Not enough information available.",
-        "detailedSummary": "Not enough public information available to assign a rating.",
-        "sources": []
-      },
-      "Immigration": {
-        "score": null,
-        "shortSummary": "Not enough information available.",
-        "detailedSummary": "Not enough public information available to assign a rating.",
-        "sources": []
-      },
-      "LGBTQ+ Rights": {
-        "score": null,
-        "shortSummary": "Not enough information available.",
-        "detailedSummary": "Not enough public information available to assign a rating.",
-        "sources": []
-      },
-      "Economic Development": {
-        "score": null,
-        "shortSummary": "Not enough information available.",
-        "detailedSummary": "Not enough public information available to assign a rating.",
-        "sources": []
-      },
-      "Homelessness": {
-        "score": null,
-        "shortSummary": "Not enough information available.",
-        "detailedSummary": "Not enough public information available to assign a rating.",
-        "sources": []
-      },
-      "Health Care Access": {
-        "score": null,
-        "shortSummary": "Not enough information available.",
-        "detailedSummary": "Not enough public information available to assign a rating.",
-        "sources": []
-      },
-      "Veterans & Military": {
-        "score": null,
-        "shortSummary": "Not enough information available.",
-        "detailedSummary": "Not enough public information available to assign a rating.",
-        "sources": []
-      },
-      "Government & Ethics": {
-        "score": null,
-        "shortSummary": "Not enough information available.",
-        "detailedSummary": "Not enough public information available to assign a rating.",
-        "sources": []
-      },
-      "Elections & Democracy": {
-        "score": null,
-        "shortSummary": "Not enough information available.",
-        "detailedSummary": "Not enough public information available to assign a rating.",
-        "sources": []
-      },
-      "Civil Rights & Discrimination": {
-        "score": null,
-        "shortSummary": "Not enough information available.",
-        "detailedSummary": "Not enough public information available to assign a rating.",
-        "sources": []
-      }
-    },
-    "averageScore": null
+  "averageScore": 8
   },
   {
     "name": "Sarantopoulos, George",

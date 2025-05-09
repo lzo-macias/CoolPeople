@@ -2,7 +2,7 @@ const fs = require('fs');
 const path = require('path');
 const OpenAI = require('openai');
 const candidates = require('../../../data/listofcandidates.js');
-const existingAnalyses = require('../../../olddata/candidateAnalyses2.js');
+const existingAnalyses = require('../../../data/candidateAnalyses.js');
 require('dotenv').config();
 
 const openai = new OpenAI({
@@ -48,11 +48,9 @@ For each of the following 15 issue areas:
     - Cite specific bills by number (e.g., Intro 1867, Local Law 97), programs (e.g., NYC Care, NYCHA Blueprint), or initiatives.
     - Explain briefly what the bills or programs do.
 
-  
-  - **Include 2–3 specific citations with full URLs** (e.g., "https://council.nyc.gov/legislation/int-1867/").
-  - Do **not** just say "nytimes.com" or "cityandstateny.com" — link to the **exact page** the information comes from.
-  
--some candidates are not in government or incumbents but have a personal website or a history of public service you can also mention that in a category 
+  - **Include 2–3  citations with  URLs**
+
+- some candidates are not in government or incumbents but have a personal website or a history of public service you can also mention that in a category 
 
 - If no real information is available for a category, use:
   {
@@ -87,9 +85,37 @@ Output JSON format:
     ...
   },
   "averageScore": X.Y
+}`;
+}
+
+const buildMetadataPrompt = (name, office, extraText) => {
+  const fallback = `Candidate name: ${name}. Office: ${office}.`;
+  const inputText = extraText && extraText.length >= 100 ? extraText.slice(0, 10000) : fallback;
+
+  return `
+You are a political analyst reviewing background data about a candidate.
+
+Candidate Name: ${name}
+
+Below is some raw text about them:
+"""
+${inputText}
+"""
+
+From the above, extract:
+
+- "party": Their political party (Democrat, Republican, Independent, or Other)
+- "incumbency": true if they currently hold the office they are running for, otherwise false
+- "bio": A one-sentence professional or personal background
+
+Respond in this JSON format:
+{
+  "party": "Democrat",
+  "incumbency": true,
+  "bio": "Former teacher and union organizer."
 }
 `;
-}
+};
 
 async function analyzeCandidate(name, office) {
   const prompt = buildPrompt(name, office);
@@ -111,43 +137,42 @@ async function analyzeCandidate(name, office) {
 }
 
 async function runRerunScript() {
-    const excludedNames = new Set([
-      // "Actille, Treasure J*",
-      // "Alayeto, Clarisa",
-      // "Rajkumar, Jenifer"
-    ]);
-  
-    const failedNames = new Set(
-      existingAnalyses.filter(c => c.averageScore === null && !excludedNames.has(c.name)).map(c => c.name)
-    );
-  
-    const candidatesToRetry = candidates.filter(c => failedNames.has(c.name));
-  
-    console.log(`🔁 Re-analyzing ${candidatesToRetry.length} candidates...\n`);
-  
-    // Remove existing null entries that are being retried
-    const updated = existingAnalyses.filter(c => !failedNames.has(c.name));
-  
-    for (const c of candidatesToRetry) {
-      console.log(`🔍 Reprocessing: ${c.name}`);
-      const result = await analyzeCandidate(c.name, c.office);
-      if (result) {
-        updated.push(result);
-      } else {
-        // If it still fails, preserve the original null entry
-        const original = existingAnalyses.find(entry => entry.name === c.name);
-        if (original) updated.push(original);
-      }
-  
-      await new Promise(r => setTimeout(r, 1000)); // Rate limit buffer
+  const excludedNames = new Set([
+    // "Actille, Treasure J*",
+    // "Alayeto, Clarisa",
+    // "Rajkumar, Jenifer"
+  ]);
+
+  const failedNames = new Set(
+    existingAnalyses.filter(c => c.averageScore === null && !excludedNames.has(c.name)).map(c => c.name)
+  );
+
+  const candidatesToRetry = candidates.filter(c => failedNames.has(c.name));
+
+  console.log(`🔁 Re-analyzing ${candidatesToRetry.length} candidates...\n`);
+
+  // Remove existing null entries that are being retried
+  const updated = existingAnalyses.filter(c => !failedNames.has(c.name));
+
+  for (const c of candidatesToRetry) {
+    console.log(`🔍 Reprocessing: ${c.name}`);
+    const result = await analyzeCandidate(c.name, c.office);
+    if (result) {
+      updated.push(result);
+    } else {
+      // If it still fails, preserve the original null entry
+      const original = existingAnalyses.find(entry => entry.name === c.name);
+      if (original) updated.push(original);
     }
-  
-    const outputPath = path.join(__dirname, '../../../data/candidateAnalyses.js');
-    const jsFormatted = `module.exports = ${JSON.stringify(updated, null, 2)};\n`;
-  
-    fs.writeFileSync(outputPath, jsFormatted);
-    console.log(`✅ Updated file written to ${outputPath}`);
+
+    await new Promise(r => setTimeout(r, 1000)); // Rate limit buffer
   }
-  
+
+  const outputPath = path.join(__dirname, '../../../data/candidateAnalyses.js');
+  const jsFormatted = `module.exports = ${JSON.stringify(updated, null, 2)};\n`;
+
+  fs.writeFileSync(outputPath, jsFormatted);
+  console.log(`✅ Updated file written to ${outputPath}`);
+}
 
 runRerunScript();
