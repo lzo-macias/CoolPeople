@@ -21,6 +21,9 @@ function Home() {
 
         {/* <LetteredClock/> */}
          <HomeCarosoul/>
+         <h3 className="bottomheader">Haha just kidding</h3>
+         <h3 className="bottomheader">Join the CoolPeople App and Vote When You Need Too</h3>
+         <button className="bottombutton">CoolPeople</button>
     </div>
 
 

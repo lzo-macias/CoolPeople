@@ -35,6 +35,7 @@
     "pg": "^8.14.1",
     "playwright": "^1.52.0",
     "puppeteer": "^24.6.0",
+    "sharp": "^0.34.1",
     "string-similarity": "^4.0.4",
     "uuid": "^11.1.0"
   }
