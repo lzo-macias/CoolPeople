@@ -68,6 +68,7 @@ function CandidateGrid({ title }) {
             </div>
           </Link>
         ))}
+        
       </div>
     </div>
   );
