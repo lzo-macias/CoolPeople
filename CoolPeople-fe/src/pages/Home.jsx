@@ -1,6 +1,6 @@
 import React from 'react'
 import HomeCarosoul from '../components/CandidateGrid'
-import Mapbox from '../components/mapbox'
+import Mapbox from '../components/Mapbox'
 import LetteredClock from '../components/LetteredClock'
 import CandidateCarousel from '../components/CandidateCarousel'
 import Intro from '../components/Intro'
