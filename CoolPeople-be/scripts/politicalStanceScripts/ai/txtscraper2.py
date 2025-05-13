@@ -92,7 +92,7 @@ ISSUE_KEYWORDS = {
   }
 EXCLUDED_DOMAIN = 'nyccfb'
 PARKED_KEYWORDS = ['buy this domain', 'this domain is for sale', 'site not found', '404', 'domain parking']
-visited = set()
+# visited = set()
 scraped_text_hashes = set()
 
 
@@ -163,7 +163,10 @@ async def extract_with_playwright(url, page):
 
 async def scrape_link(url, context, output, candidate_name, target_category):
     try:
+        print(f"🌐 Starting scrape of: {url} for {candidate_name} [{target_category}]")
+
         if not any(part in url.lower() for part in re.findall(r'\w+', candidate_name.lower())):
+            print(f"⚠️ Skipping URL (no candidate name in URL): {url}")
             return []
 
         page = await context.new_page()
@@ -171,14 +174,23 @@ async def scrape_link(url, context, output, candidate_name, target_category):
         await page.close()
 
         if not text.strip():
+            print(f"⚠️ No text found at: {url}")
             return []
+
+        print(f"✅ Text extracted from {url} — length: {len(text)} chars")
+        print(f"🔗 Found {len(links)} links on page")
 
         text_hash = hashlib.md5(text.encode('utf-8')).hexdigest()
         if text_hash in scraped_text_hashes:
+            print(f"⚠️ Duplicate page content at {url}, skipping.")
             return []
 
         scraped_text_hashes.add(text_hash)
         chunks = chunk_text(text, 750)
+        print(f"📚 Split text into {len(chunks)} chunks")
+
+        matched_chunks = 0
+
         for chunk in chunks:
             if target_category == "bio":
                 output.append({
@@ -188,10 +200,13 @@ async def scrape_link(url, context, output, candidate_name, target_category):
                     "link": url,
                     "text": chunk
                 })
+                matched_chunks += 1
                 continue
 
             if target_category not in ISSUE_KEYWORDS:
+                print(f"⚠️ Unknown category '{target_category}', skipping chunk match.")
                 continue
+
             score = sum(chunk.lower().count(kw) for kw in ISSUE_KEYWORDS[target_category])
             if score >= 2:
                 output.append({
@@ -201,49 +216,133 @@ async def scrape_link(url, context, output, candidate_name, target_category):
                     "link": url,
                     "text": chunk
                 })
+                matched_chunks += 1
+
+        print(f"🧠 {matched_chunks} relevant chunks extracted for category '{target_category}' from {url}")
         await asyncio.sleep(random.uniform(1.0, 2.5))
         return links
-    except:
+
+    except Exception as e:
+        print(f"❌ Exception while scraping {url}: {str(e)}")
         return []
 
 
+# async def scrape_candidate(candidate_name, category):
+#     # visited = set()
+#     slug = candidate_name.replace(' ', '_')
+#     OUTPUT_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), '../../../data/textfiles4'))
+#     os.makedirs(OUTPUT_DIR, exist_ok=True)
+#     OUTPUT_PATH = os.path.join(OUTPUT_DIR, f'{slug}.json')
+#     output = []
+
+#     async with async_playwright() as p:
+#         browser = await p.chromium.launch(headless=True)
+#         context = await browser.new_context(user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)...")
+#         main_page = await context.new_page()
+
+#         queries = [f"{candidate_name} {category}"]
+#         urls = set()
+
+#         for query in queries:
+#             visited = set()
+#             await main_page.goto(f'https://www.bing.com/search?q={query}')
+#             try:
+#                 await main_page.wait_for_selector('li.b_algo h2 a', timeout=8000)
+#             except:
+#                 content = await main_page.content()
+#                 with open("bing_debug.html", "w") as f:
+#                     f.write(content)
+#                 if "unusual traffic" in content.lower():
+#                     print("🚫 Detected bot block from Bing.")
+#                 else:
+#                     print("🪪 No search results found or layout changed.")
+#                 return
+
+#             print(f"🔍 Query: {query}")
+#             elements = await main_page.query_selector_all('li.b_algo a') or await main_page.query_selector_all('li.b_algo h2 a')
+#             print(f"🔗 Extracted top {len(elements)} result links from Bing search.")
+
+#             for el in elements[:10]:  # top 10 only
+#                 href = await el.get_attribute('href')
+#                 print(f"📥 found: {href}")
+#                 if href:
+#                     urls.add(href)
+#                 print(f"📥 Total valid URLs to visit: {len(urls)}")
+
+#         for url in urls:
+#             if url in visited:
+#                 continue
+#             visited.add(url)
+#             print(f"🌐 Starting scrape of: {url} for {candidate_name} [{category}]")
+#             links_lvl1 = await scrape_link(url, context, output, candidate_name, category)
+#             print(f"🔁 Found {len(links_lvl1)} first-level links from: {url}")
+#             if not all(candidate_name in link for link in links_lvl1):
+#                 break
+
+#         await browser.close()
+
+#     with open(OUTPUT_PATH, 'w', encoding='utf-8') as out_json:
+#         json.dump(output, out_json, ensure_ascii=False, indent=2)
+#     print(f"💾 Saved {len(output)} chunks for {candidate_name} under {category} to {OUTPUT_PATH}")
+#     print(f"✅ Done. Output for {candidate_name} saved to {OUTPUT_PATH}")
+
 async def scrape_candidate(candidate_name, category):
-    slug = candidate_name.replace(' ', '_')
-    OUTPUT_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), '../../../data/textfiles4'))
+    slug = candidate_name.replace(',', '').replace(' ', '_')
+    OUTPUT_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), '../../../data/textfiles5'))
     os.makedirs(OUTPUT_DIR, exist_ok=True)
     OUTPUT_PATH = os.path.join(OUTPUT_DIR, f'{slug}.json')
     output = []
 
     async with async_playwright() as p:
         browser = await p.chromium.launch(headless=True)
-        context = await browser.new_context()
+        context = await browser.new_context(user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)...")
         main_page = await context.new_page()
 
-        queries = [f"{candidate_name} {category}"]
-        urls = set()
-        for query in queries:
-            await main_page.goto(f'https://www.bing.com/search?q={query}')
-            await main_page.wait_for_timeout(1500)
-            elements = await main_page.query_selector_all('li.b_algo a')
-            for el in elements[:10]:  # top 10 only, in order
-                href = await el.get_attribute('href')
-                if href:
-                    urls.add(href)
+        query = f"{candidate_name} {category}"
+        visited = set()
+        urls = []
+
+        await main_page.goto(f'https://www.bing.com/search?q={query}')
+        try:
+            await main_page.wait_for_selector('li.b_algo h2 a', timeout=8000)
+        except:
+            content = await main_page.content()
+            with open("bing_debug.html", "w") as f:
+                f.write(content)
+            if "unusual traffic" in content.lower():
+                print("🚫 Detected bot block from Bing.")
+            else:
+                print("🪪 No search results found or layout changed.")
+            return
+
+        print(f"🔍 Query: {query}")
+        elements = await main_page.query_selector_all('li.b_algo a') or await main_page.query_selector_all('li.b_algo h2 a')
+        print(f"🔗 Extracted top {len(elements)} result links from Bing search.")
+
+        for el in elements:
+            if len(urls) >= (2 if category == "bio" else 10):
+                break
+            href = await el.get_attribute('href')
+            if href and href not in visited:
+                visited.add(href)
+                urls.append(href)
+                print(f"📥 found: {href}")
 
         for url in urls:
-            if url in visited:
-                continue
-            visited.add(url)
+            print(f"🌐 Starting scrape of: {url} for {candidate_name} [{category}]")
             links_lvl1 = await scrape_link(url, context, output, candidate_name, category)
-            if not all(candidate_name in link for link in links_lvl1):
-                break
+            if category != "bio":
+                print(f"🔁 Found {len(links_lvl1)} first-level links from: {url}")
+                if not all(candidate_name in link for link in links_lvl1):
+                    break
 
         await browser.close()
 
-        with open(OUTPUT_PATH, 'w', encoding='utf-8') as out_json:
-            json.dump(output, out_json, ensure_ascii=False, indent=2)
+    with open(OUTPUT_PATH, 'w', encoding='utf-8') as out_json:
+        json.dump(output, out_json, ensure_ascii=False, indent=2)
+    print(f"💾 Saved {len(output)} chunks for {candidate_name} under {category} to {OUTPUT_PATH}")
+    print(f"✅ Done. Output for {candidate_name} saved to {OUTPUT_PATH}")
 
-        print(f"✅ Done. Output for {candidate_name} saved to {OUTPUT_PATH}")
 
 
 if __name__ == "__main__":
@@ -253,6 +352,8 @@ if __name__ == "__main__":
 
     name = sys.argv[1]
     category = sys.argv[2] if len(sys.argv) > 2 else None
+    print(f"📥 Starting scrape for: {name}")
+    print(f"📥 Starting scrape for: {category}")
 
     if category:
         asyncio.run(scrape_candidate(name, category))

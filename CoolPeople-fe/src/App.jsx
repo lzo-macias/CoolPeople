@@ -5,7 +5,7 @@ import "./App.css";
 
 import Header from "./components/Header";
 import Home from "./pages/Home";
-import MyBallots from "./pages/myballots";
+import MyBallots from "./pages/MyBallots";
 import Register from "./pages/Register";
 import Login from "./pages/Login";
 import SingleCandidate from "./pages/SingleCandidate";

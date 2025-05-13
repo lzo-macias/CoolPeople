@@ -11,12 +11,12 @@ function Home() {
   return (
     <div className='home-container'>
         {/* <h2>are you REGISTERED to VOTE this nov 4th</h2> */}
-        <div className="min-h-screen flex items-center justify-center bg-gray-100">
+        {/* <div className="min-h-screen flex items-center justify-center bg-gray-100">
       <IdeologySlider onChange={(val) => console.log("Selected:", val)} />
       </div>
       <div className="mt-10">
       <IssueSelector onSave={(prefs) => console.log("Saved:", prefs)} />
-    </div>
+    </div> */}
          <Intro/>
 
         {/* <LetteredClock/> */}

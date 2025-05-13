@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import './App.css'
+// import './App.css'
 
 const issues = [
   { key: "Affordable Housing", icon: "/icons/house.png" },
