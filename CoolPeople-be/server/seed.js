@@ -125,9 +125,8 @@ const seedCandidates = async () => {
   try {
     const candidatePhotosDir = path.join(__dirname, "../public/images/candidateprofile");
     const files = fs.readdirSync(candidatePhotosDir).filter(f =>
-      f.endsWith(".jpg") || f.endsWith(".png")
+      f.endsWith(".jpg") || f.endsWith(".png") || f.endsWith(".webp")
     );
-
     const normalizedPhotoMap = files.map(file => ({
       file,
       base: normalize(file.split(".")[0])
