@@ -395,7 +395,7 @@ function CandidateGrid({ title }) {
                   <div className="image-wrapper">
                     <img
                       loading="lazy"
-                      src={candidate.photo_url}
+                      src={`${import.meta.env.VITE_IMG_URL}${candidate.photo_url}`}
                       alt={candidate.name}
                       className={`candidate-image ${
                         candidate.stances?.averageScore == null

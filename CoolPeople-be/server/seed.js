@@ -154,22 +154,24 @@ const seedCandidates = async () => {
             const matchedFile = normalizedPhotoMap.find(p => p.base === bestMatch.target);
             if (matchedFile) {
               const imagePath = path.join(candidatePhotosDir, matchedFile.file);
-              const optimizedName = matchedFile.file.split(".")[0] + ".webp";
-              const optimizedPath = path.join(candidatePhotosDir, optimizedName);
-          
-              if (!fs.existsSync(optimizedPath)) {
-                try {
-                  await sharp(imagePath)
-                    .resize({ width: 500 })
-                    .webp({ quality: 80 })
-                    .toFile(optimizedPath);
-                  console.log(`🖼️ Optimized ${matchedFile.file} → ${optimizedName}`);
-                } catch (sharpErr) {
-                  console.error(`❌ Error processing ${matchedFile.file}:`, sharpErr);
-                }
-              }
-          
-              photo_url = `/images/candidateprofile/${optimizedName}`;
+              const originalBase = matchedFile.file.split(".")[0];
+const safeBase = originalBase.replace(/[^a-zA-Z0-9_]/g, "_"); // replaces commas, spaces, etc. with _
+const optimizedName = `${safeBase}.webp`;
+const optimizedPath = path.join(candidatePhotosDir, optimizedName);
+
+if (!fs.existsSync(optimizedPath)) {
+  try {
+    await sharp(imagePath)
+      .resize({ width: 500 })
+      .webp({ quality: 80 })
+      .toFile(optimizedPath);
+    console.log(`🖼️ Optimized ${matchedFile.file} → ${optimizedName}`);
+  } catch (sharpErr) {
+    console.error(`❌ Error processing ${matchedFile.file}:`, sharpErr);
+  }
+}
+
+photo_url = `/images/candidateprofile/${optimizedName}`;
             }
           }          
         }
