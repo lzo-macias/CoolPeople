@@ -1,5 +1,7 @@
 {
   "dependencies": {
-    "react-places-autocomplete": "^7.3.0"
+    "react-places-autocomplete": "^7.3.0",
+    "react-virtualized-auto-sizer": "^1.0.26",
+    "react-window": "^1.8.11"
   }
 }
