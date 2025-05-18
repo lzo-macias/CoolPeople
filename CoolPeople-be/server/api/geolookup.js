@@ -1,93 +1,4 @@
-// const axios = require('axios');
-// require('dotenv').config();
 
-// const OPENCAGE_API_KEY = process.env.OPENCAGE_API_KEY;
-// const GEOCLIENT_SUBSCRIPTION_KEY = process.env.GEOCLIENT_SUBSCRIPTION_KEY;
-
-// async function geoLookup(address = '123 W 125th St, New York, NY') {
-//   try {
-//     // Step 1: Geocode with OpenCage to extract parts of the address
-//     const geoRes = await axios.get('https://api.opencagedata.com/geocode/v1/json', {
-//       params: {
-//         q: address,
-//         key: OPENCAGE_API_KEY,
-//         countrycode: 'us',
-//         limit: 1,
-//         no_annotations: 1,
-//       }
-//     });
-
-//     const results = geoRes.data?.results;
-//     if (!results || results.length === 0) {
-//       throw new Error('No geocoding results returned.');
-//     }
-
-//     const { geometry, components } = results[0];
-//     console.log('📦 OpenCage components:', components);
-//     const { lat, lng } = geometry;
-
-//     // Parse components
-//     const houseNumber = components.house_number || components.house || null;
-//     const street =
-//       components.road ||
-//       components.street ||
-//       components.residential ||
-//       components.pedestrian ||
-//       components.footway ||
-//       null;
-
-//     let borough =
-//       components.borough ||
-//       components.suburb ||
-//       components.city_district ||
-//       components.city ||
-//       null;
-
-//     // Normalize boroughs
-//     if (borough === 'New York') borough = 'Manhattan';
-//     if (borough === 'Kings County') borough = 'Brooklyn';
-//     if (borough === 'Richmond County') borough = 'Staten Island';
-//     if (borough === 'Queens County') borough = 'Queens';
-//     if (borough === 'Bronx County') borough = 'Bronx';
-
-//     // Fallback: if no borough but city is "New York", assume Manhattan
-//     if (!borough && components.city === 'New York') {
-//       borough = 'Manhattan';
-//     }
-
-//     if (!houseNumber || !street || !borough) {
-//       throw new Error(`Missing components for GeoClient: houseNumber="${houseNumber}", street="${street}", borough="${borough}"`);
-//     }
-
-//     // Step 2: Get City Council District using NYC GeoClient
-//     const geoClientRes = await axios.get('https://api.nyc.gov/geo/geoclient/v1/address.json', {
-//       params: {
-//         houseNumber,
-//         street,
-//         borough,
-//       },
-//       headers: {
-//         'Ocp-Apim-Subscription-Key': GEOCLIENT_SUBSCRIPTION_KEY,
-//       }
-//     });
-//     console.log("🌍 GeoClient full response:", geoClientRes.data);
-
-
-//     const cityCouncilDistrict = geoClientRes.data?.address?.cityCouncilDistrict || null;
-
-//     return {
-//       borough,
-//       lat,
-//       lng,
-//       cityCouncilDistrict,
-//     };
-//   } catch (err) {
-//     console.error('Error in geoLookup:', err.response?.data || err.message);
-//     return null;
-//   }
-// }
-
-// module.exports = geoLookup;
 const axios = require('axios');
 require('dotenv').config();
 
@@ -117,8 +28,26 @@ async function geoLookup(address = '123 W 125th St, New York, NY') {
     console.log('📦 OpenCage components:', components);
     const { lat, lng } = geometry;
 
-    const houseNumber = components.house_number || components.house || null;
-    const street =
+    let houseNumber =
+    components.house_number || components.house || null;
+  
+  // Fallback: try to extract from formatted address if OpenCage didn't return it
+  if (!houseNumber && results[0].formatted) {
+    const match = results[0].formatted.match(/^(\d{1,6}[-\d]*)\s/);
+    if (match) {
+      houseNumber = match[1];
+      console.warn(`⚠️ Fallback extracted houseNumber from formatted: ${houseNumber}`);
+    }
+  }
+  
+  // Final fallback: try to extract from original address
+  if (!houseNumber && address) {
+    const match = address.match(/^(\d{1,6}[-\d]*)\s/);
+    if (match) {
+      houseNumber = match[1];
+      console.warn(`⚠️ Fallback extracted houseNumber from original input: ${houseNumber}`);
+    }
+  }    const street =
       components.road ||
       components.street ||
       components.residential ||
@@ -167,6 +96,7 @@ async function geoLookup(address = '123 W 125th St, New York, NY') {
     }
 
     // Step 2: Call NYC GeoClient
+    console.log(`🧪 Final GeoClient lookup params: houseNumber="${houseNumber}", street="${street}", borough="${borough}"`);
     const geoClientRes = await axios.get('https://api.nyc.gov/geo/geoclient/v1/address.json', {
       params: {
         houseNumber,

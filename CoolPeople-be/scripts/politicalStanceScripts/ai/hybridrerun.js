@@ -158,18 +158,39 @@ async function analyzeCandidate(name, office) {
 }
 
 async function rerunWithFallback() {
-  if (fs.existsSync(OUTPUT_PATH)) fs.unlinkSync(OUTPUT_PATH);
-  fs.appendFileSync(OUTPUT_PATH, 'module.exports = [\n');
+  let existing = [];
+  if (fs.existsSync(OUTPUT_PATH)) {
+    const raw = fs.readFileSync(OUTPUT_PATH, 'utf-8');
+    const match = raw.match(/module\.exports\s*=\s*\[(.*)\];/s);
+    if (match) {
+      try {
+        const arrayContent = `[${match[1].trim().replace(/,\s*$/, '')}]`;
+        existing = JSON.parse(arrayContent);
+      } catch (e) {
+        console.error("❌ Could not parse existing output file:", e.message);
+      }
+    }
+  }
 
-  let isFirst = true;
+  const processedNames = new Set(existing.map(c => c.name));
+  let isFirst = existing.length === 0;
+
+  const stream = fs.createWriteStream(OUTPUT_PATH, { flags: 'w' });
+  stream.write('module.exports = [\n');
+  if (existing.length) {
+    const existingStr = existing.map(c => JSON.stringify(c, null, 2)).join(',\n');
+    stream.write(existingStr);
+  }
 
   for (const candidate of candidates) {
     const { name, office } = candidate;
-    console.log(`\n🔄 Processing: ${name}`);
+    if (processedNames.has(name)) {
+      console.log(`✅ Already processed: ${name}`);
+      continue;
+    }
 
-    console.log(`🧠 Sending initial prompt for ${name}`);
+    console.log(`\n🔄 Processing new candidate: ${name}`);
     let analysis = await analyzeCandidate(name, office);
-    console.log(`📬 Received initial analysis for ${name}:`, !!analysis);
     if (!analysis) continue;
 
     for (const category of ISSUE_CATEGORIES) {
@@ -201,7 +222,7 @@ async function rerunWithFallback() {
             const factRes = await openai.chat.completions.create({
               model: 'gpt-4o',
               messages: [{ role: 'user', content: fallbackPrompt }],
-              temperature: .7,
+              temperature: 0.7,
             });
             const fcData = JSON.parse(factRes.choices[0].message.content);
             analysis.scores[category] = fcData.scores[category];
@@ -218,43 +239,43 @@ async function rerunWithFallback() {
       if (!analysis.party || !analysis.bio) {
         const slug = name.replace(/,/g, '').replace(/ /g, '_');
         const txtFilePath = path.join(__dirname, `../../../data/textfiles5/${slug}.json`);
-    
+
         let chunks = [];
         if (fs.existsSync(txtFilePath)) {
           chunks = JSON.parse(fs.readFileSync(txtFilePath, 'utf-8'));
         }
-    
+
         let bioChunks = chunks.filter(c => c.category === 'bio' && c.text);
-    
+
         if (bioChunks.length === 0) {
           console.log(`⚠️ No bio chunks yet, re-running bio scrape for ${name}`);
           execSync(`python3 scripts/politicalStanceScripts/ai/txtscraper2.py "${name}" "bio"`, { stdio: 'inherit' });
-    
+
           if (fs.existsSync(txtFilePath)) {
             chunks = JSON.parse(fs.readFileSync(txtFilePath, 'utf-8'));
             bioChunks = chunks.filter(c => c.category === 'bio' && c.text);
           }
         }
-    
+
         bioChunks = bioChunks
           .map(c => c.text.trim())
           .sort((a, b) => b.length - a.length)
           .slice(0, 5);
-    
+
         const bioText = bioChunks.join('\n\n').slice(0, 5000);
         console.log(`🧪 BIO TEXT (${name}): ${bioText.slice(0, 300)}`);
-    
+
         const metaPrompt = buildMetadataPrompt(name, office, bioText);
         const metaRes = await openai.chat.completions.create({
           model: "gpt-4o",
           messages: [{ role: "user", content: metaPrompt }],
           temperature: 0.2,
         });
-    
+
         const raw = metaRes.choices[0].message.content.trim();
         const match = raw.match(/\{[\s\S]*\}/);
         const metadata = match ? JSON.parse(match[0]) : null;
-    
+
         if (metadata && typeof metadata.bio === 'string' && metadata.bio.trim().length > 0) {
           analysis.party = metadata.party;
           analysis.bio = metadata.bio.trim();
@@ -269,20 +290,22 @@ async function rerunWithFallback() {
       console.error(`❌ Metadata prompt failed for ${name}:`, err.message);
     }
 
+
     const scores = Object.values(analysis.scores).map(s => s.score).filter(s => typeof s === 'number');
     analysis.averageScore = scores.length ? +(scores.reduce((a, b) => a + b, 0) / scores.length).toFixed(1) : null;
-    console.log(`📤 Writing ${name} with average score: ${analysis.averageScore}`);
 
-    const prefix = isFirst ? '' : ',\n';
-    fs.appendFileSync(OUTPUT_PATH, prefix + JSON.stringify(analysis, null, 2));
+    stream.write(existing.length || !isFirst ? ',\n' : '');
+    stream.write(JSON.stringify(analysis, null, 2));
     isFirst = false;
 
     await new Promise(r => setTimeout(r, 1000));
   }
 
-  fs.appendFileSync(OUTPUT_PATH, '\n];\n');
-  console.log(`\n✅ All done. Output saved to ${OUTPUT_PATH}`);
+  stream.write('\n];\n');
+  stream.end();
+  console.log(`\n✅ Update complete. Appended to ${OUTPUT_PATH}`);
 }
+
 
 rerunWithFallback();
 
