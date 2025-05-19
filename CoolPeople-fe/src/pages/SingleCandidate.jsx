@@ -63,9 +63,9 @@ function SingleCandidate() {
             <div className="user-profile-info">
                 <h2>{candidate.name}</h2>
                 <p><strong>Position:</strong> {candidate.position}</p>
-                <p><strong>Party:</strong> {candidate.party || "N/A"}</p>
-                <p><strong>Website:</strong> {candidate.website || "N/A"}</p>
-                <p><strong>Average Score:</strong> {candidate.stances?.averageScore ?? "null"}</p>
+                {/* <p><strong>Party:</strong> {candidate.party || "N/A"}</p>
+                <p><strong>Website:</strong> {candidate.website || "N/A"}</p> */}
+                <p><strong>Bio:</strong> {candidate.bio ?? "null"}</p>
             </div>
         </div>
       {/* You can also render full stance details here if needed */}
