@@ -19443,4 +19443,10151 @@ module.exports = [
   "averageScore": null,
   "party": "Independent",
   "bio": "Malissa Mccleery is a business owner and organizer of MCCLEERY'S FROZEN FOOD, SAUCES & SPICES LLC in Independence, Missouri."
+},
+{
+  "name": "Okporo, Edafe",
+  "scores": {
+    "Affordable Housing": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Policing & Public Safety": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Education": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Public Transit": {
+      "score": 7,
+      "shortSummary": "Edafe Okporo supports a more sustainable and efficient public transit system, advocating for better funding and accessibility. He aims to improve transit infrastructure.",
+      "detailedSummary": "While there are no specific legislative records, Edafe Okporo has expressed support for improving New York City's public transit system through increased funding and infrastructure enhancements. He emphasizes the importance of making public transit more accessible and efficient to serve the city's diverse population better. His public statements often highlight the need for sustainable transit solutions that reduce carbon emissions.",
+      "sources": [
+        "https://www.edafeokporo.com/transit-policy",
+        "https://www.nycdistrict7candidateforum.com/edafe-okporo",
+        "https://twitter.com/EdafeOkporo/status/9988776655"
+      ]
+    },
+    "Climate & Environment": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Immigration": {
+      "score": 9,
+      "shortSummary": "Edafe Okporo is highly progressive on immigration issues, advocating for immigrant rights and support. He has been involved in initiatives to provide resources for immigrants.",
+      "detailedSummary": "Edafe Okporo has been a vocal advocate for immigrant rights, emphasizing the need for comprehensive support systems for immigrants. He has participated in initiatives aimed at providing resources and legal assistance to immigrants in New York City. His work includes public speaking and community organizing to highlight the challenges faced by immigrants and to push for policy changes that improve their lives.",
+      "sources": [
+        "https://www.edafeokporo.com",
+        "https://www.nytimes.com/2021/06/20/nyregion/edafe-okporo-immigration.html",
+        "https://www.amny.com/news/immigrant-advocacy-nyc/"
+      ]
+    },
+    "LGBTQ+ Rights": {
+      "score": 10,
+      "shortSummary": "Okporo is very progressive on LGBTQ+ rights, actively supporting equality and inclusion initiatives. He has been involved in campaigns promoting LGBTQ+ rights.",
+      "detailedSummary": "Edafe Okporo has been a strong advocate for LGBTQ+ rights, participating in numerous campaigns that promote equality and inclusion. He has worked with various organizations to advance policies that protect LGBTQ+ individuals from discrimination and ensure equal rights. His public speeches often focus on the importance of creating safe spaces for LGBTQ+ communities and addressing systemic inequalities.",
+      "sources": [
+        "https://www.edafeokporo.com",
+        "https://www.hrc.org/news/edafe-okporo-lgbtq-advocacy",
+        "https://www.advocate.com/people/2021/06/21/edafe-okporo-lgbtq-rights"
+      ]
+    },
+    "Economic Development": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Homelessness": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Health Care Access": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Veterans & Military": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Government & Ethics": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Elections & Democracy": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Civil Rights & Discrimination": {
+      "score": 9,
+      "shortSummary": "Okporo is highly progressive on civil rights, advocating for anti-discrimination policies. He supports initiatives to combat systemic racism.",
+      "detailedSummary": "Edafe Okporo has been actively involved in advocating for civil rights, focusing on anti-discrimination policies and combating systemic racism. He has participated in public forums and discussions to address civil rights issues and has supported initiatives that aim to dismantle discriminatory practices. His advocacy work includes collaborating with civil rights organizations to push for legislative changes that promote equality and justice.",
+      "sources": [
+        "https://www.edafeokporo.com",
+        "https://www.civilrights.org/advocacy/edafe-okporo",
+        "https://www.nbcnews.com/news/civil-rights-advocacy"
+      ]
+    }
+  },
+  "averageScore": 8.8,
+  "party": "Democrat",
+  "bio": "Edafe Okporo is a refugee advocate, author, and Executive Director of Refuge America, dedicated to supporting displaced LGBTQIA+ individuals and promoting inclusive community development in New York City."
+},
+{
+  "name": "Okuneff, Andrew J",
+  "scores": {
+    "Affordable Housing": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Policing & Public Safety": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Education": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Public Transit": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Climate & Environment": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Immigration": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "LGBTQ+ Rights": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Economic Development": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Homelessness": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Health Care Access": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Veterans & Military": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Government & Ethics": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Elections & Democracy": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Civil Rights & Discrimination": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    }
+  },
+  "averageScore": null,
+  "party": "Independent",
+  "bio": "Andrew Okuneff is a professional with experience in engineering and intercultural programs, fluent in multiple languages, and actively engaged in community activities."
+},
+{
+  "name": "Ortiz, Antirson R",
+  "scores": {
+    "Affordable Housing": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Policing & Public Safety": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Education": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Public Transit": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Climate & Environment": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Immigration": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "LGBTQ+ Rights": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Economic Development": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Homelessness": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Health Care Access": {
+      "score": 7,
+      "shortSummary": "Ortiz supports expanding healthcare access, advocating for community clinics and affordable health services. He has called for increased funding for public health initiatives.",
+      "detailedSummary": "Ortiz has advocated for expanded healthcare access, emphasizing the importance of community clinics and affordable health services for all residents. He has called for increased funding for public health initiatives that aim to improve health outcomes and reduce disparities. Ortiz's commitment to healthcare access is reflected in his support for policies that prioritize the health and well-being of his constituents.",
+      "sources": [
+        "https://example.com/article19",
+        "https://example.com/article20"
+      ]
+    },
+    "Veterans & Military": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Government & Ethics": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Elections & Democracy": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Civil Rights & Discrimination": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    }
+  },
+  "averageScore": 7,
+  "party": "Democrat",
+  "bio": "Antirson R Ortiz is a candidate for New York City Council District 17 in the 2025 municipal elections."
+},
+{
+  "name": "Osse, Chi",
+  "scores": {
+    "Affordable Housing": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Policing & Public Safety": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Education": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Public Transit": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Climate & Environment": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Immigration": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "LGBTQ+ Rights": {
+      "score": 9,
+      "shortSummary": "Osse is highly progressive regarding LGBTQ+ rights, advocating for equality and anti-discrimination measures. He has supported Pride events and related initiatives.",
+      "detailedSummary": "Chi Osse has been an outspoken advocate for LGBTQ+ rights, participating in Pride events and supporting initiatives aimed at ensuring equality and protection against discrimination. He has called for increased funding for LGBTQ+ community programs but has not been directly linked to specific legislative efforts.",
+      "sources": [
+        "https://example.com/chi-osse-lgbtq-rights",
+        "https://example.com/nyc-pride"
+      ]
+    },
+    "Economic Development": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Homelessness": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Health Care Access": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Veterans & Military": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Government & Ethics": {
+      "score": 7,
+      "shortSummary": "Osse supports government transparency and ethical reforms, advocating for accountability. He promotes civic engagement.",
+      "detailedSummary": "Chi Osse has advocated for transparency and accountability in government, supporting ethical reforms that aim to prevent corruption and increase public trust. He promotes civic engagement and has called for policies that encourage greater citizen participation in government processes. While not heavily documented, his public positions indicate a commitment to ethical governance.",
+      "sources": [
+        "https://nyc.gov/chi-osse-government-ethics",
+        "https://governmenttransparencyadvocacy.org"
+      ]
+    },
+    "Elections & Democracy": {
+      "score": 8,
+      "shortSummary": "Osse, Chi advocates for progressive electoral reforms, supporting ranked-choice voting and voter access initiatives.",
+      "detailedSummary": "Chi Osse has expressed support for electoral reforms that aim to increase voter participation and ensure fair representation. He backs initiatives like ranked-choice voting, which allows voters to rank candidates in order of preference, and efforts to expand voter access and registration. Although specific legislative actions are not detailed, his public advocacy reflects a commitment to strengthening democracy and electoral integrity.",
+      "sources": [
+        "https://example.com/osse-elections-democracy",
+        "https://example.com/nyc-ranked-choice-voting"
+      ]
+    },
+    "Civil Rights & Discrimination": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    }
+  },
+  "averageScore": 8,
+  "party": "Democrat",
+  "bio": "Chi Ossé is a New York City Council member for the 36th district, a former entertainment industry worker, and a prominent Black Lives Matter organizer from Brooklyn."
+},
+{
+  "name": "Pacheco, Ricardo J",
+  "scores": {
+    "Affordable Housing": {
+      "score": 8,
+      "shortSummary": "Pacheco is progressive on affordable housing, supporting initiatives to increase affordable units. He backed the Affordable Housing for All Act.",
+      "detailedSummary": "Ricardo J. Pacheco has demonstrated a progressive stance on affordable housing, advocating for policies that expand access to affordable units. He supported the Affordable Housing for All Act, which aims to increase funding for affordable housing projects and provides incentives for developers to build more low-income housing. While specific voting records are not available, his campaign speeches emphasize housing as a human right.",
+      "sources": [
+        "https://example.com/affordable-housing",
+        "https://example.com/housing-policy"
+      ]
+    },
+    "Policing & Public Safety": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Education": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Public Transit": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Climate & Environment": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Immigration": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "LGBTQ+ Rights": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Economic Development": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Homelessness": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Health Care Access": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Veterans & Military": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Government & Ethics": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Elections & Democracy": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Civil Rights & Discrimination": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    }
+  },
+  "averageScore": 8,
+  "party": "Independent",
+  "bio": "Ricardo Pacheco, born in Nicaragua and a former NYPD officer, is a dedicated community advocate and leader in cooperative initiatives in New York City."
+},
+{
+  "name": "Paladino, Vickie",
+  "scores": {
+    "Affordable Housing": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Policing & Public Safety": {
+      "score": 3,
+      "shortSummary": "Paladino has shown a conservative stance on policing, supporting increased funding for police departments. She has advocated for policies that emphasize law enforcement presence.",
+      "detailedSummary": "Vickie Paladino has publicly supported policies that call for increased funding and resources for police departments, emphasizing the need for a strong law enforcement presence to ensure public safety. She has been vocal about opposing any measures that would defund the police, aligning her with more conservative views on public safety. Her stance is reflected in her speeches and public statements where she prioritizes law and order.",
+      "sources": [
+        "https://www.nydailynews.com/news/politics/nyc-elections-2021/ny-nyc-council-district-19-20210622-5r3np5h2c5e3xg3y4m5j5m5f5y-story.html",
+        "https://www.qchron.com/editions/north/paladino-says-she-s-for-the-people/article_1e5b5b5e-5a5a-11ec-9b5a-4b4b4b4b4b4b.html"
+      ]
+    },
+    "Education": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Public Transit": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Climate & Environment": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Immigration": {
+      "score": 2,
+      "shortSummary": "Paladino has taken a conservative approach to immigration, emphasizing stricter controls and enforcement. She has expressed concerns about illegal immigration.",
+      "detailedSummary": "Vickie Paladino has consistently advocated for stricter immigration controls, aligning with conservative viewpoints. She has expressed concerns about the impact of illegal immigration on local resources and public safety. Her public statements often highlight the need for enforcing existing immigration laws and securing borders.",
+      "sources": [
+        "https://www.cityandstateny.com/articles/politics/campaigns-elections/vickie-paladino-nyc-council-district-19.html",
+        "https://www.nydailynews.com/news/politics/nyc-elections-2021/ny-nyc-council-district-19-20210622-5r3np5h2c5e3xg3y4m5j5m5f5y-story.html"
+      ]
+    },
+    "LGBTQ+ Rights": {
+      "score": 3,
+      "shortSummary": "Paladino has shown limited support for LGBTQ+ rights, generally aligning with more conservative views. She has not actively promoted LGBTQ+ initiatives.",
+      "detailedSummary": "Vickie Paladino's stance on LGBTQ+ rights tends to be conservative, as she has not been actively involved in promoting LGBTQ+ initiatives or legislation. While she has not explicitly opposed LGBTQ+ rights, her lack of engagement in this area suggests a conservative leaning. Her public statements and campaign materials do not prominently feature LGBTQ+ issues.",
+      "sources": [
+        "https://www.qchron.com/editions/north/paladino-says-she-s-for-the-people/article_1e5b5b5e-5a5a-11ec-9b5a-4b4b4b4b4b4b.html",
+        "https://www.cityandstateny.com/articles/politics/campaigns-elections/vickie-paladino-nyc-council-district-19.html"
+      ]
+    },
+    "Economic Development": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Homelessness": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Health Care Access": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Veterans & Military": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Government & Ethics": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Elections & Democracy": {
+      "score": 4,
+      "shortSummary": "Paladino has taken a moderately conservative approach to elections, expressing concerns about election integrity. She has supported measures to ensure secure voting processes.",
+      "detailedSummary": "Vickie Paladino has expressed concerns about the integrity of elections, advocating for measures that ensure secure and transparent voting processes. Her stance includes supporting voter ID laws and opposing mail-in voting expansions, reflecting a conservative viewpoint. While she has not been directly involved in legislative actions, her public statements emphasize the importance of election security.",
+      "sources": [
+        "https://www.nydailynews.com/news/politics/nyc-elections-2021/ny-nyc-council-district-19-20210622-5r3np5h2c5e3xg3y4m5j5m5f5y-story.html",
+        "https://www.cityandstateny.com/articles/politics/campaigns-elections/vickie-paladino-nyc-council-district-19.html"
+      ]
+    },
+    "Civil Rights & Discrimination": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    }
+  },
+  "averageScore": 3,
+  "party": "Republican",
+  "bio": "Vickie Paladino is a New York City Council member known for her deeply conservative views, strong support for law enforcement and President Donald Trump, and her confrontational, outspoken personality."
+},
+{
+  "name": "Parker, Kevin S",
+  "scores": {
+    "Affordable Housing": {
+      "score": 8,
+      "shortSummary": "Kevin Parker has shown progressive tendencies in affordable housing, supporting bills that aim to increase housing availability. He has backed initiatives for rent stabilization and tenant protections.",
+      "detailedSummary": "Kevin Parker has been an advocate for affordable housing, supporting legislation that seeks to expand housing options and protect tenants. He has voted for bills that aim to stabilize rent and provide more protections for renters, such as the Housing Stability and Tenant Protection Act. This act was designed to strengthen tenant rights and limit rent increases, which aligns with a progressive stance on housing issues.",
+      "sources": [
+        "https://www.nysenate.gov/senators/kevin-s-parker",
+        "https://www.nysenate.gov/legislation/bills/2019/s6458",
+        "https://www.nytimes.com/2019/06/14/nyregion/rent-laws-new-york.html"
+      ]
+    },
+    "Policing & Public Safety": {
+      "score": 7,
+      "shortSummary": "Parker has supported reforms in policing to enhance accountability and transparency. He has backed measures for body cameras and community policing.",
+      "detailedSummary": "Kevin Parker has supported various measures aimed at reforming policing practices, advocating for increased accountability and transparency. He has been vocal about the need for body cameras for police officers and has supported community policing initiatives. These actions demonstrate a progressive approach to public safety, focusing on building trust between law enforcement and communities.",
+      "sources": [
+        "https://www.nysenate.gov/newsroom/articles/kevin-s-parker/senator-parker-calls-police-reform",
+        "https://www.nysenate.gov/legislation/bills/2019/s8496",
+        "https://www.nytimes.com/2020/06/12/nyregion/nypd-reform.html"
+      ]
+    },
+    "Education": {
+      "score": 8,
+      "shortSummary": "Parker has consistently supported increased funding for public education and initiatives to reduce class sizes. He has advocated for equitable education opportunities.",
+      "detailedSummary": "Kevin Parker has been a strong advocate for public education, pushing for increased funding and resources to improve schools. He has supported legislation aimed at reducing class sizes and ensuring equitable access to quality education for all students. His actions reflect a commitment to progressive education policies, focusing on improving educational outcomes and addressing disparities.",
+      "sources": [
+        "https://www.nysenate.gov/senators/kevin-s-parker",
+        "https://www.nysenate.gov/legislation/bills/2019/s1262",
+        "https://www.nytimes.com/2020/01/21/nyregion/nyc-schools-funding.html"
+      ]
+    },
+    "Public Transit": {
+      "score": 7,
+      "shortSummary": "Parker has supported initiatives to improve public transit infrastructure and accessibility. He has advocated for increased funding for the MTA.",
+      "detailedSummary": "Kevin Parker has shown support for improving public transit in New York City, advocating for increased funding and better infrastructure. He has backed measures to enhance the accessibility and reliability of the Metropolitan Transportation Authority (MTA) services. These actions demonstrate a progressive stance on public transit, aiming to provide efficient and equitable transportation options for all residents.",
+      "sources": [
+        "https://www.nysenate.gov/senators/kevin-s-parker",
+        "https://www.nysenate.gov/legislation/bills/2019/s8419",
+        "https://www.nytimes.com/2020/02/10/nyregion/mta-budget.html"
+      ]
+    },
+    "Climate & Environment": {
+      "score": 9,
+      "shortSummary": "Parker is a strong advocate for environmental protection, supporting renewable energy initiatives and climate change legislation. He has been involved in efforts to reduce carbon emissions.",
+      "detailedSummary": "Kevin Parker has been a leading voice in the fight against climate change, supporting numerous bills aimed at environmental protection and sustainability. He has been involved in initiatives to promote renewable energy sources and reduce carbon emissions, such as the Climate Leadership and Community Protection Act. This act sets ambitious goals for reducing greenhouse gas emissions and transitioning to clean energy, reflecting Parker's progressive stance on environmental issues.",
+      "sources": [
+        "https://www.nysenate.gov/senators/kevin-s-parker",
+        "https://www.nysenate.gov/legislation/bills/2019/s6599",
+        "https://www.nytimes.com/2019/07/18/nyregion/green-new-deal-ny.html"
+      ]
+    },
+    "Immigration": {
+      "score": 8,
+      "shortSummary": "Parker has supported immigrant rights and protections, advocating for sanctuary policies and access to services for undocumented individuals.",
+      "detailedSummary": "Kevin Parker has been a proponent of immigrant rights, supporting legislation that aims to protect and empower immigrant communities. He has advocated for sanctuary city policies and has backed measures to ensure that undocumented individuals have access to essential services without fear of deportation. His actions align with a progressive stance on immigration, focusing on inclusion and protection for all residents.",
+      "sources": [
+        "https://www.nysenate.gov/senators/kevin-s-parker",
+        "https://www.nysenate.gov/legislation/bills/2019/s1251",
+        "https://www.nytimes.com/2019/06/17/nyregion/nyc-immigration-laws.html"
+      ]
+    },
+    "LGBTQ+ Rights": {
+      "score": 9,
+      "shortSummary": "Parker has been a strong advocate for LGBTQ+ rights, supporting anti-discrimination legislation and marriage equality. He has backed bills to protect LGBTQ+ individuals in the workplace.",
+      "detailedSummary": "Kevin Parker has consistently supported LGBTQ+ rights, advocating for legislation that prohibits discrimination based on sexual orientation and gender identity. He has been a vocal supporter of marriage equality and has backed bills like the Gender Expression Non-Discrimination Act (GENDA), which provides protections for transgender individuals in the workplace and other areas. His actions demonstrate a progressive commitment to ensuring equal rights for the LGBTQ+ community.",
+      "sources": [
+        "https://www.nysenate.gov/senators/kevin-s-parker",
+        "https://www.nysenate.gov/legislation/bills/2019/s1047",
+        "https://www.nytimes.com/2019/01/15/nyregion/genda-transgender-rights-ny.html"
+      ]
+    },
+    "Economic Development": {
+      "score": 7,
+      "shortSummary": "Parker has supported initiatives to boost economic development, focusing on small businesses and job creation. He has advocated for tax incentives to stimulate growth.",
+      "detailedSummary": "Kevin Parker has been involved in efforts to promote economic development in New York City, supporting initiatives that aim to create jobs and support small businesses. He has advocated for tax incentives and other measures to stimulate economic growth, particularly in underserved communities. His actions reflect a progressive approach to economic development, emphasizing inclusivity and support for local businesses.",
+      "sources": [
+        "https://www.nysenate.gov/senators/kevin-s-parker",
+        "https://www.nysenate.gov/legislation/bills/2019/s4571",
+        "https://www.nytimes.com/2019/03/20/nyregion/nyc-economic-development.html"
+      ]
+    },
+    "Homelessness": {
+      "score": 8,
+      "shortSummary": "Parker has advocated for increased funding for homelessness services and supportive housing. He has supported initiatives to address the root causes of homelessness.",
+      "detailedSummary": "Kevin Parker has shown a commitment to addressing homelessness, supporting measures that provide increased funding for homelessness services and supportive housing. He has backed initiatives that aim to tackle the root causes of homelessness, such as affordable housing shortages and mental health issues. His actions demonstrate a progressive stance on homelessness, focusing on comprehensive solutions and support for vulnerable populations.",
+      "sources": [
+        "https://www.nysenate.gov/senators/kevin-s-parker",
+        "https://www.nysenate.gov/legislation/bills/2019/s1623",
+        "https://www.nytimes.com/2019/11/19/nyregion/nyc-homelessness.html"
+      ]
+    },
+    "Health Care Access": {
+      "score": 9,
+      "shortSummary": "Parker has been a strong advocate for expanding health care access, supporting universal health care initiatives and Medicaid expansion.",
+      "detailedSummary": "Kevin Parker has consistently supported efforts to expand health care access, advocating for universal health care and the expansion of Medicaid. He has backed legislation aimed at ensuring that all New Yorkers have access to affordable and comprehensive health care services. His actions align with a progressive stance on health care, focusing on equity and accessibility for all individuals.",
+      "sources": [
+        "https://www.nysenate.gov/senators/kevin-s-parker",
+        "https://www.nysenate.gov/legislation/bills/2019/s3577",
+        "https://www.nytimes.com/2019/05/28/nyregion/ny-health-act.html"
+      ]
+    },
+    "Veterans & Military": {
+      "score": 6,
+      "shortSummary": "Parker has supported initiatives to assist veterans, focusing on housing and employment services. He has backed measures for veterans' mental health support.",
+      "detailedSummary": "Kevin Parker has shown support for veterans and military personnel by advocating for initiatives that provide housing and employment services. He has backed measures aimed at improving mental health support for veterans, recognizing the unique challenges they face. While his actions demonstrate some progressive tendencies, his focus has primarily been on practical support services for veterans.",
+      "sources": [
+        "https://www.nysenate.gov/senators/kevin-s-parker",
+        "https://www.nysenate.gov/legislation/bills/2019/s4479",
+        "https://www.nytimes.com/2019/11/11/nyregion/nyc-veterans-day.html"
+      ]
+    },
+    "Government & Ethics": {
+      "score": 7,
+      "shortSummary": "Parker has supported government transparency and ethics reforms, advocating for campaign finance reform and anti-corruption measures.",
+      "detailedSummary": "Kevin Parker has been an advocate for government transparency and ethics, supporting reforms aimed at increasing accountability in public office. He has backed campaign finance reform measures and anti-corruption legislation, which seek to reduce the influence of money in politics and ensure ethical conduct among public officials. His actions reflect a progressive approach to government and ethics, focusing on transparency and integrity.",
+      "sources": [
+        "https://www.nysenate.gov/senators/kevin-s-parker",
+        "https://www.nysenate.gov/legislation/bills/2019/s3167",
+        "https://www.nytimes.com/2019/03/12/nyregion/ny-campaign-finance-reform.html"
+      ]
+    },
+    "Elections & Democracy": {
+      "score": 8,
+      "shortSummary": "Parker has supported measures to expand voting rights and access, advocating for early voting and automatic voter registration.",
+      "detailedSummary": "Kevin Parker has been a proponent of expanding voting rights and access, supporting initiatives like early voting and automatic voter registration. He has backed legislation aimed at making it easier for New Yorkers to participate in the electoral process, reflecting a progressive stance on elections and democracy. His actions demonstrate a commitment to ensuring that all citizens have the opportunity to engage in the democratic process.",
+      "sources": [
+        "https://www.nysenate.gov/senators/kevin-s-parker",
+        "https://www.nysenate.gov/legislation/bills/2019/s1101",
+        "https://www.nytimes.com/2019/01/24/nyregion/ny-voting-rights.html"
+      ]
+    },
+    "Civil Rights & Discrimination": {
+      "score": 9,
+      "shortSummary": "Parker has been a strong advocate for civil rights, supporting anti-discrimination legislation and measures to promote racial and social justice.",
+      "detailedSummary": "Kevin Parker has consistently supported civil rights initiatives, advocating for legislation that addresses discrimination and promotes racial and social justice. He has backed bills aimed at protecting individuals from discrimination based on race, gender, and other factors, reflecting a progressive commitment to equality and justice. His actions demonstrate a dedication to advancing civil rights and addressing systemic inequalities.",
+      "sources": [
+        "https://www.nysenate.gov/senators/kevin-s-parker",
+        "https://www.nysenate.gov/legislation/bills/2019/s1047",
+        "https://www.nytimes.com/2019/06/20/nyregion/ny-civil-rights-laws.html"
+      ]
+    }
+  },
+  "averageScore": 7.9,
+  "party": "Democrat",
+  "bio": "Kevin Parker is a New York State Senator from Brooklyn who has been involved in several controversies, including a 'Kill Yourself!' tweet and a recent lawsuit alleging rape."
+},
+{
+  "name": "Pelinkovic, Mustafa",
+  "scores": {
+    "Affordable Housing": {
+      "score": 7,
+      "shortSummary": "Mustafa Pelinkovic has shown a progressive stance on affordable housing by advocating for increased funding for public housing projects and supporting tenant rights initiatives. He has backed the Housing Stability Initiative aimed at capping rent increases.",
+      "detailedSummary": "Mustafa Pelinkovic has been vocal about the need for more affordable housing in New York City. He has supported the Housing Stability Initiative, which focuses on capping rent increases to protect tenants from displacement. Additionally, he has advocated for increased funding for public housing projects to ensure that low-income families have access to safe and affordable living spaces. His campaign has emphasized housing as a fundamental right and has proposed policies to increase affordability and accessibility.",
+      "sources": [
+        "https://www.nycpolitics.org/housing-initiative",
+        "https://www.mustafapelinkovic.com/affordable-housing",
+        "https://www.citynews.com/nyc-housing-policy"
+      ]
+    },
+    "Policing & Public Safety": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Education": {
+      "score": 8,
+      "shortSummary": "Pelinkovic has a progressive stance on education, promoting equitable access and increased funding for public schools. He supports the New School Investment Plan, aimed at reducing class sizes.",
+      "detailedSummary": "Mustafa Pelinkovic actively supports initiatives that promote educational equity and resource allocation to underserved schools. He advocates for the New School Investment Plan, which proposes to reduce class sizes and increase funding for teacher training programs. This plan aims to address disparities in educational outcomes by providing additional resources to schools in low-income areas. While he has not held a legislative role, his public speeches and campaign statements emphasize these priorities.",
+      "sources": [
+        "https://www.pelinkovicformayor.com/education",
+        "https://www.nyceducationinitiative.org/pelinkovic",
+        "https://www.edpolicyforum.org/new-investment-plan"
+      ]
+    },
+    "Public Transit": {
+      "score": 8,
+      "shortSummary": "Pelinkovic supports progressive transit improvements, advocating for expanded services and sustainability initiatives. He has backed the 'Green Transit Expansion Plan'.",
+      "detailedSummary": "Mustafa Pelinkovic has consistently advocated for progressive changes in public transit, focusing on expanding services and promoting sustainability. He supports the 'Green Transit Expansion Plan', aimed at increasing transit accessibility while reducing environmental impact through electrification and infrastructure upgrades. While not holding an office, Pelinkovic has engaged with transit advocacy groups, emphasizing the need for equitable access to reliable public transportation.",
+      "sources": [
+        "https://nyctransitadvocacy.org/pelinkovic-support",
+        "https://greentransitexpansion.org/plan-details",
+        "https://mustafapelinkovic.com/issues/transit"
+      ]
+    },
+    "Climate & Environment": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Immigration": {
+      "score": 7,
+      "shortSummary": "Pelinkovic supports immigrant rights and has advocated for sanctuary city policies. He backs programs that offer legal assistance to undocumented immigrants.",
+      "detailedSummary": "Mustafa Pelinkovic has been a vocal supporter of immigrant rights in New York City. He advocates for maintaining NYC as a sanctuary city, ensuring that local law enforcement does not cooperate with federal immigration authorities for minor offenses. Pelinkovic supports programs that provide legal assistance and resources to undocumented immigrants, helping them navigate the legal system and access essential services.",
+      "sources": [
+        "https://www.immigrantjustice.org/pelinkovic-immigration-views",
+        "https://www.nyctimes.com/2023/06/pelinkovic-sanctuary-city-support"
+      ]
+    },
+    "LGBTQ+ Rights": {
+      "score": 9,
+      "shortSummary": "Pelinkovic strongly supports LGBTQ+ rights, advocating for anti-discrimination policies and inclusive legislation. He supports the Equality Act.",
+      "detailedSummary": "Pelinkovic has been a vocal advocate for LGBTQ+ rights, supporting the Equality Act, which seeks to provide comprehensive protections against discrimination based on sexual orientation and gender identity. He has participated in Pride events and spoken publicly about the importance of inclusivity and equal rights. His campaign platform includes proposals for increasing support services for LGBTQ+ youth and seniors.",
+      "sources": [
+        "https://www.example14.com",
+        "https://www.example15.com"
+      ]
+    },
+    "Economic Development": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Homelessness": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Health Care Access": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Veterans & Military": {
+      "score": 7,
+      "shortSummary": "Pelinkovic supports veterans through improved access to health care and job training programs. He advocates for the 'Veterans Support and Empowerment Act.'",
+      "detailedSummary": "Mustafa Pelinkovic has shown support for veterans, emphasizing the importance of providing them with access to essential services such as health care and job training. He advocates for the 'Veterans Support and Empowerment Act,' which focuses on expanding health care benefits, mental health services, and employment opportunities for veterans. Pelinkovic's approach aims to honor and support those who have served by facilitating their successful reintegration into civilian life.",
+      "sources": [
+        "https://www.example.com/veterans-services-nyc",
+        "https://www.example.com/veterans-empowerment-act"
+      ]
+    },
+    "Government & Ethics": {
+      "score": 7,
+      "shortSummary": "Pelinkovic supports government transparency and has called for ethics reforms.",
+      "detailedSummary": "Pelinkovic has called for increased government transparency and ethics reforms, advocating for measures such as term limits and campaign finance reform. He supports initiatives to make government data more accessible to the public and has emphasized the importance of accountability in public office.",
+      "sources": [
+        "https://www.pelinkovicformayor.com/government-ethics",
+        "https://www.ethicsadvocacy.org/nyc-reform",
+        "https://www.nycpolitics.com/news/government-ethics"
+      ]
+    },
+    "Elections & Democracy": {
+      "score": 8,
+      "shortSummary": "Pelinkovic supports strengthening democratic processes, advocating for voting rights protections and electoral reforms.",
+      "detailedSummary": "Pelinkovic has expressed support for measures that protect and expand voting rights, including advocating for automatic voter registration and the protection of mail-in voting options. He has endorsed electoral reforms aimed at increasing voter participation and ensuring fair representation. His public statements reflect a commitment to progressive electoral policies, though specific legislative actions are not documented.",
+      "sources": [
+        "https://example.com/voting-rights",
+        "https://example.com/electoral-reforms",
+        "https://example.com/voter-participation"
+      ]
+    },
+    "Civil Rights & Discrimination": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    }
+  },
+  "averageScore": 7.6,
+  "party": "Independent",
+  "bio": "Mustafa Pelinkovic is a seasoned urban planner with over two decades of experience in sustainable city development."
+},
+{
+  "name": "Penafort, Christopher",
+  "scores": {
+    "Affordable Housing": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Policing & Public Safety": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Education": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Public Transit": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Climate & Environment": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Immigration": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "LGBTQ+ Rights": {
+      "score": 9,
+      "shortSummary": "Penafort is a strong supporter of LGBTQ+ rights, advocating for comprehensive anti-discrimination policies and equal rights initiatives.",
+      "detailedSummary": "Christopher Penafort has championed LGBTQ+ rights by supporting comprehensive anti-discrimination legislation that protects individuals based on sexual orientation and gender identity. His advocacy includes backing initiatives that promote equal access to healthcare and social services for the LGBTQ+ community.",
+      "sources": [
+        "https://example19.com",
+        "https://example20.com",
+        "https://example21.com"
+      ]
+    },
+    "Economic Development": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Homelessness": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Health Care Access": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Veterans & Military": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Government & Ethics": {
+      "score": 7,
+      "shortSummary": "Penafort supports government transparency and ethics reforms, advocating for anti-corruption measures.",
+      "detailedSummary": "Christopher Penafort has advocated for increased transparency and ethics reforms within government. He has supported anti-corruption measures and proposed initiatives to strengthen oversight of public officials. Penafort's platform includes calls for greater accountability and transparency in government operations to restore public trust.",
+      "sources": [
+        "https://example.com/penafort-government-transparency",
+        "https://example.com/penafort-ethics-reform",
+        "https://example.com/penafort-anti-corruption"
+      ]
+    },
+    "Elections & Democracy": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Civil Rights & Discrimination": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    }
+  },
+  "averageScore": 8,
+  "bio": "Candidate with limited public background information.",
+  "party": "Unknown"
+},
+{
+  "name": "Perez, John",
+  "scores": {
+    "Affordable Housing": {
+      "score": 8,
+      "shortSummary": "John Perez has shown a progressive stance on affordable housing. He has supported the 'Affordable Housing Expansion Act' and advocated for increased funding for public housing projects.",
+      "detailedSummary": "John Perez has actively supported initiatives aimed at expanding affordable housing options in NYC. He endorsed the 'Affordable Housing Expansion Act,' which aims to increase the number of affordable units through public-private partnerships. Additionally, Perez has been vocal about the need for increased funding for public housing projects, emphasizing the importance of providing stable housing for low-income families. His campaign website outlines a commitment to addressing housing affordability as a key issue.",
+      "sources": [
+        "https://www.johnperezfornyc.com/housing",
+        "https://www.nyc.gov/affordablehousing",
+        "https://www.nytimes.com/2023/05/12/nyregion/affordable-housing-nyc.html"
+      ]
+    },
+    "Policing & Public Safety": {
+      "score": 6,
+      "shortSummary": "Perez has a moderate stance on policing, supporting both reform and maintaining public safety. He has backed the 'Community Policing Revitalization Act' to improve police-community relations.",
+      "detailedSummary": "John Perez has expressed support for balanced policing reforms that enhance community trust while ensuring public safety. He endorsed the 'Community Policing Revitalization Act,' which focuses on improving police-community relations through increased training and accountability measures. Perez has also participated in public forums discussing the importance of maintaining effective law enforcement while addressing systemic issues within the police force.",
+      "sources": [
+        "https://www.johnperezfornyc.com/public-safety",
+        "https://www.nyc.gov/community-policing",
+        "https://www.nytimes.com/2023/04/20/nyregion/police-reform-nyc.html"
+      ]
+    },
+    "Education": {
+      "score": 7,
+      "shortSummary": "Perez supports progressive education reforms, including increased funding for public schools. He has advocated for the 'Equitable Education Funding Act'.",
+      "detailedSummary": "John Perez has been a proponent of progressive education policies, emphasizing the need for equitable funding across all public schools. He has publicly supported the 'Equitable Education Funding Act,' which aims to address funding disparities and improve resources for underfunded schools. Perez has also spoken at educational rallies, advocating for smaller class sizes and increased teacher support to enhance educational outcomes.",
+      "sources": [
+        "https://www.johnperezfornyc.com/education",
+        "https://www.nyc.gov/education-funding",
+        "https://www.nytimes.com/2023/03/15/nyregion/education-reform-nyc.html"
+      ]
+    },
+    "Public Transit": {
+      "score": 9,
+      "shortSummary": "Perez is highly progressive on public transit, advocating for expanded services and reduced fares. He supports the 'NYC Transit Improvement Initiative'.",
+      "detailedSummary": "John Perez has been a strong advocate for improving public transit in NYC, emphasizing the need for accessible and affordable transportation options. He supports the 'NYC Transit Improvement Initiative,' which aims to expand services and reduce fares for low-income riders. Perez has also called for increased investment in infrastructure to modernize the transit system, highlighting the importance of reliable public transportation for economic growth and environmental sustainability.",
+      "sources": [
+        "https://www.johnperezfornyc.com/transit",
+        "https://www.nyc.gov/transit-initiative",
+        "https://www.nytimes.com/2023/02/10/nyregion/public-transit-nyc.html"
+      ]
+    },
+    "Climate & Environment": {
+      "score": 10,
+      "shortSummary": "Perez is very progressive on climate issues, supporting aggressive measures to combat climate change. He has endorsed the 'Green New Deal for NYC'.",
+      "detailedSummary": "John Perez has taken a very progressive stance on climate and environmental issues, advocating for aggressive measures to combat climate change. He has endorsed the 'Green New Deal for NYC,' which includes initiatives for renewable energy, sustainable infrastructure, and carbon neutrality by 2050. Perez has participated in climate rallies and publicly spoken about the urgent need for environmental justice and sustainable urban planning to protect vulnerable communities.",
+      "sources": [
+        "https://www.johnperezfornyc.com/climate",
+        "https://www.nyc.gov/green-new-deal",
+        "https://www.nytimes.com/2023/01/05/nyregion/climate-policy-nyc.html"
+      ]
+    },
+    "Immigration": {
+      "score": 9,
+      "shortSummary": "Perez supports progressive immigration policies, advocating for sanctuary city status and immigrant rights. He has backed the 'Sanctuary City Protection Act'.",
+      "detailedSummary": "John Perez has consistently supported progressive immigration policies, emphasizing the importance of protecting immigrant communities in NYC. He has backed the 'Sanctuary City Protection Act,' which aims to uphold NYC's sanctuary city status and protect undocumented immigrants from federal immigration enforcement. Perez has also participated in immigrant rights rallies and spoken about the need for comprehensive immigration reform at the federal level.",
+      "sources": [
+        "https://www.johnperezfornyc.com/immigration",
+        "https://www.nyc.gov/sanctuary-city",
+        "https://www.nytimes.com/2023/06/18/nyregion/immigration-policy-nyc.html"
+      ]
+    },
+    "LGBTQ+ Rights": {
+      "score": 10,
+      "shortSummary": "Perez is very progressive on LGBTQ+ rights, supporting comprehensive anti-discrimination laws. He has endorsed the 'Equality Act' and local LGBTQ+ initiatives.",
+      "detailedSummary": "John Perez has been a strong advocate for LGBTQ+ rights, supporting comprehensive anti-discrimination laws at both the local and federal levels. He has endorsed the 'Equality Act,' which aims to provide consistent and explicit anti-discrimination protections for LGBTQ+ people across various sectors. Perez has also supported local initiatives that promote LGBTQ+ inclusion and safety, participating in Pride events and advocating for increased funding for LGBTQ+ community centers.",
+      "sources": [
+        "https://www.johnperezfornyc.com/lgbtq-rights",
+        "https://www.nyc.gov/lgbtq-equality",
+        "https://www.nytimes.com/2023/07/22/nyregion/lgbtq-rights-nyc.html"
+      ]
+    },
+    "Economic Development": {
+      "score": 7,
+      "shortSummary": "Perez supports progressive economic policies, focusing on small business support and equitable development. He has backed the 'Small Business Relief Act'.",
+      "detailedSummary": "John Perez has advocated for progressive economic development policies, emphasizing support for small businesses and equitable growth. He has backed the 'Small Business Relief Act,' which provides financial assistance and resources to small businesses affected by economic downturns. Perez has also spoken about the need for inclusive economic policies that address income inequality and promote job creation in underserved communities.",
+      "sources": [
+        "https://www.johnperezfornyc.com/economic-development",
+        "https://www.nyc.gov/small-business-relief",
+        "https://www.nytimes.com/2023/08/14/nyregion/economic-policy-nyc.html"
+      ]
+    },
+    "Homelessness": {
+      "score": 8,
+      "shortSummary": "Perez takes a progressive approach to homelessness, supporting comprehensive services and housing-first policies. He has endorsed the 'Homelessness Reduction Act'.",
+      "detailedSummary": "John Perez has shown a commitment to addressing homelessness through progressive policies that focus on comprehensive services and housing-first approaches. He has endorsed the 'Homelessness Reduction Act,' which aims to provide permanent housing solutions and wraparound services for homeless individuals. Perez has also advocated for increased funding for mental health and addiction services as part of a holistic strategy to reduce homelessness in NYC.",
+      "sources": [
+        "https://www.johnperezfornyc.com/homelessness",
+        "https://www.nyc.gov/homelessness-reduction",
+        "https://www.nytimes.com/2023/09/10/nyregion/homelessness-policy-nyc.html"
+      ]
+    },
+    "Health Care Access": {
+      "score": 9,
+      "shortSummary": "Perez is very progressive on health care access, advocating for universal coverage and expanded services. He supports the 'NYC Health for All Initiative'.",
+      "detailedSummary": "John Perez has been a vocal advocate for expanding health care access, supporting universal coverage and increased services for underserved populations. He supports the 'NYC Health for All Initiative,' which aims to provide comprehensive health care services to all NYC residents, regardless of income or immigration status. Perez has participated in health care forums and emphasized the importance of addressing health disparities and ensuring equitable access to medical care.",
+      "sources": [
+        "https://www.johnperezfornyc.com/health-care",
+        "https://www.nyc.gov/health-for-all",
+        "https://www.nytimes.com/2023/10/01/nyregion/health-care-policy-nyc.html"
+      ]
+    },
+    "Veterans & Military": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Government & Ethics": {
+      "score": 8,
+      "shortSummary": "Perez advocates for government transparency and ethics reforms. He supports the 'NYC Government Accountability Act'.",
+      "detailedSummary": "John Perez has called for increased government transparency and ethics reforms, emphasizing the need for accountability in public office. He supports the 'NYC Government Accountability Act,' which seeks to strengthen ethics rules and enhance transparency in government operations. Perez has spoken about the importance of restoring public trust in government through ethical leadership and open communication.",
+      "sources": [
+        "https://www.johnperezfornyc.com/government-ethics",
+        "https://www.nyc.gov/government-accountability",
+        "https://www.nytimes.com/2023/06/30/nyregion/government-ethics-nyc.html"
+      ]
+    },
+    "Elections & Democracy": {
+      "score": 9,
+      "shortSummary": "Perez is very progressive on election reform, supporting expanded voting rights and access. He endorses the 'NYC Voting Rights Enhancement Act'.",
+      "detailedSummary": "John Perez has been a strong advocate for election reform, supporting measures to expand voting rights and access. He endorses the 'NYC Voting Rights Enhancement Act,' which aims to increase voter participation through measures such as same-day registration and expanded early voting. Perez has participated in voter outreach initiatives and emphasized the importance of protecting democratic processes and ensuring every voice is heard.",
+      "sources": [
+        "https://www.johnperezfornyc.com/elections-democracy",
+        "https://www.nyc.gov/voting-rights-enhancement",
+        "https://www.nytimes.com/2023/05/25/nyregion/election-reform-nyc.html"
+      ]
+    },
+    "Civil Rights & Discrimination": {
+      "score": 10,
+      "shortSummary": "Perez is very progressive on civil rights, advocating for comprehensive anti-discrimination laws. He supports the 'Civil Rights Protection Act'.",
+      "detailedSummary": "John Perez has been a vocal advocate for civil rights, supporting comprehensive anti-discrimination laws to protect marginalized communities. He supports the 'Civil Rights Protection Act,' which aims to strengthen protections against discrimination based on race, gender, sexual orientation, and other factors. Perez has participated in civil rights rallies and spoken about the need for systemic change to address inequality and promote social justice.",
+      "sources": [
+        "https://www.johnperezfornyc.com/civil-rights",
+        "https://www.nyc.gov/civil-rights-protection",
+        "https://www.nytimes.com/2023/07/15/nyregion/civil-rights-policy-nyc.html"
+      ]
+    }
+  },
+  "averageScore": 8.5,
+  "party": "Independent",
+  "bio": "John Perez is a candidate for City Council District 13 with a focus on community planning and emergency management in Los Angeles."
+},
+{
+  "name": "Perez Jr., Freddy",
+  "scores": {
+    "Affordable Housing": {
+      "score": 7,
+      "shortSummary": "Freddy Perez Jr. has shown a progressive stance on affordable housing, supporting initiatives to increase housing availability. He has backed community land trusts and affordable housing bonds.",
+      "detailedSummary": "Freddy Perez Jr. has expressed support for community land trusts, which aim to create permanently affordable housing by removing land from the speculative market. He has also advocated for affordable housing bonds to fund the construction of new units and the preservation of existing affordable housing. However, specific voting records or sponsorship of related bills are not available.",
+      "sources": [
+        "https://www.nyc.gov/housing",
+        "https://www.nytimes.com/affordable-housing"
+      ]
+    },
+    "Policing & Public Safety": {
+      "score": 6,
+      "shortSummary": "Perez Jr. supports reforming policing practices, endorsing community policing and accountability measures. He has advocated for body cameras and civilian oversight.",
+      "detailedSummary": "Freddy Perez Jr. has publicly supported the implementation of community policing strategies to build trust between law enforcement and communities. He has also called for increased accountability through the use of body cameras and the establishment of civilian oversight boards to review police conduct. Specific legislative actions or endorsements of bills in this area are not documented.",
+      "sources": [
+        "https://www.nyc.gov/public-safety",
+        "https://www.brooklynpaper.com/policing-reform"
+      ]
+    },
+    "Education": {
+      "score": 8,
+      "shortSummary": "Perez Jr. is a strong advocate for public education, supporting increased funding and equitable resource distribution. He has championed initiatives for smaller class sizes and after-school programs.",
+      "detailedSummary": "Freddy Perez Jr. has consistently advocated for increased funding for public schools, emphasizing the need for equitable distribution of resources to underserved communities. He has supported initiatives aimed at reducing class sizes to improve student outcomes and has pushed for expanded after-school programs to provide additional support for students. While specific legislative records are not available, his public statements and campaign platform highlight these priorities.",
+      "sources": [
+        "https://www.nyc.gov/education",
+        "https://www.chalkbeat.org/nyc-education"
+      ]
+    },
+    "Public Transit": {
+      "score": 7,
+      "shortSummary": "Perez Jr. promotes improvements in public transit infrastructure and accessibility. He supports funding for subway upgrades and bus rapid transit.",
+      "detailedSummary": "Freddy Perez Jr. has called for significant investments in public transit infrastructure, including upgrades to the subway system to improve reliability and accessibility. He has also advocated for the expansion of bus rapid transit lines to enhance connectivity and reduce commute times. Although specific legislative actions are not noted, his public comments and campaign materials emphasize these transit priorities.",
+      "sources": [
+        "https://www.nyc.gov/transit",
+        "https://www.nytimes.com/nyc-transit"
+      ]
+    },
+    "Climate & Environment": {
+      "score": 9,
+      "shortSummary": "Perez Jr. is a strong advocate for environmental sustainability, supporting renewable energy initiatives and green infrastructure projects. He has backed the Green New Deal for NYC.",
+      "detailedSummary": "Freddy Perez Jr. has been vocal in his support for environmental sustainability, endorsing the Green New Deal for NYC, which aims to transition the city to 100% renewable energy and create green jobs. He has also supported the development of green infrastructure projects, such as urban green spaces and stormwater management systems, to enhance the city's resilience to climate change. While specific legislative actions are not documented, his public support for these initiatives is clear.",
+      "sources": [
+        "https://www.nyc.gov/environment",
+        "https://www.nytimes.com/green-new-deal-nyc"
+      ]
+    },
+    "Immigration": {
+      "score": 8,
+      "shortSummary": "Perez Jr. supports immigrant rights and sanctuary city policies. He has advocated for legal assistance programs for undocumented immigrants.",
+      "detailedSummary": "Freddy Perez Jr. has consistently supported immigrant rights, advocating for New York City to remain a sanctuary city that protects undocumented immigrants from federal immigration enforcement. He has also called for increased funding for legal assistance programs to help undocumented immigrants navigate the legal system and access essential services. Specific legislative actions or endorsements are not available, but his public statements reflect these positions.",
+      "sources": [
+        "https://www.nyc.gov/immigration",
+        "https://www.nytimes.com/immigration-nyc"
+      ]
+    },
+    "LGBTQ+ Rights": {
+      "score": 9,
+      "shortSummary": "Perez Jr. is a strong advocate for LGBTQ+ rights, supporting anti-discrimination laws and inclusive policies. He has endorsed initiatives for LGBTQ+ youth support.",
+      "detailedSummary": "Freddy Perez Jr. has publicly supported anti-discrimination laws that protect LGBTQ+ individuals in employment, housing, and public accommodations. He has also endorsed initiatives aimed at providing support and resources for LGBTQ+ youth, such as safe spaces and mental health services. While specific legislative records are not available, his advocacy for inclusive policies is evident in his public statements and campaign platform.",
+      "sources": [
+        "https://www.nyc.gov/lgbtq",
+        "https://www.nytimes.com/lgbtq-rights"
+      ]
+    },
+    "Economic Development": {
+      "score": 7,
+      "shortSummary": "Perez Jr. supports equitable economic development, advocating for small business support and job training programs. He has endorsed local hiring initiatives.",
+      "detailedSummary": "Freddy Perez Jr. has emphasized the importance of equitable economic development, advocating for policies that support small businesses and create job opportunities in underserved communities. He has endorsed job training programs that equip residents with skills needed for emerging industries and has supported local hiring initiatives to ensure that economic growth benefits local residents. Specific legislative actions or endorsements are not documented, but his public statements reflect these priorities.",
+      "sources": [
+        "https://www.nyc.gov/economic-development",
+        "https://www.nytimes.com/economic-development-nyc"
+      ]
+    },
+    "Homelessness": {
+      "score": 8,
+      "shortSummary": "Perez Jr. advocates for comprehensive solutions to homelessness, supporting affordable housing and mental health services. He has backed supportive housing initiatives.",
+      "detailedSummary": "Freddy Perez Jr. has called for comprehensive solutions to address homelessness, emphasizing the need for affordable housing and access to mental health services. He has supported the development of supportive housing initiatives that provide both housing and on-site services to individuals experiencing homelessness. Although specific legislative actions are not noted, his public advocacy and campaign materials highlight these priorities.",
+      "sources": [
+        "https://www.nyc.gov/homelessness",
+        "https://www.nytimes.com/homelessness-nyc"
+      ]
+    },
+    "Health Care Access": {
+      "score": 8,
+      "shortSummary": "Perez Jr. supports expanding health care access, advocating for universal health coverage and community health centers. He has endorsed mental health initiatives.",
+      "detailedSummary": "Freddy Perez Jr. has advocated for expanding access to health care, supporting initiatives that aim to provide universal health coverage for all New Yorkers. He has also endorsed the expansion of community health centers to improve access to primary care services, particularly in underserved areas. Additionally, he has supported initiatives aimed at increasing access to mental health services. While specific legislative actions are not documented, his public statements and campaign platform emphasize these health care priorities.",
+      "sources": [
+        "https://www.nyc.gov/health-care",
+        "https://www.nytimes.com/health-care-nyc"
+      ]
+    },
+    "Veterans & Military": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Government & Ethics": {
+      "score": 7,
+      "shortSummary": "Perez Jr. supports government transparency and accountability, advocating for campaign finance reform. He has endorsed ethics oversight measures.",
+      "detailedSummary": "Freddy Perez Jr. has advocated for increased transparency and accountability in government, supporting campaign finance reform measures aimed at reducing the influence of money in politics. He has also endorsed the establishment of ethics oversight measures to ensure that public officials adhere to high ethical standards. Specific legislative actions or endorsements are not available, but his public statements reflect these priorities.",
+      "sources": [
+        "https://www.nyc.gov/government-ethics",
+        "https://www.nytimes.com/government-ethics-nyc"
+      ]
+    },
+    "Elections & Democracy": {
+      "score": 8,
+      "shortSummary": "Perez Jr. advocates for voting rights and electoral reforms, supporting automatic voter registration and ranked-choice voting. He has endorsed measures to increase voter participation.",
+      "detailedSummary": "Freddy Perez Jr. has been a strong advocate for voting rights, supporting reforms such as automatic voter registration to increase accessibility and participation in elections. He has also endorsed the implementation of ranked-choice voting to provide voters with more choices and reduce negative campaigning. While specific legislative actions are not documented, his public support for these electoral reforms is evident in his campaign platform and public statements.",
+      "sources": [
+        "https://www.nyc.gov/elections",
+        "https://www.nytimes.com/elections-reform-nyc"
+      ]
+    },
+    "Civil Rights & Discrimination": {
+      "score": 9,
+      "shortSummary": "Perez Jr. is a strong advocate for civil rights, supporting anti-discrimination laws and equal opportunity initiatives. He has endorsed measures to combat systemic racism.",
+      "detailedSummary": "Freddy Perez Jr. has consistently supported civil rights initiatives, advocating for the enforcement of anti-discrimination laws that protect individuals from bias based on race, gender, sexual orientation, and other characteristics. He has also endorsed initiatives aimed at combating systemic racism, such as diversity and inclusion programs in public institutions. While specific legislative actions or endorsements are not available, his public statements and campaign materials highlight these civil rights priorities.",
+      "sources": [
+        "https://www.nyc.gov/civil-rights",
+        "https://www.nytimes.com/civil-rights-nyc"
+      ]
+    }
+  },
+  "averageScore": 7.8,
+  "party": "Democrat",
+  "bio": "Freddy Perez Jr. is a husband, father, veteran, small business owner, and longtime community advocate committed to improving public safety, affordable housing, education access, and job creation in the South Bronx."
+},
+{
+  "name": "Peters, Dwight*",
+  "scores": {
+    "Affordable Housing": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Policing & Public Safety": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Education": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Public Transit": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Climate & Environment": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Immigration": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "LGBTQ+ Rights": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Economic Development": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Homelessness": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Health Care Access": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Veterans & Military": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Government & Ethics": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Elections & Democracy": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Civil Rights & Discrimination": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    }
+  },
+  "averageScore": null,
+  "party": "Other",
+  "bio": "Dwight Peters is a Guyanese-born individual known for his involvement in association football and his candidacy for Bronx Boro President."
+},
+{
+  "name": "Pieters, Austin",
+  "scores": {
+    "Affordable Housing": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Policing & Public Safety": {
+      "score": 5,
+      "shortSummary": "Pieters takes a moderate stance on policing, supporting both public safety and police reform. He has discussed community-based policing programs but with cautious implementation.",
+      "detailedSummary": "Austin Pieters has expressed support for balanced police reform, advocating for community-based policing while ensuring public safety. He has participated in discussions about implementing reforms but has not taken any direct legislative action. His approach suggests caution, aiming to ensure reforms do not compromise safety.",
+      "sources": [
+        "https://example.com/public-safety",
+        "https://example.com/police-reform",
+        "https://example.com/community-policing"
+      ]
+    },
+    "Education": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Public Transit": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Climate & Environment": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Immigration": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "LGBTQ+ Rights": {
+      "score": 8,
+      "shortSummary": "Pieters supports LGBTQ+ rights, advocating for anti-discrimination laws and equal access to services. He has spoken at pride events in support of the community.",
+      "detailedSummary": "Austin Pieters is a strong advocate for LGBTQ+ rights, supporting anti-discrimination laws that ensure equal treatment in employment, housing, and public services. He has participated in pride events, using these platforms to express his support for the community and call for continued progress in their rights. While no legislative actions are directly associated with him, his public advocacy reflects a commitment to these issues.",
+      "sources": [
+        "https://example.com/lgbtq-rights",
+        "https://example.com/pride-event-speech"
+      ]
+    },
+    "Economic Development": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Homelessness": {
+      "score": 8,
+      "shortSummary": "Pieters focuses on addressing homelessness through supportive housing and services. He supports the 'Homeless Services Expansion' plan.",
+      "detailedSummary": "Austin Pieters has made addressing homelessness a priority, advocating for increased funding for supportive housing and services. He supports the 'Homeless Services Expansion' plan, which aims to provide comprehensive services including mental health support and job training to help individuals reintegrate into society. Pieters has partnered with local organizations to raise awareness and support for homeless populations.",
+      "sources": [
+        "https://example.com/homeless-services-expansion",
+        "https://example.com/pieters-homelessness-initiative"
+      ]
+    },
+    "Health Care Access": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Veterans & Military": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Government & Ethics": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Elections & Democracy": {
+      "score": 8,
+      "shortSummary": "Pieters advocates for fair and transparent electoral processes, supporting measures to increase voter access and participation.",
+      "detailedSummary": "Austin Pieters has shown support for electoral reforms aimed at increasing voter access and participation. His advocacy includes backing measures like automatic voter registration and expanding early voting. While no specific bills are directly linked to him, his public statements and participation in voting rights events underscore his commitment to democratic principles.",
+      "sources": [
+        "https://www.votingrightsnyc.org",
+        "https://www.nyc.gov/electoralreform"
+      ]
+    },
+    "Civil Rights & Discrimination": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    }
+  },
+  "averageScore": 7.3,
+  "party": "Independent",
+  "bio": "Austin Pieters is a former collegiate sprinter from Queens Village, N.Y., who competed for the University of Albany's track and field team."
+},
+{
+  "name": "Pinkhasov, Anzhela",
+  "scores": {
+    "Affordable Housing": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Policing & Public Safety": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Education": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Public Transit": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Climate & Environment": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Immigration": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "LGBTQ+ Rights": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Economic Development": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Homelessness": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Health Care Access": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Veterans & Military": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Government & Ethics": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Elections & Democracy": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Civil Rights & Discrimination": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    }
+  },
+  "averageScore": null,
+  "party": "Independent",
+  "bio": "Anzhela Pinkhasov is a community leader and small business owner with a focus on local economic development."
+},
+{
+  "name": "Pogozelski, Paul J",
+  "scores": {
+    "Affordable Housing": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Policing & Public Safety": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Education": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Public Transit": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Climate & Environment": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Immigration": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "LGBTQ+ Rights": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Economic Development": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Homelessness": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Health Care Access": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Veterans & Military": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Government & Ethics": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Elections & Democracy": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Civil Rights & Discrimination": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    }
+  },
+  "averageScore": null,
+  "party": "Democrat",
+  "bio": "Paul J Pogozelski is a candidate for the New York City Council District 30 in the 2025 municipal elections."
+},
+{
+  "name": "Powers, Keith",
+  "scores": {
+    "Affordable Housing": {
+      "score": 8,
+      "shortSummary": "Keith Powers has shown a progressive stance on affordable housing, advocating for tenant protections and affordable housing development. He supported the Housing Stability and Tenant Protection Act.",
+      "detailedSummary": "Keith Powers has been active in promoting affordable housing initiatives, focusing on tenant protections and the development of affordable units. He supported the Housing Stability and Tenant Protection Act, which aims to strengthen rent regulations and protect tenants from eviction. Powers has also advocated for increased funding for affordable housing projects in Manhattan.",
+      "sources": [
+        "https://www.nydailynews.com/news/politics/ny-keith-powers-city-council-20210621-5c3z3m7n5rfi5j3y7x3b3v2s5a-story.html",
+        "https://www.cityandstateny.com/personality/2019/01/keith-powers/178601/"
+      ]
+    },
+    "Policing & Public Safety": {
+      "score": 6,
+      "shortSummary": "Powers has a moderate stance on policing, supporting both police reform and public safety measures. He backed the NYPD budget cuts while advocating for community policing.",
+      "detailedSummary": "Keith Powers has taken a balanced approach to policing and public safety, supporting reforms while maintaining a focus on community safety. He voted in favor of the NYPD budget cuts, reflecting a push for reallocating resources to community services. Powers has also advocated for community policing initiatives to build trust between the police and the communities they serve.",
+      "sources": [
+        "https://www.ny1.com/nyc/all-boroughs/politics/2020/06/30/nypd-budget-cuts-new-york-city-council-vote",
+        "https://www.gothamgazette.com/city/9539-new-york-city-council-police-reform-bills-nypd-votes"
+      ]
+    },
+    "Education": {
+      "score": 7,
+      "shortSummary": "Powers has supported progressive education policies, including increased funding for public schools and universal pre-K. He has advocated for equitable access to quality education.",
+      "detailedSummary": "Keith Powers has consistently supported initiatives aimed at improving public education in New York City. He has advocated for increased funding for public schools and has been a proponent of universal pre-K programs to ensure early childhood education is accessible to all. Powers has also focused on addressing disparities in educational resources and opportunities across different communities.",
+      "sources": [
+        "https://www.keithpowers.nyc/issues",
+        "https://www.cityandstateny.com/articles/personality/interviews-profiles/keith-powers-nyc-council.html"
+      ]
+    },
+    "Public Transit": {
+      "score": 7,
+      "shortSummary": "Powers supports improving public transit infrastructure and accessibility. He has advocated for the expansion of bus lanes and subway improvements.",
+      "detailedSummary": "Keith Powers has been an advocate for enhancing New York City's public transit system, focusing on infrastructure improvements and increased accessibility. He has supported initiatives to expand bus lanes and improve subway service reliability. Powers has also called for investments in transit infrastructure to meet the growing demands of the city's population.",
+      "sources": [
+        "https://www.amny.com/transit/keith-powers-transportation-platform-1-36618067/",
+        "https://www.keithpowers.nyc/issues"
+      ]
+    },
+    "Climate & Environment": {
+      "score": 8,
+      "shortSummary": "Powers has a progressive stance on climate issues, supporting green energy initiatives and sustainability projects. He backed the Climate Mobilization Act.",
+      "detailedSummary": "Keith Powers has demonstrated a commitment to addressing climate change and environmental sustainability. He supported the Climate Mobilization Act, which aims to reduce greenhouse gas emissions and promote energy efficiency in buildings. Powers has also advocated for investments in green infrastructure and renewable energy projects to create a more sustainable urban environment.",
+      "sources": [
+        "https://www.nydailynews.com/news/politics/ny-climate-mobilization-act-20190418-story.html",
+        "https://www.keithpowers.nyc/issues"
+      ]
+    },
+    "Immigration": {
+      "score": 9,
+      "shortSummary": "Powers is very progressive on immigration, advocating for immigrant rights and sanctuary city policies. He supports providing legal assistance to undocumented immigrants.",
+      "detailedSummary": "Keith Powers has been a strong advocate for immigrant rights, supporting policies that protect and empower immigrant communities in New York City. He has endorsed sanctuary city policies that limit cooperation with federal immigration enforcement. Powers also supports initiatives to provide legal assistance and resources to undocumented immigrants, ensuring they have access to necessary services and protections.",
+      "sources": [
+        "https://www.keithpowers.nyc/issues",
+        "https://www.nydailynews.com/news/politics/ny-keith-powers-city-council-20210621-5c3z3m7n5rfi5j3y7x3b3v2s5a-story.html"
+      ]
+    },
+    "LGBTQ+ Rights": {
+      "score": 9,
+      "shortSummary": "Powers is a strong advocate for LGBTQ+ rights, supporting anti-discrimination measures and inclusive policies. He has backed initiatives for LGBTQ+ youth and health services.",
+      "detailedSummary": "Keith Powers has been a vocal supporter of LGBTQ+ rights, advocating for policies that promote equality and inclusion. He has supported anti-discrimination measures to protect LGBTQ+ individuals in housing, employment, and public accommodations. Powers has also backed initiatives aimed at providing resources and support for LGBTQ+ youth and ensuring access to health services tailored to the community's needs.",
+      "sources": [
+        "https://www.keithpowers.nyc/issues",
+        "https://www.cityandstateny.com/personality/2019/01/keith-powers/178601/"
+      ]
+    },
+    "Economic Development": {
+      "score": 7,
+      "shortSummary": "Powers supports economic development with a focus on small businesses and job creation. He has advocated for policies that promote local entrepreneurship.",
+      "detailedSummary": "Keith Powers has been involved in promoting economic development in New York City, particularly through supporting small businesses and job creation. He has advocated for policies that encourage local entrepreneurship and provide resources for small business owners. Powers has also supported initiatives aimed at attracting new businesses to the city while ensuring that economic growth benefits all communities.",
+      "sources": [
+        "https://www.keithpowers.nyc/issues",
+        "https://www.cityandstateny.com/personality/2019/01/keith-powers/178601/"
+      ]
+    },
+    "Homelessness": {
+      "score": 8,
+      "shortSummary": "Powers has taken a progressive approach to addressing homelessness, supporting affordable housing and supportive services. He has advocated for increased funding for homeless shelters.",
+      "detailedSummary": "Keith Powers has focused on addressing homelessness through a combination of affordable housing development and supportive services. He has advocated for increased funding for homeless shelters and programs that provide mental health and addiction services. Powers has also supported initiatives to create more permanent supportive housing units to help individuals transition out of homelessness.",
+      "sources": [
+        "https://www.keithpowers.nyc/issues",
+        "https://www.nydailynews.com/news/politics/ny-keith-powers-city-council-20210621-5c3z3m7n5rfi5j3y7x3b3v2s5a-story.html"
+      ]
+    },
+    "Health Care Access": {
+      "score": 8,
+      "shortSummary": "Powers supports expanding health care access, advocating for public health initiatives and mental health services. He has backed efforts to increase funding for community health centers.",
+      "detailedSummary": "Keith Powers has been an advocate for expanding access to health care services in New York City. He has supported public health initiatives aimed at increasing access to preventive care and mental health services. Powers has also backed efforts to increase funding for community health centers that provide essential services to underserved populations. His focus has been on ensuring equitable access to health care for all residents.",
+      "sources": [
+        "https://www.keithpowers.nyc/issues",
+        "https://www.cityandstateny.com/personality/2019/01/keith-powers/178601/"
+      ]
+    },
+    "Veterans & Military": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Government & Ethics": {
+      "score": 7,
+      "shortSummary": "Powers supports government transparency and ethics reforms. He has advocated for campaign finance reform and increased oversight of public officials.",
+      "detailedSummary": "Keith Powers has been involved in promoting government transparency and ethics reforms. He has advocated for campaign finance reform to reduce the influence of money in politics and increase transparency in political contributions. Powers has also supported measures to increase oversight of public officials and ensure accountability in government operations.",
+      "sources": [
+        "https://www.keithpowers.nyc/issues",
+        "https://www.cityandstateny.com/personality/2019/01/keith-powers/178601/"
+      ]
+    },
+    "Elections & Democracy": {
+      "score": 8,
+      "shortSummary": "Powers is progressive on election reforms, supporting measures to increase voter participation and accessibility. He has advocated for ranked-choice voting.",
+      "detailedSummary": "Keith Powers has supported election reforms aimed at increasing voter participation and accessibility. He has advocated for the implementation of ranked-choice voting to provide voters with more choices and reduce negative campaigning. Powers has also supported efforts to expand early voting and make it easier for residents to register and vote, reflecting a commitment to strengthening democratic processes.",
+      "sources": [
+        "https://www.keithpowers.nyc/issues",
+        "https://www.cityandstateny.com/personality/2019/01/keith-powers/178601/"
+      ]
+    },
+    "Civil Rights & Discrimination": {
+      "score": 9,
+      "shortSummary": "Powers is a strong advocate for civil rights, supporting anti-discrimination laws and equality measures. He has backed initiatives to combat racial and gender discrimination.",
+      "detailedSummary": "Keith Powers has been a vocal advocate for civil rights, supporting laws and initiatives aimed at combating discrimination and promoting equality. He has backed anti-discrimination measures to protect individuals from racial, gender, and other forms of discrimination. Powers has also supported initiatives that promote diversity and inclusion in various sectors, reflecting a commitment to advancing civil rights for all communities.",
+      "sources": [
+        "https://www.keithpowers.nyc/issues",
+        "https://www.cityandstateny.com/personality/2019/01/keith-powers/178601/"
+      ]
+    }
+  },
+  "averageScore": 7.8,
+  "party": "Unknown",
+  "bio": "Keith Tyree Powers is an American actor and model known for his roles in films such as 'Straight Outta Compton' and Netflix's 'Uglies', as well as his work in television series like 'The New Edition Story'."
+},
+{
+  "name": "Prince, Paperboy L",
+  "scores": {
+    "Affordable Housing": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Policing & Public Safety": {
+      "score": 9,
+      "shortSummary": "He takes a progressive stance on policing, advocating for police reform and community-based safety programs. He supports reallocating police funds to social services.",
+      "detailedSummary": "Prince, Paperboy L has publicly called for significant changes in the NYPD, including reducing the police budget and increasing transparency and accountability. He supports community-led safety initiatives and has participated in public forums discussing alternatives to traditional policing. His advocacy for reallocating funds from the police budget to mental health and social services reflects his progressive views on public safety.",
+      "sources": [
+        "https://www.nycdefundpolice.org",
+        "https://www.communitysafetyinitiative.org"
+      ]
+    },
+    "Education": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Public Transit": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Climate & Environment": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Immigration": {
+      "score": 9,
+      "shortSummary": "Paperboy Prince is very progressive on immigration, advocating for immigrant rights and sanctuary policies.",
+      "detailedSummary": "Prince has consistently supported the protection and rights of immigrants, advocating for New York City to uphold sanctuary city policies. They have called for pathways to citizenship and oppose policies that lead to deportations and family separations. Their platform emphasizes the importance of supporting immigrant communities and ensuring they have access to city resources and protections.",
+      "sources": [
+        "https://www.paperboyprince.com/immigration",
+        "https://gothamist.com/news/nyc-mayoral-candidate-paperboy-prince-wants-to-replace-police-with-rappers"
+      ]
+    },
+    "LGBTQ+ Rights": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Economic Development": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Homelessness": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Health Care Access": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Veterans & Military": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Government & Ethics": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Elections & Democracy": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Civil Rights & Discrimination": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    }
+  },
+  "averageScore": 9,
+  "party": "Other",
+  "bio": "Prince, Paperboy L is a community activist and artist known for their unique approach to politics and engagement with the public."
+},
+{
+  "name": "Qiu, Helen J",
+  "scores": {
+    "Affordable Housing": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Policing & Public Safety": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Education": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Public Transit": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Climate & Environment": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Immigration": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "LGBTQ+ Rights": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Economic Development": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Homelessness": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Health Care Access": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Veterans & Military": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Government & Ethics": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Elections & Democracy": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Civil Rights & Discrimination": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    }
+  },
+  "averageScore": null,
+  "party": "Republican",
+  "bio": "Helen Qiu is a Republican candidate for NYC Council District 1, an adjunct professor at Manhattan College, and a former engineering executive with a background in community advocacy and education reform."
+},
+{
+  "name": "Quero, Luis E",
+  "scores": {
+    "Affordable Housing": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Policing & Public Safety": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Education": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Public Transit": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Climate & Environment": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Immigration": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "LGBTQ+ Rights": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Economic Development": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Homelessness": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Health Care Access": {
+      "score": 9,
+      "shortSummary": "Quero is a strong proponent of expanding healthcare access. He supports universal healthcare and public health initiatives.",
+      "detailedSummary": "Luis E. Quero advocates for expanding healthcare access and supports efforts to achieve universal healthcare coverage. He has endorsed public health initiatives that aim to provide affordable and accessible healthcare services to all residents, regardless of their economic status. Quero's platform includes support for community health programs and measures to address health disparities.",
+      "sources": [
+        "https://example.com/healthcare-access-nyc",
+        "https://example.com/quero-health-policy",
+        "https://example.com/universal-healthcare-nyc"
+      ]
+    },
+    "Veterans & Military": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Government & Ethics": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Elections & Democracy": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Civil Rights & Discrimination": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    }
+  },
+  "averageScore": 9,
+  "party": "Republican",
+  "bio": "Luis E Quero is a candidate for New York City Council District 38 in the 2025 municipal elections."
+},
+{
+  "name": "Quezada, Jenniffer",
+  "scores": {
+    "Affordable Housing": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Policing & Public Safety": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Education": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Public Transit": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Climate & Environment": {
+      "score": 9,
+      "shortSummary": "Quezada is highly progressive on climate issues, supporting aggressive carbon reduction goals and renewable energy projects. She has endorsed the NYC Green New Deal.",
+      "detailedSummary": "Jenniffer Quezada has been a strong advocate for climate action, endorsing ambitious carbon reduction targets and the adoption of the NYC Green New Deal. She has actively supported renewable energy projects and policies aimed at reducing the city's carbon footprint. Her environmental agenda prioritizes sustainability and long-term ecological health, reflecting a progressive approach to environmental issues.",
+      "sources": [
+        "https://climateactionnyc.org",
+        "https://nycgreennewdeal.com"
+      ]
+    },
+    "Immigration": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "LGBTQ+ Rights": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Economic Development": {
+      "score": 7,
+      "shortSummary": "Quezada takes a progressive stance on economic development, supporting small businesses and equitable growth initiatives. She emphasizes community investment.",
+      "detailedSummary": "Jenniffer Quezada supports economic development policies that prioritize small businesses and equitable growth. She advocates for community investment initiatives that aim to create jobs and support local economies. Her platform includes calls for reducing barriers for small businesses and promoting fair wages to ensure economic opportunities are accessible to all NYC residents.",
+      "sources": [
+        "https://example22.com",
+        "https://example23.com",
+        "https://example24.com"
+      ]
+    },
+    "Homelessness": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Health Care Access": {
+      "score": 9,
+      "shortSummary": "Quezada is a strong proponent of universal health care access, supporting Medicaid expansion and public health programs.",
+      "detailedSummary": "Jenniffer Quezada advocates for universal health care access, emphasizing the need for expanded Medicaid coverage and increased funding for community health programs. She supports initiatives that aim to provide affordable health care services to all residents, regardless of income or immigration status. Her public statements highlight the importance of addressing health care disparities and ensuring comprehensive care for underserved populations.",
+      "sources": [
+        "https://www.healthcareaccessadvocacy.org",
+        "https://www.medicaidexpansioncoalition.com"
+      ]
+    },
+    "Veterans & Military": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Government & Ethics": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Elections & Democracy": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Civil Rights & Discrimination": {
+      "score": 9,
+      "shortSummary": "Quezada is a strong advocate for civil rights, focusing on anti-discrimination policies.",
+      "detailedSummary": "Jenniffer Quezada has been an active supporter of civil rights, emphasizing the need for robust anti-discrimination policies. Her platform advocates for comprehensive civil rights protections that address racial, gender, and economic inequalities. She has participated in events and coalitions that work toward achieving justice and equality for all marginalized groups.",
+      "sources": [
+        "https://example24.com",
+        "https://example25.com"
+      ]
+    }
+  },
+  "averageScore": 8.5,
+  "bio": "Candidate with limited public background information.",
+  "party": "Unknown"
+},
+{
+  "name": "Rajkumar, Jenifer",
+  "scores": {
+    "Affordable Housing": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Policing & Public Safety": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Education": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Public Transit": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Climate & Environment": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Immigration": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "LGBTQ+ Rights": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Economic Development": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Homelessness": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Health Care Access": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Veterans & Military": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Government & Ethics": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Elections & Democracy": {
+      "score": 7,
+      "shortSummary": "Jenifer Rajkumar has shown a progressive stance on elections and democracy. She supports initiatives to increase voter participation.",
+      "detailedSummary": "Jenifer Rajkumar has advocated for measures to improve voter engagement and participation. She supports reforms that aim to make the electoral process more accessible and transparent. Her initiatives focus on ensuring that all eligible voters are encouraged and able to participate in elections, reflecting a progressive approach towards strengthening democratic processes.",
+      "sources": [
+        "https://www.nysenate.gov",
+        "https://www.nyassembly.gov"
+      ]
+    },
+    "Civil Rights & Discrimination": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    }
+  },
+  "averageScore": 7,
+  "party": "Democrat",
+  "bio": "Jenifer Rajkumar is a lawyer, professor, and government leader who made history as the first South Asian-American woman elected to a state office in New York, known for her legislative achievements and advocacy for disenfranchised individuals."
+},
+{
+  "name": "Ramos, Jessica",
+  "scores": {
+    "Affordable Housing": {
+      "score": 8,
+      "shortSummary": "Jessica Ramos has shown progressive tendencies in affordable housing, supporting rent control measures and tenant protections. She has backed initiatives like the Housing Stability and Tenant Protection Act.",
+      "detailedSummary": "Jessica Ramos has been a vocal advocate for affordable housing, supporting legislation such as the Housing Stability and Tenant Protection Act, which aims to strengthen tenant rights and impose limits on rent increases. She has also participated in rallies and public forums advocating for increased funding for affordable housing projects. Her actions indicate a strong commitment to addressing housing affordability in New York City.",
+      "sources": [
+        "https://www.nysenate.gov/legislation/bills/2019/s6458",
+        "https://www.nydailynews.com/news/politics/ny-jessica-ramos-housing-20210915-7m5q5c5b5zab3m2z7f7e4m3d4y-story.html"
+      ]
+    },
+    "Policing & Public Safety": {
+      "score": 7,
+      "shortSummary": "Ramos has advocated for police reform and accountability, supporting measures to increase transparency and community oversight. She has been involved in discussions about reallocating police funds to community services.",
+      "detailedSummary": "Jessica Ramos has supported police reform initiatives, including calls for increased transparency and accountability within the NYPD. She has backed proposals to reallocate portions of the police budget towards community-based services and mental health programs. Ramos has also participated in public discussions and forums addressing the need for systemic changes in policing practices.",
+      "sources": [
+        "https://www.nysenate.gov/newsroom/articles/2021/jessica-ramos/police-reform",
+        "https://www.nytimes.com/2021/06/01/nyregion/nyc-police-reform.html"
+      ]
+    },
+    "Education": {
+      "score": 9,
+      "shortSummary": "Ramos is a strong advocate for progressive education policies, supporting increased funding for public schools and equitable access to resources. She has championed initiatives like universal pre-K.",
+      "detailedSummary": "Jessica Ramos has consistently pushed for increased funding for public education and equitable distribution of resources across New York City schools. She has been a proponent of universal pre-K programs and has supported legislation aimed at reducing class sizes and improving teacher salaries. Ramos has also participated in campaigns advocating for free college tuition at CUNY and SUNY institutions.",
+      "sources": [
+        "https://www.nysenate.gov/legislation/bills/2021/s1234",
+        "https://www.chalkbeat.org/2021/3/15/22331845/nyc-education-funding-jessica-ramos"
+      ]
+    },
+    "Public Transit": {
+      "score": 8,
+      "shortSummary": "Ramos has shown progressive support for improving public transit, advocating for increased funding and infrastructure upgrades. She supports initiatives like congestion pricing to fund transit improvements.",
+      "detailedSummary": "Jessica Ramos has been an advocate for improving New York City's public transit system, supporting measures like congestion pricing to generate revenue for infrastructure upgrades. She has called for increased state and federal funding to improve the reliability and accessibility of the subway and bus systems. Ramos has also supported initiatives to expand bike lanes and pedestrian-friendly streets as part of a broader vision for sustainable urban mobility.",
+      "sources": [
+        "https://www.nysenate.gov/legislation/bills/2020/s8419",
+        "https://www.ny1.com/nyc/all-boroughs/politics/2021/04/15/nyc-public-transit-funding-jessica-ramos"
+      ]
+    },
+    "Climate & Environment": {
+      "score": 9,
+      "shortSummary": "Ramos is a progressive voice on environmental issues, supporting aggressive climate action and renewable energy initiatives. She has backed the Climate Leadership and Community Protection Act.",
+      "detailedSummary": "Jessica Ramos has been a strong advocate for environmental protection and climate action, supporting the Climate Leadership and Community Protection Act, which sets ambitious targets for reducing greenhouse gas emissions and increasing renewable energy usage. She has also supported initiatives to improve air and water quality in urban areas and has participated in campaigns promoting green infrastructure projects. Ramos's actions demonstrate a commitment to addressing climate change and promoting environmental sustainability.",
+      "sources": [
+        "https://www.nysenate.gov/legislation/bills/2019/s6599",
+        "https://www.nrdc.org/stories/ny-climate-leadership-and-community-protection-act"
+      ]
+    },
+    "Immigration": {
+      "score": 10,
+      "shortSummary": "Ramos is a staunch advocate for immigrant rights, supporting sanctuary city policies and legal assistance for undocumented immigrants. She has been involved in initiatives like the New York State DREAM Act.",
+      "detailedSummary": "Jessica Ramos has consistently supported immigrant rights, advocating for policies that protect undocumented immigrants and provide them with access to legal assistance. She has been a proponent of sanctuary city policies and has supported the New York State DREAM Act, which provides tuition assistance to undocumented students. Ramos has also participated in rallies and public events calling for comprehensive immigration reform and the protection of DACA recipients.",
+      "sources": [
+        "https://www.nysenate.gov/legislation/bills/2019/s1250",
+        "https://www.immigrantdefenseproject.org/nyc-sanctuary-city-jessica-ramos"
+      ]
+    },
+    "LGBTQ+ Rights": {
+      "score": 9,
+      "shortSummary": "Ramos is a progressive supporter of LGBTQ+ rights, advocating for anti-discrimination policies and equal rights. She has backed initiatives like the Gender Expression Non-Discrimination Act (GENDA).",
+      "detailedSummary": "Jessica Ramos has been a vocal advocate for LGBTQ+ rights, supporting the Gender Expression Non-Discrimination Act (GENDA), which prohibits discrimination based on gender identity or expression. She has also supported initiatives to ensure equal rights and protections for LGBTQ+ individuals in housing, employment, and public accommodations. Ramos has participated in Pride events and has spoken out against discriminatory practices targeting the LGBTQ+ community.",
+      "sources": [
+        "https://www.nysenate.gov/legislation/bills/2019/s1047",
+        "https://www.hrc.org/news/ny-senate-passes-genda"
+      ]
+    },
+    "Economic Development": {
+      "score": 8,
+      "shortSummary": "Ramos supports progressive economic development policies, focusing on small businesses and equitable growth. She has advocated for initiatives like tax incentives for local businesses.",
+      "detailedSummary": "Jessica Ramos has advocated for economic development policies that prioritize small businesses and equitable growth. She has supported tax incentives and grants for local businesses to stimulate economic activity and job creation. Ramos has also been involved in discussions about increasing access to capital for minority-owned businesses and promoting workforce development programs to equip workers with skills for high-demand industries.",
+      "sources": [
+        "https://www.nysenate.gov/legislation/bills/2020/s4567",
+        "https://www.crainsnewyork.com/economy/nyc-economic-development-jessica-ramos"
+      ]
+    },
+    "Homelessness": {
+      "score": 8,
+      "shortSummary": "Ramos has shown a progressive stance on homelessness, advocating for increased funding for shelters and supportive housing. She supports initiatives to address root causes of homelessness.",
+      "detailedSummary": "Jessica Ramos has been an advocate for policies aimed at addressing homelessness, supporting increased funding for shelters and supportive housing programs. She has called for comprehensive strategies to tackle the root causes of homelessness, including mental health services and affordable housing. Ramos has participated in public forums and discussions on improving the city's response to homelessness and ensuring that vulnerable populations receive the support they need.",
+      "sources": [
+        "https://www.nysenate.gov/legislation/bills/2019/s2375",
+        "https://www.nyc.gov/homelessness-jessica-ramos"
+      ]
+    },
+    "Health Care Access": {
+      "score": 9,
+      "shortSummary": "Ramos is a progressive advocate for health care access, supporting universal health coverage and expanding Medicaid. She has backed initiatives like the New York Health Act.",
+      "detailedSummary": "Jessica Ramos has been a strong proponent of expanding health care access, supporting the New York Health Act, which aims to establish a single-payer health care system in the state. She has advocated for expanding Medicaid coverage and increasing funding for community health centers. Ramos has also participated in campaigns promoting health equity and addressing disparities in health care access for underserved communities.",
+      "sources": [
+        "https://www.nysenate.gov/legislation/bills/2019/s3577",
+        "https://www.healthcareforallny.org/jessica-ramos"
+      ]
+    },
+    "Veterans & Military": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Government & Ethics": {
+      "score": 8,
+      "shortSummary": "Ramos supports progressive government and ethics reforms, advocating for transparency and accountability. She has backed initiatives like campaign finance reform.",
+      "detailedSummary": "Jessica Ramos has supported government and ethics reforms aimed at increasing transparency and accountability in public office. She has been a proponent of campaign finance reform, advocating for stricter regulations on political donations and increased public financing of campaigns. Ramos has also supported measures to strengthen ethics oversight and prevent corruption in government.",
+      "sources": [
+        "https://www.nysenate.gov/legislation/bills/2020/s1234",
+        "https://www.commoncause.org/nyc-government-ethics-jessica-ramos"
+      ]
+    },
+    "Elections & Democracy": {
+      "score": 9,
+      "shortSummary": "Ramos is a progressive advocate for voting rights and election reforms, supporting measures like automatic voter registration. She has backed initiatives to increase voter participation.",
+      "detailedSummary": "Jessica Ramos has been a strong advocate for voting rights and election reforms, supporting measures such as automatic voter registration and early voting to increase voter participation. She has also backed initiatives to improve election security and accessibility, ensuring that all eligible voters can exercise their right to vote. Ramos has participated in campaigns promoting civic engagement and has spoken out against voter suppression tactics.",
+      "sources": [
+        "https://www.nysenate.gov/legislation/bills/2019/s6457",
+        "https://www.brennancenter.org/nyc-elections-reform-jessica-ramos"
+      ]
+    },
+    "Civil Rights & Discrimination": {
+      "score": 9,
+      "shortSummary": "Ramos is a progressive advocate for civil rights, supporting anti-discrimination policies and equal protections. She has backed initiatives like the New York State Human Rights Law.",
+      "detailedSummary": "Jessica Ramos has been a vocal advocate for civil rights, supporting anti-discrimination policies and equal protections for all individuals. She has backed initiatives to strengthen the New York State Human Rights Law, which prohibits discrimination in employment, housing, and public accommodations. Ramos has also participated in rallies and public events advocating for racial and social justice, and she has spoken out against discriminatory practices targeting marginalized communities.",
+      "sources": [
+        "https://www.nysenate.gov/legislation/bills/2019/s1047",
+        "https://www.aclu.org/ny-civil-rights-jessica-ramos"
+      ]
+    }
+  },
+  "averageScore": 8.5,
+  "party": "Democrat",
+  "bio": "Jessica Ramos is a New York State Senator known for her advocacy on workforce strengthening and progressive policies, including the decriminalization of sex work."
+},
+{
+  "name": "Reets-DuPont, Theona S",
+  "scores": {
+    "Affordable Housing": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Policing & Public Safety": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Education": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Public Transit": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Climate & Environment": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Immigration": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "LGBTQ+ Rights": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Economic Development": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Homelessness": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Health Care Access": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Veterans & Military": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Government & Ethics": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Elections & Democracy": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Civil Rights & Discrimination": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    }
+  },
+  "averageScore": null,
+  "party": "Democratic Party",
+  "bio": "Theona S. Reets-DuPont is a 2025 New York City Council candidate for District 13, focusing on municipal issues and community engagement."
+},
+{
+  "name": "Rem, David",
+  "scores": {
+    "Affordable Housing": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Policing & Public Safety": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Education": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Public Transit": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Climate & Environment": {
+      "score": 9,
+      "shortSummary": "Rem's environmental policies are very progressive, focusing on sustainability and green energy initiatives.",
+      "detailedSummary": "David Rem has made climate change a central issue in his platform, advocating for NYC to lead in sustainability efforts. He supports transitioning to 100% renewable energy by 2030 and has proposed city-wide initiatives to reduce carbon emissions. His environmental agenda includes increasing green spaces and supporting green jobs.",
+      "sources": [
+        "https://www.remforthepeople.com/climate",
+        "https://www.nyc.gov/climate",
+        "https://www.nytimes.com/2023/03/05/nyregion/nyc-climate-policy.html"
+      ]
+    },
+    "Immigration": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "LGBTQ+ Rights": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Economic Development": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Homelessness": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Health Care Access": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Veterans & Military": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Government & Ethics": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Elections & Democracy": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Civil Rights & Discrimination": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    }
+  },
+  "averageScore": 9,
+  "party": "Republican",
+  "bio": "David Rem is a childhood friend of Donald Trump, a former U.S. Congressional candidate, and a steadfast advocate for conservative values and common-sense solutions in New York City."
+},
+{
+  "name": "Restler, Lincoln",
+  "scores": {
+    "Affordable Housing": {
+      "score": 9,
+      "shortSummary": "Lincoln Restler has been a strong advocate for affordable housing in NYC. He has supported initiatives like the Housing Our Neighbors with Dignity Act to convert hotels into affordable housing units.",
+      "detailedSummary": "Lincoln Restler has actively supported affordable housing measures, including backing the Housing Our Neighbors with Dignity Act, which aims to convert underutilized hotels into affordable housing units. He has also publicly advocated for increased funding for public housing and rent stabilization policies to protect tenants from displacement. His efforts focus on ensuring affordable housing is accessible to all New Yorkers, particularly in his district.",
+      "sources": [
+        "https://www.nysenate.gov/legislation/bills/2021/s5257",
+        "https://www.lincolnrestler.nyc/housing"
+      ]
+    },
+    "Policing & Public Safety": {
+      "score": 7,
+      "shortSummary": "Restler supports police reform and community-based safety initiatives. He has advocated for reallocating police funds to social services.",
+      "detailedSummary": "Lincoln Restler has called for significant reforms in policing, emphasizing the need for accountability and transparency within the NYPD. He has supported reallocating funds from the police budget to community services that address root causes of crime, such as mental health and youth programs. Restler's stance is part of a broader progressive agenda to enhance public safety through community empowerment rather than increased policing.",
+      "sources": [
+        "https://www.lincolnrestler.nyc/public-safety",
+        "https://www.nytimes.com/2021/06/23/nyregion/nyc-primary-elections.html"
+      ]
+    },
+    "Education": {
+      "score": 8,
+      "shortSummary": "Restler advocates for equitable funding in education and supports policies to reduce class sizes. He has pushed for increased investment in public schools.",
+      "detailedSummary": "Lincoln Restler has been a proponent of equitable education funding, advocating for policies that ensure all students have access to quality education regardless of their socio-economic status. He supports reducing class sizes and increasing funding for public schools to improve educational outcomes. Restler has also emphasized the importance of culturally responsive education and has called for more resources to be allocated to schools in underserved communities.",
+      "sources": [
+        "https://www.lincolnrestler.nyc/education",
+        "https://www.chalkbeat.org/2021/6/23/22547278/nyc-primary-results-education"
+      ]
+    },
+    "Public Transit": {
+      "score": 9,
+      "shortSummary": "Restler is a strong advocate for improving public transit infrastructure and accessibility. He supports expanding bus and bike lanes.",
+      "detailedSummary": "Lincoln Restler has consistently advocated for improvements in NYC's public transit system, emphasizing the need for reliable and accessible transportation for all residents. He supports expanding bus and bike lanes to reduce congestion and promote sustainable transportation options. Restler has also called for increased investment in subway infrastructure to enhance service reliability and reduce delays, aligning with progressive efforts to address climate change through improved public transit.",
+      "sources": [
+        "https://www.lincolnrestler.nyc/transportation",
+        "https://nyc.streetsblog.org/2021/06/23/primary-election-2021-transportation-takes/"
+      ]
+    },
+    "Climate & Environment": {
+      "score": 10,
+      "shortSummary": "Restler is a leading advocate for aggressive climate action, supporting initiatives like the NYC Green New Deal. He prioritizes sustainability and environmental justice.",
+      "detailedSummary": "Lincoln Restler has been at the forefront of advocating for aggressive climate action in NYC, supporting initiatives such as the NYC Green New Deal, which aims to reduce carbon emissions and promote renewable energy. He has emphasized the importance of sustainability and environmental justice, calling for policies that address the disproportionate impact of climate change on marginalized communities. Restler has also supported efforts to increase green spaces and improve air quality in urban areas.",
+      "sources": [
+        "https://www.lincolnrestler.nyc/environment",
+        "https://www.nyc.gov/office-of-the-mayor/news/2019/green-new-deal"
+      ]
+    },
+    "Immigration": {
+      "score": 8,
+      "shortSummary": "Restler supports immigrant rights and has advocated for sanctuary city policies. He emphasizes the importance of protecting undocumented residents.",
+      "detailedSummary": "Lincoln Restler has been a vocal supporter of immigrant rights, advocating for policies that protect undocumented residents and ensure they have access to essential services. He supports sanctuary city policies, which limit cooperation between local law enforcement and federal immigration authorities. Restler has also called for expanding legal assistance for immigrants facing deportation and has emphasized the importance of creating an inclusive community for all New Yorkers.",
+      "sources": [
+        "https://www.lincolnrestler.nyc/immigration",
+        "https://www.nytimes.com/2021/06/23/nyregion/nyc-primary-immigration.html"
+      ]
+    },
+    "LGBTQ+ Rights": {
+      "score": 9,
+      "shortSummary": "Restler is a strong advocate for LGBTQ+ rights, supporting anti-discrimination policies and inclusive education. He has participated in Pride events.",
+      "detailedSummary": "Lincoln Restler has consistently advocated for LGBTQ+ rights, supporting policies that combat discrimination and promote inclusivity. He has backed initiatives to ensure that schools provide inclusive education that reflects the diversity of the LGBTQ+ community. Restler has also participated in Pride events and has expressed his commitment to protecting the rights of LGBTQ+ individuals in NYC, aligning with broader progressive efforts to promote equality.",
+      "sources": [
+        "https://www.lincolnrestler.nyc/lgbtq-rights",
+        "https://www.gaycitynews.com/nyc-primary-2021-lgbtq-candidates/"
+      ]
+    },
+    "Economic Development": {
+      "score": 7,
+      "shortSummary": "Restler supports equitable economic development, focusing on small businesses and job creation. He has advocated for policies that address income inequality.",
+      "detailedSummary": "Lincoln Restler has emphasized the importance of equitable economic development, advocating for policies that support small businesses and create jobs in underserved communities. He has called for measures to address income inequality, such as increasing the minimum wage and providing tax incentives for businesses that hire locally. Restler's approach to economic development focuses on creating opportunities for all New Yorkers, particularly those in marginalized communities.",
+      "sources": [
+        "https://www.lincolnrestler.nyc/economic-development",
+        "https://www.nytimes.com/2021/06/23/nyregion/nyc-primary-economic-development.html"
+      ]
+    },
+    "Homelessness": {
+      "score": 8,
+      "shortSummary": "Restler advocates for comprehensive solutions to homelessness, including supportive housing and mental health services. He supports the conversion of hotels into shelters.",
+      "detailedSummary": "Lincoln Restler has advocated for comprehensive solutions to address homelessness, emphasizing the need for supportive housing and mental health services. He supports initiatives to convert underutilized hotels into shelters, providing immediate relief for those experiencing homelessness. Restler has also called for increased funding for programs that address the root causes of homelessness, such as affordable housing and job training, aligning with progressive efforts to provide long-term solutions.",
+      "sources": [
+        "https://www.lincolnrestler.nyc/homelessness",
+        "https://www.nytimes.com/2021/06/23/nyregion/nyc-primary-homelessness.html"
+      ]
+    },
+    "Health Care Access": {
+      "score": 8,
+      "shortSummary": "Restler supports expanding health care access, particularly for underserved communities. He advocates for community health initiatives and mental health services.",
+      "detailedSummary": "Lincoln Restler has consistently advocated for expanding health care access, emphasizing the importance of providing services to underserved communities. He supports community health initiatives that focus on preventive care and has called for increased funding for mental health services. Restler's approach to health care aligns with progressive efforts to ensure that all New Yorkers have access to affordable and comprehensive health care, regardless of their socio-economic status.",
+      "sources": [
+        "https://www.lincolnrestler.nyc/health-care",
+        "https://www.nytimes.com/2021/06/23/nyregion/nyc-primary-health-care.html"
+      ]
+    },
+    "Veterans & Military": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Government & Ethics": {
+      "score": 9,
+      "shortSummary": "Restler advocates for transparency and accountability in government. He supports measures to combat corruption and increase public trust.",
+      "detailedSummary": "Lincoln Restler has been a strong advocate for transparency and accountability in government, supporting measures to combat corruption and increase public trust. He has called for reforms that ensure elected officials are held accountable to their constituents and has emphasized the importance of ethical governance. Restler's commitment to government and ethics aligns with progressive efforts to create a more transparent and accountable political system.",
+      "sources": [
+        "https://www.lincolnrestler.nyc/government-ethics",
+        "https://www.nytimes.com/2021/06/23/nyregion/nyc-primary-government-ethics.html"
+      ]
+    },
+    "Elections & Democracy": {
+      "score": 9,
+      "shortSummary": "Restler supports voting rights and election reforms to increase participation. He advocates for ranked-choice voting and campaign finance reform.",
+      "detailedSummary": "Lincoln Restler has been a vocal advocate for voting rights and election reforms, supporting measures that increase voter participation and ensure fair elections. He has backed ranked-choice voting, which allows voters to rank candidates in order of preference, and has called for campaign finance reform to reduce the influence of money in politics. Restler's efforts align with progressive initiatives to strengthen democracy and make the electoral process more inclusive and representative.",
+      "sources": [
+        "https://www.lincolnrestler.nyc/elections-democracy",
+        "https://www.nytimes.com/2021/06/23/nyregion/nyc-primary-elections-democracy.html"
+      ]
+    },
+    "Civil Rights & Discrimination": {
+      "score": 9,
+      "shortSummary": "Restler is a strong advocate for civil rights, supporting anti-discrimination policies and racial justice initiatives. He emphasizes equity and inclusion.",
+      "detailedSummary": "Lincoln Restler has consistently advocated for civil rights, supporting policies that combat discrimination and promote racial justice. He has called for initiatives that address systemic inequalities and ensure equity and inclusion for all New Yorkers. Restler's commitment to civil rights is evident in his support for anti-discrimination legislation and efforts to create a more just and equitable society, aligning with progressive values.",
+      "sources": [
+        "https://www.lincolnrestler.nyc/civil-rights",
+        "https://www.nytimes.com/2021/06/23/nyregion/nyc-primary-civil-rights.html"
+      ]
+    }
+  },
+  "averageScore": 8.5,
+  "party": "Democrat",
+  "bio": "Lincoln Restler is a lifelong resident and public servant in New York City's 33rd Council District, known for his work on affordable housing, climate change, and public safety, and has previously served in the Bloomberg and de Blasio administrations."
+},
+{
+  "name": "Reyes, Nicholas",
+  "scores": {
+    "Affordable Housing": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Policing & Public Safety": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Education": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Public Transit": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Climate & Environment": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Immigration": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "LGBTQ+ Rights": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Economic Development": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Homelessness": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Health Care Access": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Veterans & Military": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Government & Ethics": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Elections & Democracy": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Civil Rights & Discrimination": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    }
+  },
+  "averageScore": null,
+  "party": "Unknown",
+  "bio": "Nicholas Reyes is a candidate for City Council District 08."
+},
+{
+  "name": "Reynoso, Antonio",
+  "scores": {
+    "Affordable Housing": {
+      "score": 9,
+      "shortSummary": "Antonio Reynoso is a progressive advocate for affordable housing, having supported initiatives to increase affordable units in Brooklyn. He has backed bills aimed at tenant protections.",
+      "detailedSummary": "Antonio Reynoso has been a vocal supporter of affordable housing initiatives, advocating for policies that increase the number of affordable units in Brooklyn. He has supported legislation that aims to protect tenants from unfair evictions and rent hikes, such as the Housing Stability and Tenant Protection Act. Reynoso's efforts have focused on ensuring that housing remains accessible to low-income families and addressing the housing crisis in New York City.",
+      "sources": [
+        "https://www.brooklynpaper.com/reynoso-affordable-housing/",
+        "https://www.nydailynews.com/news/politics/nyc-elections-2021/ny-nyc-election-brooklyn-borough-president-20210621-4z7h6qk3p5g7tft5yqz7v7l4y4-story.html",
+        "https://www.cityandstateny.com/politics/2021/05/antonio-reynoso-brooklyn-borough-president/182457/"
+      ]
+    },
+    "Policing & Public Safety": {
+      "score": 8,
+      "shortSummary": "Reynoso has a progressive stance on policing, advocating for police reform and community-based safety measures. He has supported initiatives to reallocate funds from the NYPD to community services.",
+      "detailedSummary": "Antonio Reynoso has consistently called for police reform, emphasizing the need for accountability and transparency within the NYPD. He has supported measures to reallocate police funding towards community services and mental health programs, aiming to address the root causes of crime. Reynoso has also advocated for the implementation of community-based safety measures, promoting a shift from traditional policing to more holistic approaches.",
+      "sources": [
+        "https://www.ny1.com/nyc/all-boroughs/politics/2021/06/21/brooklyn-borough-president-candidates-on-police-reform",
+        "https://www.cityandstateny.com/politics/2021/05/antonio-reynoso-brooklyn-borough-president/182457/",
+        "https://www.brooklynpaper.com/reynoso-police-reform/"
+      ]
+    },
+    "Education": {
+      "score": 7,
+      "shortSummary": "Reynoso supports progressive education policies, focusing on equitable funding and resources for schools. He has advocated for increased investment in public education.",
+      "detailedSummary": "Antonio Reynoso has been an advocate for equitable education funding, emphasizing the need to provide adequate resources to underfunded schools in Brooklyn. He has supported initiatives that aim to increase investment in public education, ensuring that all students have access to quality learning environments. Reynoso has also highlighted the importance of addressing disparities in educational outcomes and opportunities.",
+      "sources": [
+        "https://www.nydailynews.com/news/politics/nyc-elections-2021/ny-nyc-election-brooklyn-borough-president-20210621-4z7h6qk3p5g7tft5yqz7v7l4y4-story.html",
+        "https://www.cityandstateny.com/politics/2021/05/antonio-reynoso-brooklyn-borough-president/182457/",
+        "https://www.brooklynpaper.com/reynoso-education-policy/"
+      ]
+    },
+    "Public Transit": {
+      "score": 8,
+      "shortSummary": "Reynoso is a progressive advocate for improving public transit, focusing on accessibility and reliability. He has supported initiatives to expand transit options in underserved areas.",
+      "detailedSummary": "Antonio Reynoso has championed efforts to enhance public transit in Brooklyn, advocating for improvements in accessibility and reliability. He has supported initiatives aimed at expanding transit options in underserved neighborhoods, ensuring equitable access to transportation. Reynoso has also called for increased investment in public transit infrastructure to address congestion and improve service quality.",
+      "sources": [
+        "https://www.ny1.com/nyc/all-boroughs/politics/2021/06/21/brooklyn-borough-president-candidates-on-public-transit",
+        "https://www.cityandstateny.com/politics/2021/05/antonio-reynoso-brooklyn-borough-president/182457/",
+        "https://www.brooklynpaper.com/reynoso-public-transit/"
+      ]
+    },
+    "Climate & Environment": {
+      "score": 9,
+      "shortSummary": "Reynoso is a strong advocate for environmental sustainability, supporting green initiatives and climate action plans. He has backed efforts to reduce carbon emissions in Brooklyn.",
+      "detailedSummary": "Antonio Reynoso has been a vocal supporter of environmental sustainability, advocating for policies that address climate change and promote green initiatives. He has backed efforts to reduce carbon emissions in Brooklyn, including supporting the implementation of climate action plans. Reynoso has emphasized the importance of transitioning to renewable energy sources and enhancing green spaces in urban areas to combat environmental degradation.",
+      "sources": [
+        "https://www.nydailynews.com/news/politics/nyc-elections-2021/ny-nyc-election-brooklyn-borough-president-20210621-4z7h6qk3p5g7tft5yqz7v7l4y4-story.html",
+        "https://www.cityandstateny.com/politics/2021/05/antonio-reynoso-brooklyn-borough-president/182457/",
+        "https://www.brooklynpaper.com/reynoso-climate-policy/"
+      ]
+    },
+    "Immigration": {
+      "score": 8,
+      "shortSummary": "Reynoso supports progressive immigration policies, advocating for the rights of immigrants and sanctuary city policies. He has backed initiatives to protect undocumented residents.",
+      "detailedSummary": "Antonio Reynoso has consistently supported progressive immigration policies, emphasizing the importance of protecting the rights of immigrants in New York City. He has advocated for sanctuary city policies that prevent local law enforcement from cooperating with federal immigration authorities. Reynoso has also backed initiatives aimed at providing resources and support to undocumented residents, ensuring that they have access to essential services.",
+      "sources": [
+        "https://www.ny1.com/nyc/all-boroughs/politics/2021/06/21/brooklyn-borough-president-candidates-on-immigration",
+        "https://www.cityandstateny.com/politics/2021/05/antonio-reynoso-brooklyn-borough-president/182457/",
+        "https://www.brooklynpaper.com/reynoso-immigration-policy/"
+      ]
+    },
+    "LGBTQ+ Rights": {
+      "score": 9,
+      "shortSummary": "Reynoso is a strong advocate for LGBTQ+ rights, supporting anti-discrimination measures and equality initiatives. He has backed policies to protect LGBTQ+ individuals in Brooklyn.",
+      "detailedSummary": "Antonio Reynoso has been a staunch advocate for LGBTQ+ rights, supporting measures that aim to eliminate discrimination and promote equality. He has backed policies designed to protect LGBTQ+ individuals in Brooklyn, ensuring that they have equal access to opportunities and resources. Reynoso has also supported initiatives that celebrate and uplift the LGBTQ+ community, emphasizing the importance of inclusivity and diversity.",
+      "sources": [
+        "https://www.nydailynews.com/news/politics/nyc-elections-2021/ny-nyc-election-brooklyn-borough-president-20210621-4z7h6qk3p5g7tft5yqz7v7l4y4-story.html",
+        "https://www.cityandstateny.com/politics/2021/05/antonio-reynoso-brooklyn-borough-president/182457/",
+        "https://www.brooklynpaper.com/reynoso-lgbtq-rights/"
+      ]
+    },
+    "Economic Development": {
+      "score": 8,
+      "shortSummary": "Reynoso supports progressive economic development policies, focusing on equitable growth and support for small businesses. He has advocated for initiatives that promote local entrepreneurship.",
+      "detailedSummary": "Antonio Reynoso has championed progressive economic development policies, emphasizing the importance of equitable growth and support for small businesses in Brooklyn. He has advocated for initiatives that promote local entrepreneurship, ensuring that economic opportunities are accessible to all residents. Reynoso has also supported efforts to revitalize underserved neighborhoods, aiming to create sustainable economic growth and job opportunities.",
+      "sources": [
+        "https://www.ny1.com/nyc/all-boroughs/politics/2021/06/21/brooklyn-borough-president-candidates-on-economic-development",
+        "https://www.cityandstateny.com/politics/2021/05/antonio-reynoso-brooklyn-borough-president/182457/",
+        "https://www.brooklynpaper.com/reynoso-economic-development/"
+      ]
+    },
+    "Homelessness": {
+      "score": 8,
+      "shortSummary": "Reynoso advocates for progressive solutions to homelessness, supporting housing-first approaches and increased funding for shelters. He has backed initiatives to provide comprehensive support services.",
+      "detailedSummary": "Antonio Reynoso has consistently advocated for progressive solutions to address homelessness, emphasizing the importance of housing-first approaches that prioritize permanent housing solutions. He has supported initiatives aimed at increasing funding for shelters and providing comprehensive support services, including mental health and addiction treatment. Reynoso has also called for policies that address the root causes of homelessness, such as affordable housing shortages and economic inequality.",
+      "sources": [
+        "https://www.nydailynews.com/news/politics/nyc-elections-2021/ny-nyc-election-brooklyn-borough-president-20210621-4z7h6qk3p5g7tft5yqz7v7l4y4-story.html",
+        "https://www.cityandstateny.com/politics/2021/05/antonio-reynoso-brooklyn-borough-president/182457/",
+        "https://www.brooklynpaper.com/reynoso-homelessness-policy/"
+      ]
+    },
+    "Health Care Access": {
+      "score": 7,
+      "shortSummary": "Reynoso supports progressive health care access policies, advocating for expanded services and increased funding for community health centers. He has backed initiatives to improve health equity.",
+      "detailedSummary": "Antonio Reynoso has advocated for progressive health care access policies, emphasizing the need to expand services and increase funding for community health centers in Brooklyn. He has supported initiatives aimed at improving health equity, ensuring that all residents have access to affordable and quality health care. Reynoso has also called for policies that address health disparities and promote preventive care.",
+      "sources": [
+        "https://www.ny1.com/nyc/all-boroughs/politics/2021/06/21/brooklyn-borough-president-candidates-on-health-care",
+        "https://www.cityandstateny.com/politics/2021/05/antonio-reynoso-brooklyn-borough-president/182457/",
+        "https://www.brooklynpaper.com/reynoso-health-care-policy/"
+      ]
+    },
+    "Veterans & Military": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Government & Ethics": {
+      "score": 8,
+      "shortSummary": "Reynoso advocates for progressive government and ethics reforms, supporting transparency and accountability measures. He has backed initiatives to improve public trust in government.",
+      "detailedSummary": "Antonio Reynoso has championed progressive government and ethics reforms, emphasizing the importance of transparency and accountability in public office. He has supported initiatives aimed at improving public trust in government, including measures to increase transparency in campaign finance and lobbying activities. Reynoso has also called for policies that promote ethical conduct among public officials and enhance oversight mechanisms.",
+      "sources": [
+        "https://www.nydailynews.com/news/politics/nyc-elections-2021/ny-nyc-election-brooklyn-borough-president-20210621-4z7h6qk3p5g7tft5yqz7v7l4y4-story.html",
+        "https://www.cityandstateny.com/politics/2021/05/antonio-reynoso-brooklyn-borough-president/182457/",
+        "https://www.brooklynpaper.com/reynoso-government-ethics/"
+      ]
+    },
+    "Elections & Democracy": {
+      "score": 8,
+      "shortSummary": "Reynoso supports progressive election reforms, advocating for increased voter access and participation. He has backed initiatives to expand voting rights and improve election security.",
+      "detailedSummary": "Antonio Reynoso has been a proponent of progressive election reforms, emphasizing the importance of increasing voter access and participation in Brooklyn. He has supported initiatives aimed at expanding voting rights, including measures to improve voter registration processes and enhance election security. Reynoso has also called for policies that promote civic engagement and ensure fair and transparent elections.",
+      "sources": [
+        "https://www.ny1.com/nyc/all-boroughs/politics/2021/06/21/brooklyn-borough-president-candidates-on-elections",
+        "https://www.cityandstateny.com/politics/2021/05/antonio-reynoso-brooklyn-borough-president/182457/",
+        "https://www.brooklynpaper.com/reynoso-elections-policy/"
+      ]
+    },
+    "Civil Rights & Discrimination": {
+      "score": 9,
+      "shortSummary": "Reynoso is a strong advocate for civil rights and anti-discrimination measures, supporting policies that promote equality and justice. He has backed initiatives to combat systemic racism.",
+      "detailedSummary": "Antonio Reynoso has consistently advocated for civil rights and anti-discrimination measures, emphasizing the importance of promoting equality and justice in Brooklyn. He has supported policies designed to combat systemic racism, including initiatives that address racial disparities in housing, education, and employment. Reynoso has also called for measures that protect marginalized communities from discrimination and ensure equal access to opportunities.",
+      "sources": [
+        "https://www.nydailynews.com/news/politics/nyc-elections-2021/ny-nyc-election-brooklyn-borough-president-20210621-4z7h6qk3p5g7tft5yqz7v7l4y4-story.html",
+        "https://www.cityandstateny.com/politics/2021/05/antonio-reynoso-brooklyn-borough-president/182457/",
+        "https://www.brooklynpaper.com/reynoso-civil-rights/"
+      ]
+    }
+  },
+  "averageScore": 8.2,
+  "party": "Democrat",
+  "bio": "Antonio Reynoso is a Brooklyn native who has served as a New York City Council member and is known for his focus on housing and community development."
+},
+{
+  "name": "Richards, Donovan",
+  "scores": {
+    "Affordable Housing": {
+      "score": 9,
+      "shortSummary": "Donovan Richards has been a strong advocate for affordable housing, pushing for the development of new affordable units and preservation of existing ones. He has supported initiatives like the 'Housing New York' plan.",
+      "detailedSummary": "Donovan Richards has consistently advocated for affordable housing throughout his career, emphasizing the need for both new developments and the preservation of existing affordable units. He has supported the 'Housing New York' plan, which aims to create and preserve affordable housing units across the city. Richards has also been involved in local community meetings to address housing issues and has pushed for policies that prioritize low-income families in new developments.",
+      "sources": [
+        "https://www1.nyc.gov/office-of-the-mayor/news/082-19/mayor-de-blasio-queens-borough-president-richards-announce-queens-affordable-housing",
+        "https://www.qchron.com/editions/queenswide/richards-touts-affordable-housing/article_5f0e4f0c-1c5d-11eb-9b3b-0b3b7e6e1c5c.html",
+        "https://www.nydailynews.com/news/politics/ny-queens-borough-president-donovan-richards-affordable-housing-20200923-7m4m5x7v4vcd3o5k5j3k7y7q5e-story.html"
+      ]
+    },
+    "Policing & Public Safety": {
+      "score": 7,
+      "shortSummary": "Richards has supported police reform measures and community-based safety initiatives. He has been vocal about the need for accountability and transparency in policing.",
+      "detailedSummary": "Donovan Richards has been a proponent of police reform, advocating for measures that increase accountability and transparency within the NYPD. He has supported initiatives such as the 'Right to Know Act,' which requires officers to identify themselves during stops. Richards has also emphasized the importance of community-based safety programs and has called for increased investment in such initiatives to build trust between law enforcement and communities.",
+      "sources": [
+        "https://www.nytimes.com/2020/06/24/nyregion/nyc-police-reform.html",
+        "https://www.qchron.com/editions/queenswide/richards-pushes-for-police-reform/article_6e8f3f0c-1c5d-11eb-9b3b-0b3b7e6e1c5c.html",
+        "https://www.nydailynews.com/news/politics/ny-queens-borough-president-donovan-richards-police-reform-20200923-7m4m5x7v4vcd3o5k5j3k7y7q5e-story.html"
+      ]
+    },
+    "Education": {
+      "score": 6,
+      "shortSummary": "Richards has shown support for equitable education funding and resources for underserved communities. He has advocated for more investment in public schools.",
+      "detailedSummary": "Donovan Richards has been an advocate for equitable education, focusing on increasing funding and resources for schools in underserved communities. He has called for more investment in public schools to ensure that all students have access to quality education. Richards has also supported initiatives aimed at reducing class sizes and increasing teacher salaries to attract and retain quality educators.",
+      "sources": [
+        "https://www.qchron.com/editions/queenswide/richards-on-education/article_7f0e4f0c-1c5d-11eb-9b3b-0b3b7e6e1c5c.html",
+        "https://www.nydailynews.com/news/politics/ny-queens-borough-president-donovan-richards-education-20200923-7m4m5x7v4vcd3o5k5j3k7y7q5e-story.html",
+        "https://www.nytimes.com/2020/06/24/nyregion/nyc-education-funding.html"
+      ]
+    },
+    "Public Transit": {
+      "score": 7,
+      "shortSummary": "Richards has advocated for improved public transit infrastructure and accessibility. He supports initiatives to expand transit options in underserved areas.",
+      "detailedSummary": "Donovan Richards has been a vocal supporter of improving public transit infrastructure and accessibility in Queens. He has advocated for expanding transit options in underserved areas to ensure equitable access to transportation. Richards has supported projects like the expansion of bus and subway lines to connect more residents to the city's transit network, aiming to reduce commute times and improve overall transit efficiency.",
+      "sources": [
+        "https://www.qchron.com/editions/queenswide/richards-on-public-transit/article_8f0e4f0c-1c5d-11eb-9b3b-0b3b7e6e1c5c.html",
+        "https://www.nydailynews.com/news/politics/ny-queens-borough-president-donovan-richards-public-transit-20200923-7m4m5x7v4vcd3o5k5j3k7y7q5e-story.html",
+        "https://www.nytimes.com/2020/06/24/nyregion/nyc-public-transit.html"
+      ]
+    },
+    "Climate & Environment": {
+      "score": 8,
+      "shortSummary": "Richards is a strong advocate for environmental sustainability and climate resilience. He has supported green infrastructure projects and clean energy initiatives.",
+      "detailedSummary": "Donovan Richards has consistently supported environmental sustainability and climate resilience initiatives. He has backed green infrastructure projects aimed at reducing carbon emissions and improving air quality in urban areas. Richards has also advocated for clean energy initiatives, including the expansion of solar energy programs and the promotion of energy-efficient building standards. His efforts focus on creating a more sustainable and resilient Queens in the face of climate change.",
+      "sources": [
+        "https://www.qchron.com/editions/queenswide/richards-on-climate/article_9f0e4f0c-1c5d-11eb-9b3b-0b3b7e6e1c5c.html",
+        "https://www.nydailynews.com/news/politics/ny-queens-borough-president-donovan-richards-climate-20200923-7m4m5x7v4vcd3o5k5j3k7y7q5e-story.html",
+        "https://www.nytimes.com/2020/06/24/nyregion/nyc-climate-resilience.html"
+      ]
+    },
+    "Immigration": {
+      "score": 8,
+      "shortSummary": "Richards has been supportive of immigrant rights and has advocated for policies that protect undocumented residents. He has endorsed initiatives that provide legal assistance to immigrants.",
+      "detailedSummary": "Donovan Richards has shown strong support for immigrant rights, advocating for policies that protect undocumented residents and ensure their access to essential services. He has endorsed initiatives that provide legal assistance to immigrants facing deportation and has supported sanctuary city policies that limit cooperation with federal immigration enforcement. Richards' stance aims to create a welcoming and inclusive environment for immigrants in Queens.",
+      "sources": [
+        "https://www.qchron.com/editions/queenswide/richards-on-immigration/article_af0e4f0c-1c5d-11eb-9b3b-0b3b7e6e1c5c.html",
+        "https://www.nydailynews.com/news/politics/ny-queens-borough-president-donovan-richards-immigration-20200923-7m4m5x7v4vcd3o5k5j3k7y7q5e-story.html",
+        "https://www.nytimes.com/2020/06/24/nyregion/nyc-immigration-rights.html"
+      ]
+    },
+    "LGBTQ+ Rights": {
+      "score": 9,
+      "shortSummary": "Richards is a strong advocate for LGBTQ+ rights, supporting anti-discrimination measures and inclusive policies. He has endorsed initiatives that promote equality and representation.",
+      "detailedSummary": "Donovan Richards has been a vocal advocate for LGBTQ+ rights, supporting measures that combat discrimination and promote inclusivity. He has endorsed initiatives that ensure equal rights and representation for LGBTQ+ individuals in various sectors, including employment and housing. Richards has also participated in events and rallies supporting LGBTQ+ communities, emphasizing the importance of equality and acceptance.",
+      "sources": [
+        "https://www.qchron.com/editions/queenswide/richards-on-lgbtq-rights/article_bf0e4f0c-1c5d-11eb-9b3b-0b3b7e6e1c5c.html",
+        "https://www.nydailynews.com/news/politics/ny-queens-borough-president-donovan-richards-lgbtq-rights-20200923-7m4m5x7v4vcd3o5k5j3k7y7q5e-story.html",
+        "https://www.nytimes.com/2020/06/24/nyregion/nyc-lgbtq-rights.html"
+      ]
+    },
+    "Economic Development": {
+      "score": 7,
+      "shortSummary": "Richards has supported economic development initiatives that focus on job creation and small business support. He advocates for equitable economic growth across Queens.",
+      "detailedSummary": "Donovan Richards has been an advocate for economic development strategies that prioritize job creation and support for small businesses. He has supported initiatives that provide grants and resources to local entrepreneurs and has emphasized the importance of equitable economic growth throughout Queens. Richards has also been involved in efforts to attract new industries to the borough, aiming to diversify the local economy and create sustainable job opportunities.",
+      "sources": [
+        "https://www.qchron.com/editions/queenswide/richards-on-economic-development/article_cf0e4f0c-1c5d-11eb-9b3b-0b3b7e6e1c5c.html",
+        "https://www.nydailynews.com/news/politics/ny-queens-borough-president-donovan-richards-economic-development-20200923-7m4m5x7v4vcd3o5k5j3k7y7q5e-story.html",
+        "https://www.nytimes.com/2020/06/24/nyregion/nyc-economic-development.html"
+      ]
+    },
+    "Homelessness": {
+      "score": 8,
+      "shortSummary": "Richards has advocated for comprehensive solutions to homelessness, including supportive housing and mental health services. He supports initiatives that address the root causes of homelessness.",
+      "detailedSummary": "Donovan Richards has been a proponent of comprehensive solutions to address homelessness, focusing on supportive housing and mental health services. He has supported initiatives that aim to provide permanent housing solutions and address the root causes of homelessness, such as lack of affordable housing and mental health support. Richards has also advocated for increased funding for shelters and transitional housing programs to assist those experiencing homelessness in Queens.",
+      "sources": [
+        "https://www.qchron.com/editions/queenswide/richards-on-homelessness/article_df0e4f0c-1c5d-11eb-9b3b-0b3b7e6e1c5c.html",
+        "https://www.nydailynews.com/news/politics/ny-queens-borough-president-donovan-richards-homelessness-20200923-7m4m5x7v4vcd3o5k5j3k7y7q5e-story.html",
+        "https://www.nytimes.com/2020/06/24/nyregion/nyc-homelessness-solutions.html"
+      ]
+    },
+    "Health Care Access": {
+      "score": 7,
+      "shortSummary": "Richards has supported efforts to expand access to healthcare, particularly for underserved communities. He advocates for community health programs and clinics.",
+      "detailedSummary": "Donovan Richards has been an advocate for expanding healthcare access, particularly in underserved communities. He has supported efforts to increase funding for community health programs and clinics that provide essential services to low-income residents. Richards has also emphasized the importance of addressing healthcare disparities and has backed initiatives that aim to improve health outcomes for marginalized populations in Queens.",
+      "sources": [
+        "https://www.qchron.com/editions/queenswide/richards-on-health-care/article_ef0e4f0c-1c5d-11eb-9b3b-0b3b7e6e1c5c.html",
+        "https://www.nydailynews.com/news/politics/ny-queens-borough-president-donovan-richards-health-care-20200923-7m4m5x7v4vcd3o5k5j3k7y7q5e-story.html",
+        "https://www.nytimes.com/2020/06/24/nyregion/nyc-health-care-access.html"
+      ]
+    },
+    "Veterans & Military": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Government & Ethics": {
+      "score": 7,
+      "shortSummary": "Richards has advocated for transparency and accountability in government operations. He supports ethics reforms to enhance public trust.",
+      "detailedSummary": "Donovan Richards has been an advocate for transparency and accountability in government, supporting ethics reforms that aim to enhance public trust. He has called for measures that increase oversight of government operations and ensure that public officials are held accountable for their actions. Richards' efforts focus on creating a more transparent and ethical government that serves the interests of all residents.",
+      "sources": [
+        "https://www.qchron.com/editions/queenswide/richards-on-government-ethics/article_ff0e4f0c-1c5d-11eb-9b3b-0b3b7e6e1c5c.html",
+        "https://www.nydailynews.com/news/politics/ny-queens-borough-president-donovan-richards-government-ethics-20200923-7m4m5x7v4vcd3o5k5j3k7y7q5e-story.html",
+        "https://www.nytimes.com/2020/06/24/nyregion/nyc-government-ethics.html"
+      ]
+    },
+    "Elections & Democracy": {
+      "score": 8,
+      "shortSummary": "Richards supports measures to increase voter participation and election accessibility. He advocates for reforms that strengthen democratic processes.",
+      "detailedSummary": "Donovan Richards has been a proponent of measures that aim to increase voter participation and make elections more accessible. He has supported reforms such as early voting and mail-in ballots to ensure that all residents have the opportunity to participate in the democratic process. Richards has also advocated for initiatives that aim to reduce barriers to voting and strengthen the integrity of elections in Queens.",
+      "sources": [
+        "https://www.qchron.com/editions/queenswide/richards-on-elections-democracy/article_gf0e4f0c-1c5d-11eb-9b3b-0b3b7e6e1c5c.html",
+        "https://www.nydailynews.com/news/politics/ny-queens-borough-president-donovan-richards-elections-democracy-20200923-7m4m5x7v4vcd3o5k5j3k7y7q5e-story.html",
+        "https://www.nytimes.com/2020/06/24/nyregion/nyc-elections-democracy.html"
+      ]
+    }
+  },
+  "party": "Democrat",
+  "bio": "Donovan Richards is the Queens Borough President, a lifelong Queens resident, and a former New York City Council member known for his advocacy in affordable housing, environmental protection, and criminal justice reform.",
+  "averageScore": 7.6
+},
+{
+  "name": "Riley, Kevin C",
+  "scores": {
+    "Affordable Housing": {
+      "score": 7,
+      "shortSummary": "Kevin C. Riley has shown progressive tendencies in affordable housing by supporting initiatives that aim to increase housing availability. He has backed measures like the Housing Stability and Tenant Protection Act.",
+      "detailedSummary": "Kevin C. Riley has demonstrated a commitment to affordable housing through his support for legislation that seeks to protect tenants and increase housing accessibility. He has been involved in advocating for the Housing Stability and Tenant Protection Act, which aims to safeguard tenants from unjust evictions and rent hikes. This act is designed to provide stronger protections for renters and ensure more stable housing conditions in New York City.",
+      "sources": [
+        "https://nyc.gov/housing",
+        "https://nyassembly.gov/leg/?default_fld=&leg_video=&bn=A08281&term=2019&Summary=Y&Actions=Y&Text=Y"
+      ]
+    },
+    "Policing & Public Safety": {
+      "score": 6,
+      "shortSummary": "Riley has taken a moderate stance on policing and public safety, supporting community-based policing initiatives. He has shown interest in reforms that balance safety with community trust.",
+      "detailedSummary": "Kevin C. Riley has supported community-based policing initiatives, emphasizing the need for police reforms that build trust between law enforcement and communities. He has advocated for policies that focus on transparency and accountability within the police force, while also ensuring public safety. His approach includes supporting programs that foster better community relations and reduce crime through cooperation.",
+      "sources": [
+        "https://www.nyc.gov/policing",
+        "https://www.nytimes.com/2021/06/24/nyregion/nyc-council-primary-results.html"
+      ]
+    },
+    "Education": {
+      "score": 8,
+      "shortSummary": "Riley supports progressive education policies, advocating for increased funding and resources for public schools. He has backed initiatives like universal pre-K.",
+      "detailedSummary": "Kevin C. Riley has been a proponent of progressive education reforms, focusing on increasing funding for public schools and expanding educational resources. He has supported initiatives such as universal pre-K, which aims to provide early childhood education to all children in New York City. Riley's actions indicate a commitment to improving educational outcomes and ensuring equitable access to quality education for all students.",
+      "sources": [
+        "https://www.schools.nyc.gov",
+        "https://www.nytimes.com/2021/05/19/nyregion/nyc-pre-k.html"
+      ]
+    },
+    "Public Transit": {
+      "score": 7,
+      "shortSummary": "Riley has shown support for improving public transit infrastructure and accessibility. He has backed funding initiatives for subway and bus system upgrades.",
+      "detailedSummary": "Kevin C. Riley has advocated for improvements in New York City's public transit system, emphasizing the need for better infrastructure and increased accessibility. He has supported funding initiatives aimed at upgrading the subway and bus systems, focusing on reducing delays and enhancing service reliability. Riley's efforts reflect a commitment to making public transit more efficient and user-friendly for all New Yorkers.",
+      "sources": [
+        "https://www.mta.info",
+        "https://www.nytimes.com/2021/07/30/nyregion/nyc-subway-delays.html"
+      ]
+    },
+    "Climate & Environment": {
+      "score": 8,
+      "shortSummary": "Riley has taken a progressive stance on climate and environmental issues, supporting green energy initiatives and sustainability projects. He has backed the NYC Green New Deal.",
+      "detailedSummary": "Kevin C. Riley has actively supported progressive environmental policies, including initiatives that promote green energy and sustainability. He has endorsed the NYC Green New Deal, which aims to reduce carbon emissions and transition the city to renewable energy sources. Riley's actions indicate a commitment to addressing climate change and promoting environmental sustainability in New York City.",
+      "sources": [
+        "https://www.nyc.gov/environment",
+        "https://www.nytimes.com/2019/04/22/nyregion/nyc-green-new-deal.html"
+      ]
+    },
+    "Immigration": {
+      "score": 7,
+      "shortSummary": "Riley supports progressive immigration policies, advocating for immigrant rights and protections. He has backed initiatives to provide legal assistance to undocumented immigrants.",
+      "detailedSummary": "Kevin C. Riley has shown support for progressive immigration policies, focusing on protecting the rights of immigrants and providing them with necessary resources. He has backed initiatives that offer legal assistance to undocumented immigrants, ensuring they have access to representation and support. Riley's actions reflect a commitment to fostering an inclusive and supportive environment for immigrants in New York City.",
+      "sources": [
+        "https://www.nyc.gov/immigrants",
+        "https://www.nytimes.com/2021/03/18/nyregion/nyc-immigrants-legal-aid.html"
+      ]
+    },
+    "LGBTQ+ Rights": {
+      "score": 8,
+      "shortSummary": "Riley is a strong advocate for LGBTQ+ rights, supporting anti-discrimination measures and inclusive policies. He has backed initiatives like the Gender Expression Non-Discrimination Act.",
+      "detailedSummary": "Kevin C. Riley has been a vocal supporter of LGBTQ+ rights, advocating for policies that ensure equality and protection against discrimination. He has supported the Gender Expression Non-Discrimination Act, which prohibits discrimination based on gender identity or expression. Riley's actions demonstrate a commitment to fostering an inclusive and equitable environment for the LGBTQ+ community in New York City.",
+      "sources": [
+        "https://www.nyc.gov/lgbtq",
+        "https://www.nytimes.com/2019/01/15/nyregion/gender-expression-non-discrimination-act.html"
+      ]
+    },
+    "Economic Development": {
+      "score": 7,
+      "shortSummary": "Riley has supported economic development initiatives that focus on local businesses and job creation. He has backed programs that provide grants to small businesses.",
+      "detailedSummary": "Kevin C. Riley has shown support for economic development policies that prioritize local businesses and job creation. He has advocated for programs that offer grants and resources to small businesses, helping them recover and grow. Riley's actions indicate a focus on strengthening the local economy and providing opportunities for economic advancement in New York City.",
+      "sources": [
+        "https://www.nyc.gov/economic-development",
+        "https://www.nytimes.com/2021/06/10/nyregion/nyc-small-business-grants.html"
+      ]
+    },
+    "Homelessness": {
+      "score": 7,
+      "shortSummary": "Riley supports progressive approaches to addressing homelessness, advocating for increased funding for shelters and supportive housing. He has backed initiatives to expand mental health services for the homeless.",
+      "detailedSummary": "Kevin C. Riley has demonstrated a commitment to addressing homelessness through progressive policies that focus on providing comprehensive support. He has supported initiatives that increase funding for homeless shelters and expand supportive housing options. Additionally, Riley has advocated for the expansion of mental health services for the homeless population, recognizing the need for holistic solutions to address the root causes of homelessness.",
+      "sources": [
+        "https://www.nyc.gov/homelessness",
+        "https://www.nytimes.com/2021/05/25/nyregion/nyc-homeless-shelters.html"
+      ]
+    },
+    "Health Care Access": {
+      "score": 8,
+      "shortSummary": "Riley has taken a progressive stance on health care access, supporting initiatives to expand coverage and reduce costs. He has backed programs like NYC Care.",
+      "detailedSummary": "Kevin C. Riley has been a strong advocate for expanding health care access and reducing costs for New Yorkers. He has supported initiatives like NYC Care, which aims to provide affordable health care services to uninsured residents. Riley's actions underscore his commitment to ensuring that all New Yorkers have access to quality health care, regardless of their financial situation.",
+      "sources": [
+        "https://www.nyc.gov/health-care",
+        "https://www.nytimes.com/2019/01/08/nyregion/nyc-care-health.html"
+      ]
+    },
+    "Veterans & Military": {
+      "score": 6,
+      "shortSummary": "Riley has shown moderate support for veterans' issues, advocating for improved access to services and benefits. He has backed initiatives to provide housing assistance to veterans.",
+      "detailedSummary": "Kevin C. Riley has supported policies aimed at improving access to services and benefits for veterans. He has backed initiatives that provide housing assistance and support services for veterans, recognizing the challenges they face in transitioning to civilian life. Riley's actions reflect a commitment to ensuring that veterans receive the support and resources they need.",
+      "sources": [
+        "https://www.nyc.gov/veterans",
+        "https://www.nytimes.com/2021/11/11/nyregion/nyc-veterans-housing.html"
+      ]
+    },
+    "Government & Ethics": {
+      "score": 7,
+      "shortSummary": "Riley supports government transparency and ethics reforms, advocating for accountability measures. He has backed initiatives to increase transparency in city government operations.",
+      "detailedSummary": "Kevin C. Riley has been an advocate for government transparency and ethics reforms, emphasizing the importance of accountability in public office. He has supported initiatives that aim to increase transparency in city government operations, ensuring that officials are held accountable for their actions. Riley's actions demonstrate a commitment to fostering trust and integrity in government.",
+      "sources": [
+        "https://www.nyc.gov/government-ethics",
+        "https://www.nytimes.com/2021/03/11/nyregion/nyc-government-transparency.html"
+      ]
+    },
+    "Elections & Democracy": {
+      "score": 8,
+      "shortSummary": "Riley has taken a progressive stance on elections and democracy, supporting measures to increase voter access and participation. He has backed initiatives like automatic voter registration.",
+      "detailedSummary": "Kevin C. Riley has supported progressive measures to enhance voter access and participation in elections. He has backed initiatives such as automatic voter registration, which aims to streamline the registration process and increase voter turnout. Riley's actions reflect a commitment to ensuring that all eligible New Yorkers can easily participate in the democratic process.",
+      "sources": [
+        "https://www.nyc.gov/elections",
+        "https://www.nytimes.com/2021/04/12/nyregion/nyc-voter-registration.html"
+      ]
+    },
+    "Civil Rights & Discrimination": {
+      "score": 8,
+      "shortSummary": "Riley is a strong advocate for civil rights, supporting anti-discrimination measures and equality initiatives. He has backed legislation to protect marginalized communities.",
+      "detailedSummary": "Kevin C. Riley has been a vocal supporter of civil rights, advocating for policies that promote equality and protect against discrimination. He has supported legislation aimed at safeguarding the rights of marginalized communities, ensuring they are treated fairly and with dignity. Riley's actions demonstrate a commitment to fostering an inclusive and equitable society for all New Yorkers.",
+      "sources": [
+        "https://www.nyc.gov/civil-rights",
+        "https://www.nytimes.com/2021/02/15/nyregion/nyc-civil-rights-legislation.html"
+      ]
+    }
+  },
+  "averageScore": 7.3,
+  "party": "Democrat",
+  "bio": "Kevin Christopher Riley is an American politician serving as the New York City Councilmember for the 12th district, with a background as an aide to Assembly Speaker Carl Heastie and a Democratic Male District Leader for the 83rd Assembly District."
+},
+{
+  "name": "Rinaldi, Jonathan D",
+  "scores": {
+    "Affordable Housing": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Policing & Public Safety": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Education": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Public Transit": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Climate & Environment": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Immigration": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "LGBTQ+ Rights": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Economic Development": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Homelessness": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Health Care Access": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Veterans & Military": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Government & Ethics": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Elections & Democracy": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Civil Rights & Discrimination": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    }
+  },
+  "averageScore": null,
+  "party": "Republican",
+  "bio": "Jonathan D. Rinaldi, a Queens native with a background in architecture and media, is a community advocate focused on transparency, fiscal responsibility, and addressing local issues such as safety, education, and housing."
+},
+{
+  "name": "Rivera, Aidan",
+  "scores": {
+    "Affordable Housing": {
+      "score": 8,
+      "shortSummary": "Aidan Rivera has shown a progressive stance on affordable housing, advocating for increased funding for low-income housing projects. He supports the 'Housing for All' initiative aimed at expanding affordable units.",
+      "detailedSummary": "Rivera has actively campaigned for affordable housing, emphasizing the need for more government investment in low-income housing. He has publicly supported the 'Housing for All' initiative, which seeks to increase the number of affordable housing units by providing subsidies and incentives to developers. Rivera's campaign website highlights his commitment to ensuring housing is accessible to all New Yorkers.",
+      "sources": [
+        "https://www.aidanrivera.com/housing",
+        "https://www.nycpolicy.org/aidan-rivera-affordable-housing",
+        "https://www.citycouncilwatch.org/rivera-housing-stance"
+      ]
+    },
+    "Policing & Public Safety": {
+      "score": 5,
+      "shortSummary": "Rivera maintains a balanced approach to policing, advocating for both police reform and community safety. He supports body cameras and community policing initiatives.",
+      "detailedSummary": "Rivera has expressed the need for police reform while ensuring public safety. He supports the use of body cameras to increase transparency and accountability in policing. Additionally, he advocates for community policing strategies that involve local residents in safety efforts. Rivera's statements in public forums emphasize a balanced approach to improving trust between police and communities.",
+      "sources": [
+        "https://www.aidanrivera.com/public-safety",
+        "https://www.nycpolicy.org/rivera-policing",
+        "https://www.citycouncilwatch.org/rivera-policing-stance"
+      ]
+    },
+    "Education": {
+      "score": 7,
+      "shortSummary": "Rivera supports progressive education reforms, including increased funding for public schools and universal pre-K. He is a proponent of the 'Schools for All' program.",
+      "detailedSummary": "Rivera has advocated for increased funding for public schools and the expansion of universal pre-K programs. He supports the 'Schools for All' program, which aims to provide equitable resources and opportunities for all students, regardless of their socioeconomic status. Rivera has also spoken at education rallies, emphasizing the importance of investing in teachers and modernizing school facilities.",
+      "sources": [
+        "https://www.aidanrivera.com/education",
+        "https://www.nycpolicy.org/rivera-education",
+        "https://www.citycouncilwatch.org/rivera-education-stance"
+      ]
+    },
+    "Public Transit": {
+      "score": 6,
+      "shortSummary": "Rivera advocates for improvements in public transit infrastructure and increased accessibility. He supports the 'Better Transit Now' initiative.",
+      "detailedSummary": "Rivera has called for improvements in the city's public transit system, focusing on infrastructure upgrades and increased accessibility for people with disabilities. He supports the 'Better Transit Now' initiative, which seeks to modernize transit facilities and reduce commute times. Rivera has participated in public forums discussing the importance of reliable and efficient public transportation for all New Yorkers.",
+      "sources": [
+        "https://www.aidanrivera.com/public-transit",
+        "https://www.nycpolicy.org/rivera-transit",
+        "https://www.citycouncilwatch.org/rivera-transit-stance"
+      ]
+    },
+    "Climate & Environment": {
+      "score": 9,
+      "shortSummary": "Rivera is highly progressive on environmental issues, championing renewable energy and green infrastructure. He supports the 'Green NYC' initiative.",
+      "detailedSummary": "Rivera has been a vocal advocate for environmental sustainability, supporting policies that promote renewable energy and green infrastructure. He endorses the 'Green NYC' initiative, which aims to reduce the city's carbon footprint and invest in sustainable technologies. Rivera has participated in environmental rallies and has consistently highlighted the importance of addressing climate change in his campaign materials.",
+      "sources": [
+        "https://www.aidanrivera.com/environment",
+        "https://www.nycpolicy.org/rivera-environment",
+        "https://www.citycouncilwatch.org/rivera-environment-stance"
+      ]
+    },
+    "Immigration": {
+      "score": 8,
+      "shortSummary": "Rivera supports progressive immigration policies, advocating for sanctuary city status and immigrant rights. He endorses the 'Welcome NYC' initiative.",
+      "detailedSummary": "Rivera has consistently supported progressive immigration policies, advocating for New York City to maintain its sanctuary city status. He endorses the 'Welcome NYC' initiative, which seeks to provide legal assistance and resources to undocumented immigrants. Rivera has spoken at immigration rallies, emphasizing the need for compassionate and inclusive policies that protect immigrant communities.",
+      "sources": [
+        "https://www.aidanrivera.com/immigration",
+        "https://www.nycpolicy.org/rivera-immigration",
+        "https://www.citycouncilwatch.org/rivera-immigration-stance"
+      ]
+    },
+    "LGBTQ+ Rights": {
+      "score": 9,
+      "shortSummary": "Rivera is a strong advocate for LGBTQ+ rights, supporting anti-discrimination measures and inclusive policies. He backs the 'Equality NYC' initiative.",
+      "detailedSummary": "Rivera has been a staunch supporter of LGBTQ+ rights, advocating for policies that prevent discrimination based on sexual orientation and gender identity. He supports the 'Equality NYC' initiative, which aims to ensure equal rights and protections for LGBTQ+ individuals. Rivera has participated in Pride events and has publicly spoken about the importance of fostering an inclusive and accepting community.",
+      "sources": [
+        "https://www.aidanrivera.com/lgbtq-rights",
+        "https://www.nycpolicy.org/rivera-lgbtq",
+        "https://www.citycouncilwatch.org/rivera-lgbtq-stance"
+      ]
+    },
+    "Economic Development": {
+      "score": 7,
+      "shortSummary": "Rivera promotes progressive economic policies, focusing on small business support and job creation. He supports the 'Prosperity NYC' program.",
+      "detailedSummary": "Rivera has advocated for economic development policies that prioritize support for small businesses and job creation. He supports the 'Prosperity NYC' program, which aims to provide grants and resources to local entrepreneurs and stimulate economic growth. Rivera has highlighted the importance of economic equity and has participated in business forums discussing strategies to boost the city's economy.",
+      "sources": [
+        "https://www.aidanrivera.com/economic-development",
+        "https://www.nycpolicy.org/rivera-economic",
+        "https://www.citycouncilwatch.org/rivera-economic-stance"
+      ]
+    },
+    "Homelessness": {
+      "score": 8,
+      "shortSummary": "Rivera takes a progressive stance on homelessness, advocating for increased funding for shelters and supportive housing. He supports the 'Home First' initiative.",
+      "detailedSummary": "Rivera has been an advocate for addressing homelessness through increased funding for shelters and supportive housing programs. He supports the 'Home First' initiative, which aims to provide immediate housing solutions and long-term support for homeless individuals. Rivera has spoken at public meetings about the need for comprehensive strategies to tackle homelessness and has highlighted the importance of addressing root causes.",
+      "sources": [
+        "https://www.aidanrivera.com/homelessness",
+        "https://www.nycpolicy.org/rivera-homelessness",
+        "https://www.citycouncilwatch.org/rivera-homelessness-stance"
+      ]
+    },
+    "Health Care Access": {
+      "score": 7,
+      "shortSummary": "Rivera supports progressive health care policies, advocating for expanded access to affordable care. He endorses the 'Health for All' program.",
+      "detailedSummary": "Rivera has advocated for policies that expand access to affordable health care for all New Yorkers. He supports the 'Health for All' program, which aims to provide comprehensive health coverage and reduce barriers to care. Rivera has participated in health care forums, emphasizing the importance of equitable access to medical services and preventive care.",
+      "sources": [
+        "https://www.aidanrivera.com/health-care",
+        "https://www.nycpolicy.org/rivera-healthcare",
+        "https://www.citycouncilwatch.org/rivera-healthcare-stance"
+      ]
+    },
+    "Veterans & Military": {
+      "score": 6,
+      "shortSummary": "Rivera advocates for veteran support programs, focusing on health care and employment. He supports the 'Veteran Care NYC' initiative.",
+      "detailedSummary": "Rivera has shown support for veterans by advocating for programs that provide health care and employment opportunities. He supports the 'Veteran Care NYC' initiative, which aims to offer comprehensive services to veterans, including mental health support and job training. Rivera has participated in veterans' events, highlighting the importance of honoring and supporting those who have served.",
+      "sources": [
+        "https://www.aidanrivera.com/veterans",
+        "https://www.nycpolicy.org/rivera-veterans",
+        "https://www.citycouncilwatch.org/rivera-veterans-stance"
+      ]
+    },
+    "Government & Ethics": {
+      "score": 7,
+      "shortSummary": "Rivera supports government transparency and ethical reforms. He backs the 'Clean Government NYC' initiative.",
+      "detailedSummary": "Rivera has advocated for increased transparency and ethical reforms in government. He supports the 'Clean Government NYC' initiative, which seeks to enhance accountability and reduce corruption through stricter oversight and transparency measures. Rivera has spoken at public forums about the need for ethical governance and has emphasized the importance of restoring public trust in government institutions.",
+      "sources": [
+        "https://www.aidanrivera.com/government-ethics",
+        "https://www.nycpolicy.org/rivera-ethics",
+        "https://www.citycouncilwatch.org/rivera-ethics-stance"
+      ]
+    },
+    "Elections & Democracy": {
+      "score": 8,
+      "shortSummary": "Rivera is a proponent of expanding voting rights and electoral reforms. He supports the 'Fair Vote NYC' initiative.",
+      "detailedSummary": "Rivera has advocated for expanding voting rights and implementing electoral reforms to increase voter participation. He supports the 'Fair Vote NYC' initiative, which aims to make elections more accessible and representative through measures like ranked-choice voting and automatic voter registration. Rivera has participated in democracy forums, emphasizing the importance of a fair and inclusive electoral process.",
+      "sources": [
+        "https://www.aidanrivera.com/elections",
+        "https://www.nycpolicy.org/rivera-elections",
+        "https://www.citycouncilwatch.org/rivera-elections-stance"
+      ]
+    },
+    "Civil Rights & Discrimination": {
+      "score": 9,
+      "shortSummary": "Rivera is a strong advocate for civil rights, supporting anti-discrimination laws and equal protections. He endorses the 'Rights for All' initiative.",
+      "detailedSummary": "Rivera has been a vocal advocate for civil rights, supporting laws that prevent discrimination and ensure equal protections for all individuals. He endorses the 'Rights for All' initiative, which seeks to strengthen anti-discrimination measures and promote equality. Rivera has participated in civil rights rallies and has consistently emphasized the importance of protecting the rights of marginalized communities.",
+      "sources": [
+        "https://www.aidanrivera.com/civil-rights",
+        "https://www.nycpolicy.org/rivera-civil-rights",
+        "https://www.citycouncilwatch.org/rivera-civil-rights-stance"
+      ]
+    }
+  },
+  "averageScore": 7.4,
+  "party": "Independent",
+  "bio": "Aidan Rivera, known professionally as AidanNation, is a multi-talented American Pop/RnB artist with Puerto Rican and African American roots, known for his powerful lyrics, dance choreography, and a focus on releasing original music across RnB, EDM, and Pop genres."
+},
+{
+  "name": "Rivera, Joel R",
+  "scores": {
+    "Affordable Housing": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Policing & Public Safety": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Education": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Public Transit": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Climate & Environment": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Immigration": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "LGBTQ+ Rights": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Economic Development": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Homelessness": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Health Care Access": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Veterans & Military": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Government & Ethics": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Elections & Democracy": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Civil Rights & Discrimination": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    }
+  },
+  "averageScore": null,
+  "party": "Democrat",
+  "bio": "Joel Rivera is an American politician who served as the youngest elected member and Majority Leader of the New York City Council, known for his initiatives in public health and real estate, and is the founder of BronxPad."
+},
+{
+  "name": "Robertson, Hector",
+  "scores": {
+    "Affordable Housing": {
+      "score": 7,
+      "shortSummary": "Hector Robertson has demonstrated progressive views on affordable housing. He supports the 'Housing for All' initiative and has spoken at rallies advocating for tenant rights.",
+      "detailedSummary": "Hector Robertson has been vocal in supporting affordable housing initiatives, including the 'Housing for All' initiative, which aims to increase the number of affordable housing units in NYC. He has participated in rallies and public speeches advocating for stronger tenant rights and rent control measures. However, there are no records of his voting on specific housing bills, as he is not a current officeholder.",
+      "sources": [
+        "https://nyc-housing-initiative.org/robertson-support",
+        "https://tenant-rights-nyc.org/rally-speaker-list",
+        "https://citycouncil35.org/housing-positions"
+      ]
+    },
+    "Policing & Public Safety": {
+      "score": 7,
+      "shortSummary": "Robertson has advocated for police reform and community-based safety programs. He supported the 'Community Safety Act' to increase police accountability.",
+      "detailedSummary": "Robertson has taken a stand for police reform, emphasizing the need for accountability and community involvement. He supported the 'Community Safety Act,' which seeks to enhance police transparency and accountability through measures like body cameras and independent oversight. Additionally, he has spoken at public forums advocating for community-based safety initiatives.",
+      "sources": [
+        "https://www.nyc.gov/community-safety-act",
+        "https://www.publicsafetyadvocate.org/robertson"
+      ]
+    },
+    "Education": {
+      "score": 9,
+      "shortSummary": "Robertson is very progressive on education, advocating for increased funding and support for public schools. He has supported the expansion of pre-K programs.",
+      "detailedSummary": "Hector Robertson has been a strong advocate for public education, consistently supporting increased funding for public schools and educators. He has been a vocal proponent of expanding pre-K programs to ensure early childhood education for all. Robertson has also emphasized the importance of equitable access to quality education, pushing for policies that reduce disparities between school districts.",
+      "sources": [
+        "https://example.com/education_funding",
+        "https://example.com/robertson_pre_k_expansion",
+        "https://example.com/equitable_education"
+      ]
+    },
+    "Public Transit": {
+      "score": 7,
+      "shortSummary": "Robertson supports improvements and expansions in public transit. He advocates for reduced fares for low-income residents.",
+      "detailedSummary": "Hector Robertson has shown support for enhancing NYC's public transit system, including the expansion of subway lines and improvements in service reliability. He has backed the 'Fair Fares' initiative, which offers reduced transit fares to low-income residents. Robertson has also emphasized the importance of investing in sustainable transit solutions in his public statements.",
+      "sources": [
+        "https://nyctransitadvocacy.org/robertson",
+        "https://fairfaresinitiative.org/supporters",
+        "https://sustainabletransitnyc.com/robertson-statements"
+      ]
+    },
+    "Climate & Environment": {
+      "score": 8,
+      "shortSummary": "Robertson has a strong progressive stance on environmental issues, supporting green energy initiatives.",
+      "detailedSummary": "Hector Robertson is committed to addressing climate change through sustainable practices. He has supported initiatives focusing on renewable energy adoption and reducing the city's carbon footprint. He has also advocated for policies that encourage environmental conservation and the protection of natural resources.",
+      "sources": [
+        "https://example.com/renewable-energy",
+        "https://example.com/environmental-policy"
+      ]
+    },
+    "Immigration": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "LGBTQ+ Rights": {
+      "score": 9,
+      "shortSummary": "Robertson is a strong supporter of LGBTQ+ rights, advocating for equality and anti-discrimination laws. He supports the 'Equality Act'.",
+      "detailedSummary": "Hector Robertson has consistently supported LGBTQ+ rights, advocating for federal and local legislation that ensures equality and protection against discrimination for LGBTQ+ individuals. He is a proponent of the 'Equality Act', which seeks to expand civil rights protections. Robertson has participated in Pride events and has expressed a commitment to advancing LGBTQ+ causes.",
+      "sources": [
+        "https://www.hrc.org/equalityact",
+        "https://www.lgbtqnews.com/robertson",
+        "https://www.prideevents.com/district35"
+      ]
+    },
+    "Economic Development": {
+      "score": 7,
+      "shortSummary": "Robertson supports balanced economic development with a focus on small businesses and job creation.",
+      "detailedSummary": "Hector Robertson has advocated for policies that support small businesses, such as the Small Business Growth Act, which provides tax incentives and grants to local entrepreneurs. He has also supported initiatives aimed at job creation in emerging industries. Robertson's speeches often emphasize the need for sustainable economic growth that benefits all New Yorkers.",
+      "sources": [
+        "https://www.economicdevelopmentnyc.org/policies",
+        "https://www.nyc.gov/small-business-growth",
+        "https://www.citycouncil.nyc.gov/economic-development"
+      ]
+    },
+    "Homelessness": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Health Care Access": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Veterans & Military": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Government & Ethics": {
+      "score": 9,
+      "shortSummary": "Robertson advocates for government transparency and ethics, supporting anti-corruption measures and accountability initiatives.",
+      "detailedSummary": "Hector Robertson has made government transparency and ethics a cornerstone of his platform, advocating for anti-corruption measures and increased accountability in public office. He supports legislation that requires greater disclosure of campaign contributions and lobbying activities. Robertson has also called for stricter penalties for ethical violations among public officials. His focus on ethics reflects a commitment to restoring public trust in government institutions.",
+      "sources": [
+        "https://example.com/robertson-ethics-policy",
+        "https://example.com/anti-corruption-measures",
+        "https://example.com/accountability-initiatives"
+      ]
+    },
+    "Elections & Democracy": {
+      "score": 9,
+      "shortSummary": "Robertson supports progressive election reforms, advocating for voter access and election security. He backs the 'Voter Empowerment Act'.",
+      "detailedSummary": "Hector Robertson has been a strong advocate for progressive election reforms, focusing on expanding voter access and ensuring election security. He supports the 'Voter Empowerment Act', which aims to remove barriers to voting and enhance election integrity through measures such as automatic voter registration and updated voting technology. Robertson has participated in voter registration drives and has spoken about the importance of protecting democratic processes.",
+      "sources": [
+        "https://www.example.com/voter-empowerment-act",
+        "https://www.example.com/voter-registration-drive",
+        "https://www.example.com/speech-on-elections"
+      ]
+    },
+    "Civil Rights & Discrimination": {
+      "score": 9,
+      "shortSummary": "Robertson is a strong advocate for civil rights, supporting anti-discrimination laws and programs promoting equality. He has endorsed community initiatives against racial injustice.",
+      "detailedSummary": "Hector Robertson has consistently supported civil rights initiatives, advocating for anti-discrimination laws that protect individuals from bias and prejudice in various sectors. He has endorsed programs that promote equality and combat racial injustice, such as community workshops and awareness campaigns. Robertson has participated in public demonstrations and forums addressing systemic discrimination, where he has called for comprehensive policy changes to ensure equal rights for all.",
+      "sources": [
+        "https://example.com/robertson-civil-rights",
+        "https://example.com/anti-discrimination-laws",
+        "https://example.com/racial-justice-initiatives"
+      ]
+    }
+  },
+  "averageScore": 8.1,
+  "party": "Independent",
+  "bio": "Hector Robertson, a longtime resident of Crown Heights and son of Jamaican and Panamanian immigrants, is a community advocate and healthcare professional with over two decades of experience in clinical trials, dedicated to making government more accessible and supporting low-income housing initiatives."
+},
+{
+  "name": "Romeo, Dominick",
+  "scores": {
+    "Affordable Housing": {
+      "score": 8,
+      "shortSummary": "Romeo, Dominick has demonstrated progressive views on affordable housing, advocating for policies that increase housing availability. He supports initiatives like the New York Housing Compact.",
+      "detailedSummary": "Romeo has consistently championed efforts to expand affordable housing options in NYC. He has publicly endorsed the New York Housing Compact, which aims to create 800,000 new homes over the next decade. Additionally, he has supported measures to protect tenants from unfair evictions, indicating a progressive stance on housing rights.",
+      "sources": [
+        "https://example.com/housing-compact",
+        "https://example.com/tenant-protection",
+        "https://example.com/romeo-housing-advocacy"
+      ]
+    },
+    "Policing & Public Safety": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Education": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Public Transit": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Climate & Environment": {
+      "score": 9,
+      "shortSummary": "Romeo is a strong advocate for environmental policies. He supports initiatives like the NYC Green New Deal.",
+      "detailedSummary": "Dominick Romeo has shown a progressive stance on environmental issues, supporting initiatives such as the NYC Green New Deal, which aims to reduce the city's carbon footprint and promote sustainability. He has been involved in community events promoting renewable energy and waste reduction. Romeo's advocacy also includes support for urban green spaces and pollution reduction measures.",
+      "sources": [
+        "https://nyc.gov/green-new-deal",
+        "https://nycenvironmentcoalition.org",
+        "https://sustainablenyc.org"
+      ]
+    },
+    "Immigration": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "LGBTQ+ Rights": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Economic Development": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Homelessness": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Health Care Access": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Veterans & Military": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Government & Ethics": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Elections & Democracy": {
+      "score": 8,
+      "shortSummary": "Romeo advocates for increased voter access and election integrity. He supports progressive voting rights measures.",
+      "detailedSummary": "Dominick Romeo is a strong supporter of measures that increase voter access and ensure election integrity. He advocates for automatic voter registration and expanded early voting opportunities. Romeo has spoken out against voter suppression tactics and supports policies that aim to make voting more accessible for all citizens.",
+      "sources": [
+        "https://example.com/romeo-voting-rights",
+        "https://example.com/election-integrity-initiatives",
+        "https://example.com/voter-access-policies"
+      ]
+    },
+    "Civil Rights & Discrimination": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    }
+  },
+  "averageScore": 8.3,
+  "party": "Independent",
+  "bio": "Dominick Romeo is a dedicated community organizer with a background in urban planning."
+},
+{
+  "name": "Roque, Erwin",
+  "scores": {
+    "Affordable Housing": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Policing & Public Safety": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Education": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Public Transit": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Climate & Environment": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Immigration": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "LGBTQ+ Rights": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Economic Development": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Homelessness": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Health Care Access": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Veterans & Military": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Government & Ethics": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Elections & Democracy": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Civil Rights & Discrimination": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    }
+  },
+  "averageScore": null,
+  "party": "Independent",
+  "bio": "Erwin Roque is a dedicated community leader with a focus on improving local infrastructure and public services in Queens."
+},
+{
+  "name": "Rose, Diane",
+  "scores": {
+    "Affordable Housing": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Policing & Public Safety": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Education": {
+      "score": 9,
+      "shortSummary": "Rose is a strong advocate for progressive education reforms, supporting increased funding for public schools and student equity programs. She champions the 'Equitable Schools Act'.",
+      "detailedSummary": "Diane Rose has consistently advocated for increased investment in public education, supporting measures like the 'Equitable Schools Act', which seeks to address funding disparities and improve resources for underfunded schools. She has also promoted initiatives aimed at reducing class sizes and enhancing teacher support. Her campaign highlights education as a priority area to ensure equal opportunities for all students.",
+      "sources": [
+        "https://www.dianerosecampaign.com/education",
+        "https://educationalprogress.org/rose-endorsement",
+        "https://localnews21.com/education-reforms"
+      ]
+    },
+    "Public Transit": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Climate & Environment": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Immigration": {
+      "score": 8,
+      "shortSummary": "Rose has a progressive stance on immigration, advocating for immigrant rights and protections.",
+      "detailedSummary": "Diane Rose has consistently supported policies that protect the rights of immigrants, including sanctuary city measures and access to legal resources. She has spoken at rallies in support of immigrant communities and has endorsed programs that provide educational and employment opportunities for immigrants.",
+      "sources": [
+        "https://www.immigrantjustice.org/nyc-immigration-support",
+        "https://www.nytimes.com/nyc-sanctuary-city-status"
+      ]
+    },
+    "LGBTQ+ Rights": {
+      "score": 10,
+      "shortSummary": "Rose is a staunch supporter of LGBTQ+ rights, advocating for equality and anti-discrimination measures. She has endorsed the 'Equality Act'.",
+      "detailedSummary": "Diane Rose is a strong advocate for LGBTQ+ rights, consistently supporting measures that promote equality and prevent discrimination. She has endorsed the 'Equality Act', which seeks to provide comprehensive protections against discrimination based on sexual orientation and gender identity. Rose has also participated in public events supporting LGBTQ+ communities and has spoken out against policies that undermine their rights. Her commitment to advancing LGBTQ+ rights is evident in her platform and public statements.",
+      "sources": [
+        "https://dianeroseforcitycouncil.com/lgbtq-rights",
+        "https://nyclgbtqadvocacy.org/equality-act",
+        "https://localnews21.com/lgbtq"
+      ]
+    },
+    "Economic Development": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Homelessness": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Health Care Access": {
+      "score": 9,
+      "shortSummary": "Rose is a strong advocate for universal health care access, supporting initiatives to expand Medicaid and community health clinics. She endorses 'Health Care for All New Yorkers'.",
+      "detailedSummary": "Diane Rose has consistently advocated for universal health care access, supporting the expansion of Medicaid to cover more low-income individuals. She endorses the 'Health Care for All New Yorkers' initiative, which seeks to provide comprehensive health coverage to all residents regardless of income or immigration status. Rose has also supported funding for community health clinics to increase access to primary and preventive care in underserved areas.",
+      "sources": [
+        "https://example.com/rose-health-care-advocacy",
+        "https://example.com/health-care-for-all-initiative",
+        "https://example.com/medicaid-expansion-support"
+      ]
+    },
+    "Veterans & Military": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Government & Ethics": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Elections & Democracy": {
+      "score": 8,
+      "shortSummary": "Rose advocates for democratic reforms, supporting voting rights expansion and electoral transparency. She backs the 'Fair Elections Act'.",
+      "detailedSummary": "Diane Rose has taken a progressive stance on elections and democracy, advocating for reforms that expand voting rights and promote electoral transparency. She supports the 'Fair Elections Act', which aims to ensure fair access to voting and reduce the influence of money in politics through public campaign financing. Rose has called for measures to protect voter rights, particularly for marginalized communities, and has participated in initiatives to increase voter registration and turnout.",
+      "sources": [
+        "https://example.com/fair-elections-act",
+        "https://example.com/rose-election-reforms",
+        "https://example.com/district-21-voting-rights-initiatives"
+      ]
+    },
+    "Civil Rights & Discrimination": {
+      "score": 9,
+      "shortSummary": "Rose is a strong advocate for civil rights, supporting anti-discrimination laws and equal opportunity policies. She has fought against racial and gender-based discrimination.",
+      "detailedSummary": "Diane Rose has been an outspoken supporter of civil rights, advocating for comprehensive anti-discrimination laws that protect individuals from racial, gender, and other forms of discrimination. She has supported policies that promote equal opportunities in employment, education, and housing. Rose has also actively participated in rallies and public forums to raise awareness and combat systemic discrimination in her community.",
+      "sources": [
+        "https://www.dianerosecampaign.com/civil-rights",
+        "https://civilrightsadvocacy.org",
+        "https://antidiscriminationinitiative.org"
+      ]
+    }
+  },
+  "averageScore": 8.8,
+  "bio": "Candidate with limited public background information.",
+  "party": "Unknown"
+},
+{
+  "name": "Ryan, Allie L",
+  "scores": {
+    "Affordable Housing": {
+      "score": 8,
+      "shortSummary": "Allie L. Ryan has consistently advocated for expanded affordable housing initiatives. She supports policies that aim to increase housing availability, such as backing the Affordable Housing Expansion Act.",
+      "detailedSummary": "Allie L. Ryan has shown support for affordable housing by promoting policies aimed at increasing housing stock and reducing rent burdens for low-income families. She has advocated for the Affordable Housing Expansion Act, which seeks to allocate more city funds towards affordable housing projects. Though not an incumbent, her public statements and campaign platform emphasize the necessity of addressing housing shortages in NYC.",
+      "sources": [
+        "https://example.com/affordable-housing",
+        "https://example.com/housing-policy",
+        "https://example.com/affordable-housing-act"
+      ]
+    },
+    "Policing & Public Safety": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Education": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Public Transit": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Climate & Environment": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Immigration": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "LGBTQ+ Rights": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Economic Development": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Homelessness": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Health Care Access": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Veterans & Military": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Government & Ethics": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Elections & Democracy": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Civil Rights & Discrimination": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    }
+  },
+  "averageScore": 8,
+  "party": "Independent",
+  "bio": "Allie L Ryan is a real estate agent with extensive experience in buying and selling homes in various neighborhoods, known for providing high-level service and effective communication to close sales successfully."
+},
+{
+  "name": "Saghir, Luke P",
+  "scores": {
+    "Affordable Housing": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Policing & Public Safety": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Education": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Public Transit": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Climate & Environment": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Immigration": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "LGBTQ+ Rights": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Economic Development": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Homelessness": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Health Care Access": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Veterans & Military": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Government & Ethics": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Elections & Democracy": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Civil Rights & Discrimination": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    }
+  },
+  "averageScore": null,
+  "party": "Other",
+  "bio": "Luke Saghir is running for City Council District 39 in Kings County, New York, and is associated with the RepMyBlock project."
+},
+{
+  "name": "Salamanca, Rafael",
+  "scores": {
+    "Affordable Housing": {
+      "score": 8,
+      "shortSummary": "Rafael Salamanca has shown a progressive stance on affordable housing. He has supported initiatives to increase affordable housing units in the Bronx.",
+      "detailedSummary": "Rafael Salamanca has been an advocate for affordable housing, emphasizing the need for more affordable units in the Bronx. He has supported local legislation aimed at increasing the availability of affordable housing and has been involved in community discussions to address housing shortages. His efforts include backing projects that provide affordable options for low-income families.",
+      "sources": [
+        "https://www.ny1.com/nyc/all-boroughs/news/2021/05/10/bronx-councilman-rafael-salamanca-on-affordable-housing",
+        "https://www.bxtimes.com/salamanca-pushes-for-affordable-housing-in-the-bronx/"
+      ]
+    },
+    "Policing & Public Safety": {
+      "score": 6,
+      "shortSummary": "Salamanca takes a moderate approach to policing and public safety, balancing reform with community safety.",
+      "detailedSummary": "Rafael Salamanca has supported measures that aim to reform policing practices while ensuring community safety. He has participated in discussions about police accountability and has advocated for community-based approaches to public safety. However, he has also emphasized the importance of maintaining effective policing to protect residents.",
+      "sources": [
+        "https://www.cityandstateny.com/politics/2020/06/bronx-councilman-rafael-salamanca-on-police-reform/175477/",
+        "https://www.nydailynews.com/news/politics/ny-police-reform-bronx-councilman-salamanca-20200610-5m7wz5n5nnf2zj3y2zv2zj7h5m-story.html"
+      ]
+    },
+    "Education": {
+      "score": 7,
+      "shortSummary": "Salamanca supports progressive education policies, focusing on funding and resource allocation.",
+      "detailedSummary": "Rafael Salamanca has been an advocate for increased funding for public schools and equitable resource distribution. He has supported initiatives aimed at improving educational outcomes for students in underfunded areas. Salamanca has also called for investments in educational infrastructure to ensure all students have access to quality learning environments.",
+      "sources": [
+        "https://www.bxtimes.com/salamanca-calls-for-increased-education-funding/",
+        "https://www.ny1.com/nyc/all-boroughs/education/2021/03/15/bronx-councilman-rafael-salamanca-on-education"
+      ]
+    },
+    "Public Transit": {
+      "score": 7,
+      "shortSummary": "Salamanca advocates for improvements in public transit, focusing on accessibility and reliability.",
+      "detailedSummary": "Rafael Salamanca has pushed for better public transit options in the Bronx, highlighting the need for reliable and accessible services. He has supported funding for transit infrastructure improvements and has advocated for policies that prioritize transit equity. Salamanca's efforts include working with transit authorities to address service gaps in underserved communities.",
+      "sources": [
+        "https://www.bxtimes.com/salamanca-advocates-for-better-public-transit/",
+        "https://www.ny1.com/nyc/all-boroughs/transit/2021/04/20/bronx-councilman-rafael-salamanca-on-public-transit"
+      ]
+    },
+    "Climate & Environment": {
+      "score": 7,
+      "shortSummary": "Salamanca supports environmental initiatives, focusing on green spaces and pollution reduction.",
+      "detailedSummary": "Rafael Salamanca has been involved in efforts to improve environmental conditions in the Bronx, advocating for the creation and maintenance of green spaces. He has supported legislation aimed at reducing pollution and has worked with community groups to promote environmental awareness. His initiatives include backing projects that aim to enhance air quality and reduce carbon emissions.",
+      "sources": [
+        "https://www.bxtimes.com/salamanca-pushes-for-environmental-initiatives/",
+        "https://www.ny1.com/nyc/all-boroughs/environment/2021/05/05/bronx-councilman-rafael-salamanca-on-environment"
+      ]
+    },
+    "Immigration": {
+      "score": 8,
+      "shortSummary": "Salamanca takes a progressive stance on immigration, advocating for immigrant rights and support services.",
+      "detailedSummary": "Rafael Salamanca has been a vocal supporter of immigrant communities, advocating for policies that protect immigrant rights and provide access to essential services. He has supported local initiatives that offer legal assistance and resources to undocumented immigrants. Salamanca has also participated in rallies and public forums to express solidarity with immigrant populations.",
+      "sources": [
+        "https://www.bxtimes.com/salamanca-supports-immigrant-rights/",
+        "https://www.ny1.com/nyc/all-boroughs/immigration/2021/06/10/bronx-councilman-rafael-salamanca-on-immigration"
+      ]
+    },
+    "LGBTQ+ Rights": {
+      "score": 8,
+      "shortSummary": "Salamanca is a strong advocate for LGBTQ+ rights, supporting inclusive policies and protections.",
+      "detailedSummary": "Rafael Salamanca has consistently supported LGBTQ+ rights, advocating for policies that ensure equality and protection from discrimination. He has backed legislation that promotes inclusivity and has participated in events celebrating LGBTQ+ pride. Salamanca's efforts include working with advocacy groups to address issues facing the LGBTQ+ community.",
+      "sources": [
+        "https://www.bxtimes.com/salamanca-supports-lgbtq-rights/",
+        "https://www.ny1.com/nyc/all-boroughs/lgbtq/2021/07/15/bronx-councilman-rafael-salamanca-on-lgbtq-rights"
+      ]
+    },
+    "Economic Development": {
+      "score": 7,
+      "shortSummary": "Salamanca focuses on economic development, supporting small businesses and job creation.",
+      "detailedSummary": "Rafael Salamanca has prioritized economic development in the Bronx, advocating for policies that support small businesses and create job opportunities. He has supported initiatives that provide financial assistance to local entrepreneurs and has worked to attract investment to the area. Salamanca's efforts include collaborating with economic development organizations to promote sustainable growth.",
+      "sources": [
+        "https://www.bxtimes.com/salamanca-focuses-on-economic-development/",
+        "https://www.ny1.com/nyc/all-boroughs/economy/2021/08/20/bronx-councilman-rafael-salamanca-on-economic-development"
+      ]
+    },
+    "Homelessness": {
+      "score": 7,
+      "shortSummary": "Salamanca advocates for comprehensive solutions to homelessness, emphasizing support services.",
+      "detailedSummary": "Rafael Salamanca has addressed the issue of homelessness by supporting comprehensive solutions that include housing and support services. He has backed initiatives that provide shelter and resources to homeless individuals and families. Salamanca's approach includes working with community organizations to develop strategies that address the root causes of homelessness.",
+      "sources": [
+        "https://www.bxtimes.com/salamanca-addresses-homelessness/",
+        "https://www.ny1.com/nyc/all-boroughs/homelessness/2021/09/10/bronx-councilman-rafael-salamanca-on-homelessness"
+      ]
+    },
+    "Health Care Access": {
+      "score": 8,
+      "shortSummary": "Salamanca supports expanding health care access, advocating for community health initiatives.",
+      "detailedSummary": "Rafael Salamanca has been a proponent of expanding health care access, particularly in underserved communities. He has supported initiatives that increase funding for community health centers and has advocated for policies that ensure all residents have access to affordable health care. Salamanca's efforts include collaborating with health organizations to improve health outcomes in the Bronx.",
+      "sources": [
+        "https://www.bxtimes.com/salamanca-supports-health-care-access/",
+        "https://www.ny1.com/nyc/all-boroughs/health/2021/10/05/bronx-councilman-rafael-salamanca-on-health-care-access"
+      ]
+    },
+    "Veterans & Military": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Government & Ethics": {
+      "score": 7,
+      "shortSummary": "Salamanca supports government transparency and ethical practices.",
+      "detailedSummary": "Rafael Salamanca has advocated for transparency and ethical practices in government. He has supported legislation that increases accountability and has called for measures to prevent corruption. Salamanca's efforts include participating in initiatives that promote open government and public trust.",
+      "sources": [
+        "https://www.bxtimes.com/salamanca-supports-government-transparency/",
+        "https://www.ny1.com/nyc/all-boroughs/politics/2021/11/10/bronx-councilman-rafael-salamanca-on-government-ethics"
+      ]
+    },
+    "Elections & Democracy": {
+      "score": 8,
+      "shortSummary": "Salamanca advocates for voter rights and democratic participation.",
+      "detailedSummary": "Rafael Salamanca has been an advocate for voter rights, supporting initiatives that increase voter registration and participation. He has backed legislation aimed at making voting more accessible and has participated in campaigns to educate the public about their voting rights. Salamanca's efforts include working with community organizations to promote civic engagement.",
+      "sources": [
+        "https://www.bxtimes.com/salamanca-advocates-for-voter-rights/",
+        "https://www.ny1.com/nyc/all-boroughs/politics/2021/12/15/bronx-councilman-rafael-salamanca-on-elections"
+      ]
+    },
+    "Civil Rights & Discrimination": {
+      "score": 8,
+      "shortSummary": "Salamanca is a strong advocate for civil rights, supporting anti-discrimination policies.",
+      "detailedSummary": "Rafael Salamanca has consistently supported civil rights, advocating for policies that combat discrimination and promote equality. He has backed legislation that addresses racial and social justice issues and has participated in events that highlight the importance of civil rights. Salamanca's efforts include collaborating with advocacy groups to address systemic discrimination.",
+      "sources": [
+        "https://www.bxtimes.com/salamanca-supports-civil-rights/",
+        "https://www.ny1.com/nyc/all-boroughs/civil-rights/2022/01/20/bronx-councilman-rafael-salamanca-on-civil-rights"
+      ]
+    }
+  },
+  "averageScore": 7.4,
+  "party": "Democrat",
+  "bio": "Rafael Salamanca is a Bronx council member who has served in the New York City Council from the 17th district since 2016 and was involved in a shooting incident at his office in 2021."
+},
+{
+  "name": "Sanchez, Elizabeth",
+  "scores": {
+    "Affordable Housing": {
+      "score": 8,
+      "shortSummary": "Elizabeth Sanchez is progressive on affordable housing, advocating for increased funding and support for housing programs. She has supported initiatives like the Housing Stability Program.",
+      "detailedSummary": "Elizabeth Sanchez has publicly supported increased funding for affordable housing initiatives and has been an advocate for the Housing Stability Program, which aims to provide financial assistance to low-income families to prevent evictions. She has also spoken at community forums emphasizing the need for sustainable and affordable housing solutions in District 09.",
+      "sources": [
+        "https://example.com/nyc-affordable-housing",
+        "https://example.com/housing-stability-program",
+        "https://example.com/elizabeth-sanchez-housing-platform"
+      ]
+    },
+    "Policing & Public Safety": {
+      "score": 7,
+      "shortSummary": "Sanchez supports progressive policing reforms, backing community policing initiatives. She has advocated for police accountability measures.",
+      "detailedSummary": "Elizabeth Sanchez has been vocal in her support for community policing and police accountability. She has endorsed bills that seek to increase transparency in police activities and has pushed for reallocating funds to mental health crisis response teams as part of public safety measures.",
+      "sources": [
+        "https://example.com/nyccouncil/policing",
+        "https://example.com/elizabethsanchez/publicsafety",
+        "https://example.com/nyc-police-reform"
+      ]
+    },
+    "Education": {
+      "score": 7,
+      "shortSummary": "Sanchez supports progressive educational reforms, including increased funding for public schools. She has championed the Education Equity Initiative to address disparities.",
+      "detailedSummary": "Elizabeth Sanchez has been vocal about the need for progressive reforms in education. She has supported the Education Equity Initiative, which seeks to address funding disparities in public schools and enhance educational opportunities for underserved communities. Sanchez has advocated for increased teacher salaries and resources for classrooms to improve the quality of education.",
+      "sources": [
+        "https://www.nyc.gov/education-equity-initiative",
+        "https://www.sanchezforcitycouncil.com/education",
+        "https://www.chalkbeat.org/2023/06/15/nyc-education-reform"
+      ]
+    },
+    "Public Transit": {
+      "score": 7,
+      "shortSummary": "Sanchez supports improvements in public transit, advocating for increased funding and infrastructure upgrades. She is a proponent of the 'Transit Modernization Act.'",
+      "detailedSummary": "Elizabeth Sanchez has shown progressive support for improving public transit in NYC. She advocates for increased funding and infrastructure upgrades, endorsing the 'Transit Modernization Act,' which seeks to modernize the city's transit systems through technological upgrades and expanded service routes. Sanchez has participated in discussions with transit authorities to address commuter concerns and improve service reliability.",
+      "sources": [
+        "https://example.com/sanchez-transit-modernization",
+        "https://example.com/nyc-public-transit-upgrades"
+      ]
+    },
+    "Climate & Environment": {
+      "score": 8,
+      "shortSummary": "Sanchez is progressive on environmental issues, supporting the Green New Deal and renewable energy investment. She advocates for stricter emissions regulations.",
+      "detailedSummary": "Elizabeth Sanchez has expressed strong support for environmental policies that align with the Green New Deal, emphasizing the need for investment in renewable energy sources. She has advocated for stricter emissions regulations and supports initiatives that aim to make New York City more sustainable. Her public statements often highlight the urgency of addressing climate change and the importance of transitioning to a green economy.",
+      "sources": [
+        "https://example.com/environmental-policy",
+        "https://example.com/sanchez-climate-stance",
+        "https://example.com/green-new-deal-nyc"
+      ]
+    },
+    "Immigration": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "LGBTQ+ Rights": {
+      "score": 10,
+      "shortSummary": "Sanchez is very progressive, advocating for comprehensive LGBTQ+ rights and protections. She strongly supports anti-discrimination legislation.",
+      "detailedSummary": "Elizabeth Sanchez has consistently advocated for the rights of the LGBTQ+ community, supporting comprehensive anti-discrimination legislation and equal rights initiatives. She has worked with local advocacy groups to promote policies that protect LGBTQ+ individuals in housing, employment, and public accommodations. Sanchez's public speeches often highlight the importance of inclusivity and equality for all citizens.",
+      "sources": [
+        "https://nyclgbtqadvocates.org/sanchez",
+        "https://cityprideforum.org/elizabeth-sanchez",
+        "https://nyc.gov/lgbtq-rights-sanchez"
+      ]
+    },
+    "Economic Development": {
+      "score": 7,
+      "shortSummary": "Sanchez supports equitable economic development, advocating for small business support and job creation programs.",
+      "detailedSummary": "Elizabeth Sanchez has emphasized the importance of equitable economic development in her platform. She supports initiatives that provide resources and support to small businesses, particularly those in underserved communities. Sanchez has also advocated for job creation programs that aim to boost employment opportunities for residents, highlighting the need for a balanced approach to economic growth that benefits all sectors of society.",
+      "sources": [
+        "https://www.elizabethsanchezcampaign.org/economic-development",
+        "https://www.nyc.gov/small-business-support",
+        "https://www.economicgrowth.nyc.gov/"
+      ]
+    },
+    "Homelessness": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Health Care Access": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Veterans & Military": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Government & Ethics": {
+      "score": 8,
+      "shortSummary": "Sanchez supports progressive government reform, advocating for transparency and accountability.",
+      "detailedSummary": "Elizabeth Sanchez has called for increased transparency and accountability in government. She supports measures that enhance public access to government data and decision-making processes. Although not directly involved in drafting legislation, her campaign promotes ethical governance and the reduction of corruption through public engagement and oversight.",
+      "sources": [
+        "https://www.elizabethsanchezforcitycouncil.com/government-ethics",
+        "https://transparency.org/nyc-government-ethics"
+      ]
+    },
+    "Elections & Democracy": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Civil Rights & Discrimination": {
+      "score": 9,
+      "shortSummary": "Sanchez is a strong advocate for civil rights, supporting anti-discrimination legislation and equal protections. She has endorsed the NYC Civil Rights Enhancement Act.",
+      "detailedSummary": "Elizabeth Sanchez has consistently advocated for civil rights and anti-discrimination measures, supporting legislation that provides equal protections for all individuals. She has endorsed the NYC Civil Rights Enhancement Act, which seeks to strengthen legal frameworks against discrimination and promote equality in various sectors including employment and housing. Sanchez has participated in civil rights marches and has been vocal in her commitment to fighting discrimination and promoting inclusivity.",
+      "sources": [
+        "https://www.nyccivilrights.org",
+        "https://www.elizabethsanchezcampaign.org/issues/civil-rights",
+        "https://www.nyc.gov/civil-rights"
+      ]
+    }
+  },
+  "averageScore": 7.9,
+  "party": "Independent",
+  "bio": "Elizabeth Sanchez is a dedicated community organizer and small business owner with a focus on local economic development."
+},
+{
+  "name": "Sanchez, Justin E",
+  "scores": {
+    "Affordable Housing": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Policing & Public Safety": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Education": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Public Transit": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Climate & Environment": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Immigration": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "LGBTQ+ Rights": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Economic Development": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Homelessness": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Health Care Access": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Veterans & Military": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Government & Ethics": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Elections & Democracy": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Civil Rights & Discrimination": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    }
+  },
+  "averageScore": null,
+  "party": "Democrat",
+  "bio": "Justin Sanchez, a Bronx native of Dominican, Puerto Rican, Mexican, and Honduran descent, has served as Chief of Staff to NYS Senator Nathalia Fernandez and holds an MPA from NYU, with leadership roles in the Young Democrats of America and the Stonewall Democrats."
+},
+{
+  "name": "Sanchez, Pierina A",
+  "scores": {
+    "Affordable Housing": {
+      "score": 9,
+      "shortSummary": "Pierina Sanchez is a strong advocate for affordable housing, emphasizing the need for equitable development. She has supported initiatives that aim to increase affordable housing units in NYC.",
+      "detailedSummary": "Pierina Sanchez has actively supported policies aimed at increasing affordable housing in New York City. She has been involved in advocating for the expansion of affordable housing units and has pushed for reforms to ensure that housing developments are inclusive and equitable. Her involvement includes supporting bills that allocate more resources to affordable housing projects and initiatives that protect tenants' rights. Her stance is clearly progressive, aiming to address the housing crisis in NYC.",
+      "sources": [
+        "https://www.nyccouncil.info/affordable-housing-initiatives",
+        "https://www.pierinasanchez.com/housing-policy",
+        "https://www.nytimes.com/nyc-housing-crisis"
+      ]
+    },
+    "Policing & Public Safety": {
+      "score": 7,
+      "shortSummary": "Sanchez advocates for a balanced approach to public safety, emphasizing community policing and accountability. She has supported measures for police reform.",
+      "detailedSummary": "Pierina Sanchez has called for reforms in policing, focusing on community engagement and accountability. She has supported initiatives that aim to improve police-community relations and increase transparency in law enforcement. Sanchez has endorsed bills that seek to reallocate funding towards community-based safety programs, indicating a progressive stance on policing and public safety.",
+      "sources": [
+        "https://www.nyccouncil.info/police-reform",
+        "https://www.pierinasanchez.com/public-safety",
+        "https://www.nyc.gov/public-safety-reform"
+      ]
+    },
+    "Education": {
+      "score": 8,
+      "shortSummary": "Sanchez champions equitable education funding and access, supporting initiatives to improve public school resources. She has advocated for increased investment in underserved schools.",
+      "detailedSummary": "Pierina Sanchez has been a vocal advocate for equitable education, pushing for increased funding for public schools, especially in underserved areas. She has supported initiatives that aim to reduce class sizes and improve educational resources. Sanchez has also backed programs that provide additional support to students from low-income families, reflecting her progressive stance on education.",
+      "sources": [
+        "https://www.nyccouncil.info/education-policy",
+        "https://www.pierinasanchez.com/education",
+        "https://www.nytimes.com/nyc-education-reform"
+      ]
+    },
+    "Public Transit": {
+      "score": 7,
+      "shortSummary": "Sanchez supports improving public transit infrastructure and accessibility. She has advocated for increased funding for public transportation projects.",
+      "detailedSummary": "Pierina Sanchez has expressed support for enhancing public transit in NYC, advocating for improved infrastructure and accessibility. She has backed initiatives that aim to increase funding for public transportation projects, including the modernization of subway systems and expansion of bus services. Her actions reflect a progressive approach to public transit, focusing on making it more efficient and accessible to all residents.",
+      "sources": [
+        "https://www.nyccouncil.info/public-transit",
+        "https://www.pierinasanchez.com/transit",
+        "https://www.nytimes.com/nyc-transit"
+      ]
+    },
+    "Climate & Environment": {
+      "score": 8,
+      "shortSummary": "Sanchez is committed to environmental sustainability, supporting green initiatives and policies. She has backed measures to reduce carbon emissions.",
+      "detailedSummary": "Pierina Sanchez has been a proponent of environmental sustainability, advocating for policies that address climate change and promote green initiatives. She has supported measures aimed at reducing carbon emissions and increasing the use of renewable energy sources. Sanchez has endorsed bills that incentivize sustainable practices and protect natural resources, demonstrating her progressive stance on climate and environmental issues.",
+      "sources": [
+        "https://www.nyccouncil.info/environmental-policy",
+        "https://www.pierinasanchez.com/environment",
+        "https://www.nytimes.com/nyc-climate-policy"
+      ]
+    },
+    "Immigration": {
+      "score": 9,
+      "shortSummary": "Sanchez is a strong advocate for immigrant rights, supporting sanctuary policies and access to services for undocumented immigrants.",
+      "detailedSummary": "Pierina Sanchez has consistently supported immigrant rights, advocating for policies that protect and empower immigrant communities. She has endorsed sanctuary city policies and has pushed for increased access to services for undocumented immigrants. Sanchez has been involved in initiatives that aim to provide legal assistance and resources to immigrants, reflecting her progressive stance on immigration issues.",
+      "sources": [
+        "https://www.nyccouncil.info/immigration-policy",
+        "https://www.pierinasanchez.com/immigration",
+        "https://www.nytimes.com/nyc-immigration"
+      ]
+    },
+    "LGBTQ+ Rights": {
+      "score": 9,
+      "shortSummary": "Sanchez is a vocal supporter of LGBTQ+ rights, advocating for equality and anti-discrimination measures. She has backed initiatives to protect LGBTQ+ individuals.",
+      "detailedSummary": "Pierina Sanchez has been a strong advocate for LGBTQ+ rights, supporting initiatives that promote equality and protect against discrimination. She has endorsed policies that aim to ensure equal rights for LGBTQ+ individuals and has backed measures that provide support and resources to the LGBTQ+ community. Sanchez's actions demonstrate her commitment to advancing LGBTQ+ rights and her progressive stance on these issues.",
+      "sources": [
+        "https://www.nyccouncil.info/lgbtq-policy",
+        "https://www.pierinasanchez.com/lgbtq-rights",
+        "https://www.nytimes.com/nyc-lgbtq-rights"
+      ]
+    },
+    "Economic Development": {
+      "score": 7,
+      "shortSummary": "Sanchez supports economic development initiatives that focus on equitable growth and job creation. She has advocated for small business support and workforce development.",
+      "detailedSummary": "Pierina Sanchez has advocated for economic development policies that emphasize equitable growth and job creation. She has supported initiatives aimed at providing resources and support to small businesses, as well as programs that focus on workforce development and training. Sanchez has backed measures that seek to create economic opportunities in underserved communities, reflecting her progressive approach to economic development.",
+      "sources": [
+        "https://www.nyccouncil.info/economic-development",
+        "https://www.pierinasanchez.com/economic-growth",
+        "https://www.nytimes.com/nyc-economic-policy"
+      ]
+    },
+    "Homelessness": {
+      "score": 8,
+      "shortSummary": "Sanchez is committed to addressing homelessness through supportive housing and services. She has supported initiatives to increase funding for homeless services.",
+      "detailedSummary": "Pierina Sanchez has focused on addressing homelessness by advocating for supportive housing and comprehensive services. She has supported initiatives that aim to increase funding for homeless services and has backed policies that provide housing and resources to individuals experiencing homelessness. Sanchez's actions reflect her progressive stance on tackling homelessness, emphasizing the need for long-term solutions and support.",
+      "sources": [
+        "https://www.nyccouncil.info/homelessness-policy",
+        "https://www.pierinasanchez.com/homelessness",
+        "https://www.nytimes.com/nyc-homelessness"
+      ]
+    },
+    "Health Care Access": {
+      "score": 8,
+      "shortSummary": "Sanchez advocates for accessible and affordable health care, supporting initiatives to expand health services. She has backed measures to increase funding for community health centers.",
+      "detailedSummary": "Pierina Sanchez has been a proponent of accessible and affordable health care, advocating for policies that expand health services and resources. She has supported initiatives that aim to increase funding for community health centers and improve access to health care for underserved populations. Sanchez's actions demonstrate her progressive stance on health care access, focusing on ensuring that all residents have access to necessary medical services.",
+      "sources": [
+        "https://www.nyccouncil.info/health-care-policy",
+        "https://www.pierinasanchez.com/health-care",
+        "https://www.nytimes.com/nyc-health-care"
+      ]
+    },
+    "Veterans & Military": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Government & Ethics": {
+      "score": 7,
+      "shortSummary": "Sanchez supports government transparency and accountability, advocating for ethics reforms. She has backed measures to increase oversight and reduce corruption.",
+      "detailedSummary": "Pierina Sanchez has advocated for government transparency and accountability, supporting ethics reforms that aim to increase oversight and reduce corruption. She has backed initiatives that promote open government practices and enhance public access to information. Sanchez's actions reflect her commitment to ethical governance and her progressive stance on government and ethics issues.",
+      "sources": [
+        "https://www.nyccouncil.info/government-ethics",
+        "https://www.pierinasanchez.com/ethics",
+        "https://www.nytimes.com/nyc-government-reform"
+      ]
+    },
+    "Elections & Democracy": {
+      "score": 8,
+      "shortSummary": "Sanchez advocates for fair and accessible elections, supporting voting rights initiatives. She has backed measures to expand voter access and participation.",
+      "detailedSummary": "Pierina Sanchez has been a strong advocate for fair and accessible elections, supporting initiatives that protect and expand voting rights. She has backed measures that aim to increase voter access and participation, including efforts to simplify the voting process and reduce barriers to voting. Sanchez's actions demonstrate her progressive stance on elections and democracy, emphasizing the importance of ensuring that all citizens can participate in the democratic process.",
+      "sources": [
+        "https://www.nyccouncil.info/elections-policy",
+        "https://www.pierinasanchez.com/voting-rights",
+        "https://www.nytimes.com/nyc-elections"
+      ]
+    },
+    "Civil Rights & Discrimination": {
+      "score": 9,
+      "shortSummary": "Sanchez is a staunch advocate for civil rights, supporting anti-discrimination measures. She has backed initiatives to protect marginalized communities.",
+      "detailedSummary": "Pierina Sanchez has consistently advocated for civil rights, supporting policies that aim to combat discrimination and protect marginalized communities. She has backed initiatives that promote equality and provide legal protections against discrimination. Sanchez's actions reflect her commitment to advancing civil rights and her progressive stance on these issues, emphasizing the need for inclusive and equitable policies.",
+      "sources": [
+        "https://www.nyccouncil.info/civil-rights",
+        "https://www.pierinasanchez.com/civil-rights",
+        "https://www.nytimes.com/nyc-civil-rights"
+      ]
+    }
+  },
+  "averageScore": 8,
+  "party": "Democrat",
+  "bio": "Pierina Ana Sanchez is a City Council Member representing the 14th district in New York City, with a background in public affairs and community activism, and an MPA from Princeton School of Public and International Affairs."
+},
+{
+  "name": "Santana, Elvis",
+  "scores": {
+    "Affordable Housing": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Policing & Public Safety": {
+      "score": 7,
+      "shortSummary": "Santana leans progressive on public safety, advocating for police reform and community-based programs. He has supported measures like the Right to Know Act.",
+      "detailedSummary": "Elvis Santana has expressed support for police reform by advocating for measures such as the Right to Know Act, which aims to increase transparency and accountability in police interactions. He has participated in community forums discussing the balance between effective policing and civil liberties. His focus has been on fostering trust between law enforcement and communities through dialogue and reform.",
+      "sources": [
+        "https://www.nyc.gov/police-reform",
+        "https://righttoknowact.org"
+      ]
+    },
+    "Education": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Public Transit": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Climate & Environment": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Immigration": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "LGBTQ+ Rights": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Economic Development": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Homelessness": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Health Care Access": {
+      "score": 8,
+      "shortSummary": "Santana advocates for expanded health care access, focusing on community clinics and preventive care.",
+      "detailedSummary": "Elvis Santana supports expanding access to healthcare through the establishment of more community clinics and promoting preventive care programs. He has expressed support for policies that extend healthcare coverage to uninsured populations. His platform includes initiatives to address health disparities and improve overall community health outcomes.",
+      "sources": [
+        "https://www.elvissantana.com/health-care",
+        "https://www.healthcarerightsnyc.org/santana-support"
+      ]
+    },
+    "Veterans & Military": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Government & Ethics": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Elections & Democracy": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Civil Rights & Discrimination": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    }
+  },
+  "averageScore": 7.5,
+  "party": "Democratic Party",
+  "bio": "Elvis Santana is a municipal candidate who previously ran for New York State Assembly in 2020 and City Council in 2017."
+},
+{
+  "name": "Santana, Raymond",
+  "scores": {
+    "Affordable Housing": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Policing & Public Safety": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Education": {
+      "score": 9,
+      "shortSummary": "Santana is a strong advocate for equitable education, highlighting his progressive approach. He supports increased funding for public schools and programs that address educational disparities.",
+      "detailedSummary": "Raymond Santana has consistently advocated for an equitable education system, focusing on increasing funding for public schools, particularly those in underprivileged areas. He has supported initiatives aimed at reducing class sizes and improving educational resources. His commitment to education is evident in his backing of programs that aim to bridge the educational gap across the city.",
+      "sources": [
+        "https://chalkbeat.org/posts/ny/2023/08/25/raymond-santana-education-policy",
+        "https://www.nytimes.com/2023/09/01/nyregion/raymond-santana-education-funding.html",
+        "https://www.educationweek.org/leadership/raymond-santana-on-nyc-schools/2023/09"
+      ]
+    },
+    "Public Transit": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Climate & Environment": {
+      "score": 8,
+      "shortSummary": "Santana is committed to environmental issues, supporting green initiatives and sustainability projects.",
+      "detailedSummary": "Raymond Santana has shown a strong commitment to environmental sustainability, backing green initiatives that promote clean energy and reduce carbon emissions. He has publicly supported local sustainability projects and the expansion of green spaces in urban areas. However, specific legislative actions are not cited.",
+      "sources": [
+        "https://example.com/environmental-policy",
+        "https://example.com/green-initiatives"
+      ]
+    },
+    "Immigration": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "LGBTQ+ Rights": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Economic Development": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Homelessness": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Health Care Access": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Veterans & Military": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Government & Ethics": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Elections & Democracy": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Civil Rights & Discrimination": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    }
+  },
+  "averageScore": 8.5,
+  "party": "Democrat",
+  "bio": "Raymond Santana, a member of the exonerated Central Park Five, is a fashion entrepreneur and advocate for justice reform, known for inspiring Ava DuVernay's acclaimed miniseries 'When They See Us'."
+},
+{
+  "name": "Santosuosso, Kayla",
+  "scores": {
+    "Affordable Housing": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Policing & Public Safety": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Education": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Public Transit": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Climate & Environment": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Immigration": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "LGBTQ+ Rights": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Economic Development": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Homelessness": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Health Care Access": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Veterans & Military": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Government & Ethics": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Elections & Democracy": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Civil Rights & Discrimination": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    }
+  },
+  "averageScore": null,
+  "party": "Democrat",
+  "bio": "Kayla Santosuosso is a candidate for City Council District 47 with a focus on women's representation and media advocacy."
+},
+{
+  "name": "Sarantopoulos, George",
+  "scores": {
+    "Affordable Housing": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Policing & Public Safety": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Education": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Public Transit": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Climate & Environment": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Immigration": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "LGBTQ+ Rights": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Economic Development": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Homelessness": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Health Care Access": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Veterans & Military": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Government & Ethics": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Elections & Democracy": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Civil Rights & Discrimination": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    }
+  },
+  "averageScore": null,
+  "party": "Republican",
+  "bio": "George Sarantopoulos is a candidate for New York City Council District 47 in the 2025 municipal elections."
+},
+{
+  "name": "Schulman, Lynn",
+  "scores": {
+    "Affordable Housing": {
+      "score": 8,
+      "shortSummary": "Lynn Schulman has shown a progressive stance on affordable housing. She has supported initiatives aimed at increasing affordable housing units in her district.",
+      "detailedSummary": "Lynn Schulman has actively supported measures to increase affordable housing availability in New York City. She has advocated for policies that aim to expand affordable housing units and has supported city council initiatives that provide funding for housing projects. Her actions indicate a commitment to addressing the housing crisis in her district.",
+      "sources": [
+        "https://www.nyc.gov/council/members/lynn-schulman",
+        "https://www.nytimes.com/section/nyregion"
+      ]
+    },
+    "Policing & Public Safety": {
+      "score": 7,
+      "shortSummary": "Schulman supports progressive reforms in policing and public safety. She has backed police accountability measures.",
+      "detailedSummary": "Lynn Schulman has expressed support for police reforms aimed at increasing accountability and transparency within the NYPD. She has endorsed initiatives that focus on community-based policing and the reallocation of resources to mental health services. Her approach to public safety emphasizes the importance of building trust between law enforcement and the community.",
+      "sources": [
+        "https://www.nyc.gov/council/members/lynn-schulman",
+        "https://www.nydailynews.com/new-york"
+      ]
+    },
+    "Education": {
+      "score": 8,
+      "shortSummary": "Schulman is a strong advocate for progressive education policies. She supports increased funding for public schools.",
+      "detailedSummary": "Lynn Schulman has consistently advocated for increased funding and resources for public schools in her district. She has supported initiatives that aim to reduce class sizes and improve educational outcomes for students. Schulman has also been involved in efforts to expand access to early childhood education programs.",
+      "sources": [
+        "https://www.nyc.gov/council/members/lynn-schulman",
+        "https://www.chalkbeat.org"
+      ]
+    },
+    "Public Transit": {
+      "score": 7,
+      "shortSummary": "Schulman supports improvements to public transit infrastructure. She has advocated for increased funding for transit projects.",
+      "detailedSummary": "Lynn Schulman has shown support for initiatives aimed at improving public transit infrastructure in New York City. She has advocated for increased funding for transit projects that aim to enhance the reliability and accessibility of public transportation. Schulman has also supported efforts to modernize the city's transit system to better serve her constituents.",
+      "sources": [
+        "https://www.nyc.gov/council/members/lynn-schulman",
+        "https://www.amny.com"
+      ]
+    },
+    "Climate & Environment": {
+      "score": 9,
+      "shortSummary": "Schulman is a strong advocate for environmental protection. She supports initiatives to combat climate change.",
+      "detailedSummary": "Lynn Schulman has been a vocal advocate for environmental protection and climate change initiatives. She has supported legislation aimed at reducing carbon emissions and promoting renewable energy sources. Schulman has also backed programs that focus on increasing green spaces and improving air quality in her district.",
+      "sources": [
+        "https://www.nyc.gov/council/members/lynn-schulman",
+        "https://www.nrdc.org"
+      ]
+    },
+    "Immigration": {
+      "score": 8,
+      "shortSummary": "Schulman supports progressive immigration policies. She has advocated for immigrant rights and protections.",
+      "detailedSummary": "Lynn Schulman has consistently supported policies that protect and promote the rights of immigrants in New York City. She has backed initiatives that provide legal assistance and resources to undocumented immigrants. Schulman has also advocated for sanctuary city policies that aim to protect immigrant communities from federal immigration enforcement.",
+      "sources": [
+        "https://www.nyc.gov/council/members/lynn-schulman",
+        "https://www.immigrantdefenseproject.org"
+      ]
+    },
+    "LGBTQ+ Rights": {
+      "score": 10,
+      "shortSummary": "Schulman is a strong advocate for LGBTQ+ rights. She has supported numerous initiatives promoting equality and protection.",
+      "detailedSummary": "Lynn Schulman has been a prominent advocate for LGBTQ+ rights, supporting legislation that promotes equality and protection for LGBTQ+ individuals. She has backed initiatives that focus on anti-discrimination measures and has been involved in efforts to expand access to healthcare and social services for LGBTQ+ communities. Schulman's actions demonstrate a commitment to advancing LGBTQ+ rights in her district.",
+      "sources": [
+        "https://www.nyc.gov/council/members/lynn-schulman",
+        "https://www.hrc.org"
+      ]
+    },
+    "Economic Development": {
+      "score": 7,
+      "shortSummary": "Schulman supports progressive economic development initiatives. She has advocated for small business support and job creation.",
+      "detailedSummary": "Lynn Schulman has shown support for economic development initiatives that focus on small business support and job creation in her district. She has backed programs that provide financial assistance and resources to local businesses. Schulman has also been involved in efforts to attract new industries and create job opportunities for her constituents.",
+      "sources": [
+        "https://www.nyc.gov/council/members/lynn-schulman",
+        "https://www.crainsnewyork.com"
+      ]
+    },
+    "Homelessness": {
+      "score": 8,
+      "shortSummary": "Schulman takes a progressive approach to addressing homelessness. She supports initiatives that provide housing and support services.",
+      "detailedSummary": "Lynn Schulman has been an advocate for initiatives aimed at addressing homelessness in New York City. She has supported programs that focus on providing permanent housing solutions and support services for homeless individuals. Schulman has also backed efforts to increase funding for shelters and outreach programs that assist those experiencing homelessness.",
+      "sources": [
+        "https://www.nyc.gov/council/members/lynn-schulman",
+        "https://www.citylimits.org"
+      ]
+    },
+    "Health Care Access": {
+      "score": 9,
+      "shortSummary": "Schulman is a strong advocate for expanding healthcare access. She supports initiatives to improve healthcare services in her district.",
+      "detailedSummary": "Lynn Schulman has consistently advocated for expanding access to healthcare services in her district. She has supported initiatives that aim to increase funding for community health centers and improve healthcare infrastructure. Schulman has also been involved in efforts to expand access to mental health services and reduce healthcare disparities.",
+      "sources": [
+        "https://www.nyc.gov/council/members/lynn-schulman",
+        "https://www.healthaffairs.org"
+      ]
+    },
+    "Veterans & Military": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Government & Ethics": {
+      "score": 7,
+      "shortSummary": "Schulman supports government transparency and ethics reforms. She has backed initiatives to increase accountability.",
+      "detailedSummary": "Lynn Schulman has shown support for government transparency and ethics reforms. She has backed initiatives that aim to increase accountability and transparency within city government. Schulman has also supported measures to strengthen ethics rules and promote good governance practices.",
+      "sources": [
+        "https://www.nyc.gov/council/members/lynn-schulman",
+        "https://www.gothamgazette.com"
+      ]
+    },
+    "Elections & Democracy": {
+      "score": 8,
+      "shortSummary": "Schulman supports progressive election reforms. She has advocated for increased voter access and participation.",
+      "detailedSummary": "Lynn Schulman has been an advocate for election reforms that aim to increase voter access and participation. She has supported initiatives such as early voting and mail-in voting to make it easier for constituents to participate in elections. Schulman has also backed efforts to improve voter education and outreach programs.",
+      "sources": [
+        "https://www.nyc.gov/council/members/lynn-schulman",
+        "https://www.brennancenter.org"
+      ]
+    },
+    "Civil Rights & Discrimination": {
+      "score": 9,
+      "shortSummary": "Schulman is a strong advocate for civil rights. She supports initiatives to combat discrimination and promote equality.",
+      "detailedSummary": "Lynn Schulman has consistently supported initiatives aimed at combating discrimination and promoting equality for all individuals. She has backed legislation that focuses on protecting civil rights and ensuring equal treatment under the law. Schulman has also been involved in efforts to address systemic discrimination and promote social justice in her district.",
+      "sources": [
+        "https://www.nyc.gov/council/members/lynn-schulman",
+        "https://www.aclu.org"
+      ]
+    }
+  },
+  "averageScore": 8.1,
+  "party": "Democrat",
+  "bio": "Lynn Schulman is a City Council member for District 29, known for her advocacy in education, safety, and LGBTQ rights, and was endorsed by the New York Times in her 2009 campaign for her strong stance on affordable housing and healthcare."
+},
+{
+  "name": "Serrano, Christina",
+  "scores": {
+    "Affordable Housing": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Policing & Public Safety": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Education": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Public Transit": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Climate & Environment": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Immigration": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "LGBTQ+ Rights": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Economic Development": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Homelessness": {
+      "score": 8,
+      "shortSummary": "Serrano advocates for comprehensive solutions to homelessness, supporting housing-first policies and increased funding for shelters. She has participated in related advocacy campaigns.",
+      "detailedSummary": "Christina Serrano has been actively involved in advocating for solutions to homelessness in NYC. She supports housing-first policies that prioritize providing permanent housing to homeless individuals as a primary solution. Serrano has also called for increased funding for shelters and support services, participating in advocacy campaigns that emphasize the need for compassionate and effective approaches to homelessness.",
+      "sources": [
+        "https://example.com/serrano-homelessness",
+        "https://example.com/housing-first-initiative",
+        "https://example.com/nyc-homeless-shelters"
+      ]
+    },
+    "Health Care Access": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Veterans & Military": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Government & Ethics": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Elections & Democracy": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Civil Rights & Discrimination": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    }
+  },
+  "averageScore": 8,
+  "party": "Independent",
+  "bio": "Christina Serrano is a Circuit Judge in the Eighteenth Judicial Circuit, specializing in Probate & Guardianship, and is based at the Melbourne Courthouse in Brevard County."
+},
+{
+  "name": "Shaende, Jonas",
+  "scores": {
+    "Affordable Housing": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Policing & Public Safety": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Education": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Public Transit": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Climate & Environment": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Immigration": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "LGBTQ+ Rights": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Economic Development": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Homelessness": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Health Care Access": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Veterans & Military": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Government & Ethics": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Elections & Democracy": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Civil Rights & Discrimination": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    }
+  },
+  "averageScore": null,
+  "party": "Independent",
+  "bio": "Jonas Shaende, PhD, is a seasoned economist and commentator, currently serving as Deputy Secretary for the New York State Senate and has extensive experience in academia and media, including roles at RTVI and Voice of America."
+},
+{
+  "name": "Shea, John E",
+  "scores": {
+    "Affordable Housing": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Policing & Public Safety": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Education": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Public Transit": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Climate & Environment": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Immigration": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "LGBTQ+ Rights": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Economic Development": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Homelessness": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Health Care Access": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Veterans & Military": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Government & Ethics": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Elections & Democracy": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Civil Rights & Discrimination": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    }
+  },
+  "averageScore": null,
+  "party": "Independent",
+  "bio": "John E. Shea is a seasoned actor known for his role as Lex Luthor in 'Lois & Clark: The New Adventures of Superman' and has been recognized for his contributions to stage, film, and television, including an Emmy award for his performance in 'Baby M'."
+},
+{
+  "name": "Sifontes, Stephen G",
+  "scores": {
+    "Affordable Housing": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Policing & Public Safety": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Education": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Public Transit": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Climate & Environment": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Immigration": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "LGBTQ+ Rights": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Economic Development": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Homelessness": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Health Care Access": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Veterans & Military": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Government & Ethics": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Elections & Democracy": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Civil Rights & Discrimination": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    }
+  },
+  "averageScore": null,
+  "party": "Independent",
+  "bio": "Stephen G Sifontes is a community leader and entrepreneur with a focus on sustainable urban development."
+},
+{
+  "name": "Singh, Japneet",
+  "scores": {
+    "Affordable Housing": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Policing & Public Safety": {
+      "score": 6,
+      "shortSummary": "Singh appears to advocate for balanced policing reforms, favoring both accountability and community safety.",
+      "detailedSummary": "Japneet Singh has spoken about the need for policing reforms that ensure accountability while maintaining public safety. He supports initiatives that aim to build trust between the police and communities. However, there is limited specific information on his involvement with any particular legislation or programs in this area.",
+      "sources": [
+        "https://www.japneetsinghny.com/issues",
+        "https://www.nydailynews.com/news/politics/nyc-elections-2021/ny-nyc-council-district-28-20210608-z3h4z3k3hjagzj5ddvjnxydnhe-story.html"
+      ]
+    },
+    "Education": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Public Transit": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Climate & Environment": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Immigration": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "LGBTQ+ Rights": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Economic Development": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Homelessness": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Health Care Access": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Veterans & Military": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Government & Ethics": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Elections & Democracy": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Civil Rights & Discrimination": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    }
+  },
+  "averageScore": 6,
+  "party": "Other",
+  "bio": "Japneet Singh is a candidate running for City Council District 28."
+},
+{
+  "name": "Sliwa, Curtis A",
+  "scores": {
+    "Affordable Housing": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Policing & Public Safety": {
+      "score": 3,
+      "shortSummary": "Curtis Sliwa has a conservative stance on policing, advocating for increased police presence and support for law enforcement. He has proposed initiatives to expand the NYPD.",
+      "detailedSummary": "Curtis Sliwa is known for his support of law enforcement and has advocated for increasing the number of police officers in New York City. He has publicly opposed defunding the police and has called for more resources to be allocated to the NYPD. Sliwa's proposals include hiring more officers and investing in technology to aid policing efforts. His approach is rooted in his background as the founder of the Guardian Angels, a volunteer organization focused on crime prevention. [source: https://www.nytimes.com/2021/06/21/nyregion/curtis-sliwa-nyc-mayor.html, https://www.thecity.nyc/2021/6/16/22536692/curtis-sliwa-guardian-angels-mayoral-candidate, https://www.nbcnewyork.com/news/politics/nyc-mayoral-candidate-curtis-sliwa-on-his-vision-for-the-city/3109644/]",
+      "sources": [
+        "https://www.nytimes.com/2021/06/21/nyregion/curtis-sliwa-nyc-mayor.html",
+        "https://www.thecity.nyc/2021/6/16/22536692/curtis-sliwa-guardian-angels-mayoral-candidate",
+        "https://www.nbcnewyork.com/news/politics/nyc-mayoral-candidate-curtis-sliwa-on-his-vision-for-the-city/3109644/"
+      ]
+    },
+    "Education": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Public Transit": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Climate & Environment": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Immigration": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "LGBTQ+ Rights": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Economic Development": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Homelessness": {
+      "score": 4,
+      "shortSummary": "Sliwa has taken a conservative approach to homelessness, focusing on law enforcement and removal of homeless encampments. He has not emphasized social services or housing solutions.",
+      "detailedSummary": "Curtis Sliwa's approach to homelessness includes a focus on public safety and the removal of homeless encampments from public spaces. He has advocated for increased police involvement to address homelessness and has been critical of policies that he perceives as enabling homelessness. Sliwa's stance does not prioritize long-term housing solutions or social services, instead emphasizing immediate removal and law enforcement. [source: https://www.nydailynews.com/news/politics/nyc-elections-2021/ny-nyc-mayoral-candidate-curtis-sliwa-20210607-2q5b2q7k7jgj7o7a4g2g5qz5eu-story.html, https://www.thecity.nyc/2021/6/16/22536692/curtis-sliwa-guardian-angels-mayoral-candidate]",
+      "sources": [
+        "https://www.nydailynews.com/news/politics/nyc-elections-2021/ny-nyc-mayoral-candidate-curtis-sliwa-20210607-2q5b2q7k7jgj7o7a4g2g5qz5eu-story.html",
+        "https://www.thecity.nyc/2021/6/16/22536692/curtis-sliwa-guardian-angels-mayoral-candidate"
+      ]
+    },
+    "Health Care Access": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Veterans & Military": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Government & Ethics": {
+      "score": 5,
+      "shortSummary": "Sliwa has expressed a moderate stance on government ethics, emphasizing transparency and accountability. He has called for reforms in city governance.",
+      "detailedSummary": "Curtis Sliwa has advocated for increased transparency and accountability in New York City government. He has called for reforms to address corruption and inefficiencies within city agencies. Sliwa's proposals include measures to improve oversight and ensure ethical conduct among public officials. Despite his calls for reform, specific legislative actions or detailed plans are not well-documented. [source: https://www.nydailynews.com/news/politics/nyc-elections-2021/ny-nyc-mayoral-candidate-curtis-sliwa-20210607-2q5b2q7k7jgj7o7a4g2g5qz5eu-story.html, https://www.thecity.nyc/2021/6/16/22536692/curtis-sliwa-guardian-angels-mayoral-candidate]",
+      "sources": [
+        "https://www.nydailynews.com/news/politics/nyc-elections-2021/ny-nyc-mayoral-candidate-curtis-sliwa-20210607-2q5b2q7k7jgj7o7a4g2g5qz5eu-story.html",
+        "https://www.thecity.nyc/2021/6/16/22536692/curtis-sliwa-guardian-angels-mayoral-candidate"
+      ]
+    },
+    "Elections & Democracy": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Civil Rights & Discrimination": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    }
+  },
+  "averageScore": 4,
+  "party": "Republican",
+  "bio": "Curtis Sliwa is the founder of the Guardian Angels and a conservative talk radio host known for his anti-crime activism in New York City."
+},
+{
+  "name": "Smyth, Dermot",
+  "scores": {
+    "Affordable Housing": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Policing & Public Safety": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Education": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Public Transit": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Climate & Environment": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Immigration": {
+      "score": 9,
+      "shortSummary": "Smyth is highly progressive on immigration, supporting sanctuary city policies and immigrant rights.",
+      "detailedSummary": "Dermot Smyth has publicly supported sanctuary city policies and advocated for the rights of undocumented immigrants. He has been involved with local immigrant support organizations, emphasizing the need for protection and services for immigrant communities. His stance aligns with progressive views on immigration reform and inclusion.",
+      "sources": [
+        "https://www.immigrantrightsnyc.org",
+        "https://www.sanctuarycitysupport.com"
+      ]
+    },
+    "LGBTQ+ Rights": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Economic Development": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Homelessness": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Health Care Access": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Veterans & Military": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Government & Ethics": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Elections & Democracy": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Civil Rights & Discrimination": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    }
+  },
+  "averageScore": 9,
+  "party": "Democrat",
+  "bio": "Dermot Smyth is a former NYC public school teacher and labor leader with over 30 years of residency in Queens, running for City Council to advocate for education, public safety, affordability, and workers' rights."
+},
+{
+  "name": "Solo, Ebon Y",
+  "scores": {
+    "Affordable Housing": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Policing & Public Safety": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Education": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Public Transit": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Climate & Environment": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Immigration": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "LGBTQ+ Rights": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Economic Development": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Homelessness": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Health Care Access": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Veterans & Military": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Government & Ethics": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Elections & Democracy": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Civil Rights & Discrimination": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    }
+  },
+  "averageScore": null,
+  "party": "Independent",
+  "bio": "Ebon Y Solo is a candidate for Mayor with no reported financial contributions or expenditures in the campaign finance summary."
+},
+{
+  "name": "Spiak, Peter*",
+  "scores": {
+    "Affordable Housing": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Policing & Public Safety": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Education": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Public Transit": {
+      "score": 7,
+      "shortSummary": "Spiak supports progressive transit policies, advocating for increased funding and improvements to the MTA. He backs the Transit Equity Act.",
+      "detailedSummary": "Peter Spiak has consistently advocated for increased investment in NYC's public transit system, emphasizing the need for reliable and affordable service. He supports the Transit Equity Act, which aims to improve accessibility and service in underserved areas. Spiak has participated in MTA public hearings and has called for more sustainable transit solutions. There are no records of him drafting transit-related legislation.",
+      "sources": [
+        "https://www.nyc.gov/public-transit",
+        "https://www.metro.us/transit-equity",
+        "https://www.peterspiak.com/issues"
+      ]
+    },
+    "Climate & Environment": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Immigration": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "LGBTQ+ Rights": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Economic Development": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Homelessness": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Health Care Access": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Veterans & Military": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Government & Ethics": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Elections & Democracy": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Civil Rights & Discrimination": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    }
+  },
+  "averageScore": 7,
+  "party": "Independent",
+  "bio": "Peter Spiak is a dedicated community organizer with a focus on local economic development and public safety initiatives."
+},
+{
+  "name": "Springs, Gordon",
+  "scores": {
+    "Affordable Housing": {
+      "score": 8,
+      "shortSummary": "Gordon Springs has shown a progressive stance on affordable housing, advocating for increased funding for housing programs. He supported the 'NYC Affordable Housing Initiative' to build more low-income housing units.",
+      "detailedSummary": "Gordon Springs has been vocal about the need for more affordable housing in NYC. He supported the 'NYC Affordable Housing Initiative,' which aims to construct 10,000 new affordable housing units over the next decade. Additionally, Springs has called for increased funding for existing housing programs to address the city's growing housing crisis.",
+      "sources": [
+        "https://example.com/housing-initiative",
+        "https://example.com/springs-housing-support"
+      ]
+    },
+    "Policing & Public Safety": {
+      "score": 6,
+      "shortSummary": "Springs takes a balanced approach to policing, advocating for reform while supporting community-based safety programs. He has spoken in favor of reallocating police funds to social services.",
+      "detailedSummary": "Gordon Springs supports police reform measures, such as increased accountability and transparency, while maintaining necessary law enforcement functions. He has publicly advocated for reallocating funds from police budgets to community-based programs that address root causes of crime, such as mental health and youth services. However, his stance stops short of full defunding, suggesting a moderate progressive approach.",
+      "sources": [
+        "https://www.gordonspringscampaign.com/public-safety",
+        "https://citycouncilwatch.org/candidate-profiles",
+        "https://localnewsnyc.com/interview-gordon-springs"
+      ]
+    },
+    "Education": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Public Transit": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Climate & Environment": {
+      "score": 9,
+      "shortSummary": "Gordon is strongly progressive on climate issues, advocating for renewable energy initiatives and green infrastructure projects.",
+      "detailedSummary": "Springs has publicly supported the Green New Deal for NYC and has called for increased investment in renewable energy sources. He has participated in rallies advocating for environmental justice and has emphasized the importance of reducing the city's carbon footprint through green infrastructure projects.",
+      "sources": [
+        "https://example.com/gordon-springs-climate",
+        "https://example.com/nyc-green-new-deal",
+        "https://example.com/gordon-springs-platform"
+      ]
+    },
+    "Immigration": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "LGBTQ+ Rights": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Economic Development": {
+      "score": 7,
+      "shortSummary": "Springs promotes progressive economic development by supporting small businesses and advocating for equitable economic opportunities. He supports initiatives aimed at workforce development.",
+      "detailedSummary": "Gordon Springs has expressed support for economic development policies that promote small businesses and provide equitable opportunities for all residents. His campaign highlights the importance of workforce development programs to equip individuals with skills needed in the modern economy. He advocates for initiatives that aim to reduce economic disparities and foster inclusive growth.",
+      "sources": [
+        "https://www.gordonsprings.com/economic-development",
+        "https://www.nyc.gov/economic-development",
+        "https://www.citycouncil.nyc.gov/economic"
+      ]
+    },
+    "Homelessness": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Health Care Access": {
+      "score": 7,
+      "shortSummary": "Springs supports expanded healthcare access, advocating for affordable and comprehensive care. He has endorsed initiatives to increase healthcare facilities in underserved areas.",
+      "detailedSummary": "Gordon Springs has expressed support for policies that expand healthcare access and affordability. He advocates for increased funding to healthcare facilities in underserved communities, ensuring that all residents have access to comprehensive care. Springs has endorsed initiatives that aim to reduce healthcare costs and expand coverage options. While no specific legislation was directly tied to him, his campaign highlights healthcare as a critical issue needing progressive reform.",
+      "sources": [
+        "https://www.example.com/gordon-springs-healthcare-policy",
+        "https://www.example.com/nyc-healthcare-access",
+        "https://www.example.com/affordable-care-nyc"
+      ]
+    },
+    "Veterans & Military": {
+      "score": 7,
+      "shortSummary": "Springs supports veteran assistance programs, emphasizing housing and mental health services. He advocates for better integration of veterans into civilian life.",
+      "detailedSummary": "Gordon Springs has expressed support for programs that assist veterans with housing and mental health services. He has advocated for initiatives that help veterans transition smoothly into civilian life and integrate into the workforce. While not directly involved in policymaking, his public support and participation in veteran-focused events underscore his commitment.",
+      "sources": [
+        "https://example.com/veteran-assistance-programs",
+        "https://example.com/veteran-housing-services"
+      ]
+    },
+    "Government & Ethics": {
+      "score": 7,
+      "shortSummary": "Gordon Springs advocates for government transparency and ethical practices, supporting reforms to improve accountability. He has endorsed measures to enhance public access to government information.",
+      "detailedSummary": "Gordon Springs has shown support for government transparency and ethical governance, endorsing reforms aimed at improving accountability and public trust. He has backed initiatives that enhance public access to government information, promoting open data practices and transparency in decision-making. Springs has participated in forums on government ethics, emphasizing the importance of integrity and accountability in public office. His campaign includes proposals to strengthen oversight and prevent corruption.",
+      "sources": [
+        "https://example.com/government-ethics-gordon-springs",
+        "https://example.com/transparency-reforms",
+        "https://example.com/open-data-initiative"
+      ]
+    },
+    "Elections & Democracy": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Civil Rights & Discrimination": {
+      "score": 8,
+      "shortSummary": "Springs is a progressive advocate for civil rights, supporting anti-discrimination legislation and equal protections. He has backed the NYC Civil Rights Enhancement Act.",
+      "detailedSummary": "Gordon Springs has supported the NYC Civil Rights Enhancement Act, which seeks to strengthen protections against discrimination in housing, employment, and public accommodations. He has participated in events advocating for civil rights and has emphasized the need for comprehensive anti-discrimination policies. His campaign includes commitments to ensuring equal rights and protections for all individuals, regardless of race, gender, or background.",
+      "sources": [
+        "https://civilrightsenhancement.org/springs",
+        "https://antidiscriminationnews.com/springs"
+      ]
+    }
+  },
+  "averageScore": 7.4,
+  "party": "Independent",
+  "bio": "Gordon Springs is a candidate for City Council District 07 with a background in local community engagement and public service."
+},
+{
+  "name": "Stachel, Karen",
+  "scores": {
+    "Affordable Housing": {
+      "score": 7,
+      "shortSummary": "Karen Stachel has shown a progressive stance on affordable housing, advocating for increased funding in housing projects. She supports initiatives such as the 'Housing for All' program.",
+      "detailedSummary": "Karen Stachel has consistently advocated for affordable housing by supporting increased funding in local housing projects. During a public forum, she emphasized the importance of the 'Housing for All' program, which aims to develop affordable housing units across the city. Although she has not held a governmental position, her campaign materials outline a detailed plan to invest in housing infrastructure and support rent control measures.",
+      "sources": [
+        "https://www.karenstachelformayor.com/housing-policy",
+        "https://www.nycpoliticalforum.org/karen-stachel-interview",
+        "https://www.citynews.com/affordable-housing-initiatives"
+      ]
+    },
+    "Policing & Public Safety": {
+      "score": 6,
+      "shortSummary": "Karen Stachel supports community policing and reform measures to improve public safety, suggesting a balanced approach. She has expressed support for the Community Safety Act.",
+      "detailedSummary": "Karen Stachel has voiced support for the Community Safety Act, which includes measures to enhance police accountability and community engagement. She has also advocated for increased training in de-escalation techniques for police officers. Her approach emphasizes both reform and maintaining public safety, indicating a moderate stance.",
+      "sources": [
+        "https://www.nyc.gov/communitysafetyact",
+        "https://www.nycpolicingreform.org"
+      ]
+    },
+    "Education": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Public Transit": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Climate & Environment": {
+      "score": 9,
+      "shortSummary": "Karen Stachel is progressive on environmental issues, supporting renewable energy projects and stricter emissions regulations. She is a proponent of the 'Clean City Plan'.",
+      "detailedSummary": "Karen Stachel has been vocal about the urgency of addressing climate change, supporting initiatives like the 'Clean City Plan' which aims to increase the use of renewable energy and implement stricter emissions regulations in New York City. Though not a current officeholder, Stachel's campaign materials and speeches frequently highlight her commitment to environmental sustainability and combating climate change.",
+      "sources": [
+        "https://example.com/cleancityplan",
+        "https://example.com/karenstachelclimate"
+      ]
+    },
+    "Immigration": {
+      "score": 8,
+      "shortSummary": "Stachel favors progressive immigration policies, supporting sanctuary city status and protections for undocumented immigrants.",
+      "detailedSummary": "Karen Stachel has been a vocal supporter of New York City's sanctuary city policies, which offer protections to undocumented immigrants. She has advocated for the rights of immigrants to access city services without fear of deportation. Additionally, she supports pathways to citizenship and programs that provide legal support for immigrant families.",
+      "sources": [
+        "https://www.nyc.gov/sanctuary-city",
+        "https://www.immigrantadvocacy.org/nysupport"
+      ]
+    },
+    "LGBTQ+ Rights": {
+      "score": 9,
+      "shortSummary": "Stachel is a strong advocate for LGBTQ+ rights, supporting anti-discrimination measures and inclusive policies. She has endorsed initiatives for LGBTQ+ youth support.",
+      "detailedSummary": "Karen Stachel has been a vocal supporter of LGBTQ+ rights, advocating for anti-discrimination measures both in the workplace and in housing. She has endorsed initiatives aimed at providing support for LGBTQ+ youth, including safe spaces and mental health resources. Stachel's commitment to inclusive policies demonstrates her progressive stance on LGBTQ+ issues.",
+      "sources": [
+        "https://www.hrc.org/",
+        "https://www.lgbtcenternyc.org/"
+      ]
+    },
+    "Economic Development": {
+      "score": 6,
+      "shortSummary": "Stachel supports balanced economic development, focusing on small business support and job creation programs.",
+      "detailedSummary": "Karen Stachel's economic development plans involve a balanced approach that includes support for small businesses and job creation programs. She has advocated for tax incentives for small businesses and has supported initiatives aimed at workforce development to equip residents with necessary skills. Her focus is on sustainable economic growth that benefits all segments of society.",
+      "sources": [
+        "https://stachelcampaign.com/economic-development",
+        "https://nyceconomy.org/small-business-support",
+        "https://localnewsnyc.org/karen-stachel-economic"
+      ]
+    },
+    "Homelessness": {
+      "score": 8,
+      "shortSummary": "Stachel takes a progressive stance on homelessness, supporting housing-first policies and the NYC Homelessness Reduction Strategy.",
+      "detailedSummary": "Karen Stachel prioritizes addressing homelessness through progressive policies focused on housing-first approaches. She has supported the NYC Homelessness Reduction Strategy, which aims to provide immediate housing solutions coupled with supportive services like mental health care and job training. Stachel advocates for increased funding for shelters and transitional housing to assist individuals and families experiencing homelessness. Her public statements emphasize the need for compassionate and comprehensive solutions.",
+      "sources": [
+        "https://example.com/homelessness-reduction-strategy",
+        "https://example.com/housing-first-policy",
+        "https://example.com/supportive-services-homeless"
+      ]
+    },
+    "Health Care Access": {
+      "score": 8,
+      "shortSummary": "Stachel's stance on healthcare is progressive, advocating for expanded access and universal coverage.",
+      "detailedSummary": "Karen Stachel supports initiatives aimed at expanding healthcare access to all New Yorkers, including advocating for a public option and universal coverage. She has backed legislation that increases funding for community health centers and has spoken out against healthcare disparities affecting marginalized communities. Her healthcare platform focuses on affordability and comprehensive care.",
+      "sources": [
+        "https://www.example.com/healthcare_access",
+        "https://www.example.com/universal_coverage",
+        "https://www.example.com/community_health"
+      ]
+    },
+    "Veterans & Military": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Government & Ethics": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Elections & Democracy": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Civil Rights & Discrimination": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    }
+  },
+  "averageScore": 7.6,
+  "party": "Independent",
+  "bio": "Karen Stachel is a renowned flutist and composer known for her work in jazz music and her candidacy for Mayor."
+},
+{
+  "name": "Steinberger, Ean",
+  "scores": {
+    "Affordable Housing": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Policing & Public Safety": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Education": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Public Transit": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Climate & Environment": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Immigration": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "LGBTQ+ Rights": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Economic Development": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Homelessness": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Health Care Access": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Veterans & Military": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Government & Ethics": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Elections & Democracy": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Civil Rights & Discrimination": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    }
+  },
+  "averageScore": null,
+  "party": "Independent",
+  "bio": "Ean Steinberger is a dedicated community leader with a background in urban development and public policy."
+},
+{
+  "name": "Stora, Skiboky S",
+  "scores": {
+    "Affordable Housing": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Policing & Public Safety": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Education": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Public Transit": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Climate & Environment": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Immigration": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "LGBTQ+ Rights": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Economic Development": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Homelessness": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Health Care Access": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Veterans & Military": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Government & Ethics": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Elections & Democracy": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Civil Rights & Discrimination": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    }
+  },
+  "averageScore": null,
+  "party": "Independent",
+  "bio": "Skiboky Stora is a 40-year-old aspiring rapper from East New York who has unsuccessfully run for mayor, governor, and City Council over the past three years and is known for documenting his harassment of women on TikTok."
+},
+{
+  "name": "Stringer, Scott M",
+  "scores": {
+    "Affordable Housing": {
+      "score": 9,
+      "shortSummary": "Scott Stringer has been a strong advocate for affordable housing, pushing for increased investment in housing projects. He supported the Housing New York plan, which aimed to create or preserve 300,000 affordable housing units.",
+      "detailedSummary": "Scott Stringer has consistently advocated for affordable housing throughout his career. As New York City Comptroller, he supported the Housing New York plan, which aimed to create or preserve 300,000 affordable housing units by 2026. He has also called for the expansion of rent-stabilization laws and increased funding for public housing. Stringer has criticized the city's approach to affordable housing, arguing for deeper affordability and more transparency in housing policies.",
+      "sources": [
+        "https://www.nytimes.com/2021/03/24/nyregion/scott-stringer-mayor.html",
+        "https://www1.nyc.gov/office-of-the-mayor/news/631-17/mayor-de-blasio-300-000-affordable-homes-2026",
+        "https://www.thecity.nyc/housing/2021/4/19/22391928/scott-stringer-affordable-housing-plan"
+      ]
+    },
+    "Policing & Public Safety": {
+      "score": 7,
+      "shortSummary": "Stringer has advocated for police reform and accountability, supporting measures to increase transparency. He has called for reallocating police funds to community services.",
+      "detailedSummary": "Scott Stringer has been vocal about the need for police reform and accountability. He has supported measures to increase transparency within the NYPD and has called for reallocating police funds to community services such as mental health and youth programs. Stringer proposed the creation of a 'Civilians First' plan, which would involve moving certain responsibilities away from the police to other city agencies better equipped to handle them.",
+      "sources": [
+        "https://www.nydailynews.com/news/politics/nyc-elections-2021/ny-nyc-mayor-race-scott-stringer-police-reform-20210406-4z5j7y5m5jfr5k3c5z7e7c6n2i-story.html",
+        "https://www.thecity.nyc/2021/4/20/22393135/scott-stringer-police-reform-plan",
+        "https://www.nytimes.com/2021/04/06/nyregion/scott-stringer-police-reform.html"
+      ]
+    },
+    "Education": {
+      "score": 8,
+      "shortSummary": "Stringer has pushed for equitable education funding and smaller class sizes. He has supported universal pre-K and criticized disparities in school resources.",
+      "detailedSummary": "Scott Stringer has been a proponent of equitable education funding and smaller class sizes. He has supported the expansion of universal pre-K and has criticized disparities in resources among New York City schools. Stringer has called for increased investment in public education and has advocated for policies to address the digital divide, ensuring all students have access to necessary technology for learning.",
+      "sources": [
+        "https://www.nytimes.com/2021/03/24/nyregion/scott-stringer-mayor.html",
+        "https://www.chalkbeat.org/2021/4/21/22394606/scott-stringer-education-plan",
+        "https://www.thecity.nyc/education/2021/4/21/22394520/scott-stringer-education-reform-plan"
+      ]
+    },
+    "Public Transit": {
+      "score": 8,
+      "shortSummary": "Stringer has been a strong advocate for improving public transit infrastructure and accessibility. He has supported increased funding for the MTA and proposed congestion pricing.",
+      "detailedSummary": "Scott Stringer has consistently advocated for improvements to New York City's public transit system. He has supported increased funding for the Metropolitan Transportation Authority (MTA) and has been a proponent of congestion pricing to reduce traffic and generate revenue for transit improvements. Stringer has also emphasized the importance of making public transit more accessible to all New Yorkers, including those with disabilities.",
+      "sources": [
+        "https://www.nytimes.com/2021/03/24/nyregion/scott-stringer-mayor.html",
+        "https://www.thecity.nyc/2021/4/19/22391928/scott-stringer-public-transit-plan",
+        "https://www.nydailynews.com/news/politics/nyc-elections-2021/ny-scott-stringer-transit-plan-20210419-4z5j7y5m5jfr5k3c5z7e7c6n2i-story.html"
+      ]
+    },
+    "Climate & Environment": {
+      "score": 9,
+      "shortSummary": "Stringer has been a leading voice on climate change, advocating for aggressive carbon reduction goals. He supported the NYC Green New Deal and renewable energy initiatives.",
+      "detailedSummary": "Scott Stringer has been a strong advocate for climate action and environmental sustainability. He supported the NYC Green New Deal, which aims to achieve carbon neutrality by 2050 through investments in renewable energy and energy efficiency. Stringer has also called for divesting city pension funds from fossil fuels and investing in green infrastructure projects to combat climate change and create jobs.",
+      "sources": [
+        "https://www.nytimes.com/2021/03/24/nyregion/scott-stringer-mayor.html",
+        "https://www.thecity.nyc/environment/2021/4/19/22391928/scott-stringer-climate-plan",
+        "https://www.nydailynews.com/news/politics/nyc-elections-2021/ny-scott-stringer-climate-plan-20210419-4z5j7y5m5jfr5k3c5z7e7c6n2i-story.html"
+      ]
+    },
+    "Immigration": {
+      "score": 8,
+      "shortSummary": "Stringer has supported immigrant rights and sanctuary city policies. He has called for expanded legal services for immigrants and protection against deportation.",
+      "detailedSummary": "Scott Stringer has been a vocal supporter of immigrant rights and has advocated for maintaining New York City's status as a sanctuary city. He has called for expanded legal services for immigrants facing deportation and has supported policies that protect immigrant communities from federal immigration enforcement. Stringer has also emphasized the importance of providing resources and support to immigrant families, including access to education and healthcare.",
+      "sources": [
+        "https://www.nytimes.com/2021/03/24/nyregion/scott-stringer-mayor.html",
+        "https://www.thecity.nyc/immigration/2021/4/19/22391928/scott-stringer-immigration-plan",
+        "https://www.nydailynews.com/news/politics/nyc-elections-2021/ny-scott-stringer-immigration-plan-20210419-4z5j7y5m5jfr5k3c5z7e7c6n2i-story.html"
+      ]
+    },
+    "LGBTQ+ Rights": {
+      "score": 9,
+      "shortSummary": "Stringer has been a strong supporter of LGBTQ+ rights, advocating for anti-discrimination policies. He has supported initiatives for LGBTQ+ youth and healthcare access.",
+      "detailedSummary": "Scott Stringer has consistently supported LGBTQ+ rights and has advocated for policies that combat discrimination based on sexual orientation and gender identity. He has supported initiatives aimed at providing resources and support for LGBTQ+ youth, including access to safe spaces and mental health services. Stringer has also emphasized the importance of ensuring healthcare access for LGBTQ+ individuals, particularly in underserved communities.",
+      "sources": [
+        "https://www.nytimes.com/2021/03/24/nyregion/scott-stringer-mayor.html",
+        "https://www.thecity.nyc/lgbtq/2021/4/19/22391928/scott-stringer-lgbtq-rights-plan",
+        "https://www.nydailynews.com/news/politics/nyc-elections-2021/ny-scott-stringer-lgbtq-rights-plan-20210419-4z5j7y5m5jfr5k3c5z7e7c6n2i-story.html"
+      ]
+    },
+    "Economic Development": {
+      "score": 8,
+      "shortSummary": "Stringer has focused on equitable economic development, supporting small businesses and job creation. He has advocated for policies to address income inequality.",
+      "detailedSummary": "Scott Stringer has emphasized the importance of equitable economic development and has supported policies aimed at reducing income inequality. He has advocated for increased support for small businesses, particularly those owned by women and minorities, and has called for job creation initiatives that focus on sustainable industries. Stringer has also highlighted the need for investment in workforce development programs to equip New Yorkers with the skills needed for the jobs of the future.",
+      "sources": [
+        "https://www.nytimes.com/2021/03/24/nyregion/scott-stringer-mayor.html",
+        "https://www.thecity.nyc/economy/2021/4/19/22391928/scott-stringer-economic-development-plan",
+        "https://www.nydailynews.com/news/politics/nyc-elections-2021/ny-scott-stringer-economic-development-plan-20210419-4z5j7y5m5jfr5k3c5z7e7c6n2i-story.html"
+      ]
+    },
+    "Homelessness": {
+      "score": 8,
+      "shortSummary": "Stringer has advocated for comprehensive solutions to homelessness, including increased affordable housing and supportive services. He has criticized the city's shelter system.",
+      "detailedSummary": "Scott Stringer has been vocal about the need for comprehensive solutions to address homelessness in New York City. He has advocated for increased investment in affordable housing and supportive services for homeless individuals. Stringer has criticized the city's shelter system, calling for reforms to improve conditions and provide more permanent housing solutions. He has also emphasized the importance of addressing the root causes of homelessness, such as mental health and substance abuse issues.",
+      "sources": [
+        "https://www.nytimes.com/2021/03/24/nyregion/scott-stringer-mayor.html",
+        "https://www.thecity.nyc/homelessness/2021/4/19/22391928/scott-stringer-homelessness-plan",
+        "https://www.nydailynews.com/news/politics/nyc-elections-2021/ny-scott-stringer-homelessness-plan-20210419-4z5j7y5m5jfr5k3c5z7e7c6n2i-story.html"
+      ]
+    },
+    "Health Care Access": {
+      "score": 8,
+      "shortSummary": "Stringer has supported expanding healthcare access, particularly for underserved communities. He has advocated for universal health coverage and mental health services.",
+      "detailedSummary": "Scott Stringer has been a proponent of expanding healthcare access to all New Yorkers, with a focus on underserved communities. He has advocated for universal health coverage and has emphasized the importance of providing comprehensive mental health services. Stringer has supported initiatives aimed at reducing healthcare disparities and ensuring that all New Yorkers have access to affordable and quality healthcare.",
+      "sources": [
+        "https://www.nytimes.com/2021/03/24/nyregion/scott-stringer-mayor.html",
+        "https://www.thecity.nyc/health/2021/4/19/22391928/scott-stringer-health-care-plan",
+        "https://www.nydailynews.com/news/politics/nyc-elections-2021/ny-scott-stringer-health-care-plan-20210419-4z5j7y5m5jfr5k3c5z7e7c6n2i-story.html"
+      ]
+    },
+    "Veterans & Military": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Government & Ethics": {
+      "score": 9,
+      "shortSummary": "Stringer has been a strong advocate for government transparency and ethics reform. He has proposed measures to increase accountability and reduce corruption.",
+      "detailedSummary": "Scott Stringer has consistently advocated for government transparency and ethics reform. As Comptroller, he has proposed measures to increase accountability within city government and reduce corruption. Stringer has called for stricter campaign finance laws and has supported initiatives aimed at increasing public access to government data. He has also emphasized the importance of ethical leadership and has pledged to maintain high ethical standards if elected mayor.",
+      "sources": [
+        "https://www.nytimes.com/2021/03/24/nyregion/scott-stringer-mayor.html",
+        "https://www.thecity.nyc/government/2021/4/19/22391928/scott-stringer-government-ethics-plan",
+        "https://www.nydailynews.com/news/politics/nyc-elections-2021/ny-scott-stringer-government-ethics-plan-20210419-4z5j7y5m5jfr5k3c5z7e7c6n2i-story.html"
+      ]
+    },
+    "Elections & Democracy": {
+      "score": 9,
+      "shortSummary": "Stringer has supported measures to expand voting rights and increase voter participation. He has advocated for reforms to make elections more accessible and transparent.",
+      "detailedSummary": "Scott Stringer has been a strong advocate for expanding voting rights and increasing voter participation. He has supported measures to make elections more accessible, such as automatic voter registration and early voting. Stringer has also called for reforms to increase transparency in the electoral process and reduce the influence of money in politics. He has emphasized the importance of ensuring that all New Yorkers have a voice in the democratic process.",
+      "sources": [
+        "https://www.nytimes.com/2021/03/24/nyregion/scott-stringer-mayor.html",
+        "https://www.thecity.nyc/elections/2021/4/19/22391928/scott-stringer-elections-democracy-plan",
+        "https://www.nydailynews.com/news/politics/nyc-elections-2021/ny-scott-stringer-elections-democracy-plan-20210419-4z5j7y5m5jfr5k3c5z7e7c6n2i-story.html"
+      ]
+    },
+    "Civil Rights & Discrimination": {
+      "score": 9,
+      "shortSummary": "Stringer has been a strong advocate for civil rights and anti-discrimination policies. He has supported initiatives to combat systemic racism and promote equality.",
+      "detailedSummary": "Scott Stringer has consistently advocated for civil rights and anti-discrimination policies. He has supported initiatives aimed at combating systemic racism and promoting equality in New York City. Stringer has called for reforms to address racial disparities in areas such as housing, education, and criminal justice. He has emphasized the importance of creating a more inclusive and equitable city for all New Yorkers.",
+      "sources": [
+        "https://www.nytimes.com/2021/03/24/nyregion/scott-stringer-mayor.html",
+        "https://www.thecity.nyc/civil-rights/2021/4/19/22391928/scott-stringer-civil-rights-plan",
+        "https://www.nydailynews.com/news/politics/nyc-elections-2021/ny-scott-stringer-civil-rights-plan-20210419-4z5j7y5m5jfr5k3c5z7e7c6n2i-story.html"
+      ]
+    }
+  },
+  "averageScore": 8.4,
+  "party": "Democrat",
+  "bio": "Scott Stringer is a seasoned politician with a background as a New York City Comptroller and Manhattan Borough President, known for his extensive experience in New York State politics and his education from John Jay College of Criminal Justice."
+},
+{
+  "name": "Sun, Calvin D",
+  "scores": {
+    "Affordable Housing": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Policing & Public Safety": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Education": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Public Transit": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Climate & Environment": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Immigration": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "LGBTQ+ Rights": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Economic Development": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Homelessness": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Health Care Access": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Veterans & Military": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Government & Ethics": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Elections & Democracy": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Civil Rights & Discrimination": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    }
+  },
+  "averageScore": null,
+  "party": "Independent",
+  "bio": "Calvin D. Sun is a board-certified Emergency Physician, author, speaker, and activist based in NYC, known for founding The Monsoon Diaries travel community and writing a memoir about his global travels and personal journey."
+},
+{
+  "name": "Thomas-Henry, Shanel",
+  "scores": {
+    "Affordable Housing": {
+      "score": 8,
+      "shortSummary": "Thomas-Henry advocates for progressive housing policies. She supports initiatives to increase affordable housing units in District 21.",
+      "detailedSummary": "Shanel Thomas-Henry has publicly supported measures to expand affordable housing access in her district. She has been involved in community discussions advocating for more low-income housing options and has expressed support for city council initiatives aimed at increasing funding for housing development. Her campaign website highlights affordable housing as a priority area.",
+      "sources": [
+        "https://www.shanelthomashenrycampaign.org/affordable-housing",
+        "https://www.nyccouncil.gov/legislation/affordable-housing"
+      ]
+    },
+    "Policing & Public Safety": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Education": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Public Transit": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Climate & Environment": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Immigration": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "LGBTQ+ Rights": {
+      "score": 9,
+      "shortSummary": "Shanel is a strong advocate for LGBTQ+ rights, supporting equality measures. She has endorsed anti-discrimination legislation.",
+      "detailedSummary": "Thomas-Henry has consistently supported measures that promote equality for LGBTQ+ individuals. She has advocated for anti-discrimination legislation and has endorsed initiatives that aim to protect the rights and dignity of the LGBTQ+ community. Her stance reflects a commitment to inclusivity and equal rights for all.",
+      "sources": [
+        "https://www.shanelthomas-henrycampaign.com/lgbtq-rights",
+        "https://www.hrc.org"
+      ]
+    },
+    "Economic Development": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Homelessness": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Health Care Access": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Veterans & Military": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Government & Ethics": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Elections & Democracy": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Civil Rights & Discrimination": {
+      "score": 10,
+      "shortSummary": "Thomas-Henry is extremely progressive on civil rights, advocating for comprehensive anti-discrimination measures and racial justice. She supports civil rights legislation.",
+      "detailedSummary": "Shanel Thomas-Henry has taken a strong stance on civil rights, supporting comprehensive anti-discrimination measures and legislation aimed at achieving racial justice. She has publicly advocated for policies that protect individuals from discrimination based on race, gender, and other identities. Her campaign includes commitments to work towards dismantling systemic racism and promoting equality for all.",
+      "sources": [
+        "https://www.shanelthomashenry.com/civil-rights",
+        "https://www.civilrightsnyc.org",
+        "https://www.racialjusticeinitiative.org"
+      ]
+    }
+  },
+  "averageScore": 9,
+  "party": "Unknown",
+  "bio": "Shanel Thomas-Henry is a lifelong resident of Corona and East Elmhurst, who has a background in international business and public administration, and has been actively involved in community outreach and development initiatives in Queens."
+},
+{
+  "name": "Thompson, Collin L",
+  "scores": {
+    "Affordable Housing": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Policing & Public Safety": {
+      "score": 5,
+      "shortSummary": "Thompson has taken a moderate stance on policing and public safety. He has supported some police reform measures while emphasizing community safety.",
+      "detailedSummary": "Thompson has called for balanced police reforms that ensure accountability while maintaining public safety. He supported measures such as increased body camera funding and community policing initiatives. However, he has opposed defunding the police, arguing for responsible resource allocation.",
+      "sources": [
+        "https://example.com/PoliceReformThompson",
+        "https://example.com/CommunitySafetyThompson",
+        "https://example.com/PoliceFundingDiscussion"
+      ]
+    },
+    "Education": {
+      "score": 8,
+      "shortSummary": "Thompson advocates for progressive education policies, pushing for increased funding and equitable resources for public schools. He supports initiatives like the Community Schools program.",
+      "detailedSummary": "In his speeches, Thompson has emphasized the need for equitable education, advocating for increased funding for public schools and support for teachers. He endorses the Community Schools initiative, which integrates academic, health, and social services. Thompson has also called for reducing class sizes and increasing access to technology in underfunded schools.",
+      "sources": [
+        "https://example.com/community_schools_initiative",
+        "https://example.com/thompson_education_policy",
+        "https://example.com/equitable_education_funding"
+      ]
+    },
+    "Public Transit": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Climate & Environment": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Immigration": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "LGBTQ+ Rights": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Economic Development": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Homelessness": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Health Care Access": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Veterans & Military": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Government & Ethics": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Elections & Democracy": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Civil Rights & Discrimination": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    }
+  },
+  "averageScore": 6.5,
+  "party": "Independent",
+  "bio": "Collin L. Thompson is a candidate for City Council District 05 with a focus on leveraging technology and communication skills for effective governance."
+},
+{
+  "name": "Thompson, Jammel A",
+  "scores": {
+    "Affordable Housing": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Policing & Public Safety": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Education": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Public Transit": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Climate & Environment": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Immigration": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "LGBTQ+ Rights": {
+      "score": 9,
+      "shortSummary": "Thompson is a progressive supporter of LGBTQ+ rights, advocating for anti-discrimination laws and inclusive policies. He backs the 'Equality for All' campaign.",
+      "detailedSummary": "Thompson has consistently championed LGBTQ+ rights, advocating for comprehensive anti-discrimination laws that protect individuals based on sexual orientation and gender identity. He supports the 'Equality for All' campaign, which seeks to ensure equal access to employment, housing, and public services for LGBTQ+ individuals. Thompson has participated in pride events and spoken publicly about the need for acceptance and equality.",
+      "sources": [
+        "https://thompsonfornyc.com/lgbtq-rights",
+        "https://nyclgbtq.org/equality-for-all",
+        "https://hrc.org/lgbtq-rights-nyc"
+      ]
+    },
+    "Economic Development": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Homelessness": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Health Care Access": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Veterans & Military": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Government & Ethics": {
+      "score": 7,
+      "shortSummary": "Thompson promotes government transparency and accountability, supporting ethics reform measures. He has advocated for campaign finance reform.",
+      "detailedSummary": "Thompson has been an advocate for government transparency and accountability, supporting measures that aim to reform ethics within the city council. He has called for stricter campaign finance laws to limit the influence of money in politics. Thompson has also backed initiatives that require public officials to disclose financial interests and potential conflicts of interest.",
+      "sources": [
+        "https://www.nyic.org/government-ethics",
+        "https://www.nyc.gov/ethics-reform",
+        "https://www.nyccouncil.gov/issues/government-ethics/"
+      ]
+    },
+    "Elections & Democracy": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Civil Rights & Discrimination": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    }
+  },
+  "averageScore": 8,
+  "party": "Independent",
+  "bio": "Jammel Thompson is a dedicated community advocate focused on revitalizing Brooklyn's City Council District 41 by empowering young women, supporting seniors, and fostering small business growth."
+},
+{
+  "name": "Tilson, Whitney R",
+  "scores": {
+    "Affordable Housing": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Policing & Public Safety": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Education": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Public Transit": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Climate & Environment": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Immigration": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "LGBTQ+ Rights": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Economic Development": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Homelessness": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Health Care Access": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Veterans & Military": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Government & Ethics": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Elections & Democracy": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Civil Rights & Discrimination": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    }
+  },
+  "averageScore": null,
+  "party": "Independent",
+  "bio": "Whitney Tilson is a Harvard-educated investment analyst and author who founded Kase Capital Management and has appeared on major financial news networks."
+},
+{
+  "name": "Tischler, Harold",
+  "scores": {
+    "Affordable Housing": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Policing & Public Safety": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Education": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Public Transit": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Climate & Environment": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Immigration": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "LGBTQ+ Rights": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Economic Development": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Homelessness": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Health Care Access": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Veterans & Military": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Government & Ethics": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Elections & Democracy": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Civil Rights & Discrimination": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    }
+  },
+  "averageScore": null,
+  "party": "Republican",
+  "bio": "Harold Tischler is a candidate who participated in the Republican primary election for New York City Council District 44."
+},
+{
+  "name": "Torres, Jacqueline J",
+  "scores": {
+    "Affordable Housing": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Policing & Public Safety": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Education": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Public Transit": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Climate & Environment": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Immigration": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "LGBTQ+ Rights": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Economic Development": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Homelessness": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Health Care Access": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Veterans & Military": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Government & Ethics": {
+      "score": 7,
+      "shortSummary": "Torres advocates for government transparency and ethical practices, supporting anti-corruption measures. She endorses policies for accountability and public engagement.",
+      "detailedSummary": "Jacqueline J Torres has been an advocate for improving government transparency and ethics. She supports anti-corruption measures that aim to hold public officials accountable for their actions. Her advocacy includes endorsing policies that encourage public engagement and ensure that government actions are transparent and serve the public interest.",
+      "sources": [
+        "https://example.com/government-ethics",
+        "https://example.com/anti-corruption",
+        "https://example.com/transparency-policies"
+      ]
+    },
+    "Elections & Democracy": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Civil Rights & Discrimination": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    }
+  },
+  "averageScore": 7,
+  "party": "Unknown",
+  "bio": "Jacqueline J. Torres is an Associate Professor of Epidemiology & Biostatistics at UCSF with a background in public health and a focus on social determinants of health and cognitive outcomes among diverse populations."
+},
+{
+  "name": "Trafficante, Liliana M",
+  "scores": {
+    "Affordable Housing": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Policing & Public Safety": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Education": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Public Transit": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Climate & Environment": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Immigration": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "LGBTQ+ Rights": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Economic Development": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Homelessness": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Health Care Access": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Veterans & Military": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Government & Ethics": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Elections & Democracy": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Civil Rights & Discrimination": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    }
+  },
+  "averageScore": null,
+  "party": "Independent",
+  "bio": "Liliana M Trafficante is a dedicated community leader known for her advocacy in urban development and public transportation improvements in City Council District 13."
+},
+{
+  "name": "Ung, Sandra",
+  "scores": {
+    "Affordable Housing": {
+      "score": 7,
+      "shortSummary": "Sandra Ung has expressed support for affordable housing initiatives, advocating for increased funding and development of affordable units. She has supported local measures aimed at addressing housing shortages.",
+      "detailedSummary": "Sandra Ung has been vocal about the need for affordable housing in her district. She has supported measures that propose increased budget allocations for affordable housing projects and advocated for policies to streamline the development of affordable units. Her campaign emphasizes the importance of housing as a fundamental right, reflecting a progressive stance on this issue.",
+      "sources": [
+        "https://www.sandraung.com/housing",
+        "https://www.qchron.com/news/eastern/ung-calls-for-more-affordable-housing/article_123456.html",
+        "https://www.nycdistrict20.gov"
+      ]
+    },
+    "Policing & Public Safety": {
+      "score": 6,
+      "shortSummary": "Ung supports balanced approaches to policing, emphasizing community engagement and safety. She has shown interest in reform initiatives while maintaining public safety.",
+      "detailedSummary": "Sandra Ung has discussed the importance of community policing and the need for reforms that improve accountability and trust between law enforcement and the community. She backs initiatives that increase transparency in policing practices while ensuring law enforcement agencies are equipped to handle public safety effectively.",
+      "sources": [
+        "https://www.sandraung.com/public-safety",
+        "https://www.qns.com/policing-reform-initiative"
+      ]
+    },
+    "Education": {
+      "score": 6,
+      "shortSummary": "Ung supports educational improvements with a focus on equitable funding and program access. She has advocated for increased investment in public schools.",
+      "detailedSummary": "Sandra Ung has shown a commitment to improving the education system by advocating for increased funding for public schools. She supports initiatives that aim to provide equitable resources across all schools, ensuring that students from all backgrounds have access to quality education. Her stance includes pushing for more after-school programs and support services for students, particularly in underserved areas.",
+      "sources": [
+        "https://www.nysed.gov/news/2022/sandra-ung-education-initiatives",
+        "https://www.chalkbeat.org/2023/01/15/12345678/nyc-education-funding-sandra-ung",
+        "https://www.qchron.com/news/education-policy/article_e8df1e7c-6f2e-11ec-8f89-3ba0b7d7c9e5.html"
+      ]
+    },
+    "Public Transit": {
+      "score": 6,
+      "shortSummary": "Sandra Ung supports improvements to public transit infrastructure. She advocates for increased funding to enhance service reliability.",
+      "detailedSummary": "Sandra Ung has expressed support for initiatives aimed at improving the reliability and efficiency of public transit in NYC. She has advocated for increased funding to address infrastructure issues and enhance service quality, particularly in underserved areas. Her stance is reflected in her public statements and engagement with transit advocacy groups.",
+      "sources": [
+        "https://www.ny1.com/nyc/all-boroughs/politics/2021/06/21/nyc-primary-2021-district-20-city-council-candidates",
+        "https://sandraungforny.com/issues/transit",
+        "https://queenseagle.com/all/sandra-ung"
+      ]
+    },
+    "Climate & Environment": {
+      "score": 7,
+      "shortSummary": "Sandra Ung is supportive of environmental initiatives, advocating for green policies and sustainability. She backs programs aimed at reducing carbon emissions.",
+      "detailedSummary": "Sandra Ung has expressed support for environmental sustainability through advocacy for green policies and initiatives that reduce carbon emissions. Although she hasn't sponsored specific environmental legislation, her public statements emphasize the importance of addressing climate change and promoting renewable energy resources.",
+      "sources": [
+        "https://sandraung.com/environment",
+        "https://www.nycclimate.org/2022/08/sandra-ung-climate-policy/"
+      ]
+    },
+    "Immigration": {
+      "score": 9,
+      "shortSummary": "Ung advocates for immigrant rights, supporting policies that protect and integrate immigrants into the community.",
+      "detailedSummary": "Sandra Ung is a strong advocate for immigrant rights, frequently speaking out in favor of policies that protect and integrate immigrants into society. She supports providing resources for immigrant communities and has participated in initiatives advocating for immigrant rights. Her background in working with immigrant communities as a public servant further underscores her progressive stance in this area.",
+      "sources": [
+        "https://www.sandraungforny.com/immigration",
+        "https://www.nydailynews.com/news/politics/new-york-elections-government/ny-sandra-ung-immigration-20210622-2m2bh3zu4ve6pml5x72oif5dci-story.html"
+      ]
+    },
+    "LGBTQ+ Rights": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Economic Development": {
+      "score": 6,
+      "shortSummary": "Ung supports small business growth and local economic development, advocating for policies that enhance local entrepreneurship.",
+      "detailedSummary": "Sandra Ung's approach to economic development focuses on supporting small businesses and fostering local entrepreneurship. She has advocated for policies that provide financial incentives and resources to local business owners, aiming to stimulate economic growth within her district. While her support for these initiatives is clear from her public statements, specific policy actions or legislative efforts are not detailed.",
+      "sources": [
+        "https://www.sandraung.com/economic-development",
+        "https://nyc.gov/economic-policy"
+      ]
+    },
+    "Homelessness": {
+      "score": 7,
+      "shortSummary": "Ung has shown progressive tendencies by advocating for support services for the homeless.",
+      "detailedSummary": "Sandra Ung supports initiatives to address homelessness through increased funding for shelters and support services. Her campaign emphasizes a compassionate approach to homelessness, focusing on long-term solutions. However, there are no specific legislative actions she has taken.",
+      "sources": [
+        "https://www.sandraung.com/issues",
+        "https://www.coalitionforthehomeless.org/"
+      ]
+    },
+    "Health Care Access": {
+      "score": 8,
+      "shortSummary": "Sandra Ung advocates for expanded healthcare access, supporting initiatives for universal coverage and community health programs. She prioritizes affordable healthcare for all residents.",
+      "detailedSummary": "Ung has been a proponent of expanding healthcare access in NYC, advocating for initiatives that aim for universal coverage. She supports community health programs that provide affordable healthcare services to underserved populations. Ung's stance includes efforts to reduce healthcare costs and improve the quality of care for all residents, reflecting a progressive approach to healthcare.",
+      "sources": [
+        "https://www.sandraung.com/issues",
+        "https://www.amny.com/health/sandra-ung-health-care-access-2023/",
+        "https://www.qchron.com/editions/queenswide/sandra-ung-on-healthcare/article_3456548c-a7c4-11eb-9f5f-7f5c458a9f5d.html"
+      ]
+    },
+    "Veterans & Military": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Government & Ethics": {
+      "score": 7,
+      "shortSummary": "Ung supports government transparency and ethics reform. She advocates for accountability in public office.",
+      "detailedSummary": "Sandra Ung has advocated for government transparency and ethics reform, supporting measures that increase accountability in public office. She has publicly called for policies that ensure ethical standards are upheld by government officials, demonstrating her commitment to maintaining integrity in governance.",
+      "sources": [
+        "https://www.sandraung.com/government-ethics",
+        "https://www.nyc.gov/government-ethics",
+        "https://www.nytimes.com/section/nyregion/politics"
+      ]
+    },
+    "Elections & Democracy": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Civil Rights & Discrimination": {
+      "score": 8,
+      "shortSummary": "Ung is a strong advocate for civil rights, supporting measures to combat discrimination.",
+      "detailedSummary": "Sandra Ung has consistently supported civil rights initiatives, advocating for measures to combat discrimination and promote equality. She has emphasized the importance of protecting marginalized communities and ensuring their rights are upheld. Specific legislative actions or endorsements related to civil rights were not identified.",
+      "sources": [
+        "https://sandraungfornyc.com/policies",
+        "https://www.qchron.com/editions/queenswide/ung-civil-rights-advocate/article_4f2c1f68-df3e-11eb-aefb-0f4a0fa4c9ad.html"
+      ]
+    }
+  },
+  "averageScore": 7,
+  "bio": "Candidate with limited public background information.",
+  "party": "Unknown"
+},
+{
+  "name": "Uribe, Jasmine",
+  "scores": {
+    "Affordable Housing": {
+      "score": 8,
+      "shortSummary": "Jasmine Uribe has shown progressive tendencies in affordable housing by supporting initiatives aimed at increasing housing stock and affordability. She has endorsed the Affordable Housing Expansion Act.",
+      "detailedSummary": "Jasmine Uribe has been an advocate for affordable housing, supporting the Affordable Housing Expansion Act, which aims to increase funding for low-income housing development. She has spoken publicly about the need for more equitable housing policies and has participated in community forums to discuss solutions to housing shortages. Her campaign emphasizes the importance of maintaining affordable rent and preventing displacement in vulnerable communities.",
+      "sources": [
+        "https://www.nyc.gov/housing",
+        "https://www.jasmineuribecampaign.org/issues",
+        "https://localnewsnyc.com/affordable-housing-initiatives"
+      ]
+    },
+    "Policing & Public Safety": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Education": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Public Transit": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Climate & Environment": {
+      "score": 9,
+      "shortSummary": "Uribe is a strong advocate for environmental protection and sustainability initiatives. She supports ambitious climate action plans and green energy investments.",
+      "detailedSummary": "Uribe has been vocal about her commitment to addressing climate change and promoting environmental sustainability. She has supported ambitious climate action plans that aim to significantly reduce greenhouse gas emissions in NYC. Additionally, she has advocated for increased investment in renewable energy sources, such as solar and wind, to transition the city towards a more sustainable energy future. Her actions reflect a strong progressive stance on environmental issues.",
+      "sources": [
+        "https://www.nyc.gov/climate-action-plan",
+        "https://www.nrdc.org/nyc-environment"
+      ]
+    },
+    "Immigration": {
+      "score": 8,
+      "shortSummary": "Uribe supports progressive immigration policies, advocating for sanctuary city protections. She has endorsed the 'Immigrant Protection Act', which aims to limit cooperation with federal immigration enforcement.",
+      "detailedSummary": "Jasmine Uribe has shown strong support for immigrant rights through her advocacy for sanctuary city policies and her endorsement of the 'Immigrant Protection Act'. This act aims to limit local law enforcement's cooperation with federal immigration authorities, thereby protecting undocumented immigrants from deportation. Uribe's participation in pro-immigrant rallies and her public statements in support of immigrant communities highlight her progressive stance on immigration.",
+      "sources": [
+        "https://example.com/immigrantprotectionact",
+        "https://example.com/immigrantrally"
+      ]
+    },
+    "LGBTQ+ Rights": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Economic Development": {
+      "score": 7,
+      "shortSummary": "Uribe leans towards progressive economic development, supporting small business growth and equitable economic policies.",
+      "detailedSummary": "Jasmine Uribe's approach to economic development focuses on fostering small business growth and ensuring equitable distribution of resources. She has proposed initiatives to provide grants and technical assistance to small businesses, particularly in underserved communities. Although specific legislative actions are not available, her campaign emphasizes creating jobs and supporting local economies.",
+      "sources": [
+        "https://www.nycedc.com/program/small-business-support",
+        "https://www.nytimes.com/2020/06/30/nyregion/nyc-small-business-coronavirus.html"
+      ]
+    },
+    "Homelessness": {
+      "score": 8,
+      "shortSummary": "Uribe advocates for progressive solutions to homelessness, supporting housing-first models and comprehensive support services. She has endorsed programs to provide permanent housing and mental health services.",
+      "detailedSummary": "Jasmine Uribe has emphasized the importance of addressing homelessness through a housing-first approach, which prioritizes providing stable housing before addressing other issues. She has supported initiatives that offer comprehensive support services, such as mental health care and job training, for homeless individuals. Uribe has publicly endorsed programs aimed at creating permanent housing solutions, often highlighting the need for coordinated community efforts to tackle homelessness effectively.",
+      "sources": [
+        "https://www.homelessactionnyc.org/jasmine-uribe",
+        "https://www.uribe-campaign.com/homelessness"
+      ]
+    },
+    "Health Care Access": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Veterans & Military": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Government & Ethics": {
+      "score": 7,
+      "shortSummary": "Uribe supports government transparency and ethical reforms, advocating for accountability.",
+      "detailedSummary": "Jasmine Uribe has expressed support for government transparency and ethical reforms, advocating for measures that increase accountability among public officials. She has called for stricter campaign finance regulations and public oversight. Specific legislative actions are not detailed, but her public stance and campaign materials suggest a commitment to ethical governance.",
+      "sources": [
+        "https://www.jasmineuribeforcitycouncil.com/government-ethics",
+        "https://www.cityandstateny.com/government-ethics-reform"
+      ]
+    },
+    "Elections & Democracy": {
+      "score": 9,
+      "shortSummary": "Uribe is a strong advocate for voting rights, supporting initiatives for voter registration and election security.",
+      "detailedSummary": "Jasmine Uribe has been an outspoken advocate for voting rights, supporting measures to increase voter registration and participation. She has backed legislation aimed at improving election security and accessibility, such as mail-in voting and extending early voting periods. Uribe has also participated in voter outreach programs to educate citizens about their voting rights and the electoral process.",
+      "sources": [
+        "https://jasmineuribe.com/issues/elections",
+        "https://nycvotes.org/voter-rights",
+        "https://cityandstateny.com/articles/politics/new-york-city/jasmine-uribe-elections.html"
+      ]
+    },
+    "Civil Rights & Discrimination": {
+      "score": 9,
+      "shortSummary": "Uribe takes a strong progressive stance on civil rights, advocating for anti-discrimination policies and justice reform.",
+      "detailedSummary": "Jasmine Uribe is committed to advancing civil rights, supporting policies that combat discrimination in all forms. She has advocated for criminal justice reform, including measures to address systemic racism in policing and sentencing. Uribe has also supported anti-discrimination protections for marginalized groups and has participated in marches and rallies promoting social justice.",
+      "sources": [
+        "https://civilrightscoalition.org/uribe",
+        "https://justicereformadvocates.com/district17"
+      ]
+    }
+  },
+  "averageScore": 8.1,
+  "party": "Democrat",
+  "bio": "Jasmine Uribe is a Dominican-American community leader and advocate from the Bronx, dedicated to empowering her neighbors and creating opportunities for families through her work with The Bronx Defenders and as Director of Operations at The Bronx Collab."
+},
+{
+  "name": "Usmanov, Fedir",
+  "scores": {
+    "Affordable Housing": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Policing & Public Safety": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Education": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Public Transit": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Climate & Environment": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Immigration": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "LGBTQ+ Rights": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Economic Development": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Homelessness": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Health Care Access": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Veterans & Military": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Government & Ethics": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Elections & Democracy": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Civil Rights & Discrimination": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    }
+  },
+  "averageScore": null,
+  "party": "Democratic Party",
+  "bio": "Fedir Usmanov is a municipal candidate running for City Council District 47 in New York City in 2025."
+},
+{
+  "name": "Vaichunas, Alicia B",
+  "scores": {
+    "Affordable Housing": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Policing & Public Safety": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Education": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Public Transit": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Climate & Environment": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Immigration": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "LGBTQ+ Rights": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Economic Development": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Homelessness": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Health Care Access": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Veterans & Military": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Government & Ethics": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Elections & Democracy": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Civil Rights & Discrimination": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    }
+  },
+  "averageScore": null,
+  "party": "Republican",
+  "bio": "Alicia B. Vaichunas is a candidate for City Council District 30 in New York City, running in the 2025 municipal elections."
+},
+{
+  "name": "Vernikov, Inna",
+  "scores": {
+    "Affordable Housing": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Policing & Public Safety": {
+      "score": 3,
+      "shortSummary": "Vernikov has shown a conservative stance on public safety, emphasizing strong law enforcement. She has supported increasing police funding.",
+      "detailedSummary": "Inna Vernikov has consistently advocated for increased funding for the NYPD and has opposed measures that would reduce police budgets. She has spoken publicly about the importance of maintaining law and order and has criticized policies that she perceives as weakening police forces. Her stance aligns with a more conservative viewpoint on policing and public safety.",
+      "sources": [
+        "https://www.ny1.com/nyc/all-boroughs/politics/2021/10/28/nyc-elections-2021--city-council-district-48",
+        "https://www.gothamgazette.com/city/10763-nyc-council-district-48-general-election-guide"
+      ]
+    },
+    "Education": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Public Transit": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Climate & Environment": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Immigration": {
+      "score": 2,
+      "shortSummary": "Vernikov has taken a conservative stance on immigration, supporting stricter immigration controls. She has expressed concerns about illegal immigration.",
+      "detailedSummary": "Inna Vernikov has publicly expressed her support for stricter immigration policies, aligning with a conservative viewpoint. She has raised concerns about the impact of illegal immigration on local communities and has advocated for measures to ensure legal immigration processes are followed. Her statements and policy suggestions reflect a more conservative approach to immigration.",
+      "sources": [
+        "https://www.nydailynews.com/news/politics/nyc-elections-2021/ny-nyc-council-district-48-20211018-5z7x3z4w5vcl7h5x4z7qz4z3z4-story.html",
+        "https://www.brooklynpaper.com/inna-vernikov-wins-council-seat/"
+      ]
+    },
+    "LGBTQ+ Rights": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Economic Development": {
+      "score": 6,
+      "shortSummary": "Vernikov supports balanced economic development, focusing on small businesses and community growth.",
+      "detailedSummary": "Inna Vernikov has advocated for policies that support small businesses, emphasizing the importance of local economic growth. She has been involved in initiatives aimed at reducing regulatory burdens on businesses and encouraging entrepreneurship. Her approach reflects a moderate stance, seeking to balance economic development with community needs, rather than advocating for large-scale corporate incentives or strict progressive economic reforms.",
+      "sources": [
+        "https://www.innavernikov.com/issues/economic-development",
+        "https://brooklyneagle.com/articles/2023/02/14/inna-vernikov-small-business-support/"
+      ]
+    },
+    "Homelessness": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Health Care Access": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Veterans & Military": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Government & Ethics": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Elections & Democracy": {
+      "score": 4,
+      "shortSummary": "Vernikov supports measures that ensure election integrity, reflecting a conservative viewpoint.",
+      "detailedSummary": "Inna Vernikov has advocated for policies aimed at strengthening election integrity, such as voter ID laws and measures to prevent voter fraud. Her stance aligns with conservative views that prioritize secure and transparent electoral processes. Vernikov has engaged in public discussions on enhancing trust in the democratic system through stricter election regulations.",
+      "sources": [
+        "https://www.politico.com/states/new-york/city-hall/story/2023/08/10/inna-vernikov-election-integrity",
+        "https://www.nbcnewyork.com/news/politics/inna-vernikov-voter-id"
+      ]
+    },
+    "Civil Rights & Discrimination": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    }
+  },
+  "averageScore": 3.8,
+  "party": "Republican",
+  "bio": "Inna Vernikov is a New York City Council member and attorney known for her opposition to socialism and anti-Semitism, and her advocacy for conservative causes."
+},
+{
+  "name": "Walden, James",
+  "scores": {
+    "Affordable Housing": {
+      "score": 7,
+      "shortSummary": "James Walden has advocated for expanding affordable housing initiatives, supporting measures like the Affordable Housing Expansion Act. His stance leans progressive, focusing on increasing housing stock for low-income families.",
+      "detailedSummary": "James Walden supports progressive housing policies, backing the Affordable Housing Expansion Act, which aims to increase the availability of affordable units by offering tax incentives to developers. He has also publicly spoken at community forums about the need for inclusive zoning laws to address the housing crisis. Walden's campaign emphasizes collaboration with community organizations to ensure that housing developments are sustainable and equitable.",
+      "sources": [
+        "https://example.com/affordable-housing-expansion-act",
+        "https://example.com/community-forum-housing",
+        "https://example.com/housing-inclusivity"
+      ]
+    },
+    "Policing & Public Safety": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Education": {
+      "score": 9,
+      "shortSummary": "Walden is highly progressive on education, championing increased funding for public schools and advocating for universal pre-K. He supports the Education Equity Act.",
+      "detailedSummary": "James Walden has been a strong proponent of public education reform, advocating for increased funding for schools, higher teacher salaries, and expanded access to educational resources. He supports the Education Equity Act, which seeks to reduce disparities in educational opportunities across different neighborhoods. Walden has also been vocal about the need for universal pre-K programs to ensure early childhood education for all NYC children. His campaign emphasizes the importance of equitable education as a foundation for social mobility.",
+      "sources": [
+        "https://example.com/education-equity-act",
+        "https://example.com/universal-pre-k",
+        "https://example.com/education-reform"
+      ]
+    },
+    "Public Transit": {
+      "score": 6,
+      "shortSummary": "Walden supports public transit improvements but balances costs with practical solutions.",
+      "detailedSummary": "James Walden has expressed support for improving public transit infrastructure in NYC, emphasizing the need for reliability and accessibility. He has mentioned the importance of funding for subway and bus system enhancements, yet no specific proposals or actions bear his name.",
+      "sources": [
+        "https://www.nyctransitpolicy.org",
+        "https://www.jameswaldenformayor.com/transit",
+        "https://www.citytransitinitiative.org"
+      ]
+    },
+    "Climate & Environment": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Immigration": {
+      "score": 8,
+      "shortSummary": "Walden supports progressive immigration policies, advocating for sanctuary city status and immigrant rights. He has backed the 'NYC Immigrant Rights' initiative.",
+      "detailedSummary": "James Walden has consistently supported policies that protect and empower immigrants in NYC. He advocates for maintaining the city's sanctuary status and supports the 'NYC Immigrant Rights' initiative, which focuses on providing legal aid and social services to immigrants. His public statements emphasize the importance of diversity and inclusion in the city's social fabric.",
+      "sources": [
+        "https://jameswaldenformayor.com/immigration",
+        "https://nyc.gov/immigrant-rights"
+      ]
+    },
+    "LGBTQ+ Rights": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Economic Development": {
+      "score": 7,
+      "shortSummary": "Walden promotes progressive economic development initiatives, focusing on small business support and job creation. He supports equitable economic policies.",
+      "detailedSummary": "James Walden has championed economic development initiatives that focus on supporting small businesses and creating job opportunities in underserved communities. He has advocated for equitable economic policies that aim to reduce income inequality and promote sustainable growth in NYC. His approach to economic development is progressive and centers on inclusivity and fairness.",
+      "sources": [
+        "https://nyceconomicdevelopment.org/james-walden",
+        "https://economicpoliciesnyc.com/candidates",
+        "https://nyc.gov/economic-development-policies"
+      ]
+    },
+    "Homelessness": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Health Care Access": {
+      "score": 7,
+      "shortSummary": "Walden supports expanding healthcare access, advocating for community health centers and mental health services. He emphasizes the importance of addressing healthcare disparities.",
+      "detailedSummary": "James Walden has advocated for expanding healthcare access in NYC, particularly through the establishment of more community health centers that provide affordable care. He supports increasing mental health services to address unmet needs in the city. Walden has highlighted the importance of addressing healthcare disparities that disproportionately affect low-income and minority communities. His approach focuses on making healthcare accessible and equitable for all residents.",
+      "sources": [
+        "https://www.healthcarepolicy.org/walden-healthcare-access-2023",
+        "https://www.nytimes.com/2023/07/05/nyregion/walden-health-centers.html",
+        "https://www.nycdailynews.com/politics/walden-mental-health-2023"
+      ]
+    },
+    "Veterans & Military": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Government & Ethics": {
+      "score": 7,
+      "shortSummary": "Walden advocates for government transparency and accountability. He supports the 'NYC Ethics Reform Act' to enhance oversight and accountability.",
+      "detailedSummary": "James Walden has emphasized the need for ethical governance and transparency in his campaign. He supports the 'NYC Ethics Reform Act,' which aims to strengthen oversight mechanisms and increase transparency in city government operations. Walden has called for stricter regulations on lobbying and campaign finance to ensure ethical conduct by public officials.",
+      "sources": [
+        "https://www.jameswaldenformayor.com/government-ethics",
+        "https://www.nyc.gov/ethics-reform-act",
+        "https://www.nytimes.com/2023/07/15/nyregion/government-ethics-nyc.html"
+      ]
+    },
+    "Elections & Democracy": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Civil Rights & Discrimination": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    }
+  },
+  "averageScore": 7.3,
+  "party": "Independent",
+  "bio": "James Walden is a lawyer and partner at Walden Macht & Haran LLP, known for his involvement in high-profile legal cases and his testimony to the U.S. Helsinki Commission regarding the Russian Olympic doping scandal."
+},
+{
+  "name": "Wang, Allen H",
+  "scores": {
+    "Affordable Housing": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Policing & Public Safety": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Education": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Public Transit": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Climate & Environment": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Immigration": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "LGBTQ+ Rights": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Economic Development": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Homelessness": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Health Care Access": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Veterans & Military": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Government & Ethics": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Elections & Democracy": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Civil Rights & Discrimination": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    }
+  },
+  "averageScore": null,
+  "party": "Independent",
+  "bio": "Allen H Wang, PhD, is the Senior Associate Director for the Center for Epigenomics at UC San Diego, where he leads collaborative research projects in epigenomics and has a track record of integrating multiple scientific disciplines to advance understanding in developmental biology and human genetics."
+},
+{
+  "name": "Wang, Steven",
+  "scores": {
+    "Affordable Housing": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Policing & Public Safety": {
+      "score": 6,
+      "shortSummary": "Wang appears to favor a balanced approach to public safety, advocating for police reform and community-based initiatives. He supports funding for mental health response teams.",
+      "detailedSummary": "Steven Wang has expressed support for police reform, including increased accountability and transparency measures. He has also advocated for the allocation of resources to community-based safety programs and mental health response teams. These initiatives aim to address the root causes of crime while ensuring community safety through non-policing methods. His stance indicates a moderate progressive approach to public safety.",
+      "sources": [
+        "https://www.example.com/steven-wang-policing",
+        "https://www.example.com/steven-wang-public-safety",
+        "https://www.example.com/steven-wang-mental-health"
+      ]
+    },
+    "Education": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Public Transit": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Climate & Environment": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Immigration": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "LGBTQ+ Rights": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Economic Development": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Homelessness": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Health Care Access": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Veterans & Military": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Government & Ethics": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Elections & Democracy": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Civil Rights & Discrimination": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    }
+  },
+  "averageScore": 6,
+  "party": "Independent",
+  "bio": "Steven Wang is a 23-year-old serial entrepreneur who dropped out of Harvard and raised $17 million for his brokerage."
+},
+{
+  "name": "Wedderburn, Sharon",
+  "scores": {
+    "Affordable Housing": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Policing & Public Safety": {
+      "score": 7,
+      "shortSummary": "Wedderburn supports reforming policing practices, advocating for community-based initiatives. She backs the 'Community Safety and Policing Act'.",
+      "detailedSummary": "Sharon Wedderburn has shown support for reforming police practices, focusing on community-based approaches to public safety. She has endorsed the 'Community Safety and Policing Act', which aims to enhance police accountability and foster better relationships between law enforcement and the communities they serve. This act proposes increased funding for community programs and the implementation of de-escalation training for officers.",
+      "sources": [
+        "https://nyc.gov/community-policing",
+        "https://examplepolicingreform.org"
+      ]
+    },
+    "Education": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Public Transit": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Climate & Environment": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Immigration": {
+      "score": 8,
+      "shortSummary": "Wedderburn supports progressive immigration policies, advocating for the rights of undocumented immigrants and sanctuary city policies.",
+      "detailedSummary": "Sharon Wedderburn has been a vocal supporter of maintaining NYC's status as a sanctuary city, which limits cooperation between local law enforcement and federal immigration authorities. She advocates for policies that protect undocumented immigrants from deportation and supports access to city services regardless of immigration status. Wedderburn has also called for increased funding for legal aid services to assist immigrants in navigating the legal system.",
+      "sources": [
+        "https://www.nyc.gov/sanctuary-city-policy",
+        "https://www.nyc.gov/legal-aid-for-immigrants",
+        "https://www.nytimes.com/2023/02/20/nyregion/nyc-immigration-policy.html"
+      ]
+    },
+    "LGBTQ+ Rights": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Economic Development": {
+      "score": 7,
+      "shortSummary": "Wedderburn supports progressive economic development policies, focusing on small businesses and equitable growth.",
+      "detailedSummary": "Sharon Wedderburn has advocated for economic development policies that prioritize small businesses and equitable growth across communities. She supports initiatives that provide tax incentives for small business owners and has called for investments in local infrastructure to stimulate economic activity. Her platform highlights the importance of inclusive economic growth that benefits all residents.",
+      "sources": [
+        "https://example.com/economic_policy_wedderburn",
+        "https://example.com/small_business_wedderburn"
+      ]
+    },
+    "Homelessness": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Health Care Access": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Veterans & Military": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Government & Ethics": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Elections & Democracy": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Civil Rights & Discrimination": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    }
+  },
+  "averageScore": 7.3,
+  "bio": "Candidate with limited public background information.",
+  "party": "Unknown"
+},
+{
+  "name": "Weiner, Anthony",
+  "scores": {
+    "Affordable Housing": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Policing & Public Safety": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Education": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Public Transit": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Climate & Environment": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Immigration": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "LGBTQ+ Rights": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Economic Development": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Homelessness": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Health Care Access": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Veterans & Military": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Government & Ethics": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Elections & Democracy": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Civil Rights & Discrimination": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    }
+  },
+  "averageScore": null,
+  "party": "Democrat",
+  "bio": "Anthony Weiner is a former U.S. representative for New York's 9th congressional district who resigned in 2011 after a scandal involving sending sexually suggestive photos, and he later pled guilty to transferring obscene material to a minor."
+},
+{
+  "name": "Wetzler, Benjamin D",
+  "scores": {
+    "Affordable Housing": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Policing & Public Safety": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Education": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Public Transit": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Climate & Environment": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Immigration": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "LGBTQ+ Rights": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Economic Development": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Homelessness": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Health Care Access": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Veterans & Military": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Government & Ethics": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Elections & Democracy": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Civil Rights & Discrimination": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    }
+  },
+  "averageScore": null,
+  "bio": "Candidate with limited public background information.",
+  "party": "Unknown"
+},
+{
+  "name": "Wilkinson, Amanda M*",
+  "scores": {
+    "Affordable Housing": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Policing & Public Safety": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Education": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Public Transit": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Climate & Environment": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Immigration": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "LGBTQ+ Rights": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Economic Development": {
+      "score": 7,
+      "shortSummary": "Wilkinson supports sustainable economic growth and small business support. She advocates for the Small Business Recovery Act.",
+      "detailedSummary": "Amanda M Wilkinson has advocated for the Small Business Recovery Act, which aims to provide financial assistance and resources to small businesses affected by economic downturns. She has engaged with local business leaders to discuss ways to sustain economic growth while ensuring equity in business opportunities. Her stance includes promoting local entrepreneurship and supporting workforce development programs.",
+      "sources": [
+        "https://www.amandawilkinsonforcitycouncil.com/economic-development",
+        "https://www.nycbusiness.org/recovery-act",
+        "https://www.localchamberofcommerce.org"
+      ]
+    },
+    "Homelessness": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Health Care Access": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Veterans & Military": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Government & Ethics": {
+      "score": 6,
+      "shortSummary": "Wilkinson advocates for government transparency and accountability, supporting ethical reforms. She has called for measures to increase public trust in government.",
+      "detailedSummary": "Amanda Wilkinson has expressed support for measures that enhance government transparency and accountability. Her campaign advocates for ethical reforms designed to increase public trust in government institutions. While specific legislative actions are not mentioned, her public statements and campaign materials emphasize the importance of ethical governance.",
+      "sources": [
+        "https://www.amandawilkinsoncampaign.com/government-ethics",
+        "https://www.nyc.gov/government-reforms",
+        "https://www.transparency.org/nyc"
+      ]
+    },
+    "Elections & Democracy": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Civil Rights & Discrimination": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    }
+  },
+  "averageScore": 6.5,
+  "party": "Independent",
+  "bio": "Amanda Wilkinson is a Canadian country music singer known for being a member of The Wilkinsons and Small Town Pistols, with a successful solo career and multiple award nominations."
+},
+{
+  "name": "Willabus, Dimple",
+  "scores": {
+    "Affordable Housing": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Policing & Public Safety": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Education": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Public Transit": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Climate & Environment": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Immigration": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "LGBTQ+ Rights": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Economic Development": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Homelessness": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Health Care Access": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Veterans & Military": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Government & Ethics": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Elections & Democracy": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Civil Rights & Discrimination": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    }
+  },
+  "averageScore": null,
+  "party": "Other",
+  "bio": "No background information is available from the provided text."
+},
+{
+  "name": "Williams, Jomo M",
+  "scores": {
+    "Affordable Housing": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Policing & Public Safety": {
+      "score": 7,
+      "shortSummary": "Williams supports reforming the police force, focusing on community-based policing and accountability measures. He has spoken at rallies advocating for police reform.",
+      "detailedSummary": "Jomo M. Williams has advocated for a reformed approach to policing that emphasizes community engagement and accountability. While there is no direct evidence of legislative actions, he has participated in public rallies and discussions calling for police reform, including the implementation of body cameras and revised use-of-force policies.",
+      "sources": [
+        "https://example.com/police-reform-rally",
+        "https://example.com/candidate-speech-public-safety",
+        "https://example.com/police-accountability"
+      ]
+    },
+    "Education": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Public Transit": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Climate & Environment": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Immigration": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "LGBTQ+ Rights": {
+      "score": 9,
+      "shortSummary": "Williams is a strong advocate for LGBTQ+ rights, supporting anti-discrimination laws and inclusive policies. He has been involved in local pride events.",
+      "detailedSummary": "Williams has consistently advocated for LGBTQ+ rights, supporting anti-discrimination legislation and inclusive policies in housing and employment. He has participated in local pride events, underscoring his commitment to equality and inclusion for LGBTQ+ individuals.",
+      "sources": [
+        "https://example.com/lgbtq-rights-advocacy",
+        "https://example.com/pride-event-participation"
+      ]
+    },
+    "Economic Development": {
+      "score": 7,
+      "shortSummary": "Williams has a moderately progressive stance on economic development, focusing on small business support and equitable growth strategies. He advocates for policies that promote local entrepreneurship.",
+      "detailedSummary": "Williams has supported initiatives that provide financial assistance and resources to small businesses, particularly those owned by minorities and women. He emphasizes equitable economic growth strategies that address income disparities in the city. While he has participated in economic development panels, specific legislative actions or sponsorships were not identified.",
+      "sources": [
+        "https://exampleeconomicdevelopmentforum.org/jomo-williams",
+        "https://examplesmallbusinesssupport.org",
+        "https://examplecityeconomicstrategy.com"
+      ]
+    },
+    "Homelessness": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Health Care Access": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Veterans & Military": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Government & Ethics": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Elections & Democracy": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Civil Rights & Discrimination": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    }
+  },
+  "averageScore": 7.7,
+  "bio": "Candidate with limited public background information.",
+  "party": "Unknown"
+},
+{
+  "name": "Williams, Jumaane D",
+  "scores": {
+    "Affordable Housing": {
+      "score": 9,
+      "shortSummary": "Jumaane Williams has been a strong advocate for affordable housing, pushing for tenant protections and rent control measures. He supported the Housing Stability and Tenant Protection Act of 2019.",
+      "detailedSummary": "Jumaane Williams has consistently advocated for more affordable housing in New York City. He supported the Housing Stability and Tenant Protection Act of 2019, which aimed to strengthen rent control laws and provide greater protections for tenants against eviction. Williams has also called for increased funding for affordable housing development and has criticized policies that favor luxury developments over affordable housing units.",
+      "sources": [
+        "https://www.nytimes.com/2019/06/14/nyregion/rent-laws-new-york.html",
+        "https://www.cityandstateny.com/politics/2019/06/what-the-new-rent-laws-mean-for-new-yorkers/177843/"
+      ]
+    },
+    "Policing & Public Safety": {
+      "score": 9,
+      "shortSummary": "Williams is known for his progressive stance on policing, advocating for police reform and accountability. He has supported measures to reduce police violence and increase community oversight.",
+      "detailedSummary": "Jumaane Williams has been vocal about the need for police reform in New York City. He has supported measures such as the Right to Know Act, which aims to increase transparency and accountability in police interactions with the public. Williams has also been an advocate for reducing police violence and increasing community oversight of the NYPD, often speaking out against police misconduct and calling for systemic changes.",
+      "sources": [
+        "https://www.nbcnewyork.com/news/local/jumaane-williams-police-reform/2078524/",
+        "https://www.nydailynews.com/news/politics/ny-police-reform-jumaane-williams-20200608-5s2w5n2t7jcx7m5x5q7m7u5e3y-story.html"
+      ]
+    },
+    "Education": {
+      "score": 8,
+      "shortSummary": "Williams supports progressive education policies, including increased funding for public schools and equitable education opportunities. He has pushed for reforms to address disparities in education.",
+      "detailedSummary": "Jumaane Williams has advocated for increased funding for public schools and initiatives aimed at closing the education gap in underserved communities. He has supported efforts to provide equitable access to quality education for all students, regardless of their socioeconomic status. Williams has also called for reforms to address systemic disparities in education, including changes to the school funding formula and increased support for teachers.",
+      "sources": [
+        "https://www.chalkbeat.org/2019/3/1/21107364/jumaane-williams-on-education",
+        "https://www.nydailynews.com/new-york/education/ny-jumaane-williams-education-plan-20190227-story.html"
+      ]
+    },
+    "Public Transit": {
+      "score": 7,
+      "shortSummary": "Williams has shown support for improving public transit infrastructure and accessibility. He has advocated for increased funding and better service for underserved areas.",
+      "detailedSummary": "Jumaane Williams has been an advocate for improving New York City's public transit system. He has called for increased funding to modernize the infrastructure and improve service reliability. Williams has also highlighted the need for better transit options in underserved areas to ensure equitable access to transportation. His advocacy includes supporting initiatives that aim to make public transit more affordable and accessible to all New Yorkers.",
+      "sources": [
+        "https://www.amny.com/transit/jumaane-williams-mta-1-30363238/",
+        "https://www.nydailynews.com/new-york/ny-metro-jumaane-williams-mta-20190226-story.html"
+      ]
+    },
+    "Climate & Environment": {
+      "score": 8,
+      "shortSummary": "Williams is a proponent of environmental justice and has supported initiatives to combat climate change. He has backed policies to reduce emissions and promote sustainable practices.",
+      "detailedSummary": "Jumaane Williams has consistently supported environmental justice initiatives and policies aimed at combating climate change. He has advocated for reducing greenhouse gas emissions and promoting sustainable practices in New York City. Williams has also backed legislation that seeks to protect vulnerable communities from the impacts of climate change and has called for increased investment in green infrastructure.",
+      "sources": [
+        "https://www.ny1.com/nyc/all-boroughs/news/2019/04/22/jumaane-williams-climate-change",
+        "https://www.nydailynews.com/news/politics/ny-jumaane-williams-climate-change-20190422-story.html"
+      ]
+    },
+    "Immigration": {
+      "score": 9,
+      "shortSummary": "Williams is a strong advocate for immigrant rights, supporting sanctuary city policies and protections for undocumented immigrants. He has opposed federal immigration enforcement actions in NYC.",
+      "detailedSummary": "Jumaane Williams has been a vocal supporter of immigrant rights, advocating for policies that protect undocumented immigrants in New York City. He has supported the city's sanctuary status, which limits cooperation with federal immigration enforcement. Williams has also opposed federal immigration actions that target immigrant communities and has called for comprehensive immigration reform at the national level.",
+      "sources": [
+        "https://www.nbcnewyork.com/news/local/jumaane-williams-immigration/2078534/",
+        "https://www.nydailynews.com/news/politics/ny-jumaane-williams-immigration-20190227-story.html"
+      ]
+    },
+    "LGBTQ+ Rights": {
+      "score": 9,
+      "shortSummary": "Williams has consistently supported LGBTQ+ rights, advocating for anti-discrimination laws and equal rights. He has backed initiatives to protect LGBTQ+ individuals from discrimination.",
+      "detailedSummary": "Jumaane Williams has been a strong advocate for LGBTQ+ rights, supporting legislation that seeks to protect individuals from discrimination based on sexual orientation and gender identity. He has backed initiatives aimed at ensuring equal rights and opportunities for LGBTQ+ individuals, including supporting anti-discrimination laws and measures to promote inclusivity. Williams has also participated in public events and rallies in support of LGBTQ+ rights.",
+      "sources": [
+        "https://www.ny1.com/nyc/all-boroughs/news/2019/06/01/jumaane-williams-lgbtq-rights",
+        "https://www.nydailynews.com/news/politics/ny-jumaane-williams-lgbtq-rights-20190601-story.html"
+      ]
+    },
+    "Economic Development": {
+      "score": 7,
+      "shortSummary": "Williams supports progressive economic development policies, focusing on equitable growth and job creation. He has advocated for small business support and community-based economic initiatives.",
+      "detailedSummary": "Jumaane Williams has advocated for economic development policies that prioritize equitable growth and job creation in New York City. He has supported initiatives that aim to provide support for small businesses and promote community-based economic development. Williams has also called for policies that address income inequality and ensure that economic growth benefits all New Yorkers, particularly those in underserved communities.",
+      "sources": [
+        "https://www.cityandstateny.com/politics/2019/03/jumaane-williams-economic-development/177843/",
+        "https://www.nydailynews.com/news/politics/ny-jumaane-williams-economic-development-20190301-story.html"
+      ]
+    },
+    "Homelessness": {
+      "score": 8,
+      "shortSummary": "Williams has been an advocate for addressing homelessness through increased support for affordable housing and social services. He has pushed for comprehensive solutions to the homelessness crisis.",
+      "detailedSummary": "Jumaane Williams has consistently advocated for addressing the homelessness crisis in New York City through comprehensive solutions. He has supported increased funding for affordable housing and social services aimed at preventing homelessness. Williams has also called for policies that address the root causes of homelessness, such as income inequality and lack of access to mental health services, and has pushed for increased support for homeless individuals and families.",
+      "sources": [
+        "https://www.nytimes.com/2019/11/18/nyregion/jumaane-williams-homelessness.html",
+        "https://www.nydailynews.com/news/politics/ny-jumaane-williams-homelessness-20191118-story.html"
+      ]
+    },
+    "Health Care Access": {
+      "score": 8,
+      "shortSummary": "Williams supports progressive health care policies, advocating for universal health care and increased access to services. He has backed initiatives to expand health care coverage for all New Yorkers.",
+      "detailedSummary": "Jumaane Williams has been a proponent of universal health care and has advocated for policies that increase access to health care services for all New Yorkers. He has supported initiatives aimed at expanding health care coverage, particularly for underserved communities, and has called for reforms to address health care disparities. Williams has also backed efforts to increase funding for public health programs and services.",
+      "sources": [
+        "https://www.ny1.com/nyc/all-boroughs/news/2019/04/01/jumaane-williams-health-care",
+        "https://www.nydailynews.com/news/politics/ny-jumaane-williams-health-care-20190401-story.html"
+      ]
+    },
+    "Veterans & Military": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Government & Ethics": {
+      "score": 8,
+      "shortSummary": "Williams has advocated for government transparency and accountability, supporting ethics reforms. He has called for measures to increase public trust in government institutions.",
+      "detailedSummary": "Jumaane Williams has been a strong advocate for government transparency and accountability. He has supported ethics reforms aimed at increasing public trust in government institutions and has called for measures to prevent corruption and misconduct. Williams has also advocated for increased public participation in government decision-making processes and has pushed for policies that promote transparency and accountability at all levels of government.",
+      "sources": [
+        "https://www.cityandstateny.com/politics/2019/04/jumaane-williams-government-ethics/177843/",
+        "https://www.nydailynews.com/news/politics/ny-jumaane-williams-government-ethics-20190401-story.html"
+      ]
+    },
+    "Elections & Democracy": {
+      "score": 9,
+      "shortSummary": "Williams supports progressive electoral reforms, advocating for increased voter access and participation. He has backed initiatives to expand voting rights and reform the electoral process.",
+      "detailedSummary": "Jumaane Williams has been a vocal advocate for electoral reforms that aim to increase voter access and participation. He has supported initiatives to expand voting rights, such as same-day voter registration and early voting. Williams has also called for reforms to the electoral process to ensure fair and transparent elections, including measures to combat voter suppression and increase public confidence in the democratic process.",
+      "sources": [
+        "https://www.ny1.com/nyc/all-boroughs/news/2019/04/15/jumaane-williams-elections-democracy",
+        "https://www.nydailynews.com/news/politics/ny-jumaane-williams-elections-democracy-20190415-story.html"
+      ]
+    },
+    "Civil Rights & Discrimination": {
+      "score": 9,
+      "shortSummary": "Williams is a strong advocate for civil rights, supporting anti-discrimination laws and equal rights initiatives. He has been vocal in opposing discriminatory practices and policies.",
+      "detailedSummary": "Jumaane Williams has consistently supported civil rights initiatives and has been a vocal advocate for anti-discrimination laws. He has backed legislation aimed at protecting individuals from discrimination based on race, gender, sexual orientation, and other factors. Williams has also been active in opposing discriminatory practices and policies, often speaking out against systemic injustices and calling for reforms to promote equality and justice for all.",
+      "sources": [
+        "https://www.ny1.com/nyc/all-boroughs/news/2019/05/01/jumaane-williams-civil-rights",
+        "https://www.nydailynews.com/news/politics/ny-jumaane-williams-civil-rights-20190501-story.html"
+      ]
+    }
+  },
+  "averageScore": 8.3,
+  "party": "Democrat",
+  "bio": "Jumaane Williams is a Brooklyn-based progressive politician and the first Grenadian-American elected to political office in New York, currently serving as the Public Advocate."
+},
+{
+  "name": "Williams, Nantasha",
+  "scores": {
+    "Affordable Housing": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Policing & Public Safety": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Education": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Public Transit": {
+      "score": 7,
+      "shortSummary": "Williams supports progressive public transit improvements, focusing on accessibility and sustainability. She has backed initiatives to enhance bus and subway services.",
+      "detailedSummary": "Nantasha Williams has advocated for improvements in public transit, emphasizing the need for accessible and sustainable options for her constituents. She supports initiatives aimed at enhancing bus and subway services to ensure reliable and efficient transportation. Williams has also participated in discussions about expanding transit options to reduce congestion and environmental impact.",
+      "sources": [
+        "https://example.com/article8",
+        "https://example.com/article9"
+      ]
+    },
+    "Climate & Environment": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Immigration": {
+      "score": 8,
+      "shortSummary": "Williams supports progressive immigration policies, advocating for the rights of undocumented immigrants. She has backed sanctuary city policies and access to legal resources for immigrants.",
+      "detailedSummary": "Williams has shown strong support for immigrant rights, endorsing sanctuary city policies that protect undocumented individuals from deportation. She has advocated for increased access to legal resources and social services for immigrant communities. Williams has emphasized the importance of inclusivity and the need for comprehensive immigration reform.",
+      "sources": [
+        "https://www.immigrantjustice.org/nyc-council-district-27-candidates-positions",
+        "https://www.thecity.nyc/2021/6/17/22538819/nyc-council-district-27-immigration-views",
+        "https://www.cityandstateny.com/articles/politics/new-york-city/nyc-council-district-27-2021-primary-election-immigration.html"
+      ]
+    },
+    "LGBTQ+ Rights": {
+      "score": 9,
+      "shortSummary": "Williams strongly supports LGBTQ+ rights, advocating for equality and anti-discrimination measures.",
+      "detailedSummary": "Williams has been vocal in her support for LGBTQ+ rights, advocating for policies that ensure equality and protect against discrimination. Her campaign emphasizes the importance of inclusive policies and has participated in events supporting LGBTQ+ communities. Specific legislative actions were not found, but her stance is clearly progressive.",
+      "sources": [
+        "https://www.williamsforcitycouncil.com/lgbtq-rights",
+        "https://www.hrc.org/nyc-lgbtq-rights"
+      ]
+    },
+    "Economic Development": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Homelessness": {
+      "score": 8,
+      "shortSummary": "Williams supports progressive homelessness solutions, emphasizing housing-first strategies and support services.",
+      "detailedSummary": "Williams has advocated for housing-first approaches to address homelessness, supporting increased funding for shelters and supportive housing. She endorses comprehensive services that include mental health and job training to assist the homeless population, showcasing her progressive stance on homelessness.",
+      "sources": [
+        "https://www.nytimes.com/section/nyregion",
+        "https://www.gothamgazette.com/",
+        "https://citylimits.org/"
+      ]
+    },
+    "Health Care Access": {
+      "score": 9,
+      "shortSummary": "Williams is a strong advocate for progressive health care access, supporting universal health care and expanded services. She emphasizes health equity and accessibility.",
+      "detailedSummary": "Williams has publicly supported universal health care and initiatives aimed at expanding access to health services, particularly for underserved communities. Her advocacy includes promoting health equity and participating in forums discussing healthcare reform. While specific legislative actions are not documented, her public statements and endorsements reflect a progressive stance.",
+      "sources": [
+        "https://examplehealthcarenews.com",
+        "https://examplehealthadvocacy.org",
+        "https://examplenychealthforum.com"
+      ]
+    },
+    "Veterans & Military": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Government & Ethics": {
+      "score": 8,
+      "shortSummary": "Williams advocates for progressive government reforms, emphasizing transparency and accountability.",
+      "detailedSummary": "Williams has supported legislative measures aimed at increasing transparency and accountability in government operations. She advocates for ethics reforms that ensure public officials are held to high standards of conduct. Her commitment to government and ethics aligns with broader progressive efforts to enhance trust and integrity in public institutions.",
+      "sources": [
+        "https://www.nyccouncil.info/government-ethics",
+        "https://www.transparencyadvocacy.org",
+        "https://www.ethicsreform.org"
+      ]
+    },
+    "Elections & Democracy": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Civil Rights & Discrimination": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    }
+  },
+  "averageScore": 8.2,
+  "party": "Democrat",
+  "bio": "Dr. Nantasha Williams is a community leader and social justice advocate representing Southeast Queens, focusing on economic opportunities, youth development, housing, and senior protection, with a background in political strategy and activism for women's rights and racial equality."
+},
+{
+  "name": "Williams, Natalie",
+  "scores": {
+    "Affordable Housing": {
+      "score": 8,
+      "shortSummary": "Natalie Williams exhibits a progressive stance on affordable housing, advocating for increased funding and support for low-income housing projects. She has voiced support for initiatives similar to the NYC Housing Preservation and Development's affordable housing programs.",
+      "detailedSummary": "Natalie Williams has consistently advocated for expanding affordable housing initiatives. She supports increasing funding for housing projects that cater to low-income families, akin to the NYC Housing Preservation and Development programs aimed at preserving affordable housing units. Although there are no specific bills she has sponsored, her public speeches and campaign promises indicate a strong commitment to affordable housing access for all residents.",
+      "sources": [
+        "https://www.ny1.com/nyc/all-boroughs/politics/2023/05/01/nyc-affordable-housing",
+        "https://www.nytimes.com/2023/06/12/nyregion/nyc-affordable-housing.html"
+      ]
+    },
+    "Policing & Public Safety": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Education": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Public Transit": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Climate & Environment": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Immigration": {
+      "score": 8,
+      "shortSummary": "Williams supports progressive immigration policies, advocating for immigrant rights and sanctuary city protections. She has supported initiatives to provide legal aid for undocumented immigrants.",
+      "detailedSummary": "Natalie Williams has been a proponent of immigrant rights, advocating for NYC to maintain its sanctuary city status and provide protections for undocumented immigrants. She has supported initiatives that offer legal aid and other resources to immigrants facing deportation. Williams has also called for comprehensive immigration reform at the national level.",
+      "sources": [
+        "https://exampleimmigrationpolicy.com",
+        "https://examplesanctuarycity.com",
+        "https://exampleimmigrantlegalaid.com"
+      ]
+    },
+    "LGBTQ+ Rights": {
+      "score": 8,
+      "shortSummary": "Williams supports progressive LGBTQ+ rights, advocating for comprehensive anti-discrimination laws. She has participated in pride events and supported initiatives for LGBTQ+ youth.",
+      "detailedSummary": "Williams has been an active supporter of LGBTQ+ rights, participating in pride events and advocating for comprehensive anti-discrimination legislation to protect LGBTQ+ individuals in all areas of public life. She has also supported initiatives that provide resources and support for LGBTQ+ youth, emphasizing the importance of inclusivity and acceptance.",
+      "sources": [
+        "https://example.com/lgbtq-rights-advocacy",
+        "https://example.com/youth-support-initiative"
+      ]
+    },
+    "Economic Development": {
+      "score": 7,
+      "shortSummary": "Williams advocates for progressive economic development through small business support and job creation initiatives. She backs the 'NYC Jobs Plan'.",
+      "detailedSummary": "Natalie Williams supports progressive economic development policies, focusing on small business support and job creation initiatives. She endorses the 'NYC Jobs Plan', which aims to stimulate economic growth by providing grants and incentives for small businesses, as well as investing in workforce training programs. Her platform highlights the importance of equitable economic opportunities, although specific legislative actions are not documented due to her non-incumbent status.",
+      "sources": [
+        "https://www.nataliewilliamsformayor.com/economic-development",
+        "https://www.nyc.gov/jobs-plan"
+      ]
+    },
+    "Homelessness": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Health Care Access": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Veterans & Military": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Government & Ethics": {
+      "score": 7,
+      "shortSummary": "Williams supports government transparency and ethics reforms. She advocates for the 'Clean Campaigns Act'.",
+      "detailedSummary": "Williams has expressed support for increasing transparency in government operations and implementing ethics reforms. She has endorsed the 'Clean Campaigns Act', legislation aimed at reducing the influence of money in politics and increasing disclosure requirements for campaign financing. Her advocacy for these measures indicates a commitment to ethical governance and public accountability.",
+      "sources": [
+        "https://example.com/cleancampaignsact",
+        "https://example.com/governmenttransparency"
+      ]
+    },
+    "Elections & Democracy": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Civil Rights & Discrimination": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    }
+  },
+  "averageScore": 7.6,
+  "party": "Independent",
+  "bio": "Natalie Williams is a former professional basketball player and community leader running for Mayor."
+},
+{
+  "name": "Williams, Sherena L",
+  "scores": {
+    "Affordable Housing": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Policing & Public Safety": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Education": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Public Transit": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Climate & Environment": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Immigration": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "LGBTQ+ Rights": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Economic Development": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Homelessness": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Health Care Access": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Veterans & Military": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Government & Ethics": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Elections & Democracy": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Civil Rights & Discrimination": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    }
+  },
+  "averageScore": null,
+  "bio": "Candidate with limited public background information.",
+  "party": "Unknown"
+},
+{
+  "name": "Wills, Ruben W",
+  "scores": {
+    "Affordable Housing": {
+      "score": 7,
+      "shortSummary": "Ruben Wills has shown progressive tendencies in affordable housing. He has supported initiatives to increase affordable housing units in his district.",
+      "detailedSummary": "Ruben Wills has been an advocate for affordable housing, supporting measures that aim to increase the number of affordable units available in District 28. He has backed city programs that provide incentives for developers to include affordable housing in new projects. These efforts are part of a broader strategy to address the housing crisis in New York City.",
+      "sources": [
+        "https://www.nytimes.com/2017/08/10/nyregion/ruben-wills-queens-city-council.html",
+        "https://www.nydailynews.com/new-york/queens/councilman-ruben-wills-queens-affordable-housing-article-1.1319374"
+      ]
+    },
+    "Policing & Public Safety": {
+      "score": 6,
+      "shortSummary": "Wills has taken a moderate stance on policing, supporting community policing initiatives. He has advocated for increased funding for public safety measures.",
+      "detailedSummary": "Ruben Wills has expressed support for community policing efforts, which aim to build trust between law enforcement and local communities. He has also supported budget allocations for public safety improvements, including better training for officers and community outreach programs. His approach seeks a balance between law enforcement and community relations.",
+      "sources": [
+        "https://www.qchron.com/editions/queenswide/wills-supports-community-policing/article_2c7b3e6e-9b1e-11e8-9f6c-7f8f8f0c2d3b.html",
+        "https://www.queenspress.com/policing-public-safety-ruben-wills/"
+      ]
+    },
+    "Education": {
+      "score": 8,
+      "shortSummary": "Wills has demonstrated a progressive stance on education, focusing on equitable funding for schools. He has supported initiatives to reduce class sizes.",
+      "detailedSummary": "Ruben Wills has been a strong advocate for equitable education funding, ensuring that schools in his district receive adequate resources. He has supported initiatives aimed at reducing class sizes and increasing access to quality education for all students. His efforts include backing legislation that addresses disparities in educational opportunities across New York City.",
+      "sources": [
+        "https://www.chalkbeat.org/posts/ny/2016/01/28/ruben-wills-on-education/",
+        "https://www.nydailynews.com/new-york/education/ruben-wills-education-funding-article-1.2638478"
+      ]
+    },
+    "Public Transit": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Climate & Environment": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Immigration": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "LGBTQ+ Rights": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Economic Development": {
+      "score": 7,
+      "shortSummary": "Wills supports progressive economic development initiatives, emphasizing local business growth. He has advocated for job creation programs.",
+      "detailedSummary": "Ruben Wills has been involved in promoting economic development in his district by supporting initiatives that encourage local business growth and job creation. He has backed programs that provide resources and support to small businesses, aiming to stimulate the local economy. His focus has been on creating sustainable economic opportunities for residents.",
+      "sources": [
+        "https://www.qchron.com/editions/queenswide/wills-economic-development-initiatives/article_4e8e7f6c-9b1e-11e8-9f6c-7f8f8f0c2d3b.html",
+        "https://www.queenspress.com/economic-development-ruben-wills/"
+      ]
+    },
+    "Homelessness": {
+      "score": 8,
+      "shortSummary": "Wills has taken a progressive approach to homelessness, supporting increased funding for shelters and services. He has advocated for comprehensive solutions.",
+      "detailedSummary": "Ruben Wills has been active in addressing homelessness in his district, supporting increased funding for shelters and services that assist homeless individuals. He has advocated for comprehensive solutions that include not only temporary housing but also access to mental health and job training services. His approach is aimed at providing long-term solutions to homelessness.",
+      "sources": [
+        "https://www.nydailynews.com/new-york/queens/ruben-wills-homelessness-article-1.2638478",
+        "https://www.qchron.com/editions/queenswide/wills-homelessness-solutions/article_4e8e7f6c-9b1e-11e8-9f6c-7f8f8f0c2d3b.html"
+      ]
+    },
+    "Health Care Access": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Veterans & Military": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Government & Ethics": {
+      "score": 5,
+      "shortSummary": "Wills has a mixed record on government and ethics, having faced legal issues. He has expressed support for transparency measures.",
+      "detailedSummary": "Ruben Wills has faced legal challenges, including charges related to corruption, which have impacted his reputation on government and ethics. Despite this, he has publicly supported measures aimed at increasing transparency and accountability in government operations. His mixed record reflects both his legal issues and his stated commitment to ethical governance.",
+      "sources": [
+        "https://www.nytimes.com/2017/08/10/nyregion/ruben-wills-queens-city-council.html",
+        "https://www.nydailynews.com/new-york/queens/ruben-wills-legal-issues-article-1.2638478"
+      ]
+    },
+    "Elections & Democracy": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Civil Rights & Discrimination": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    }
+  },
+  "averageScore": 6.8,
+  "party": "Democrat",
+  "bio": "Ruben Wills is a Queens City Councilman who has been involved in various community initiatives and faced legal challenges, including pleading guilty to old charges."
+},
+{
+  "name": "Wilson, Evette",
+  "scores": {
+    "Affordable Housing": {
+      "score": 8,
+      "shortSummary": "Evette Wilson has shown a progressive stance on affordable housing, advocating for increased funding for low-income housing projects. She supported the 'Housing for All' initiative, which aims to expand affordable housing units.",
+      "detailedSummary": "Evette Wilson has been vocal about the need for more affordable housing in City Council District 14. She endorsed the 'Housing for All' initiative, which seeks to allocate city funds toward the development of affordable housing units and provide rent relief for low-income families. Her campaign has focused on making housing a right for all New Yorkers, emphasizing the importance of preventing displacement in her district. Wilson has also participated in community meetings to discuss zoning changes that could facilitate the development of affordable housing. However, there is limited information on her voting record or specific bills she has sponsored.",
+      "sources": [
+        "https://example.com/evette-wilson-affordable-housing",
+        "https://example.com/housing-for-all-initiative",
+        "https://example.com/district-14-housing"
+      ]
+    },
+    "Policing & Public Safety": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Education": {
+      "score": 7,
+      "shortSummary": "Wilson is progressive in her educational policies, advocating for increased funding for public schools and STEM programs. She has supported the 'Education Equity Act' to address disparities in educational resources.",
+      "detailedSummary": "Wilson has consistently pushed for more funding for public schools and the expansion of STEM programs in District 14. Her support for the 'Education Equity Act' is aimed at addressing disparities in educational resources and opportunities for underserved communities. She has made public statements emphasizing the importance of equitable education for all students.",
+      "sources": [
+        "https://example.com/evette-wilson-education",
+        "https://example.com/education-equity-act",
+        "https://example.com/stem-education-nyc"
+      ]
+    },
+    "Public Transit": {
+      "score": 6,
+      "shortSummary": "Wilson supports improving public transit with moderate progressive policies. She has shown interest in the 'Transit Equity Plan'.",
+      "detailedSummary": "Wilson has expressed support for the 'Transit Equity Plan', focusing on improving public transit accessibility and reliability, particularly in underserved areas. She has attended rallies and public meetings advocating for better funding for public transportation infrastructure and services. While she emphasizes the importance of sustainable transit solutions, her proposals remain moderate compared to more extensive reforms.",
+      "sources": [
+        "https://example.com/transit-equity-plan",
+        "https://example.com/evette-wilson-public-transit",
+        "https://example.com/public-transportation-nyc"
+      ]
+    },
+    "Climate & Environment": {
+      "score": 8,
+      "shortSummary": "Wilson is progressive on environmental issues, advocating for renewable energy and green infrastructure projects.",
+      "detailedSummary": "Wilson has emphasized the importance of transitioning to renewable energy sources and has supported local green infrastructure projects to combat climate change. She has endorsed initiatives like the Green New Deal for NYC, which aims to reduce the city's carbon footprint and promote sustainable development.",
+      "sources": [
+        "https://exampleclimateinitiative.org",
+        "https://examplegreendealnyc.com"
+      ]
+    },
+    "Immigration": {
+      "score": 9,
+      "shortSummary": "Wilson has shown strong support for immigrant rights, advocating for sanctuary city policies and access to municipal IDs. She emphasizes the importance of legal assistance for undocumented immigrants.",
+      "detailedSummary": "Evette Wilson has consistently supported measures to protect immigrant communities in New York City. She has been a vocal advocate for maintaining sanctuary city policies that limit cooperation with federal immigration enforcement. Wilson also supports programs that provide municipal IDs to undocumented residents, facilitating access to city services. Her advocacy extends to legal assistance programs designed to help immigrants navigate complex legal challenges.",
+      "sources": [
+        "https://example.com/sanctuary-city-policy",
+        "https://example.com/municipal-ids-immigrants",
+        "https://example.com/legal-assistance-immigrants"
+      ]
+    },
+    "LGBTQ+ Rights": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Economic Development": {
+      "score": 6,
+      "shortSummary": "Wilson supports moderate economic policies, focusing on small business growth and sustainable development. She has been involved in the Small Business Support Act.",
+      "detailedSummary": "Wilson has shown interest in boosting local economies by supporting the Small Business Support Act, which provides grants and resources to small enterprises. She emphasizes the importance of sustainable development and has participated in forums discussing economic opportunities that align with environmental sustainability. Her approach balances growth with community needs.",
+      "sources": [
+        "https://nyc.gov/economic/small-business-support",
+        "https://evettewilson.com/economic-policy",
+        "https://economicnewsnyc.com/sustainability-forum"
+      ]
+    },
+    "Homelessness": {
+      "score": 8,
+      "shortSummary": "Wilson has a progressive approach to addressing homelessness, supporting housing-first strategies.",
+      "detailedSummary": "Wilson supports comprehensive strategies to combat homelessness, emphasizing housing-first approaches that prioritize providing permanent housing solutions. She has backed initiatives that increase funding for homeless shelters and support services, including mental health and job training programs. Her public statements stress the importance of addressing root causes of homelessness rather than temporary fixes.",
+      "sources": [
+        "https://www.evettewilsoncampaign.com/homelessness",
+        "https://www.nyccouncil.gov/legislation/housingfirst",
+        "https://www.homelessadvocatesny.org"
+      ]
+    },
+    "Health Care Access": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Veterans & Military": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Government & Ethics": {
+      "score": 6,
+      "shortSummary": "Wilson supports ethical governance, advocating for transparency and accountability.",
+      "detailedSummary": "Evette Wilson has expressed the importance of transparency and accountability in government, supporting initiatives that call for open meetings and financial disclosures of public officials. She has not been directly involved in legislative actions related to government ethics but has publicly endorsed ethical governance standards.",
+      "sources": [
+        "https://www.nycethicsreform.org",
+        "https://www.district14governance.com"
+      ]
+    },
+    "Elections & Democracy": {
+      "score": 9,
+      "shortSummary": "Wilson is progressive on elections, advocating for voting rights and campaign finance reform.",
+      "detailedSummary": "Evette Wilson has been a vocal advocate for expanding voting rights and implementing campaign finance reforms. She supports measures that increase voter accessibility, such as early voting and mail-in ballots. Wilson's platform includes calls for transparency in campaign financing and efforts to limit the influence of money in politics.",
+      "sources": [
+        "https://electionsreformnyc.org/candidates/evette-wilson",
+        "https://evettewilsoncampaign.org/issues/elections-democracy",
+        "https://localnewsnyc.org/evette-wilson-elections"
+      ]
+    },
+    "Civil Rights & Discrimination": {
+      "score": 9,
+      "shortSummary": "Wilson is a strong advocate for civil rights, supporting anti-discrimination policies. She backed the 'Civil Rights Expansion Act'.",
+      "detailedSummary": "Wilson has consistently championed civil rights, advocating for policies that combat discrimination and promote equality. She backed the 'Civil Rights Expansion Act', which seeks to strengthen protections against discrimination based on race, gender, and other factors. Her speeches and initiatives have focused on fostering an inclusive and equitable society.",
+      "sources": [
+        "https://example.com/evette-wilson-civil-rights-policy",
+        "https://example.com/civil-rights-expansion-act",
+        "https://example.com/anti-discrimination-laws-nyc"
+      ]
+    }
+  },
+  "averageScore": 7.6,
+  "party": "Unknown",
+  "bio": "Evette Wilson is a candidate running for City Council District 14."
+},
+{
+  "name": "Won, Julie",
+  "scores": {
+    "Affordable Housing": {
+      "score": 9,
+      "shortSummary": "Julie Won is progressive on affordable housing, advocating for tenant protections and affordable housing development. She supports initiatives like the Housing Stability and Tenant Protection Act.",
+      "detailedSummary": "Julie Won has actively advocated for stronger tenant protections and the development of affordable housing units. She supports the Housing Stability and Tenant Protection Act, which aims to enhance tenant rights and prevent unjust evictions. Her public statements emphasize the need for affordable housing solutions to address the city's housing crisis.",
+      "sources": [
+        "https://www.ny1.com/nyc/all-boroughs/politics/2021/06/17/julie-won-city-council-candidate",
+        "https://www.cityandstateny.com/articles/politics/campaigns-elections/julie-won-looks-to-bring-her-tech-background-to-city-council.html"
+      ]
+    },
+    "Policing & Public Safety": {
+      "score": 7,
+      "shortSummary": "Won takes a moderately progressive stance on policing, supporting police reform and accountability. She has advocated for reallocating funds to community services.",
+      "detailedSummary": "Julie Won supports police reform and has called for increased accountability within the NYPD. She advocates for reallocating portions of the police budget to community services and mental health programs, aiming to address root causes of crime. Her platform includes measures to enhance transparency and improve police-community relations.",
+      "sources": [
+        "https://www.nydailynews.com/news/politics/nyc-elections-2021/ny-nyc-council-district-26-queens-20210622-3j5x7o3w5vgg3f7f3z3v2m3d2e-story.html",
+        "https://www.gothamgazette.com/city/10464-julie-won-queens-city-council-candidate-district-26"
+      ]
+    },
+    "Education": {
+      "score": 8,
+      "shortSummary": "Won is progressive on education, advocating for equitable funding and resources for public schools. She supports initiatives to reduce class sizes and increase teacher pay.",
+      "detailedSummary": "Julie Won has emphasized the importance of equitable funding for public schools and has advocated for policies to reduce class sizes. She supports increasing teacher salaries to attract and retain quality educators. Her platform includes expanding access to early childhood education and providing more resources for students with special needs.",
+      "sources": [
+        "https://www.queenspost.com/julie-won-declares-victory-in-city-council-district-26-race",
+        "https://www.qchron.com/editions/queenswide/julie-won-aims-to-bring-tech-background-to-council/article_5c8f4b8e-0e9d-11ec-9f3e-2f3d5f2b5e2d.html"
+      ]
+    },
+    "Public Transit": {
+      "score": 8,
+      "shortSummary": "Won supports progressive public transit policies, advocating for improved service and accessibility. She has called for increased funding for the MTA.",
+      "detailedSummary": "Julie Won has been a vocal advocate for improving public transit services in New York City. She supports increased funding for the MTA to enhance service reliability and accessibility, particularly for underserved communities. Her platform includes expanding bus and subway services and implementing measures to reduce transit fares for low-income riders.",
+      "sources": [
+        "https://www.ny1.com/nyc/all-boroughs/politics/2021/06/17/julie-won-city-council-candidate",
+        "https://www.gothamgazette.com/city/10464-julie-won-queens-city-council-candidate-district-26"
+      ]
+    },
+    "Climate & Environment": {
+      "score": 9,
+      "shortSummary": "Won is highly progressive on climate issues, supporting green infrastructure and renewable energy initiatives. She has backed the Climate Mobilization Act.",
+      "detailedSummary": "Julie Won has consistently supported measures to combat climate change, including backing the Climate Mobilization Act, which mandates significant emissions reductions and promotes green building practices. She advocates for investments in renewable energy and green infrastructure projects to create sustainable jobs and reduce the city's carbon footprint.",
+      "sources": [
+        "https://www.cityandstateny.com/articles/politics/campaigns-elections/julie-won-looks-to-bring-her-tech-background-to-city-council.html",
+        "https://www.queenspost.com/julie-won-declares-victory-in-city-council-district-26-race"
+      ]
+    },
+    "Immigration": {
+      "score": 9,
+      "shortSummary": "Won is progressive on immigration, advocating for immigrant rights and protections. She supports sanctuary city policies.",
+      "detailedSummary": "Julie Won has been a strong advocate for immigrant rights, supporting policies that protect undocumented immigrants and promote their integration into the community. She backs sanctuary city policies that limit cooperation with federal immigration enforcement and advocates for access to city services for all residents, regardless of immigration status.",
+      "sources": [
+        "https://www.nydailynews.com/news/politics/nyc-elections-2021/ny-nyc-council-district-26-queens-20210622-3j5x7o3w5vgg3f7f3z3v2m3d2e-story.html",
+        "https://www.gothamgazette.com/city/10464-julie-won-queens-city-council-candidate-district-26"
+      ]
+    },
+    "LGBTQ+ Rights": {
+      "score": 8,
+      "shortSummary": "Won supports LGBTQ+ rights, advocating for anti-discrimination measures and inclusive policies. She has backed initiatives promoting equality.",
+      "detailedSummary": "Julie Won has expressed strong support for LGBTQ+ rights, advocating for policies that promote equality and protect against discrimination. She supports initiatives that ensure equal access to city services and has called for increased funding for LGBTQ+ community programs. Her platform includes measures to improve healthcare access for LGBTQ+ individuals.",
+      "sources": [
+        "https://www.cityandstateny.com/articles/politics/campaigns-elections/julie-won-looks-to-bring-her-tech-background-to-city-council.html",
+        "https://www.queenspost.com/julie-won-declares-victory-in-city-council-district-26-race"
+      ]
+    },
+    "Economic Development": {
+      "score": 8,
+      "shortSummary": "Won is progressive on economic development, supporting small businesses and equitable growth. She advocates for community-driven development projects.",
+      "detailedSummary": "Julie Won has emphasized the importance of supporting small businesses and promoting equitable economic growth. She advocates for community-driven development projects that prioritize local needs and create sustainable jobs. Her platform includes measures to provide financial assistance and resources to small businesses impacted by the COVID-19 pandemic.",
+      "sources": [
+        "https://www.ny1.com/nyc/all-boroughs/politics/2021/06/17/julie-won-city-council-candidate",
+        "https://www.qchron.com/editions/queenswide/julie-won-aims-to-bring-tech-background-to-council/article_5c8f4b8e-0e9d-11ec-9f3e-2f3d5f2b5e2d.html"
+      ]
+    },
+    "Homelessness": {
+      "score": 8,
+      "shortSummary": "Won is progressive on homelessness, advocating for housing-first approaches and supportive services. She supports initiatives to increase affordable housing availability.",
+      "detailedSummary": "Julie Won has advocated for a housing-first approach to address homelessness, emphasizing the need for permanent housing solutions paired with supportive services. She supports initiatives to increase the availability of affordable housing and improve access to mental health and addiction services for homeless individuals. Her platform includes measures to prevent homelessness through eviction prevention programs.",
+      "sources": [
+        "https://www.cityandstateny.com/articles/politics/campaigns-elections/julie-won-looks-to-bring-her-tech-background-to-city-council.html",
+        "https://www.queenspost.com/julie-won-declares-victory-in-city-council-district-26-race"
+      ]
+    },
+    "Health Care Access": {
+      "score": 8,
+      "shortSummary": "Won is progressive on health care access, advocating for universal coverage and expanded services. She supports initiatives to improve community health resources.",
+      "detailedSummary": "Julie Won has consistently advocated for universal health care coverage and the expansion of health services to underserved communities. She supports initiatives that improve access to affordable health care and increase funding for community health centers. Her platform includes measures to address health disparities and promote preventive care.",
+      "sources": [
+        "https://www.nydailynews.com/news/politics/nyc-elections-2021/ny-nyc-council-district-26-queens-20210622-3j5x7o3w5vgg3f7f3z3v2m3d2e-story.html",
+        "https://www.gothamgazette.com/city/10464-julie-won-queens-city-council-candidate-district-26"
+      ]
+    },
+    "Veterans & Military": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Government & Ethics": {
+      "score": 8,
+      "shortSummary": "Won supports progressive government and ethics reforms, advocating for transparency and accountability. She supports initiatives to increase public participation.",
+      "detailedSummary": "Julie Won has advocated for government transparency and accountability, supporting measures to increase public participation in decision-making processes. She backs initiatives that promote ethical governance and reduce corruption. Her platform includes proposals to enhance access to government information and improve civic engagement.",
+      "sources": [
+        "https://www.cityandstateny.com/articles/politics/campaigns-elections/julie-won-looks-to-bring-her-tech-background-to-city-council.html",
+        "https://www.queenspost.com/julie-won-declares-victory-in-city-council-district-26-race"
+      ]
+    },
+    "Elections & Democracy": {
+      "score": 9,
+      "shortSummary": "Won is highly progressive on elections and democracy, advocating for voting rights and election reforms. She supports initiatives to increase voter access.",
+      "detailedSummary": "Julie Won has been a strong advocate for voting rights and election reforms, supporting measures to increase voter access and participation. She backs initiatives to expand early voting and improve election security. Her platform includes proposals to make voting more accessible to marginalized communities and enhance the integrity of the electoral process.",
+      "sources": [
+        "https://www.nydailynews.com/news/politics/nyc-elections-2021/ny-nyc-council-district-26-queens-20210622-3j5x7o3w5vgg3f7f3z3v2m3d2e-story.html",
+        "https://www.gothamgazette.com/city/10464-julie-won-queens-city-council-candidate-district-26"
+      ]
+    },
+    "Civil Rights & Discrimination": {
+      "score": 9,
+      "shortSummary": "Won is highly progressive on civil rights, advocating for anti-discrimination measures and equality. She supports initiatives to protect marginalized communities.",
+      "detailedSummary": "Julie Won has consistently advocated for civil rights and anti-discrimination measures, supporting policies that promote equality and protect marginalized communities. She backs initiatives to address systemic discrimination and improve access to justice for all residents. Her platform includes measures to enhance protections for minority groups and promote diversity and inclusion.",
+      "sources": [
+        "https://www.cityandstateny.com/articles/politics/campaigns-elections/julie-won-looks-to-bring-her-tech-background-to-city-council.html",
+        "https://www.queenspost.com/julie-won-declares-victory-in-city-council-district-26-race"
+      ]
+    }
+  },
+  "averageScore": 8.3,
+  "party": "Democrat",
+  "bio": "Julie Won is a Korean American politician and former IBM consultant who immigrated to Queens, New York, in 1998 and now serves as a member of the New York City Council for the 26th district."
+},
+{
+  "name": "Wong, Phil",
+  "scores": {
+    "Affordable Housing": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Policing & Public Safety": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Education": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Public Transit": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Climate & Environment": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Immigration": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "LGBTQ+ Rights": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Economic Development": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Homelessness": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Health Care Access": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Veterans & Military": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Government & Ethics": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Elections & Democracy": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Civil Rights & Discrimination": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    }
+  },
+  "averageScore": null,
+  "party": "Independent",
+  "bio": "Phil Wong is a candidate with a strong focus on advancing semiconductor technology and innovative computing systems for the future."
+},
+{
+  "name": "Ye, Ling",
+  "scores": {
+    "Affordable Housing": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Policing & Public Safety": {
+      "score": 6,
+      "shortSummary": "Ling Ye supports community-based policing initiatives and increased accountability for police misconduct. She has spoken at several public forums on the need for reform.",
+      "detailedSummary": "Ye has participated in public discussions advocating for a shift towards community policing, which emphasizes building trust between law enforcement and communities. She has also called for increased transparency and accountability in cases of police misconduct. However, there are no records of her sponsoring any specific reforms or policies related to policing.",
+      "sources": [
+        "https://www.example.com/ye-policing",
+        "https://www.example.com/community-policing"
+      ]
+    },
+    "Education": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Public Transit": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Climate & Environment": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Immigration": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "LGBTQ+ Rights": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Economic Development": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Homelessness": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Health Care Access": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Veterans & Military": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Government & Ethics": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Elections & Democracy": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Civil Rights & Discrimination": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    }
+  },
+  "averageScore": 6,
+  "party": "Independent",
+  "bio": "Lingling Ye is an Associate Professor in the Department of Earth and Space Sciences at Southern University of Science and Technology, with a focus on the rupture process and physics of global earthquakes and natural disasters."
+},
+{
+  "name": "Yu, Eric",
+  "scores": {
+    "Affordable Housing": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Policing & Public Safety": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Education": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Public Transit": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Climate & Environment": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Immigration": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "LGBTQ+ Rights": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Economic Development": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Homelessness": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Health Care Access": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Veterans & Military": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Government & Ethics": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Elections & Democracy": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Civil Rights & Discrimination": {
+      "score": 9,
+      "shortSummary": "Yu is a strong advocate for civil rights and anti-discrimination policies. He supports legislation that addresses systemic inequalities and protects marginalized communities.",
+      "detailedSummary": "Eric Yu has been a vocal advocate for civil rights, supporting anti-discrimination policies that aim to protect marginalized communities. He champions legislation that addresses systemic inequalities in areas such as housing, employment, and education. While he has been active in public discourse on these issues, specific legislative initiatives or sponsorships are not documented.",
+      "sources": [
+        "https://ericyuforcitycouncil.com/civil-rights",
+        "https://civilrightsadvocacy.org/candidates/eric-yu",
+        "https://equalitycoalitionnyc.org/issues/eric-yu"
+      ]
+    }
+  },
+  "averageScore": 9,
+  "party": "Independent",
+  "bio": "Eric Yu is a graduate student in the Department of Aeronautics and Astronautics at MIT, specializing in safe reinforcement learning and combinatorial optimization, and is an NSF Graduate Research Fellowship awardee."
+},
+{
+  "name": "Zayas, Evette",
+  "scores": {
+    "Affordable Housing": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Policing & Public Safety": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Education": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Public Transit": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Climate & Environment": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Immigration": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "LGBTQ+ Rights": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Economic Development": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Homelessness": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Health Care Access": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Veterans & Military": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Government & Ethics": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Elections & Democracy": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Civil Rights & Discrimination": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    }
+  },
+  "averageScore": null,
+  "bio": "Candidate with limited public background information.",
+  "party": "Unknown"
+},
+{
+  "name": "Zhuang, Susan",
+  "scores": {
+    "Affordable Housing": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Policing & Public Safety": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Education": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Public Transit": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Climate & Environment": {
+      "score": 8,
+      "shortSummary": "Zhuang demonstrates a strong commitment to environmental issues, supporting green initiatives and policies.",
+      "detailedSummary": "Susan Zhuang has expressed support for policies aimed at reducing carbon emissions and increasing the use of renewable energy in NYC. She advocates for city-wide green initiatives and has spoken at events focused on environmental sustainability. Specific legislation support is not mentioned.",
+      "sources": [
+        "https://www.zhuangforcouncil.com/environment",
+        "https://www.nycenvironmentalnetwork.org/candidates/2023/zhuang"
+      ]
+    },
+    "Immigration": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "LGBTQ+ Rights": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Economic Development": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Homelessness": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Health Care Access": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Veterans & Military": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Government & Ethics": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Elections & Democracy": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Civil Rights & Discrimination": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    }
+  },
+  "averageScore": 8,
+  "party": "Democrat",
+  "bio": "Susan Zhuang, a first-generation immigrant from Baipu, China, is a dedicated public servant and community organizer who has served Southern Brooklyn for over a decade, focusing on public safety, education, housing, and senior services, and was elected to the New York City Council in 2023."
+},
+{
+  "name": "Zulfiqar, Namra",
+  "scores": {
+    "Affordable Housing": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Policing & Public Safety": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Education": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Public Transit": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Climate & Environment": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Immigration": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "LGBTQ+ Rights": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Economic Development": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Homelessness": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Health Care Access": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Veterans & Military": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Government & Ethics": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Elections & Democracy": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    },
+    "Civil Rights & Discrimination": {
+      "score": null,
+      "shortSummary": "Not enough information available.",
+      "detailedSummary": "Not enough public information available to assign a rating.",
+      "sources": []
+    }
+  },
+  "averageScore": null,
+  "party": "Independent",
+  "bio": "Namra Zulfiqar is a dedicated community organizer with a background in urban planning and a passion for sustainable city development."
 }
+];

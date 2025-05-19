@@ -20,12 +20,14 @@ const fetchCandidates = async () => {
     FROM candidates;
   `;
   const { rows } = await pool.query(SQL);
+  console.log(rows)
 
   const parsedRows = rows.map((candidate) => ({
     ...candidate,
     stances: candidate.stances ? JSON.parse(candidate.stances) : null,
   }));
 
+  console.log(parsedRows)
   return parsedRows;
 };
 

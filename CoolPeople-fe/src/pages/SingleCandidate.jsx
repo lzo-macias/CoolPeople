@@ -70,24 +70,27 @@ function SingleCandidate() {
         </div>
       {/* You can also render full stance details here if needed */}
       <hr />
-      {candidate.stances && candidate.stances.scores && (
+      {candidate.stances && typeof candidate.stances === 'object' && (
         <div className="stance-grid">
-            {Object.entries(candidate.stances.scores).map(([category, data]) => (
-            <div key={category} className="stance-card">
-            <h3>
-                {category} 
-                <span className={`score-bubbleinline ${
-                      candidate.stances?.averageScore == null
-                        ? "bubble-black"
-                        : candidate.stances.averageScore > 5
-                        ? "bubble-blue"
-                        : "bubble-red"
-                    }`}>{data.score ?? "N/A"}
-                </span>
-            </h3>
-            <p>{data.shortSummary}</p>
-      </div>
-     ))}
+{Object.entries(candidate.stances)
+  .filter(([key]) => key !== "averageScore")
+  .map(([category, data]) => (
+    <div key={category} className="stance-card">
+      <h3>
+        {category}
+        <span className={`score-bubbleinline ${
+          candidate.stances?.averageScore == null
+            ? "bubble-black"
+            : candidate.stances.averageScore > 5
+            ? "bubble-blue"
+            : "bubble-red"
+        }`}>
+          {data.score ?? "N/A"}
+        </span>
+      </h3>
+      <p>{data.shortSummary}</p>
+    </div>
+))}
     </div>
 )}
 </div>
